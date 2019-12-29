@@ -1,11622 +1,11623 @@
-bind '"ㄱ":"r"'
-bind '"ㄲ":"R"'
-bind '"ㄳ":"rt"'
-bind '"ㄴ":"s"'
-bind '"ㄵ":"sw"'
-bind '"ㄶ":"sg"'
-bind '"ㄷ":"e"'
-bind '"ㄸ":"E"'
-bind '"ㄹ":"f"'
-bind '"ㄺ":"fr"'
-bind '"ㄻ":"fa"'
-bind '"ㄼ":"fq"'
-bind '"ㄽ":"ft"'
-bind '"ㄾ":"fx"'
-bind '"ㄿ":"fv"'
-bind '"ㅀ":"fg"'
-bind '"ㅁ":"a"'
-bind '"ㅂ":"q"'
-bind '"ㅃ":"Q"'
-bind '"ㅄ":"qt"'
-bind '"ㅅ":"t"'
-bind '"ㅆ":"T"'
-bind '"ㅇ":"d"'
-bind '"ㅈ":"w"'
-bind '"ㅉ":"W"'
-bind '"ㅊ":"c"'
-bind '"ㅋ":"z"'
-bind '"ㅌ":"x"'
-bind '"ㅍ":"v"'
-bind '"ㅎ":"g"'
-bind '"ㅏ":"k"'
-bind '"ㅐ":"o"'
-bind '"ㅑ":"i"'
-bind '"ㅒ":"O"'
-bind '"ㅓ":"j"'
-bind '"ㅔ":"p"'
-bind '"ㅕ":"u"'
-bind '"ㅖ":"P"'
-bind '"ㅗ":"h"'
-bind '"ㅘ":"hk"'
-bind '"ㅙ":"ho"'
-bind '"ㅚ":"hl"'
-bind '"ㅛ":"y"'
-bind '"ㅜ":"n"'
-bind '"ㅝ":"nj"'
-bind '"ㅞ":"np"'
-bind '"ㅟ":"nl"'
-bind '"ㅠ":"b"'
-bind '"ㅡ":"m"'
-bind '"ㅢ":"ml"'
-bind '"ㅣ":"l"'
-bind '"가":"rk"'
-bind '"개":"ro"'
-bind '"갸":"ri"'
-bind '"걔":"rO"'
-bind '"거":"rj"'
-bind '"게":"rp"'
-bind '"겨":"ru"'
-bind '"계":"rP"'
-bind '"고":"rh"'
-bind '"과":"rhk"'
-bind '"괘":"rho"'
-bind '"괴":"rhl"'
-bind '"교":"ry"'
-bind '"구":"rn"'
-bind '"궈":"rnj"'
-bind '"궤":"rnp"'
-bind '"귀":"rnl"'
-bind '"규":"rb"'
-bind '"그":"rm"'
-bind '"긔":"rml"'
-bind '"기":"rl"'
-bind '"까":"Rk"'
-bind '"깨":"Ro"'
-bind '"꺄":"Ri"'
-bind '"꺠":"RO"'
-bind '"꺼":"Rj"'
-bind '"께":"Rp"'
-bind '"껴":"Ru"'
-bind '"꼐":"RP"'
-bind '"꼬":"Rh"'
-bind '"꽈":"Rhk"'
-bind '"꽤":"Rho"'
-bind '"꾀":"Rhl"'
-bind '"꾜":"Ry"'
-bind '"꾸":"Rn"'
-bind '"꿔":"Rnj"'
-bind '"꿰":"Rnp"'
-bind '"뀌":"Rnl"'
-bind '"뀨":"Rb"'
-bind '"끄":"Rm"'
-bind '"끠":"Rml"'
-bind '"끼":"Rl"'
-bind '"나":"sk"'
-bind '"내":"so"'
-bind '"냐":"si"'
-bind '"냬":"sO"'
-bind '"너":"sj"'
-bind '"네":"sp"'
-bind '"녀":"su"'
-bind '"녜":"sP"'
-bind '"노":"sh"'
-bind '"놔":"shk"'
-bind '"놰":"sho"'
-bind '"뇌":"shl"'
-bind '"뇨":"sy"'
-bind '"누":"sn"'
-bind '"눠":"snj"'
-bind '"눼":"snp"'
-bind '"뉘":"snl"'
-bind '"뉴":"sb"'
-bind '"느":"sm"'
-bind '"늬":"sml"'
-bind '"니":"sl"'
-bind '"다":"ek"'
-bind '"대":"eo"'
-bind '"댜":"ei"'
-bind '"댸":"eO"'
-bind '"더":"ej"'
-bind '"데":"ep"'
-bind '"뎌":"eu"'
-bind '"뎨":"eP"'
-bind '"도":"eh"'
-bind '"돠":"ehk"'
-bind '"돼":"eho"'
-bind '"되":"ehl"'
-bind '"됴":"ey"'
-bind '"두":"en"'
-bind '"둬":"enj"'
-bind '"뒈":"enp"'
-bind '"뒤":"enl"'
-bind '"듀":"eb"'
-bind '"드":"em"'
-bind '"듸":"eml"'
-bind '"디":"el"'
-bind '"따":"Ek"'
-bind '"때":"Eo"'
-bind '"땨":"Ei"'
-bind '"떄":"EO"'
-bind '"떠":"Ej"'
-bind '"떼":"Ep"'
-bind '"뗘":"Eu"'
-bind '"뗴":"EP"'
-bind '"또":"Eh"'
-bind '"똬":"Ehk"'
-bind '"뙈":"Eho"'
-bind '"뙤":"Ehl"'
-bind '"뚀":"Ey"'
-bind '"뚜":"En"'
-bind '"뚸":"Enj"'
-bind '"뛔":"Enp"'
-bind '"뛰":"Enl"'
-bind '"뜌":"Eb"'
-bind '"뜨":"Em"'
-bind '"띄":"Eml"'
-bind '"띠":"El"'
-bind '"라":"fk"'
-bind '"래":"fo"'
-bind '"랴":"fi"'
-bind '"럐":"fO"'
-bind '"러":"fj"'
-bind '"레":"fp"'
-bind '"려":"fu"'
-bind '"례":"fP"'
-bind '"로":"fh"'
-bind '"롸":"fhk"'
-bind '"뢔":"fho"'
-bind '"뢰":"fhl"'
-bind '"료":"fy"'
-bind '"루":"fn"'
-bind '"뤄":"fnj"'
-bind '"뤠":"fnp"'
-bind '"뤼":"fnl"'
-bind '"류":"fb"'
-bind '"르":"fm"'
-bind '"릐":"fml"'
-bind '"리":"fl"'
-bind '"마":"ak"'
-bind '"매":"ao"'
-bind '"먀":"ai"'
-bind '"먜":"aO"'
-bind '"머":"aj"'
-bind '"메":"ap"'
-bind '"며":"au"'
-bind '"몌":"aP"'
-bind '"모":"ah"'
-bind '"뫄":"ahk"'
-bind '"뫠":"aho"'
-bind '"뫼":"ahl"'
-bind '"묘":"ay"'
-bind '"무":"an"'
-bind '"뭐":"anj"'
-bind '"뭬":"anp"'
-bind '"뮈":"anl"'
-bind '"뮤":"ab"'
-bind '"므":"am"'
-bind '"믜":"aml"'
-bind '"미":"al"'
-bind '"바":"qk"'
-bind '"배":"qo"'
-bind '"뱌":"qi"'
-bind '"뱨":"qO"'
-bind '"버":"qj"'
-bind '"베":"qp"'
-bind '"벼":"qu"'
-bind '"볘":"qP"'
-bind '"보":"qh"'
-bind '"봐":"qhk"'
-bind '"봬":"qho"'
-bind '"뵈":"qhl"'
-bind '"뵤":"qy"'
-bind '"부":"qn"'
-bind '"붜":"qnj"'
-bind '"붸":"qnp"'
-bind '"뷔":"qnl"'
-bind '"뷰":"qb"'
-bind '"브":"qm"'
-bind '"븨":"qml"'
-bind '"비":"ql"'
-bind '"빠":"Qk"'
-bind '"빼":"Qo"'
-bind '"뺘":"Qi"'
-bind '"뺴":"QO"'
-bind '"뻐":"Qj"'
-bind '"뻬":"Qp"'
-bind '"뼈":"Qu"'
-bind '"뼤":"QP"'
-bind '"뽀":"Qh"'
-bind '"뽜":"Qhk"'
-bind '"뽸":"Qho"'
-bind '"뾔":"Qhl"'
-bind '"뾰":"Qy"'
-bind '"뿌":"Qn"'
-bind '"뿨":"Qnj"'
-bind '"쀄":"Qnp"'
-bind '"쀠":"Qnl"'
-bind '"쀼":"Qb"'
-bind '"쁘":"Qm"'
-bind '"쁴":"Qml"'
-bind '"삐":"Ql"'
-bind '"사":"tk"'
-bind '"새":"to"'
-bind '"샤":"ti"'
-bind '"섀":"tO"'
-bind '"서":"tj"'
-bind '"세":"tp"'
-bind '"셔":"tu"'
-bind '"셰":"tP"'
-bind '"소":"th"'
-bind '"솨":"thk"'
-bind '"쇄":"tho"'
-bind '"쇠":"thl"'
-bind '"쇼":"ty"'
-bind '"수":"tn"'
-bind '"숴":"tnj"'
-bind '"쉐":"tnp"'
-bind '"쉬":"tnl"'
-bind '"슈":"tb"'
-bind '"스":"tm"'
-bind '"싀":"tml"'
-bind '"시":"tl"'
-bind '"싸":"Tk"'
-bind '"쌔":"To"'
-bind '"쌰":"Ti"'
-bind '"썌":"TO"'
-bind '"써":"Tj"'
-bind '"쎄":"Tp"'
-bind '"쎠":"Tu"'
-bind '"쎼":"TP"'
-bind '"쏘":"Th"'
-bind '"쏴":"Thk"'
-bind '"쐐":"Tho"'
-bind '"쐬":"Thl"'
-bind '"쑈":"Ty"'
-bind '"쑤":"Tn"'
-bind '"쒀":"Tnj"'
-bind '"쒜":"Tnp"'
-bind '"쒸":"Tnl"'
-bind '"쓔":"Tb"'
-bind '"쓰":"Tm"'
-bind '"씌":"Tml"'
-bind '"씨":"Tl"'
-bind '"아":"dk"'
-bind '"애":"do"'
-bind '"야":"di"'
-bind '"얘":"dO"'
-bind '"어":"dj"'
-bind '"에":"dp"'
-bind '"여":"du"'
-bind '"예":"dP"'
-bind '"오":"dh"'
-bind '"와":"dhk"'
-bind '"왜":"dho"'
-bind '"외":"dhl"'
-bind '"요":"dy"'
-bind '"우":"dn"'
-bind '"워":"dnj"'
-bind '"웨":"dnp"'
-bind '"위":"dnl"'
-bind '"유":"db"'
-bind '"으":"dm"'
-bind '"의":"dml"'
-bind '"이":"dl"'
-bind '"자":"wk"'
-bind '"재":"wo"'
-bind '"쟈":"wi"'
-bind '"쟤":"wO"'
-bind '"저":"wj"'
-bind '"제":"wp"'
-bind '"져":"wu"'
-bind '"졔":"wP"'
-bind '"조":"wh"'
-bind '"좌":"whk"'
-bind '"좨":"who"'
-bind '"죄":"whl"'
-bind '"죠":"wy"'
-bind '"주":"wn"'
-bind '"줘":"wnj"'
-bind '"줴":"wnp"'
-bind '"쥐":"wnl"'
-bind '"쥬":"wb"'
-bind '"즈":"wm"'
-bind '"즤":"wml"'
-bind '"지":"wl"'
-bind '"짜":"Wk"'
-bind '"째":"Wo"'
-bind '"쨔":"Wi"'
-bind '"쨰":"WO"'
-bind '"쩌":"Wj"'
-bind '"쩨":"Wp"'
-bind '"쪄":"Wu"'
-bind '"쪠":"WP"'
-bind '"쪼":"Wh"'
-bind '"쫘":"Whk"'
-bind '"쫴":"Who"'
-bind '"쬐":"Whl"'
-bind '"쬬":"Wy"'
-bind '"쭈":"Wn"'
-bind '"쭤":"Wnj"'
-bind '"쮀":"Wnp"'
-bind '"쮜":"Wnl"'
-bind '"쮸":"Wb"'
-bind '"쯔":"Wm"'
-bind '"쯰":"Wml"'
-bind '"찌":"Wl"'
-bind '"차":"ck"'
-bind '"채":"co"'
-bind '"챠":"ci"'
-bind '"챼":"cO"'
-bind '"처":"cj"'
-bind '"체":"cp"'
-bind '"쳐":"cu"'
-bind '"쳬":"cP"'
-bind '"초":"ch"'
-bind '"촤":"chk"'
-bind '"쵀":"cho"'
-bind '"최":"chl"'
-bind '"쵸":"cy"'
-bind '"추":"cn"'
-bind '"춰":"cnj"'
-bind '"췌":"cnp"'
-bind '"취":"cnl"'
-bind '"츄":"cb"'
-bind '"츠":"cm"'
-bind '"츼":"cml"'
-bind '"치":"cl"'
-bind '"카":"zk"'
-bind '"캐":"zo"'
-bind '"캬":"zi"'
-bind '"컈":"zO"'
-bind '"커":"zj"'
-bind '"케":"zp"'
-bind '"켜":"zu"'
-bind '"켸":"zP"'
-bind '"코":"zh"'
-bind '"콰":"zhk"'
-bind '"쾌":"zho"'
-bind '"쾨":"zhl"'
-bind '"쿄":"zy"'
-bind '"쿠":"zn"'
-bind '"쿼":"znj"'
-bind '"퀘":"znp"'
-bind '"퀴":"znl"'
-bind '"큐":"zb"'
-bind '"크":"zm"'
-bind '"킈":"zml"'
-bind '"키":"zl"'
-bind '"타":"xk"'
-bind '"태":"xo"'
-bind '"탸":"xi"'
-bind '"턔":"xO"'
-bind '"터":"xj"'
-bind '"테":"xp"'
-bind '"텨":"xu"'
-bind '"톄":"xP"'
-bind '"토":"xh"'
-bind '"톼":"xhk"'
-bind '"퇘":"xho"'
-bind '"퇴":"xhl"'
-bind '"툐":"xy"'
-bind '"투":"xn"'
-bind '"퉈":"xnj"'
-bind '"퉤":"xnp"'
-bind '"튀":"xnl"'
-bind '"튜":"xb"'
-bind '"트":"xm"'
-bind '"틔":"xml"'
-bind '"티":"xl"'
-bind '"파":"vk"'
-bind '"패":"vo"'
-bind '"퍄":"vi"'
-bind '"퍠":"vO"'
-bind '"퍼":"vj"'
-bind '"페":"vp"'
-bind '"펴":"vu"'
-bind '"폐":"vP"'
-bind '"포":"vh"'
-bind '"퐈":"vhk"'
-bind '"퐤":"vho"'
-bind '"푀":"vhl"'
-bind '"표":"vy"'
-bind '"푸":"vn"'
-bind '"풔":"vnj"'
-bind '"풰":"vnp"'
-bind '"퓌":"vnl"'
-bind '"퓨":"vb"'
-bind '"프":"vm"'
-bind '"픠":"vml"'
-bind '"피":"vl"'
-bind '"하":"gk"'
-bind '"해":"go"'
-bind '"햐":"gi"'
-bind '"햬":"gO"'
-bind '"허":"gj"'
-bind '"헤":"gp"'
-bind '"혀":"gu"'
-bind '"혜":"gP"'
-bind '"호":"gh"'
-bind '"화":"ghk"'
-bind '"홰":"gho"'
-bind '"회":"ghl"'
-bind '"효":"gy"'
-bind '"후":"gn"'
-bind '"훠":"gnj"'
-bind '"훼":"gnp"'
-bind '"휘":"gnl"'
-bind '"휴":"gb"'
-bind '"흐":"gm"'
-bind '"희":"gml"'
-bind '"히":"gl"'
-bind '"가":"rk"'
-bind '"각":"rkr"'
-bind '"갂":"rkR"'
-bind '"갃":"rkrt"'
-bind '"간":"rks"'
-bind '"갅":"rksw"'
-bind '"갆":"rksg"'
-bind '"갇":"rke"'
-bind '"갈":"rkf"'
-bind '"갉":"rkfr"'
-bind '"갊":"rkfa"'
-bind '"갋":"rkfq"'
-bind '"갌":"rkft"'
-bind '"갍":"rkfx"'
-bind '"갎":"rkfv"'
-bind '"갏":"rkfg"'
-bind '"감":"rka"'
-bind '"갑":"rkq"'
-bind '"값":"rkqt"'
-bind '"갓":"rkt"'
-bind '"갔":"rkT"'
-bind '"강":"rkd"'
-bind '"갖":"rkw"'
-bind '"갗":"rkc"'
-bind '"갘":"rkz"'
-bind '"같":"rkx"'
-bind '"갚":"rkv"'
-bind '"갛":"rkg"'
-bind '"개":"ro"'
-bind '"객":"ror"'
-bind '"갞":"roR"'
-bind '"갟":"rort"'
-bind '"갠":"ros"'
-bind '"갡":"rosw"'
-bind '"갢":"rosg"'
-bind '"갣":"roe"'
-bind '"갤":"rof"'
-bind '"갥":"rofr"'
-bind '"갦":"rofa"'
-bind '"갧":"rofq"'
-bind '"갨":"roft"'
-bind '"갩":"rofx"'
-bind '"갪":"rofv"'
-bind '"갫":"rofg"'
-bind '"갬":"roa"'
-bind '"갭":"roq"'
-bind '"갮":"roqt"'
-bind '"갯":"rot"'
-bind '"갰":"roT"'
-bind '"갱":"rod"'
-bind '"갲":"row"'
-bind '"갳":"roc"'
-bind '"갴":"roz"'
-bind '"갵":"rox"'
-bind '"갶":"rov"'
-bind '"갷":"rog"'
-bind '"갸":"ri"'
-bind '"갹":"rir"'
-bind '"갺":"riR"'
-bind '"갻":"rirt"'
-bind '"갼":"ris"'
-bind '"갽":"risw"'
-bind '"갾":"risg"'
-bind '"갿":"rie"'
-bind '"걀":"rif"'
-bind '"걁":"rifr"'
-bind '"걂":"rifa"'
-bind '"걃":"rifq"'
-bind '"걄":"rift"'
-bind '"걅":"rifx"'
-bind '"걆":"rifv"'
-bind '"걇":"rifg"'
-bind '"걈":"ria"'
-bind '"걉":"riq"'
-bind '"걊":"riqt"'
-bind '"걋":"rit"'
-bind '"걌":"riT"'
-bind '"걍":"rid"'
-bind '"걎":"riw"'
-bind '"걏":"ric"'
-bind '"걐":"riz"'
-bind '"걑":"rix"'
-bind '"걒":"riv"'
-bind '"걓":"rig"'
-bind '"걔":"rO"'
-bind '"걕":"rOr"'
-bind '"걖":"rOR"'
-bind '"걗":"rOrt"'
-bind '"걘":"rOs"'
-bind '"걙":"rOsw"'
-bind '"걚":"rOsg"'
-bind '"걛":"rOe"'
-bind '"걜":"rOf"'
-bind '"걝":"rOfr"'
-bind '"걞":"rOfa"'
-bind '"걟":"rOfq"'
-bind '"걠":"rOft"'
-bind '"걡":"rOfx"'
-bind '"걢":"rOfv"'
-bind '"걣":"rOfg"'
-bind '"걤":"rOa"'
-bind '"걥":"rOq"'
-bind '"걦":"rOqt"'
-bind '"걧":"rOt"'
-bind '"걨":"rOT"'
-bind '"걩":"rOd"'
-bind '"걪":"rOw"'
-bind '"걫":"rOc"'
-bind '"걬":"rOz"'
-bind '"걭":"rOx"'
-bind '"걮":"rOv"'
-bind '"걯":"rOg"'
-bind '"거":"rj"'
-bind '"걱":"rjr"'
-bind '"걲":"rjR"'
-bind '"걳":"rjrt"'
-bind '"건":"rjs"'
-bind '"걵":"rjsw"'
-bind '"걶":"rjsg"'
-bind '"걷":"rje"'
-bind '"걸":"rjf"'
-bind '"걹":"rjfr"'
-bind '"걺":"rjfa"'
-bind '"걻":"rjfq"'
-bind '"걼":"rjft"'
-bind '"걽":"rjfx"'
-bind '"걾":"rjfv"'
-bind '"걿":"rjfg"'
-bind '"검":"rja"'
-bind '"겁":"rjq"'
-bind '"겂":"rjqt"'
-bind '"것":"rjt"'
-bind '"겄":"rjT"'
-bind '"겅":"rjd"'
-bind '"겆":"rjw"'
-bind '"겇":"rjc"'
-bind '"겈":"rjz"'
-bind '"겉":"rjx"'
-bind '"겊":"rjv"'
-bind '"겋":"rjg"'
-bind '"게":"rp"'
-bind '"겍":"rpr"'
-bind '"겎":"rpR"'
-bind '"겏":"rprt"'
-bind '"겐":"rps"'
-bind '"겑":"rpsw"'
-bind '"겒":"rpsg"'
-bind '"겓":"rpe"'
-bind '"겔":"rpf"'
-bind '"겕":"rpfr"'
-bind '"겖":"rpfa"'
-bind '"겗":"rpfq"'
-bind '"겘":"rpft"'
-bind '"겙":"rpfx"'
-bind '"겚":"rpfv"'
-bind '"겛":"rpfg"'
-bind '"겜":"rpa"'
-bind '"겝":"rpq"'
-bind '"겞":"rpqt"'
-bind '"겟":"rpt"'
-bind '"겠":"rpT"'
-bind '"겡":"rpd"'
-bind '"겢":"rpw"'
-bind '"겣":"rpc"'
-bind '"겤":"rpz"'
-bind '"겥":"rpx"'
-bind '"겦":"rpv"'
-bind '"겧":"rpg"'
-bind '"겨":"ru"'
-bind '"격":"rur"'
-bind '"겪":"ruR"'
-bind '"겫":"rurt"'
-bind '"견":"rus"'
-bind '"겭":"rusw"'
-bind '"겮":"rusg"'
-bind '"겯":"rue"'
-bind '"결":"ruf"'
-bind '"겱":"rufr"'
-bind '"겲":"rufa"'
-bind '"겳":"rufq"'
-bind '"겴":"ruft"'
-bind '"겵":"rufx"'
-bind '"겶":"rufv"'
-bind '"겷":"rufg"'
-bind '"겸":"rua"'
-bind '"겹":"ruq"'
-bind '"겺":"ruqt"'
-bind '"겻":"rut"'
-bind '"겼":"ruT"'
-bind '"경":"rud"'
-bind '"겾":"ruw"'
-bind '"겿":"ruc"'
-bind '"곀":"ruz"'
-bind '"곁":"rux"'
-bind '"곂":"ruv"'
-bind '"곃":"rug"'
-bind '"계":"rP"'
-bind '"곅":"rPr"'
-bind '"곆":"rPR"'
-bind '"곇":"rPrt"'
-bind '"곈":"rPs"'
-bind '"곉":"rPsw"'
-bind '"곊":"rPsg"'
-bind '"곋":"rPe"'
-bind '"곌":"rPf"'
-bind '"곍":"rPfr"'
-bind '"곎":"rPfa"'
-bind '"곏":"rPfq"'
-bind '"곐":"rPft"'
-bind '"곑":"rPfx"'
-bind '"곒":"rPfv"'
-bind '"곓":"rPfg"'
-bind '"곔":"rPa"'
-bind '"곕":"rPq"'
-bind '"곖":"rPqt"'
-bind '"곗":"rPt"'
-bind '"곘":"rPT"'
-bind '"곙":"rPd"'
-bind '"곚":"rPw"'
-bind '"곛":"rPc"'
-bind '"곜":"rPz"'
-bind '"곝":"rPx"'
-bind '"곞":"rPv"'
-bind '"곟":"rPg"'
-bind '"고":"rh"'
-bind '"곡":"rhr"'
-bind '"곢":"rhR"'
-bind '"곣":"rhrt"'
-bind '"곤":"rhs"'
-bind '"곥":"rhsw"'
-bind '"곦":"rhsg"'
-bind '"곧":"rhe"'
-bind '"골":"rhf"'
-bind '"곩":"rhfr"'
-bind '"곪":"rhfa"'
-bind '"곫":"rhfq"'
-bind '"곬":"rhft"'
-bind '"곭":"rhfx"'
-bind '"곮":"rhfv"'
-bind '"곯":"rhfg"'
-bind '"곰":"rha"'
-bind '"곱":"rhq"'
-bind '"곲":"rhqt"'
-bind '"곳":"rht"'
-bind '"곴":"rhT"'
-bind '"공":"rhd"'
-bind '"곶":"rhw"'
-bind '"곷":"rhc"'
-bind '"곸":"rhz"'
-bind '"곹":"rhx"'
-bind '"곺":"rhv"'
-bind '"곻":"rhg"'
-bind '"과":"rhk"'
-bind '"곽":"rhkr"'
-bind '"곾":"rhkR"'
-bind '"곿":"rhkrt"'
-bind '"관":"rhks"'
-bind '"괁":"rhksw"'
-bind '"괂":"rhksg"'
-bind '"괃":"rhke"'
-bind '"괄":"rhkf"'
-bind '"괅":"rhkfr"'
-bind '"괆":"rhkfa"'
-bind '"괇":"rhkfq"'
-bind '"괈":"rhkft"'
-bind '"괉":"rhkfx"'
-bind '"괊":"rhkfv"'
-bind '"괋":"rhkfg"'
-bind '"괌":"rhka"'
-bind '"괍":"rhkq"'
-bind '"괎":"rhkqt"'
-bind '"괏":"rhkt"'
-bind '"괐":"rhkT"'
-bind '"광":"rhkd"'
-bind '"괒":"rhkw"'
-bind '"괓":"rhkc"'
-bind '"괔":"rhkz"'
-bind '"괕":"rhkx"'
-bind '"괖":"rhkv"'
-bind '"괗":"rhkg"'
-bind '"괘":"rho"'
-bind '"괙":"rhor"'
-bind '"괚":"rhoR"'
-bind '"괛":"rhort"'
-bind '"괜":"rhos"'
-bind '"괝":"rhosw"'
-bind '"괞":"rhosg"'
-bind '"괟":"rhoe"'
-bind '"괠":"rhof"'
-bind '"괡":"rhofr"'
-bind '"괢":"rhofa"'
-bind '"괣":"rhofq"'
-bind '"괤":"rhoft"'
-bind '"괥":"rhofx"'
-bind '"괦":"rhofv"'
-bind '"괧":"rhofg"'
-bind '"괨":"rhoa"'
-bind '"괩":"rhoq"'
-bind '"괪":"rhoqt"'
-bind '"괫":"rhot"'
-bind '"괬":"rhoT"'
-bind '"괭":"rhod"'
-bind '"괮":"rhow"'
-bind '"괯":"rhoc"'
-bind '"괰":"rhoz"'
-bind '"괱":"rhox"'
-bind '"괲":"rhov"'
-bind '"괳":"rhog"'
-bind '"괴":"rhl"'
-bind '"괵":"rhlr"'
-bind '"괶":"rhlR"'
-bind '"괷":"rhlrt"'
-bind '"괸":"rhls"'
-bind '"괹":"rhlsw"'
-bind '"괺":"rhlsg"'
-bind '"괻":"rhle"'
-bind '"괼":"rhlf"'
-bind '"괽":"rhlfr"'
-bind '"괾":"rhlfa"'
-bind '"괿":"rhlfq"'
-bind '"굀":"rhlft"'
-bind '"굁":"rhlfx"'
-bind '"굂":"rhlfv"'
-bind '"굃":"rhlfg"'
-bind '"굄":"rhla"'
-bind '"굅":"rhlq"'
-bind '"굆":"rhlqt"'
-bind '"굇":"rhlt"'
-bind '"굈":"rhlT"'
-bind '"굉":"rhld"'
-bind '"굊":"rhlw"'
-bind '"굋":"rhlc"'
-bind '"굌":"rhlz"'
-bind '"굍":"rhlx"'
-bind '"굎":"rhlv"'
-bind '"굏":"rhlg"'
-bind '"교":"ry"'
-bind '"굑":"ryr"'
-bind '"굒":"ryR"'
-bind '"굓":"ryrt"'
-bind '"굔":"rys"'
-bind '"굕":"rysw"'
-bind '"굖":"rysg"'
-bind '"굗":"rye"'
-bind '"굘":"ryf"'
-bind '"굙":"ryfr"'
-bind '"굚":"ryfa"'
-bind '"굛":"ryfq"'
-bind '"굜":"ryft"'
-bind '"굝":"ryfx"'
-bind '"굞":"ryfv"'
-bind '"굟":"ryfg"'
-bind '"굠":"rya"'
-bind '"굡":"ryq"'
-bind '"굢":"ryqt"'
-bind '"굣":"ryt"'
-bind '"굤":"ryT"'
-bind '"굥":"ryd"'
-bind '"굦":"ryw"'
-bind '"굧":"ryc"'
-bind '"굨":"ryz"'
-bind '"굩":"ryx"'
-bind '"굪":"ryv"'
-bind '"굫":"ryg"'
-bind '"구":"rn"'
-bind '"국":"rnr"'
-bind '"굮":"rnR"'
-bind '"굯":"rnrt"'
-bind '"군":"rns"'
-bind '"굱":"rnsw"'
-bind '"굲":"rnsg"'
-bind '"굳":"rne"'
-bind '"굴":"rnf"'
-bind '"굵":"rnfr"'
-bind '"굶":"rnfa"'
-bind '"굷":"rnfq"'
-bind '"굸":"rnft"'
-bind '"굹":"rnfx"'
-bind '"굺":"rnfv"'
-bind '"굻":"rnfg"'
-bind '"굼":"rna"'
-bind '"굽":"rnq"'
-bind '"굾":"rnqt"'
-bind '"굿":"rnt"'
-bind '"궀":"rnT"'
-bind '"궁":"rnd"'
-bind '"궂":"rnw"'
-bind '"궃":"rnc"'
-bind '"궄":"rnz"'
-bind '"궅":"rnx"'
-bind '"궆":"rnv"'
-bind '"궇":"rng"'
-bind '"궈":"rnj"'
-bind '"궉":"rnjr"'
-bind '"궊":"rnjR"'
-bind '"궋":"rnjrt"'
-bind '"권":"rnjs"'
-bind '"궍":"rnjsw"'
-bind '"궎":"rnjsg"'
-bind '"궏":"rnje"'
-bind '"궐":"rnjf"'
-bind '"궑":"rnjfr"'
-bind '"궒":"rnjfa"'
-bind '"궓":"rnjfq"'
-bind '"궔":"rnjft"'
-bind '"궕":"rnjfx"'
-bind '"궖":"rnjfv"'
-bind '"궗":"rnjfg"'
-bind '"궘":"rnja"'
-bind '"궙":"rnjq"'
-bind '"궚":"rnjqt"'
-bind '"궛":"rnjt"'
-bind '"궜":"rnjT"'
-bind '"궝":"rnjd"'
-bind '"궞":"rnjw"'
-bind '"궟":"rnjc"'
-bind '"궠":"rnjz"'
-bind '"궡":"rnjx"'
-bind '"궢":"rnjv"'
-bind '"궣":"rnjg"'
-bind '"궤":"rnp"'
-bind '"궥":"rnpr"'
-bind '"궦":"rnpR"'
-bind '"궧":"rnprt"'
-bind '"궨":"rnps"'
-bind '"궩":"rnpsw"'
-bind '"궪":"rnpsg"'
-bind '"궫":"rnpe"'
-bind '"궬":"rnpf"'
-bind '"궭":"rnpfr"'
-bind '"궮":"rnpfa"'
-bind '"궯":"rnpfq"'
-bind '"궰":"rnpft"'
-bind '"궱":"rnpfx"'
-bind '"궲":"rnpfv"'
-bind '"궳":"rnpfg"'
-bind '"궴":"rnpa"'
-bind '"궵":"rnpq"'
-bind '"궶":"rnpqt"'
-bind '"궷":"rnpt"'
-bind '"궸":"rnpT"'
-bind '"궹":"rnpd"'
-bind '"궺":"rnpw"'
-bind '"궻":"rnpc"'
-bind '"궼":"rnpz"'
-bind '"궽":"rnpx"'
-bind '"궾":"rnpv"'
-bind '"궿":"rnpg"'
-bind '"귀":"rnl"'
-bind '"귁":"rnlr"'
-bind '"귂":"rnlR"'
-bind '"귃":"rnlrt"'
-bind '"귄":"rnls"'
-bind '"귅":"rnlsw"'
-bind '"귆":"rnlsg"'
-bind '"귇":"rnle"'
-bind '"귈":"rnlf"'
-bind '"귉":"rnlfr"'
-bind '"귊":"rnlfa"'
-bind '"귋":"rnlfq"'
-bind '"귌":"rnlft"'
-bind '"귍":"rnlfx"'
-bind '"귎":"rnlfv"'
-bind '"귏":"rnlfg"'
-bind '"귐":"rnla"'
-bind '"귑":"rnlq"'
-bind '"귒":"rnlqt"'
-bind '"귓":"rnlt"'
-bind '"귔":"rnlT"'
-bind '"귕":"rnld"'
-bind '"귖":"rnlw"'
-bind '"귗":"rnlc"'
-bind '"귘":"rnlz"'
-bind '"귙":"rnlx"'
-bind '"귚":"rnlv"'
-bind '"귛":"rnlg"'
-bind '"규":"rb"'
-bind '"귝":"rbr"'
-bind '"귞":"rbR"'
-bind '"귟":"rbrt"'
-bind '"균":"rbs"'
-bind '"귡":"rbsw"'
-bind '"귢":"rbsg"'
-bind '"귣":"rbe"'
-bind '"귤":"rbf"'
-bind '"귥":"rbfr"'
-bind '"귦":"rbfa"'
-bind '"귧":"rbfq"'
-bind '"귨":"rbft"'
-bind '"귩":"rbfx"'
-bind '"귪":"rbfv"'
-bind '"귫":"rbfg"'
-bind '"귬":"rba"'
-bind '"귭":"rbq"'
-bind '"귮":"rbqt"'
-bind '"귯":"rbt"'
-bind '"귰":"rbT"'
-bind '"귱":"rbd"'
-bind '"귲":"rbw"'
-bind '"귳":"rbc"'
-bind '"귴":"rbz"'
-bind '"귵":"rbx"'
-bind '"귶":"rbv"'
-bind '"귷":"rbg"'
-bind '"그":"rm"'
-bind '"극":"rmr"'
-bind '"귺":"rmR"'
-bind '"귻":"rmrt"'
-bind '"근":"rms"'
-bind '"귽":"rmsw"'
-bind '"귾":"rmsg"'
-bind '"귿":"rme"'
-bind '"글":"rmf"'
-bind '"긁":"rmfr"'
-bind '"긂":"rmfa"'
-bind '"긃":"rmfq"'
-bind '"긄":"rmft"'
-bind '"긅":"rmfx"'
-bind '"긆":"rmfv"'
-bind '"긇":"rmfg"'
-bind '"금":"rma"'
-bind '"급":"rmq"'
-bind '"긊":"rmqt"'
-bind '"긋":"rmt"'
-bind '"긌":"rmT"'
-bind '"긍":"rmd"'
-bind '"긎":"rmw"'
-bind '"긏":"rmc"'
-bind '"긐":"rmz"'
-bind '"긑":"rmx"'
-bind '"긒":"rmv"'
-bind '"긓":"rmg"'
-bind '"긔":"rml"'
-bind '"긕":"rmlr"'
-bind '"긖":"rmlR"'
-bind '"긗":"rmlrt"'
-bind '"긘":"rmls"'
-bind '"긙":"rmlsw"'
-bind '"긚":"rmlsg"'
-bind '"긛":"rmle"'
-bind '"긜":"rmlf"'
-bind '"긝":"rmlfr"'
-bind '"긞":"rmlfa"'
-bind '"긟":"rmlfq"'
-bind '"긠":"rmlft"'
-bind '"긡":"rmlfx"'
-bind '"긢":"rmlfv"'
-bind '"긣":"rmlfg"'
-bind '"긤":"rmla"'
-bind '"긥":"rmlq"'
-bind '"긦":"rmlqt"'
-bind '"긧":"rmlt"'
-bind '"긨":"rmlT"'
-bind '"긩":"rmld"'
-bind '"긪":"rmlw"'
-bind '"긫":"rmlc"'
-bind '"긬":"rmlz"'
-bind '"긭":"rmlx"'
-bind '"긮":"rmlv"'
-bind '"긯":"rmlg"'
-bind '"기":"rl"'
-bind '"긱":"rlr"'
-bind '"긲":"rlR"'
-bind '"긳":"rlrt"'
-bind '"긴":"rls"'
-bind '"긵":"rlsw"'
-bind '"긶":"rlsg"'
-bind '"긷":"rle"'
-bind '"길":"rlf"'
-bind '"긹":"rlfr"'
-bind '"긺":"rlfa"'
-bind '"긻":"rlfq"'
-bind '"긼":"rlft"'
-bind '"긽":"rlfx"'
-bind '"긾":"rlfv"'
-bind '"긿":"rlfg"'
-bind '"김":"rla"'
-bind '"깁":"rlq"'
-bind '"깂":"rlqt"'
-bind '"깃":"rlt"'
-bind '"깄":"rlT"'
-bind '"깅":"rld"'
-bind '"깆":"rlw"'
-bind '"깇":"rlc"'
-bind '"깈":"rlz"'
-bind '"깉":"rlx"'
-bind '"깊":"rlv"'
-bind '"깋":"rlg"'
-bind '"까":"Rk"'
-bind '"깍":"Rkr"'
-bind '"깎":"RkR"'
-bind '"깏":"Rkrt"'
-bind '"깐":"Rks"'
-bind '"깑":"Rksw"'
-bind '"깒":"Rksg"'
-bind '"깓":"Rke"'
-bind '"깔":"Rkf"'
-bind '"깕":"Rkfr"'
-bind '"깖":"Rkfa"'
-bind '"깗":"Rkfq"'
-bind '"깘":"Rkft"'
-bind '"깙":"Rkfx"'
-bind '"깚":"Rkfv"'
-bind '"깛":"Rkfg"'
-bind '"깜":"Rka"'
-bind '"깝":"Rkq"'
-bind '"깞":"Rkqt"'
-bind '"깟":"Rkt"'
-bind '"깠":"RkT"'
-bind '"깡":"Rkd"'
-bind '"깢":"Rkw"'
-bind '"깣":"Rkc"'
-bind '"깤":"Rkz"'
-bind '"깥":"Rkx"'
-bind '"깦":"Rkv"'
-bind '"깧":"Rkg"'
-bind '"깨":"Ro"'
-bind '"깩":"Ror"'
-bind '"깪":"RoR"'
-bind '"깫":"Rort"'
-bind '"깬":"Ros"'
-bind '"깭":"Rosw"'
-bind '"깮":"Rosg"'
-bind '"깯":"Roe"'
-bind '"깰":"Rof"'
-bind '"깱":"Rofr"'
-bind '"깲":"Rofa"'
-bind '"깳":"Rofq"'
-bind '"깴":"Roft"'
-bind '"깵":"Rofx"'
-bind '"깶":"Rofv"'
-bind '"깷":"Rofg"'
-bind '"깸":"Roa"'
-bind '"깹":"Roq"'
-bind '"깺":"Roqt"'
-bind '"깻":"Rot"'
-bind '"깼":"RoT"'
-bind '"깽":"Rod"'
-bind '"깾":"Row"'
-bind '"깿":"Roc"'
-bind '"꺀":"Roz"'
-bind '"꺁":"Rox"'
-bind '"꺂":"Rov"'
-bind '"꺃":"Rog"'
-bind '"꺄":"Ri"'
-bind '"꺅":"Rir"'
-bind '"꺆":"RiR"'
-bind '"꺇":"Rirt"'
-bind '"꺈":"Ris"'
-bind '"꺉":"Risw"'
-bind '"꺊":"Risg"'
-bind '"꺋":"Rie"'
-bind '"꺌":"Rif"'
-bind '"꺍":"Rifr"'
-bind '"꺎":"Rifa"'
-bind '"꺏":"Rifq"'
-bind '"꺐":"Rift"'
-bind '"꺑":"Rifx"'
-bind '"꺒":"Rifv"'
-bind '"꺓":"Rifg"'
-bind '"꺔":"Ria"'
-bind '"꺕":"Riq"'
-bind '"꺖":"Riqt"'
-bind '"꺗":"Rit"'
-bind '"꺘":"RiT"'
-bind '"꺙":"Rid"'
-bind '"꺚":"Riw"'
-bind '"꺛":"Ric"'
-bind '"꺜":"Riz"'
-bind '"꺝":"Rix"'
-bind '"꺞":"Riv"'
-bind '"꺟":"Rig"'
-bind '"꺠":"RO"'
-bind '"꺡":"ROr"'
-bind '"꺢":"ROR"'
-bind '"꺣":"ROrt"'
-bind '"꺤":"ROs"'
-bind '"꺥":"ROsw"'
-bind '"꺦":"ROsg"'
-bind '"꺧":"ROe"'
-bind '"꺨":"ROf"'
-bind '"꺩":"ROfr"'
-bind '"꺪":"ROfa"'
-bind '"꺫":"ROfq"'
-bind '"꺬":"ROft"'
-bind '"꺭":"ROfx"'
-bind '"꺮":"ROfv"'
-bind '"꺯":"ROfg"'
-bind '"꺰":"ROa"'
-bind '"꺱":"ROq"'
-bind '"꺲":"ROqt"'
-bind '"꺳":"ROt"'
-bind '"꺴":"ROT"'
-bind '"꺵":"ROd"'
-bind '"꺶":"ROw"'
-bind '"꺷":"ROc"'
-bind '"꺸":"ROz"'
-bind '"꺹":"ROx"'
-bind '"꺺":"ROv"'
-bind '"꺻":"ROg"'
-bind '"꺼":"Rj"'
-bind '"꺽":"Rjr"'
-bind '"꺾":"RjR"'
-bind '"꺿":"Rjrt"'
-bind '"껀":"Rjs"'
-bind '"껁":"Rjsw"'
-bind '"껂":"Rjsg"'
-bind '"껃":"Rje"'
-bind '"껄":"Rjf"'
-bind '"껅":"Rjfr"'
-bind '"껆":"Rjfa"'
-bind '"껇":"Rjfq"'
-bind '"껈":"Rjft"'
-bind '"껉":"Rjfx"'
-bind '"껊":"Rjfv"'
-bind '"껋":"Rjfg"'
-bind '"껌":"Rja"'
-bind '"껍":"Rjq"'
-bind '"껎":"Rjqt"'
-bind '"껏":"Rjt"'
-bind '"껐":"RjT"'
-bind '"껑":"Rjd"'
-bind '"껒":"Rjw"'
-bind '"껓":"Rjc"'
-bind '"껔":"Rjz"'
-bind '"껕":"Rjx"'
-bind '"껖":"Rjv"'
-bind '"껗":"Rjg"'
-bind '"께":"Rp"'
-bind '"껙":"Rpr"'
-bind '"껚":"RpR"'
-bind '"껛":"Rprt"'
-bind '"껜":"Rps"'
-bind '"껝":"Rpsw"'
-bind '"껞":"Rpsg"'
-bind '"껟":"Rpe"'
-bind '"껠":"Rpf"'
-bind '"껡":"Rpfr"'
-bind '"껢":"Rpfa"'
-bind '"껣":"Rpfq"'
-bind '"껤":"Rpft"'
-bind '"껥":"Rpfx"'
-bind '"껦":"Rpfv"'
-bind '"껧":"Rpfg"'
-bind '"껨":"Rpa"'
-bind '"껩":"Rpq"'
-bind '"껪":"Rpqt"'
-bind '"껫":"Rpt"'
-bind '"껬":"RpT"'
-bind '"껭":"Rpd"'
-bind '"껮":"Rpw"'
-bind '"껯":"Rpc"'
-bind '"껰":"Rpz"'
-bind '"껱":"Rpx"'
-bind '"껲":"Rpv"'
-bind '"껳":"Rpg"'
-bind '"껴":"Ru"'
-bind '"껵":"Rur"'
-bind '"껶":"RuR"'
-bind '"껷":"Rurt"'
-bind '"껸":"Rus"'
-bind '"껹":"Rusw"'
-bind '"껺":"Rusg"'
-bind '"껻":"Rue"'
-bind '"껼":"Ruf"'
-bind '"껽":"Rufr"'
-bind '"껾":"Rufa"'
-bind '"껿":"Rufq"'
-bind '"꼀":"Ruft"'
-bind '"꼁":"Rufx"'
-bind '"꼂":"Rufv"'
-bind '"꼃":"Rufg"'
-bind '"꼄":"Rua"'
-bind '"꼅":"Ruq"'
-bind '"꼆":"Ruqt"'
-bind '"꼇":"Rut"'
-bind '"꼈":"RuT"'
-bind '"꼉":"Rud"'
-bind '"꼊":"Ruw"'
-bind '"꼋":"Ruc"'
-bind '"꼌":"Ruz"'
-bind '"꼍":"Rux"'
-bind '"꼎":"Ruv"'
-bind '"꼏":"Rug"'
-bind '"꼐":"RP"'
-bind '"꼑":"RPr"'
-bind '"꼒":"RPR"'
-bind '"꼓":"RPrt"'
-bind '"꼔":"RPs"'
-bind '"꼕":"RPsw"'
-bind '"꼖":"RPsg"'
-bind '"꼗":"RPe"'
-bind '"꼘":"RPf"'
-bind '"꼙":"RPfr"'
-bind '"꼚":"RPfa"'
-bind '"꼛":"RPfq"'
-bind '"꼜":"RPft"'
-bind '"꼝":"RPfx"'
-bind '"꼞":"RPfv"'
-bind '"꼟":"RPfg"'
-bind '"꼠":"RPa"'
-bind '"꼡":"RPq"'
-bind '"꼢":"RPqt"'
-bind '"꼣":"RPt"'
-bind '"꼤":"RPT"'
-bind '"꼥":"RPd"'
-bind '"꼦":"RPw"'
-bind '"꼧":"RPc"'
-bind '"꼨":"RPz"'
-bind '"꼩":"RPx"'
-bind '"꼪":"RPv"'
-bind '"꼫":"RPg"'
-bind '"꼬":"Rh"'
-bind '"꼭":"Rhr"'
-bind '"꼮":"RhR"'
-bind '"꼯":"Rhrt"'
-bind '"꼰":"Rhs"'
-bind '"꼱":"Rhsw"'
-bind '"꼲":"Rhsg"'
-bind '"꼳":"Rhe"'
-bind '"꼴":"Rhf"'
-bind '"꼵":"Rhfr"'
-bind '"꼶":"Rhfa"'
-bind '"꼷":"Rhfq"'
-bind '"꼸":"Rhft"'
-bind '"꼹":"Rhfx"'
-bind '"꼺":"Rhfv"'
-bind '"꼻":"Rhfg"'
-bind '"꼼":"Rha"'
-bind '"꼽":"Rhq"'
-bind '"꼾":"Rhqt"'
-bind '"꼿":"Rht"'
-bind '"꽀":"RhT"'
-bind '"꽁":"Rhd"'
-bind '"꽂":"Rhw"'
-bind '"꽃":"Rhc"'
-bind '"꽄":"Rhz"'
-bind '"꽅":"Rhx"'
-bind '"꽆":"Rhv"'
-bind '"꽇":"Rhg"'
-bind '"꽈":"Rhk"'
-bind '"꽉":"Rhkr"'
-bind '"꽊":"RhkR"'
-bind '"꽋":"Rhkrt"'
-bind '"꽌":"Rhks"'
-bind '"꽍":"Rhksw"'
-bind '"꽎":"Rhksg"'
-bind '"꽏":"Rhke"'
-bind '"꽐":"Rhkf"'
-bind '"꽑":"Rhkfr"'
-bind '"꽒":"Rhkfa"'
-bind '"꽓":"Rhkfq"'
-bind '"꽔":"Rhkft"'
-bind '"꽕":"Rhkfx"'
-bind '"꽖":"Rhkfv"'
-bind '"꽗":"Rhkfg"'
-bind '"꽘":"Rhka"'
-bind '"꽙":"Rhkq"'
-bind '"꽚":"Rhkqt"'
-bind '"꽛":"Rhkt"'
-bind '"꽜":"RhkT"'
-bind '"꽝":"Rhkd"'
-bind '"꽞":"Rhkw"'
-bind '"꽟":"Rhkc"'
-bind '"꽠":"Rhkz"'
-bind '"꽡":"Rhkx"'
-bind '"꽢":"Rhkv"'
-bind '"꽣":"Rhkg"'
-bind '"꽤":"Rho"'
-bind '"꽥":"Rhor"'
-bind '"꽦":"RhoR"'
-bind '"꽧":"Rhort"'
-bind '"꽨":"Rhos"'
-bind '"꽩":"Rhosw"'
-bind '"꽪":"Rhosg"'
-bind '"꽫":"Rhoe"'
-bind '"꽬":"Rhof"'
-bind '"꽭":"Rhofr"'
-bind '"꽮":"Rhofa"'
-bind '"꽯":"Rhofq"'
-bind '"꽰":"Rhoft"'
-bind '"꽱":"Rhofx"'
-bind '"꽲":"Rhofv"'
-bind '"꽳":"Rhofg"'
-bind '"꽴":"Rhoa"'
-bind '"꽵":"Rhoq"'
-bind '"꽶":"Rhoqt"'
-bind '"꽷":"Rhot"'
-bind '"꽸":"RhoT"'
-bind '"꽹":"Rhod"'
-bind '"꽺":"Rhow"'
-bind '"꽻":"Rhoc"'
-bind '"꽼":"Rhoz"'
-bind '"꽽":"Rhox"'
-bind '"꽾":"Rhov"'
-bind '"꽿":"Rhog"'
-bind '"꾀":"Rhl"'
-bind '"꾁":"Rhlr"'
-bind '"꾂":"RhlR"'
-bind '"꾃":"Rhlrt"'
-bind '"꾄":"Rhls"'
-bind '"꾅":"Rhlsw"'
-bind '"꾆":"Rhlsg"'
-bind '"꾇":"Rhle"'
-bind '"꾈":"Rhlf"'
-bind '"꾉":"Rhlfr"'
-bind '"꾊":"Rhlfa"'
-bind '"꾋":"Rhlfq"'
-bind '"꾌":"Rhlft"'
-bind '"꾍":"Rhlfx"'
-bind '"꾎":"Rhlfv"'
-bind '"꾏":"Rhlfg"'
-bind '"꾐":"Rhla"'
-bind '"꾑":"Rhlq"'
-bind '"꾒":"Rhlqt"'
-bind '"꾓":"Rhlt"'
-bind '"꾔":"RhlT"'
-bind '"꾕":"Rhld"'
-bind '"꾖":"Rhlw"'
-bind '"꾗":"Rhlc"'
-bind '"꾘":"Rhlz"'
-bind '"꾙":"Rhlx"'
-bind '"꾚":"Rhlv"'
-bind '"꾛":"Rhlg"'
-bind '"꾜":"Ry"'
-bind '"꾝":"Ryr"'
-bind '"꾞":"RyR"'
-bind '"꾟":"Ryrt"'
-bind '"꾠":"Rys"'
-bind '"꾡":"Rysw"'
-bind '"꾢":"Rysg"'
-bind '"꾣":"Rye"'
-bind '"꾤":"Ryf"'
-bind '"꾥":"Ryfr"'
-bind '"꾦":"Ryfa"'
-bind '"꾧":"Ryfq"'
-bind '"꾨":"Ryft"'
-bind '"꾩":"Ryfx"'
-bind '"꾪":"Ryfv"'
-bind '"꾫":"Ryfg"'
-bind '"꾬":"Rya"'
-bind '"꾭":"Ryq"'
-bind '"꾮":"Ryqt"'
-bind '"꾯":"Ryt"'
-bind '"꾰":"RyT"'
-bind '"꾱":"Ryd"'
-bind '"꾲":"Ryw"'
-bind '"꾳":"Ryc"'
-bind '"꾴":"Ryz"'
-bind '"꾵":"Ryx"'
-bind '"꾶":"Ryv"'
-bind '"꾷":"Ryg"'
-bind '"꾸":"Rn"'
-bind '"꾹":"Rnr"'
-bind '"꾺":"RnR"'
-bind '"꾻":"Rnrt"'
-bind '"꾼":"Rns"'
-bind '"꾽":"Rnsw"'
-bind '"꾾":"Rnsg"'
-bind '"꾿":"Rne"'
-bind '"꿀":"Rnf"'
-bind '"꿁":"Rnfr"'
-bind '"꿂":"Rnfa"'
-bind '"꿃":"Rnfq"'
-bind '"꿄":"Rnft"'
-bind '"꿅":"Rnfx"'
-bind '"꿆":"Rnfv"'
-bind '"꿇":"Rnfg"'
-bind '"꿈":"Rna"'
-bind '"꿉":"Rnq"'
-bind '"꿊":"Rnqt"'
-bind '"꿋":"Rnt"'
-bind '"꿌":"RnT"'
-bind '"꿍":"Rnd"'
-bind '"꿎":"Rnw"'
-bind '"꿏":"Rnc"'
-bind '"꿐":"Rnz"'
-bind '"꿑":"Rnx"'
-bind '"꿒":"Rnv"'
-bind '"꿓":"Rng"'
-bind '"꿔":"Rnj"'
-bind '"꿕":"Rnjr"'
-bind '"꿖":"RnjR"'
-bind '"꿗":"Rnjrt"'
-bind '"꿘":"Rnjs"'
-bind '"꿙":"Rnjsw"'
-bind '"꿚":"Rnjsg"'
-bind '"꿛":"Rnje"'
-bind '"꿜":"Rnjf"'
-bind '"꿝":"Rnjfr"'
-bind '"꿞":"Rnjfa"'
-bind '"꿟":"Rnjfq"'
-bind '"꿠":"Rnjft"'
-bind '"꿡":"Rnjfx"'
-bind '"꿢":"Rnjfv"'
-bind '"꿣":"Rnjfg"'
-bind '"꿤":"Rnja"'
-bind '"꿥":"Rnjq"'
-bind '"꿦":"Rnjqt"'
-bind '"꿧":"Rnjt"'
-bind '"꿨":"RnjT"'
-bind '"꿩":"Rnjd"'
-bind '"꿪":"Rnjw"'
-bind '"꿫":"Rnjc"'
-bind '"꿬":"Rnjz"'
-bind '"꿭":"Rnjx"'
-bind '"꿮":"Rnjv"'
-bind '"꿯":"Rnjg"'
-bind '"꿰":"Rnp"'
-bind '"꿱":"Rnpr"'
-bind '"꿲":"RnpR"'
-bind '"꿳":"Rnprt"'
-bind '"꿴":"Rnps"'
-bind '"꿵":"Rnpsw"'
-bind '"꿶":"Rnpsg"'
-bind '"꿷":"Rnpe"'
-bind '"꿸":"Rnpf"'
-bind '"꿹":"Rnpfr"'
-bind '"꿺":"Rnpfa"'
-bind '"꿻":"Rnpfq"'
-bind '"꿼":"Rnpft"'
-bind '"꿽":"Rnpfx"'
-bind '"꿾":"Rnpfv"'
-bind '"꿿":"Rnpfg"'
-bind '"뀀":"Rnpa"'
-bind '"뀁":"Rnpq"'
-bind '"뀂":"Rnpqt"'
-bind '"뀃":"Rnpt"'
-bind '"뀄":"RnpT"'
-bind '"뀅":"Rnpd"'
-bind '"뀆":"Rnpw"'
-bind '"뀇":"Rnpc"'
-bind '"뀈":"Rnpz"'
-bind '"뀉":"Rnpx"'
-bind '"뀊":"Rnpv"'
-bind '"뀋":"Rnpg"'
-bind '"뀌":"Rnl"'
-bind '"뀍":"Rnlr"'
-bind '"뀎":"RnlR"'
-bind '"뀏":"Rnlrt"'
-bind '"뀐":"Rnls"'
-bind '"뀑":"Rnlsw"'
-bind '"뀒":"Rnlsg"'
-bind '"뀓":"Rnle"'
-bind '"뀔":"Rnlf"'
-bind '"뀕":"Rnlfr"'
-bind '"뀖":"Rnlfa"'
-bind '"뀗":"Rnlfq"'
-bind '"뀘":"Rnlft"'
-bind '"뀙":"Rnlfx"'
-bind '"뀚":"Rnlfv"'
-bind '"뀛":"Rnlfg"'
-bind '"뀜":"Rnla"'
-bind '"뀝":"Rnlq"'
-bind '"뀞":"Rnlqt"'
-bind '"뀟":"Rnlt"'
-bind '"뀠":"RnlT"'
-bind '"뀡":"Rnld"'
-bind '"뀢":"Rnlw"'
-bind '"뀣":"Rnlc"'
-bind '"뀤":"Rnlz"'
-bind '"뀥":"Rnlx"'
-bind '"뀦":"Rnlv"'
-bind '"뀧":"Rnlg"'
-bind '"뀨":"Rb"'
-bind '"뀩":"Rbr"'
-bind '"뀪":"RbR"'
-bind '"뀫":"Rbrt"'
-bind '"뀬":"Rbs"'
-bind '"뀭":"Rbsw"'
-bind '"뀮":"Rbsg"'
-bind '"뀯":"Rbe"'
-bind '"뀰":"Rbf"'
-bind '"뀱":"Rbfr"'
-bind '"뀲":"Rbfa"'
-bind '"뀳":"Rbfq"'
-bind '"뀴":"Rbft"'
-bind '"뀵":"Rbfx"'
-bind '"뀶":"Rbfv"'
-bind '"뀷":"Rbfg"'
-bind '"뀸":"Rba"'
-bind '"뀹":"Rbq"'
-bind '"뀺":"Rbqt"'
-bind '"뀻":"Rbt"'
-bind '"뀼":"RbT"'
-bind '"뀽":"Rbd"'
-bind '"뀾":"Rbw"'
-bind '"뀿":"Rbc"'
-bind '"끀":"Rbz"'
-bind '"끁":"Rbx"'
-bind '"끂":"Rbv"'
-bind '"끃":"Rbg"'
-bind '"끄":"Rm"'
-bind '"끅":"Rmr"'
-bind '"끆":"RmR"'
-bind '"끇":"Rmrt"'
-bind '"끈":"Rms"'
-bind '"끉":"Rmsw"'
-bind '"끊":"Rmsg"'
-bind '"끋":"Rme"'
-bind '"끌":"Rmf"'
-bind '"끍":"Rmfr"'
-bind '"끎":"Rmfa"'
-bind '"끏":"Rmfq"'
-bind '"끐":"Rmft"'
-bind '"끑":"Rmfx"'
-bind '"끒":"Rmfv"'
-bind '"끓":"Rmfg"'
-bind '"끔":"Rma"'
-bind '"끕":"Rmq"'
-bind '"끖":"Rmqt"'
-bind '"끗":"Rmt"'
-bind '"끘":"RmT"'
-bind '"끙":"Rmd"'
-bind '"끚":"Rmw"'
-bind '"끛":"Rmc"'
-bind '"끜":"Rmz"'
-bind '"끝":"Rmx"'
-bind '"끞":"Rmv"'
-bind '"끟":"Rmg"'
-bind '"끠":"Rml"'
-bind '"끡":"Rmlr"'
-bind '"끢":"RmlR"'
-bind '"끣":"Rmlrt"'
-bind '"끤":"Rmls"'
-bind '"끥":"Rmlsw"'
-bind '"끦":"Rmlsg"'
-bind '"끧":"Rmle"'
-bind '"끨":"Rmlf"'
-bind '"끩":"Rmlfr"'
-bind '"끪":"Rmlfa"'
-bind '"끫":"Rmlfq"'
-bind '"끬":"Rmlft"'
-bind '"끭":"Rmlfx"'
-bind '"끮":"Rmlfv"'
-bind '"끯":"Rmlfg"'
-bind '"끰":"Rmla"'
-bind '"끱":"Rmlq"'
-bind '"끲":"Rmlqt"'
-bind '"끳":"Rmlt"'
-bind '"끴":"RmlT"'
-bind '"끵":"Rmld"'
-bind '"끶":"Rmlw"'
-bind '"끷":"Rmlc"'
-bind '"끸":"Rmlz"'
-bind '"끹":"Rmlx"'
-bind '"끺":"Rmlv"'
-bind '"끻":"Rmlg"'
-bind '"끼":"Rl"'
-bind '"끽":"Rlr"'
-bind '"끾":"RlR"'
-bind '"끿":"Rlrt"'
-bind '"낀":"Rls"'
-bind '"낁":"Rlsw"'
-bind '"낂":"Rlsg"'
-bind '"낃":"Rle"'
-bind '"낄":"Rlf"'
-bind '"낅":"Rlfr"'
-bind '"낆":"Rlfa"'
-bind '"낇":"Rlfq"'
-bind '"낈":"Rlft"'
-bind '"낉":"Rlfx"'
-bind '"낊":"Rlfv"'
-bind '"낋":"Rlfg"'
-bind '"낌":"Rla"'
-bind '"낍":"Rlq"'
-bind '"낎":"Rlqt"'
-bind '"낏":"Rlt"'
-bind '"낐":"RlT"'
-bind '"낑":"Rld"'
-bind '"낒":"Rlw"'
-bind '"낓":"Rlc"'
-bind '"낔":"Rlz"'
-bind '"낕":"Rlx"'
-bind '"낖":"Rlv"'
-bind '"낗":"Rlg"'
-bind '"나":"sk"'
-bind '"낙":"skr"'
-bind '"낚":"skR"'
-bind '"낛":"skrt"'
-bind '"난":"sks"'
-bind '"낝":"sksw"'
-bind '"낞":"sksg"'
-bind '"낟":"ske"'
-bind '"날":"skf"'
-bind '"낡":"skfr"'
-bind '"낢":"skfa"'
-bind '"낣":"skfq"'
-bind '"낤":"skft"'
-bind '"낥":"skfx"'
-bind '"낦":"skfv"'
-bind '"낧":"skfg"'
-bind '"남":"ska"'
-bind '"납":"skq"'
-bind '"낪":"skqt"'
-bind '"낫":"skt"'
-bind '"났":"skT"'
-bind '"낭":"skd"'
-bind '"낮":"skw"'
-bind '"낯":"skc"'
-bind '"낰":"skz"'
-bind '"낱":"skx"'
-bind '"낲":"skv"'
-bind '"낳":"skg"'
-bind '"내":"so"'
-bind '"낵":"sor"'
-bind '"낶":"soR"'
-bind '"낷":"sort"'
-bind '"낸":"sos"'
-bind '"낹":"sosw"'
-bind '"낺":"sosg"'
-bind '"낻":"soe"'
-bind '"낼":"sof"'
-bind '"낽":"sofr"'
-bind '"낾":"sofa"'
-bind '"낿":"sofq"'
-bind '"냀":"soft"'
-bind '"냁":"sofx"'
-bind '"냂":"sofv"'
-bind '"냃":"sofg"'
-bind '"냄":"soa"'
-bind '"냅":"soq"'
-bind '"냆":"soqt"'
-bind '"냇":"sot"'
-bind '"냈":"soT"'
-bind '"냉":"sod"'
-bind '"냊":"sow"'
-bind '"냋":"soc"'
-bind '"냌":"soz"'
-bind '"냍":"sox"'
-bind '"냎":"sov"'
-bind '"냏":"sog"'
-bind '"냐":"si"'
-bind '"냑":"sir"'
-bind '"냒":"siR"'
-bind '"냓":"sirt"'
-bind '"냔":"sis"'
-bind '"냕":"sisw"'
-bind '"냖":"sisg"'
-bind '"냗":"sie"'
-bind '"냘":"sif"'
-bind '"냙":"sifr"'
-bind '"냚":"sifa"'
-bind '"냛":"sifq"'
-bind '"냜":"sift"'
-bind '"냝":"sifx"'
-bind '"냞":"sifv"'
-bind '"냟":"sifg"'
-bind '"냠":"sia"'
-bind '"냡":"siq"'
-bind '"냢":"siqt"'
-bind '"냣":"sit"'
-bind '"냤":"siT"'
-bind '"냥":"sid"'
-bind '"냦":"siw"'
-bind '"냧":"sic"'
-bind '"냨":"siz"'
-bind '"냩":"six"'
-bind '"냪":"siv"'
-bind '"냫":"sig"'
-bind '"냬":"sO"'
-bind '"냭":"sOr"'
-bind '"냮":"sOR"'
-bind '"냯":"sOrt"'
-bind '"냰":"sOs"'
-bind '"냱":"sOsw"'
-bind '"냲":"sOsg"'
-bind '"냳":"sOe"'
-bind '"냴":"sOf"'
-bind '"냵":"sOfr"'
-bind '"냶":"sOfa"'
-bind '"냷":"sOfq"'
-bind '"냸":"sOft"'
-bind '"냹":"sOfx"'
-bind '"냺":"sOfv"'
-bind '"냻":"sOfg"'
-bind '"냼":"sOa"'
-bind '"냽":"sOq"'
-bind '"냾":"sOqt"'
-bind '"냿":"sOt"'
-bind '"넀":"sOT"'
-bind '"넁":"sOd"'
-bind '"넂":"sOw"'
-bind '"넃":"sOc"'
-bind '"넄":"sOz"'
-bind '"넅":"sOx"'
-bind '"넆":"sOv"'
-bind '"넇":"sOg"'
-bind '"너":"sj"'
-bind '"넉":"sjr"'
-bind '"넊":"sjR"'
-bind '"넋":"sjrt"'
-bind '"넌":"sjs"'
-bind '"넍":"sjsw"'
-bind '"넎":"sjsg"'
-bind '"넏":"sje"'
-bind '"널":"sjf"'
-bind '"넑":"sjfr"'
-bind '"넒":"sjfa"'
-bind '"넓":"sjfq"'
-bind '"넔":"sjft"'
-bind '"넕":"sjfx"'
-bind '"넖":"sjfv"'
-bind '"넗":"sjfg"'
-bind '"넘":"sja"'
-bind '"넙":"sjq"'
-bind '"넚":"sjqt"'
-bind '"넛":"sjt"'
-bind '"넜":"sjT"'
-bind '"넝":"sjd"'
-bind '"넞":"sjw"'
-bind '"넟":"sjc"'
-bind '"넠":"sjz"'
-bind '"넡":"sjx"'
-bind '"넢":"sjv"'
-bind '"넣":"sjg"'
-bind '"네":"sp"'
-bind '"넥":"spr"'
-bind '"넦":"spR"'
-bind '"넧":"sprt"'
-bind '"넨":"sps"'
-bind '"넩":"spsw"'
-bind '"넪":"spsg"'
-bind '"넫":"spe"'
-bind '"넬":"spf"'
-bind '"넭":"spfr"'
-bind '"넮":"spfa"'
-bind '"넯":"spfq"'
-bind '"넰":"spft"'
-bind '"넱":"spfx"'
-bind '"넲":"spfv"'
-bind '"넳":"spfg"'
-bind '"넴":"spa"'
-bind '"넵":"spq"'
-bind '"넶":"spqt"'
-bind '"넷":"spt"'
-bind '"넸":"spT"'
-bind '"넹":"spd"'
-bind '"넺":"spw"'
-bind '"넻":"spc"'
-bind '"넼":"spz"'
-bind '"넽":"spx"'
-bind '"넾":"spv"'
-bind '"넿":"spg"'
-bind '"녀":"su"'
-bind '"녁":"sur"'
-bind '"녂":"suR"'
-bind '"녃":"surt"'
-bind '"년":"sus"'
-bind '"녅":"susw"'
-bind '"녆":"susg"'
-bind '"녇":"sue"'
-bind '"녈":"suf"'
-bind '"녉":"sufr"'
-bind '"녊":"sufa"'
-bind '"녋":"sufq"'
-bind '"녌":"suft"'
-bind '"녍":"sufx"'
-bind '"녎":"sufv"'
-bind '"녏":"sufg"'
-bind '"념":"sua"'
-bind '"녑":"suq"'
-bind '"녒":"suqt"'
-bind '"녓":"sut"'
-bind '"녔":"suT"'
-bind '"녕":"sud"'
-bind '"녖":"suw"'
-bind '"녗":"suc"'
-bind '"녘":"suz"'
-bind '"녙":"sux"'
-bind '"녚":"suv"'
-bind '"녛":"sug"'
-bind '"녜":"sP"'
-bind '"녝":"sPr"'
-bind '"녞":"sPR"'
-bind '"녟":"sPrt"'
-bind '"녠":"sPs"'
-bind '"녡":"sPsw"'
-bind '"녢":"sPsg"'
-bind '"녣":"sPe"'
-bind '"녤":"sPf"'
-bind '"녥":"sPfr"'
-bind '"녦":"sPfa"'
-bind '"녧":"sPfq"'
-bind '"녨":"sPft"'
-bind '"녩":"sPfx"'
-bind '"녪":"sPfv"'
-bind '"녫":"sPfg"'
-bind '"녬":"sPa"'
-bind '"녭":"sPq"'
-bind '"녮":"sPqt"'
-bind '"녯":"sPt"'
-bind '"녰":"sPT"'
-bind '"녱":"sPd"'
-bind '"녲":"sPw"'
-bind '"녳":"sPc"'
-bind '"녴":"sPz"'
-bind '"녵":"sPx"'
-bind '"녶":"sPv"'
-bind '"녷":"sPg"'
-bind '"노":"sh"'
-bind '"녹":"shr"'
-bind '"녺":"shR"'
-bind '"녻":"shrt"'
-bind '"논":"shs"'
-bind '"녽":"shsw"'
-bind '"녾":"shsg"'
-bind '"녿":"she"'
-bind '"놀":"shf"'
-bind '"놁":"shfr"'
-bind '"놂":"shfa"'
-bind '"놃":"shfq"'
-bind '"놄":"shft"'
-bind '"놅":"shfx"'
-bind '"놆":"shfv"'
-bind '"놇":"shfg"'
-bind '"놈":"sha"'
-bind '"놉":"shq"'
-bind '"놊":"shqt"'
-bind '"놋":"sht"'
-bind '"놌":"shT"'
-bind '"농":"shd"'
-bind '"놎":"shw"'
-bind '"놏":"shc"'
-bind '"놐":"shz"'
-bind '"놑":"shx"'
-bind '"높":"shv"'
-bind '"놓":"shg"'
-bind '"놔":"shk"'
-bind '"놕":"shkr"'
-bind '"놖":"shkR"'
-bind '"놗":"shkrt"'
-bind '"놘":"shks"'
-bind '"놙":"shksw"'
-bind '"놚":"shksg"'
-bind '"놛":"shke"'
-bind '"놜":"shkf"'
-bind '"놝":"shkfr"'
-bind '"놞":"shkfa"'
-bind '"놟":"shkfq"'
-bind '"놠":"shkft"'
-bind '"놡":"shkfx"'
-bind '"놢":"shkfv"'
-bind '"놣":"shkfg"'
-bind '"놤":"shka"'
-bind '"놥":"shkq"'
-bind '"놦":"shkqt"'
-bind '"놧":"shkt"'
-bind '"놨":"shkT"'
-bind '"놩":"shkd"'
-bind '"놪":"shkw"'
-bind '"놫":"shkc"'
-bind '"놬":"shkz"'
-bind '"놭":"shkx"'
-bind '"놮":"shkv"'
-bind '"놯":"shkg"'
-bind '"놰":"sho"'
-bind '"놱":"shor"'
-bind '"놲":"shoR"'
-bind '"놳":"short"'
-bind '"놴":"shos"'
-bind '"놵":"shosw"'
-bind '"놶":"shosg"'
-bind '"놷":"shoe"'
-bind '"놸":"shof"'
-bind '"놹":"shofr"'
-bind '"놺":"shofa"'
-bind '"놻":"shofq"'
-bind '"놼":"shoft"'
-bind '"놽":"shofx"'
-bind '"놾":"shofv"'
-bind '"놿":"shofg"'
-bind '"뇀":"shoa"'
-bind '"뇁":"shoq"'
-bind '"뇂":"shoqt"'
-bind '"뇃":"shot"'
-bind '"뇄":"shoT"'
-bind '"뇅":"shod"'
-bind '"뇆":"show"'
-bind '"뇇":"shoc"'
-bind '"뇈":"shoz"'
-bind '"뇉":"shox"'
-bind '"뇊":"shov"'
-bind '"뇋":"shog"'
-bind '"뇌":"shl"'
-bind '"뇍":"shlr"'
-bind '"뇎":"shlR"'
-bind '"뇏":"shlrt"'
-bind '"뇐":"shls"'
-bind '"뇑":"shlsw"'
-bind '"뇒":"shlsg"'
-bind '"뇓":"shle"'
-bind '"뇔":"shlf"'
-bind '"뇕":"shlfr"'
-bind '"뇖":"shlfa"'
-bind '"뇗":"shlfq"'
-bind '"뇘":"shlft"'
-bind '"뇙":"shlfx"'
-bind '"뇚":"shlfv"'
-bind '"뇛":"shlfg"'
-bind '"뇜":"shla"'
-bind '"뇝":"shlq"'
-bind '"뇞":"shlqt"'
-bind '"뇟":"shlt"'
-bind '"뇠":"shlT"'
-bind '"뇡":"shld"'
-bind '"뇢":"shlw"'
-bind '"뇣":"shlc"'
-bind '"뇤":"shlz"'
-bind '"뇥":"shlx"'
-bind '"뇦":"shlv"'
-bind '"뇧":"shlg"'
-bind '"뇨":"sy"'
-bind '"뇩":"syr"'
-bind '"뇪":"syR"'
-bind '"뇫":"syrt"'
-bind '"뇬":"sys"'
-bind '"뇭":"sysw"'
-bind '"뇮":"sysg"'
-bind '"뇯":"sye"'
-bind '"뇰":"syf"'
-bind '"뇱":"syfr"'
-bind '"뇲":"syfa"'
-bind '"뇳":"syfq"'
-bind '"뇴":"syft"'
-bind '"뇵":"syfx"'
-bind '"뇶":"syfv"'
-bind '"뇷":"syfg"'
-bind '"뇸":"sya"'
-bind '"뇹":"syq"'
-bind '"뇺":"syqt"'
-bind '"뇻":"syt"'
-bind '"뇼":"syT"'
-bind '"뇽":"syd"'
-bind '"뇾":"syw"'
-bind '"뇿":"syc"'
-bind '"눀":"syz"'
-bind '"눁":"syx"'
-bind '"눂":"syv"'
-bind '"눃":"syg"'
-bind '"누":"sn"'
-bind '"눅":"snr"'
-bind '"눆":"snR"'
-bind '"눇":"snrt"'
-bind '"눈":"sns"'
-bind '"눉":"snsw"'
-bind '"눊":"snsg"'
-bind '"눋":"sne"'
-bind '"눌":"snf"'
-bind '"눍":"snfr"'
-bind '"눎":"snfa"'
-bind '"눏":"snfq"'
-bind '"눐":"snft"'
-bind '"눑":"snfx"'
-bind '"눒":"snfv"'
-bind '"눓":"snfg"'
-bind '"눔":"sna"'
-bind '"눕":"snq"'
-bind '"눖":"snqt"'
-bind '"눗":"snt"'
-bind '"눘":"snT"'
-bind '"눙":"snd"'
-bind '"눚":"snw"'
-bind '"눛":"snc"'
-bind '"눜":"snz"'
-bind '"눝":"snx"'
-bind '"눞":"snv"'
-bind '"눟":"sng"'
-bind '"눠":"snj"'
-bind '"눡":"snjr"'
-bind '"눢":"snjR"'
-bind '"눣":"snjrt"'
-bind '"눤":"snjs"'
-bind '"눥":"snjsw"'
-bind '"눦":"snjsg"'
-bind '"눧":"snje"'
-bind '"눨":"snjf"'
-bind '"눩":"snjfr"'
-bind '"눪":"snjfa"'
-bind '"눫":"snjfq"'
-bind '"눬":"snjft"'
-bind '"눭":"snjfx"'
-bind '"눮":"snjfv"'
-bind '"눯":"snjfg"'
-bind '"눰":"snja"'
-bind '"눱":"snjq"'
-bind '"눲":"snjqt"'
-bind '"눳":"snjt"'
-bind '"눴":"snjT"'
-bind '"눵":"snjd"'
-bind '"눶":"snjw"'
-bind '"눷":"snjc"'
-bind '"눸":"snjz"'
-bind '"눹":"snjx"'
-bind '"눺":"snjv"'
-bind '"눻":"snjg"'
-bind '"눼":"snp"'
-bind '"눽":"snpr"'
-bind '"눾":"snpR"'
-bind '"눿":"snprt"'
-bind '"뉀":"snps"'
-bind '"뉁":"snpsw"'
-bind '"뉂":"snpsg"'
-bind '"뉃":"snpe"'
-bind '"뉄":"snpf"'
-bind '"뉅":"snpfr"'
-bind '"뉆":"snpfa"'
-bind '"뉇":"snpfq"'
-bind '"뉈":"snpft"'
-bind '"뉉":"snpfx"'
-bind '"뉊":"snpfv"'
-bind '"뉋":"snpfg"'
-bind '"뉌":"snpa"'
-bind '"뉍":"snpq"'
-bind '"뉎":"snpqt"'
-bind '"뉏":"snpt"'
-bind '"뉐":"snpT"'
-bind '"뉑":"snpd"'
-bind '"뉒":"snpw"'
-bind '"뉓":"snpc"'
-bind '"뉔":"snpz"'
-bind '"뉕":"snpx"'
-bind '"뉖":"snpv"'
-bind '"뉗":"snpg"'
-bind '"뉘":"snl"'
-bind '"뉙":"snlr"'
-bind '"뉚":"snlR"'
-bind '"뉛":"snlrt"'
-bind '"뉜":"snls"'
-bind '"뉝":"snlsw"'
-bind '"뉞":"snlsg"'
-bind '"뉟":"snle"'
-bind '"뉠":"snlf"'
-bind '"뉡":"snlfr"'
-bind '"뉢":"snlfa"'
-bind '"뉣":"snlfq"'
-bind '"뉤":"snlft"'
-bind '"뉥":"snlfx"'
-bind '"뉦":"snlfv"'
-bind '"뉧":"snlfg"'
-bind '"뉨":"snla"'
-bind '"뉩":"snlq"'
-bind '"뉪":"snlqt"'
-bind '"뉫":"snlt"'
-bind '"뉬":"snlT"'
-bind '"뉭":"snld"'
-bind '"뉮":"snlw"'
-bind '"뉯":"snlc"'
-bind '"뉰":"snlz"'
-bind '"뉱":"snlx"'
-bind '"뉲":"snlv"'
-bind '"뉳":"snlg"'
-bind '"뉴":"sb"'
-bind '"뉵":"sbr"'
-bind '"뉶":"sbR"'
-bind '"뉷":"sbrt"'
-bind '"뉸":"sbs"'
-bind '"뉹":"sbsw"'
-bind '"뉺":"sbsg"'
-bind '"뉻":"sbe"'
-bind '"뉼":"sbf"'
-bind '"뉽":"sbfr"'
-bind '"뉾":"sbfa"'
-bind '"뉿":"sbfq"'
-bind '"늀":"sbft"'
-bind '"늁":"sbfx"'
-bind '"늂":"sbfv"'
-bind '"늃":"sbfg"'
-bind '"늄":"sba"'
-bind '"늅":"sbq"'
-bind '"늆":"sbqt"'
-bind '"늇":"sbt"'
-bind '"늈":"sbT"'
-bind '"늉":"sbd"'
-bind '"늊":"sbw"'
-bind '"늋":"sbc"'
-bind '"늌":"sbz"'
-bind '"늍":"sbx"'
-bind '"늎":"sbv"'
-bind '"늏":"sbg"'
-bind '"느":"sm"'
-bind '"늑":"smr"'
-bind '"늒":"smR"'
-bind '"늓":"smrt"'
-bind '"는":"sms"'
-bind '"늕":"smsw"'
-bind '"늖":"smsg"'
-bind '"늗":"sme"'
-bind '"늘":"smf"'
-bind '"늙":"smfr"'
-bind '"늚":"smfa"'
-bind '"늛":"smfq"'
-bind '"늜":"smft"'
-bind '"늝":"smfx"'
-bind '"늞":"smfv"'
-bind '"늟":"smfg"'
-bind '"늠":"sma"'
-bind '"늡":"smq"'
-bind '"늢":"smqt"'
-bind '"늣":"smt"'
-bind '"늤":"smT"'
-bind '"능":"smd"'
-bind '"늦":"smw"'
-bind '"늧":"smc"'
-bind '"늨":"smz"'
-bind '"늩":"smx"'
-bind '"늪":"smv"'
-bind '"늫":"smg"'
-bind '"늬":"sml"'
-bind '"늭":"smlr"'
-bind '"늮":"smlR"'
-bind '"늯":"smlrt"'
-bind '"늰":"smls"'
-bind '"늱":"smlsw"'
-bind '"늲":"smlsg"'
-bind '"늳":"smle"'
-bind '"늴":"smlf"'
-bind '"늵":"smlfr"'
-bind '"늶":"smlfa"'
-bind '"늷":"smlfq"'
-bind '"늸":"smlft"'
-bind '"늹":"smlfx"'
-bind '"늺":"smlfv"'
-bind '"늻":"smlfg"'
-bind '"늼":"smla"'
-bind '"늽":"smlq"'
-bind '"늾":"smlqt"'
-bind '"늿":"smlt"'
-bind '"닀":"smlT"'
-bind '"닁":"smld"'
-bind '"닂":"smlw"'
-bind '"닃":"smlc"'
-bind '"닄":"smlz"'
-bind '"닅":"smlx"'
-bind '"닆":"smlv"'
-bind '"닇":"smlg"'
-bind '"니":"sl"'
-bind '"닉":"slr"'
-bind '"닊":"slR"'
-bind '"닋":"slrt"'
-bind '"닌":"sls"'
-bind '"닍":"slsw"'
-bind '"닎":"slsg"'
-bind '"닏":"sle"'
-bind '"닐":"slf"'
-bind '"닑":"slfr"'
-bind '"닒":"slfa"'
-bind '"닓":"slfq"'
-bind '"닔":"slft"'
-bind '"닕":"slfx"'
-bind '"닖":"slfv"'
-bind '"닗":"slfg"'
-bind '"님":"sla"'
-bind '"닙":"slq"'
-bind '"닚":"slqt"'
-bind '"닛":"slt"'
-bind '"닜":"slT"'
-bind '"닝":"sld"'
-bind '"닞":"slw"'
-bind '"닟":"slc"'
-bind '"닠":"slz"'
-bind '"닡":"slx"'
-bind '"닢":"slv"'
-bind '"닣":"slg"'
-bind '"다":"ek"'
-bind '"닥":"ekr"'
-bind '"닦":"ekR"'
-bind '"닧":"ekrt"'
-bind '"단":"eks"'
-bind '"닩":"eksw"'
-bind '"닪":"eksg"'
-bind '"닫":"eke"'
-bind '"달":"ekf"'
-bind '"닭":"ekfr"'
-bind '"닮":"ekfa"'
-bind '"닯":"ekfq"'
-bind '"닰":"ekft"'
-bind '"닱":"ekfx"'
-bind '"닲":"ekfv"'
-bind '"닳":"ekfg"'
-bind '"담":"eka"'
-bind '"답":"ekq"'
-bind '"닶":"ekqt"'
-bind '"닷":"ekt"'
-bind '"닸":"ekT"'
-bind '"당":"ekd"'
-bind '"닺":"ekw"'
-bind '"닻":"ekc"'
-bind '"닼":"ekz"'
-bind '"닽":"ekx"'
-bind '"닾":"ekv"'
-bind '"닿":"ekg"'
-bind '"대":"eo"'
-bind '"댁":"eor"'
-bind '"댂":"eoR"'
-bind '"댃":"eort"'
-bind '"댄":"eos"'
-bind '"댅":"eosw"'
-bind '"댆":"eosg"'
-bind '"댇":"eoe"'
-bind '"댈":"eof"'
-bind '"댉":"eofr"'
-bind '"댊":"eofa"'
-bind '"댋":"eofq"'
-bind '"댌":"eoft"'
-bind '"댍":"eofx"'
-bind '"댎":"eofv"'
-bind '"댏":"eofg"'
-bind '"댐":"eoa"'
-bind '"댑":"eoq"'
-bind '"댒":"eoqt"'
-bind '"댓":"eot"'
-bind '"댔":"eoT"'
-bind '"댕":"eod"'
-bind '"댖":"eow"'
-bind '"댗":"eoc"'
-bind '"댘":"eoz"'
-bind '"댙":"eox"'
-bind '"댚":"eov"'
-bind '"댛":"eog"'
-bind '"댜":"ei"'
-bind '"댝":"eir"'
-bind '"댞":"eiR"'
-bind '"댟":"eirt"'
-bind '"댠":"eis"'
-bind '"댡":"eisw"'
-bind '"댢":"eisg"'
-bind '"댣":"eie"'
-bind '"댤":"eif"'
-bind '"댥":"eifr"'
-bind '"댦":"eifa"'
-bind '"댧":"eifq"'
-bind '"댨":"eift"'
-bind '"댩":"eifx"'
-bind '"댪":"eifv"'
-bind '"댫":"eifg"'
-bind '"댬":"eia"'
-bind '"댭":"eiq"'
-bind '"댮":"eiqt"'
-bind '"댯":"eit"'
-bind '"댰":"eiT"'
-bind '"댱":"eid"'
-bind '"댲":"eiw"'
-bind '"댳":"eic"'
-bind '"댴":"eiz"'
-bind '"댵":"eix"'
-bind '"댶":"eiv"'
-bind '"댷":"eig"'
-bind '"댸":"eO"'
-bind '"댹":"eOr"'
-bind '"댺":"eOR"'
-bind '"댻":"eOrt"'
-bind '"댼":"eOs"'
-bind '"댽":"eOsw"'
-bind '"댾":"eOsg"'
-bind '"댿":"eOe"'
-bind '"덀":"eOf"'
-bind '"덁":"eOfr"'
-bind '"덂":"eOfa"'
-bind '"덃":"eOfq"'
-bind '"덄":"eOft"'
-bind '"덅":"eOfx"'
-bind '"덆":"eOfv"'
-bind '"덇":"eOfg"'
-bind '"덈":"eOa"'
-bind '"덉":"eOq"'
-bind '"덊":"eOqt"'
-bind '"덋":"eOt"'
-bind '"덌":"eOT"'
-bind '"덍":"eOd"'
-bind '"덎":"eOw"'
-bind '"덏":"eOc"'
-bind '"덐":"eOz"'
-bind '"덑":"eOx"'
-bind '"덒":"eOv"'
-bind '"덓":"eOg"'
-bind '"더":"ej"'
-bind '"덕":"ejr"'
-bind '"덖":"ejR"'
-bind '"덗":"ejrt"'
-bind '"던":"ejs"'
-bind '"덙":"ejsw"'
-bind '"덚":"ejsg"'
-bind '"덛":"eje"'
-bind '"덜":"ejf"'
-bind '"덝":"ejfr"'
-bind '"덞":"ejfa"'
-bind '"덟":"ejfq"'
-bind '"덠":"ejft"'
-bind '"덡":"ejfx"'
-bind '"덢":"ejfv"'
-bind '"덣":"ejfg"'
-bind '"덤":"eja"'
-bind '"덥":"ejq"'
-bind '"덦":"ejqt"'
-bind '"덧":"ejt"'
-bind '"덨":"ejT"'
-bind '"덩":"ejd"'
-bind '"덪":"ejw"'
-bind '"덫":"ejc"'
-bind '"덬":"ejz"'
-bind '"덭":"ejx"'
-bind '"덮":"ejv"'
-bind '"덯":"ejg"'
-bind '"데":"ep"'
-bind '"덱":"epr"'
-bind '"덲":"epR"'
-bind '"덳":"eprt"'
-bind '"덴":"eps"'
-bind '"덵":"epsw"'
-bind '"덶":"epsg"'
-bind '"덷":"epe"'
-bind '"델":"epf"'
-bind '"덹":"epfr"'
-bind '"덺":"epfa"'
-bind '"덻":"epfq"'
-bind '"덼":"epft"'
-bind '"덽":"epfx"'
-bind '"덾":"epfv"'
-bind '"덿":"epfg"'
-bind '"뎀":"epa"'
-bind '"뎁":"epq"'
-bind '"뎂":"epqt"'
-bind '"뎃":"ept"'
-bind '"뎄":"epT"'
-bind '"뎅":"epd"'
-bind '"뎆":"epw"'
-bind '"뎇":"epc"'
-bind '"뎈":"epz"'
-bind '"뎉":"epx"'
-bind '"뎊":"epv"'
-bind '"뎋":"epg"'
-bind '"뎌":"eu"'
-bind '"뎍":"eur"'
-bind '"뎎":"euR"'
-bind '"뎏":"eurt"'
-bind '"뎐":"eus"'
-bind '"뎑":"eusw"'
-bind '"뎒":"eusg"'
-bind '"뎓":"eue"'
-bind '"뎔":"euf"'
-bind '"뎕":"eufr"'
-bind '"뎖":"eufa"'
-bind '"뎗":"eufq"'
-bind '"뎘":"euft"'
-bind '"뎙":"eufx"'
-bind '"뎚":"eufv"'
-bind '"뎛":"eufg"'
-bind '"뎜":"eua"'
-bind '"뎝":"euq"'
-bind '"뎞":"euqt"'
-bind '"뎟":"eut"'
-bind '"뎠":"euT"'
-bind '"뎡":"eud"'
-bind '"뎢":"euw"'
-bind '"뎣":"euc"'
-bind '"뎤":"euz"'
-bind '"뎥":"eux"'
-bind '"뎦":"euv"'
-bind '"뎧":"eug"'
-bind '"뎨":"eP"'
-bind '"뎩":"ePr"'
-bind '"뎪":"ePR"'
-bind '"뎫":"ePrt"'
-bind '"뎬":"ePs"'
-bind '"뎭":"ePsw"'
-bind '"뎮":"ePsg"'
-bind '"뎯":"ePe"'
-bind '"뎰":"ePf"'
-bind '"뎱":"ePfr"'
-bind '"뎲":"ePfa"'
-bind '"뎳":"ePfq"'
-bind '"뎴":"ePft"'
-bind '"뎵":"ePfx"'
-bind '"뎶":"ePfv"'
-bind '"뎷":"ePfg"'
-bind '"뎸":"ePa"'
-bind '"뎹":"ePq"'
-bind '"뎺":"ePqt"'
-bind '"뎻":"ePt"'
-bind '"뎼":"ePT"'
-bind '"뎽":"ePd"'
-bind '"뎾":"ePw"'
-bind '"뎿":"ePc"'
-bind '"돀":"ePz"'
-bind '"돁":"ePx"'
-bind '"돂":"ePv"'
-bind '"돃":"ePg"'
-bind '"도":"eh"'
-bind '"독":"ehr"'
-bind '"돆":"ehR"'
-bind '"돇":"ehrt"'
-bind '"돈":"ehs"'
-bind '"돉":"ehsw"'
-bind '"돊":"ehsg"'
-bind '"돋":"ehe"'
-bind '"돌":"ehf"'
-bind '"돍":"ehfr"'
-bind '"돎":"ehfa"'
-bind '"돏":"ehfq"'
-bind '"돐":"ehft"'
-bind '"돑":"ehfx"'
-bind '"돒":"ehfv"'
-bind '"돓":"ehfg"'
-bind '"돔":"eha"'
-bind '"돕":"ehq"'
-bind '"돖":"ehqt"'
-bind '"돗":"eht"'
-bind '"돘":"ehT"'
-bind '"동":"ehd"'
-bind '"돚":"ehw"'
-bind '"돛":"ehc"'
-bind '"돜":"ehz"'
-bind '"돝":"ehx"'
-bind '"돞":"ehv"'
-bind '"돟":"ehg"'
-bind '"돠":"ehk"'
-bind '"돡":"ehkr"'
-bind '"돢":"ehkR"'
-bind '"돣":"ehkrt"'
-bind '"돤":"ehks"'
-bind '"돥":"ehksw"'
-bind '"돦":"ehksg"'
-bind '"돧":"ehke"'
-bind '"돨":"ehkf"'
-bind '"돩":"ehkfr"'
-bind '"돪":"ehkfa"'
-bind '"돫":"ehkfq"'
-bind '"돬":"ehkft"'
-bind '"돭":"ehkfx"'
-bind '"돮":"ehkfv"'
-bind '"돯":"ehkfg"'
-bind '"돰":"ehka"'
-bind '"돱":"ehkq"'
-bind '"돲":"ehkqt"'
-bind '"돳":"ehkt"'
-bind '"돴":"ehkT"'
-bind '"돵":"ehkd"'
-bind '"돶":"ehkw"'
-bind '"돷":"ehkc"'
-bind '"돸":"ehkz"'
-bind '"돹":"ehkx"'
-bind '"돺":"ehkv"'
-bind '"돻":"ehkg"'
-bind '"돼":"eho"'
-bind '"돽":"ehor"'
-bind '"돾":"ehoR"'
-bind '"돿":"ehort"'
-bind '"됀":"ehos"'
-bind '"됁":"ehosw"'
-bind '"됂":"ehosg"'
-bind '"됃":"ehoe"'
-bind '"됄":"ehof"'
-bind '"됅":"ehofr"'
-bind '"됆":"ehofa"'
-bind '"됇":"ehofq"'
-bind '"됈":"ehoft"'
-bind '"됉":"ehofx"'
-bind '"됊":"ehofv"'
-bind '"됋":"ehofg"'
-bind '"됌":"ehoa"'
-bind '"됍":"ehoq"'
-bind '"됎":"ehoqt"'
-bind '"됏":"ehot"'
-bind '"됐":"ehoT"'
-bind '"됑":"ehod"'
-bind '"됒":"ehow"'
-bind '"됓":"ehoc"'
-bind '"됔":"ehoz"'
-bind '"됕":"ehox"'
-bind '"됖":"ehov"'
-bind '"됗":"ehog"'
-bind '"되":"ehl"'
-bind '"됙":"ehlr"'
-bind '"됚":"ehlR"'
-bind '"됛":"ehlrt"'
-bind '"된":"ehls"'
-bind '"됝":"ehlsw"'
-bind '"됞":"ehlsg"'
-bind '"됟":"ehle"'
-bind '"될":"ehlf"'
-bind '"됡":"ehlfr"'
-bind '"됢":"ehlfa"'
-bind '"됣":"ehlfq"'
-bind '"됤":"ehlft"'
-bind '"됥":"ehlfx"'
-bind '"됦":"ehlfv"'
-bind '"됧":"ehlfg"'
-bind '"됨":"ehla"'
-bind '"됩":"ehlq"'
-bind '"됪":"ehlqt"'
-bind '"됫":"ehlt"'
-bind '"됬":"ehlT"'
-bind '"됭":"ehld"'
-bind '"됮":"ehlw"'
-bind '"됯":"ehlc"'
-bind '"됰":"ehlz"'
-bind '"됱":"ehlx"'
-bind '"됲":"ehlv"'
-bind '"됳":"ehlg"'
-bind '"됴":"ey"'
-bind '"됵":"eyr"'
-bind '"됶":"eyR"'
-bind '"됷":"eyrt"'
-bind '"됸":"eys"'
-bind '"됹":"eysw"'
-bind '"됺":"eysg"'
-bind '"됻":"eye"'
-bind '"됼":"eyf"'
-bind '"됽":"eyfr"'
-bind '"됾":"eyfa"'
-bind '"됿":"eyfq"'
-bind '"둀":"eyft"'
-bind '"둁":"eyfx"'
-bind '"둂":"eyfv"'
-bind '"둃":"eyfg"'
-bind '"둄":"eya"'
-bind '"둅":"eyq"'
-bind '"둆":"eyqt"'
-bind '"둇":"eyt"'
-bind '"둈":"eyT"'
-bind '"둉":"eyd"'
-bind '"둊":"eyw"'
-bind '"둋":"eyc"'
-bind '"둌":"eyz"'
-bind '"둍":"eyx"'
-bind '"둎":"eyv"'
-bind '"둏":"eyg"'
-bind '"두":"en"'
-bind '"둑":"enr"'
-bind '"둒":"enR"'
-bind '"둓":"enrt"'
-bind '"둔":"ens"'
-bind '"둕":"ensw"'
-bind '"둖":"ensg"'
-bind '"둗":"ene"'
-bind '"둘":"enf"'
-bind '"둙":"enfr"'
-bind '"둚":"enfa"'
-bind '"둛":"enfq"'
-bind '"둜":"enft"'
-bind '"둝":"enfx"'
-bind '"둞":"enfv"'
-bind '"둟":"enfg"'
-bind '"둠":"ena"'
-bind '"둡":"enq"'
-bind '"둢":"enqt"'
-bind '"둣":"ent"'
-bind '"둤":"enT"'
-bind '"둥":"end"'
-bind '"둦":"enw"'
-bind '"둧":"enc"'
-bind '"둨":"enz"'
-bind '"둩":"enx"'
-bind '"둪":"env"'
-bind '"둫":"eng"'
-bind '"둬":"enj"'
-bind '"둭":"enjr"'
-bind '"둮":"enjR"'
-bind '"둯":"enjrt"'
-bind '"둰":"enjs"'
-bind '"둱":"enjsw"'
-bind '"둲":"enjsg"'
-bind '"둳":"enje"'
-bind '"둴":"enjf"'
-bind '"둵":"enjfr"'
-bind '"둶":"enjfa"'
-bind '"둷":"enjfq"'
-bind '"둸":"enjft"'
-bind '"둹":"enjfx"'
-bind '"둺":"enjfv"'
-bind '"둻":"enjfg"'
-bind '"둼":"enja"'
-bind '"둽":"enjq"'
-bind '"둾":"enjqt"'
-bind '"둿":"enjt"'
-bind '"뒀":"enjT"'
-bind '"뒁":"enjd"'
-bind '"뒂":"enjw"'
-bind '"뒃":"enjc"'
-bind '"뒄":"enjz"'
-bind '"뒅":"enjx"'
-bind '"뒆":"enjv"'
-bind '"뒇":"enjg"'
-bind '"뒈":"enp"'
-bind '"뒉":"enpr"'
-bind '"뒊":"enpR"'
-bind '"뒋":"enprt"'
-bind '"뒌":"enps"'
-bind '"뒍":"enpsw"'
-bind '"뒎":"enpsg"'
-bind '"뒏":"enpe"'
-bind '"뒐":"enpf"'
-bind '"뒑":"enpfr"'
-bind '"뒒":"enpfa"'
-bind '"뒓":"enpfq"'
-bind '"뒔":"enpft"'
-bind '"뒕":"enpfx"'
-bind '"뒖":"enpfv"'
-bind '"뒗":"enpfg"'
-bind '"뒘":"enpa"'
-bind '"뒙":"enpq"'
-bind '"뒚":"enpqt"'
-bind '"뒛":"enpt"'
-bind '"뒜":"enpT"'
-bind '"뒝":"enpd"'
-bind '"뒞":"enpw"'
-bind '"뒟":"enpc"'
-bind '"뒠":"enpz"'
-bind '"뒡":"enpx"'
-bind '"뒢":"enpv"'
-bind '"뒣":"enpg"'
-bind '"뒤":"enl"'
-bind '"뒥":"enlr"'
-bind '"뒦":"enlR"'
-bind '"뒧":"enlrt"'
-bind '"뒨":"enls"'
-bind '"뒩":"enlsw"'
-bind '"뒪":"enlsg"'
-bind '"뒫":"enle"'
-bind '"뒬":"enlf"'
-bind '"뒭":"enlfr"'
-bind '"뒮":"enlfa"'
-bind '"뒯":"enlfq"'
-bind '"뒰":"enlft"'
-bind '"뒱":"enlfx"'
-bind '"뒲":"enlfv"'
-bind '"뒳":"enlfg"'
-bind '"뒴":"enla"'
-bind '"뒵":"enlq"'
-bind '"뒶":"enlqt"'
-bind '"뒷":"enlt"'
-bind '"뒸":"enlT"'
-bind '"뒹":"enld"'
-bind '"뒺":"enlw"'
-bind '"뒻":"enlc"'
-bind '"뒼":"enlz"'
-bind '"뒽":"enlx"'
-bind '"뒾":"enlv"'
-bind '"뒿":"enlg"'
-bind '"듀":"eb"'
-bind '"듁":"ebr"'
-bind '"듂":"ebR"'
-bind '"듃":"ebrt"'
-bind '"듄":"ebs"'
-bind '"듅":"ebsw"'
-bind '"듆":"ebsg"'
-bind '"듇":"ebe"'
-bind '"듈":"ebf"'
-bind '"듉":"ebfr"'
-bind '"듊":"ebfa"'
-bind '"듋":"ebfq"'
-bind '"듌":"ebft"'
-bind '"듍":"ebfx"'
-bind '"듎":"ebfv"'
-bind '"듏":"ebfg"'
-bind '"듐":"eba"'
-bind '"듑":"ebq"'
-bind '"듒":"ebqt"'
-bind '"듓":"ebt"'
-bind '"듔":"ebT"'
-bind '"듕":"ebd"'
-bind '"듖":"ebw"'
-bind '"듗":"ebc"'
-bind '"듘":"ebz"'
-bind '"듙":"ebx"'
-bind '"듚":"ebv"'
-bind '"듛":"ebg"'
-bind '"드":"em"'
-bind '"득":"emr"'
-bind '"듞":"emR"'
-bind '"듟":"emrt"'
-bind '"든":"ems"'
-bind '"듡":"emsw"'
-bind '"듢":"emsg"'
-bind '"듣":"eme"'
-bind '"들":"emf"'
-bind '"듥":"emfr"'
-bind '"듦":"emfa"'
-bind '"듧":"emfq"'
-bind '"듨":"emft"'
-bind '"듩":"emfx"'
-bind '"듪":"emfv"'
-bind '"듫":"emfg"'
-bind '"듬":"ema"'
-bind '"듭":"emq"'
-bind '"듮":"emqt"'
-bind '"듯":"emt"'
-bind '"듰":"emT"'
-bind '"등":"emd"'
-bind '"듲":"emw"'
-bind '"듳":"emc"'
-bind '"듴":"emz"'
-bind '"듵":"emx"'
-bind '"듶":"emv"'
-bind '"듷":"emg"'
-bind '"듸":"eml"'
-bind '"듹":"emlr"'
-bind '"듺":"emlR"'
-bind '"듻":"emlrt"'
-bind '"듼":"emls"'
-bind '"듽":"emlsw"'
-bind '"듾":"emlsg"'
-bind '"듿":"emle"'
-bind '"딀":"emlf"'
-bind '"딁":"emlfr"'
-bind '"딂":"emlfa"'
-bind '"딃":"emlfq"'
-bind '"딄":"emlft"'
-bind '"딅":"emlfx"'
-bind '"딆":"emlfv"'
-bind '"딇":"emlfg"'
-bind '"딈":"emla"'
-bind '"딉":"emlq"'
-bind '"딊":"emlqt"'
-bind '"딋":"emlt"'
-bind '"딌":"emlT"'
-bind '"딍":"emld"'
-bind '"딎":"emlw"'
-bind '"딏":"emlc"'
-bind '"딐":"emlz"'
-bind '"딑":"emlx"'
-bind '"딒":"emlv"'
-bind '"딓":"emlg"'
-bind '"디":"el"'
-bind '"딕":"elr"'
-bind '"딖":"elR"'
-bind '"딗":"elrt"'
-bind '"딘":"els"'
-bind '"딙":"elsw"'
-bind '"딚":"elsg"'
-bind '"딛":"ele"'
-bind '"딜":"elf"'
-bind '"딝":"elfr"'
-bind '"딞":"elfa"'
-bind '"딟":"elfq"'
-bind '"딠":"elft"'
-bind '"딡":"elfx"'
-bind '"딢":"elfv"'
-bind '"딣":"elfg"'
-bind '"딤":"ela"'
-bind '"딥":"elq"'
-bind '"딦":"elqt"'
-bind '"딧":"elt"'
-bind '"딨":"elT"'
-bind '"딩":"eld"'
-bind '"딪":"elw"'
-bind '"딫":"elc"'
-bind '"딬":"elz"'
-bind '"딭":"elx"'
-bind '"딮":"elv"'
-bind '"딯":"elg"'
-bind '"따":"Ek"'
-bind '"딱":"Ekr"'
-bind '"딲":"EkR"'
-bind '"딳":"Ekrt"'
-bind '"딴":"Eks"'
-bind '"딵":"Eksw"'
-bind '"딶":"Eksg"'
-bind '"딷":"Eke"'
-bind '"딸":"Ekf"'
-bind '"딹":"Ekfr"'
-bind '"딺":"Ekfa"'
-bind '"딻":"Ekfq"'
-bind '"딼":"Ekft"'
-bind '"딽":"Ekfx"'
-bind '"딾":"Ekfv"'
-bind '"딿":"Ekfg"'
-bind '"땀":"Eka"'
-bind '"땁":"Ekq"'
-bind '"땂":"Ekqt"'
-bind '"땃":"Ekt"'
-bind '"땄":"EkT"'
-bind '"땅":"Ekd"'
-bind '"땆":"Ekw"'
-bind '"땇":"Ekc"'
-bind '"땈":"Ekz"'
-bind '"땉":"Ekx"'
-bind '"땊":"Ekv"'
-bind '"땋":"Ekg"'
-bind '"때":"Eo"'
-bind '"땍":"Eor"'
-bind '"땎":"EoR"'
-bind '"땏":"Eort"'
-bind '"땐":"Eos"'
-bind '"땑":"Eosw"'
-bind '"땒":"Eosg"'
-bind '"땓":"Eoe"'
-bind '"땔":"Eof"'
-bind '"땕":"Eofr"'
-bind '"땖":"Eofa"'
-bind '"땗":"Eofq"'
-bind '"땘":"Eoft"'
-bind '"땙":"Eofx"'
-bind '"땚":"Eofv"'
-bind '"땛":"Eofg"'
-bind '"땜":"Eoa"'
-bind '"땝":"Eoq"'
-bind '"땞":"Eoqt"'
-bind '"땟":"Eot"'
-bind '"땠":"EoT"'
-bind '"땡":"Eod"'
-bind '"땢":"Eow"'
-bind '"땣":"Eoc"'
-bind '"땤":"Eoz"'
-bind '"땥":"Eox"'
-bind '"땦":"Eov"'
-bind '"땧":"Eog"'
-bind '"땨":"Ei"'
-bind '"땩":"Eir"'
-bind '"땪":"EiR"'
-bind '"땫":"Eirt"'
-bind '"땬":"Eis"'
-bind '"땭":"Eisw"'
-bind '"땮":"Eisg"'
-bind '"땯":"Eie"'
-bind '"땰":"Eif"'
-bind '"땱":"Eifr"'
-bind '"땲":"Eifa"'
-bind '"땳":"Eifq"'
-bind '"땴":"Eift"'
-bind '"땵":"Eifx"'
-bind '"땶":"Eifv"'
-bind '"땷":"Eifg"'
-bind '"땸":"Eia"'
-bind '"땹":"Eiq"'
-bind '"땺":"Eiqt"'
-bind '"땻":"Eit"'
-bind '"땼":"EiT"'
-bind '"땽":"Eid"'
-bind '"땾":"Eiw"'
-bind '"땿":"Eic"'
-bind '"떀":"Eiz"'
-bind '"떁":"Eix"'
-bind '"떂":"Eiv"'
-bind '"떃":"Eig"'
-bind '"떄":"EO"'
-bind '"떅":"EOr"'
-bind '"떆":"EOR"'
-bind '"떇":"EOrt"'
-bind '"떈":"EOs"'
-bind '"떉":"EOsw"'
-bind '"떊":"EOsg"'
-bind '"떋":"EOe"'
-bind '"떌":"EOf"'
-bind '"떍":"EOfr"'
-bind '"떎":"EOfa"'
-bind '"떏":"EOfq"'
-bind '"떐":"EOft"'
-bind '"떑":"EOfx"'
-bind '"떒":"EOfv"'
-bind '"떓":"EOfg"'
-bind '"떔":"EOa"'
-bind '"떕":"EOq"'
-bind '"떖":"EOqt"'
-bind '"떗":"EOt"'
-bind '"떘":"EOT"'
-bind '"떙":"EOd"'
-bind '"떚":"EOw"'
-bind '"떛":"EOc"'
-bind '"떜":"EOz"'
-bind '"떝":"EOx"'
-bind '"떞":"EOv"'
-bind '"떟":"EOg"'
-bind '"떠":"Ej"'
-bind '"떡":"Ejr"'
-bind '"떢":"EjR"'
-bind '"떣":"Ejrt"'
-bind '"떤":"Ejs"'
-bind '"떥":"Ejsw"'
-bind '"떦":"Ejsg"'
-bind '"떧":"Eje"'
-bind '"떨":"Ejf"'
-bind '"떩":"Ejfr"'
-bind '"떪":"Ejfa"'
-bind '"떫":"Ejfq"'
-bind '"떬":"Ejft"'
-bind '"떭":"Ejfx"'
-bind '"떮":"Ejfv"'
-bind '"떯":"Ejfg"'
-bind '"떰":"Eja"'
-bind '"떱":"Ejq"'
-bind '"떲":"Ejqt"'
-bind '"떳":"Ejt"'
-bind '"떴":"EjT"'
-bind '"떵":"Ejd"'
-bind '"떶":"Ejw"'
-bind '"떷":"Ejc"'
-bind '"떸":"Ejz"'
-bind '"떹":"Ejx"'
-bind '"떺":"Ejv"'
-bind '"떻":"Ejg"'
-bind '"떼":"Ep"'
-bind '"떽":"Epr"'
-bind '"떾":"EpR"'
-bind '"떿":"Eprt"'
-bind '"뗀":"Eps"'
-bind '"뗁":"Epsw"'
-bind '"뗂":"Epsg"'
-bind '"뗃":"Epe"'
-bind '"뗄":"Epf"'
-bind '"뗅":"Epfr"'
-bind '"뗆":"Epfa"'
-bind '"뗇":"Epfq"'
-bind '"뗈":"Epft"'
-bind '"뗉":"Epfx"'
-bind '"뗊":"Epfv"'
-bind '"뗋":"Epfg"'
-bind '"뗌":"Epa"'
-bind '"뗍":"Epq"'
-bind '"뗎":"Epqt"'
-bind '"뗏":"Ept"'
-bind '"뗐":"EpT"'
-bind '"뗑":"Epd"'
-bind '"뗒":"Epw"'
-bind '"뗓":"Epc"'
-bind '"뗔":"Epz"'
-bind '"뗕":"Epx"'
-bind '"뗖":"Epv"'
-bind '"뗗":"Epg"'
-bind '"뗘":"Eu"'
-bind '"뗙":"Eur"'
-bind '"뗚":"EuR"'
-bind '"뗛":"Eurt"'
-bind '"뗜":"Eus"'
-bind '"뗝":"Eusw"'
-bind '"뗞":"Eusg"'
-bind '"뗟":"Eue"'
-bind '"뗠":"Euf"'
-bind '"뗡":"Eufr"'
-bind '"뗢":"Eufa"'
-bind '"뗣":"Eufq"'
-bind '"뗤":"Euft"'
-bind '"뗥":"Eufx"'
-bind '"뗦":"Eufv"'
-bind '"뗧":"Eufg"'
-bind '"뗨":"Eua"'
-bind '"뗩":"Euq"'
-bind '"뗪":"Euqt"'
-bind '"뗫":"Eut"'
-bind '"뗬":"EuT"'
-bind '"뗭":"Eud"'
-bind '"뗮":"Euw"'
-bind '"뗯":"Euc"'
-bind '"뗰":"Euz"'
-bind '"뗱":"Eux"'
-bind '"뗲":"Euv"'
-bind '"뗳":"Eug"'
-bind '"뗴":"EP"'
-bind '"뗵":"EPr"'
-bind '"뗶":"EPR"'
-bind '"뗷":"EPrt"'
-bind '"뗸":"EPs"'
-bind '"뗹":"EPsw"'
-bind '"뗺":"EPsg"'
-bind '"뗻":"EPe"'
-bind '"뗼":"EPf"'
-bind '"뗽":"EPfr"'
-bind '"뗾":"EPfa"'
-bind '"뗿":"EPfq"'
-bind '"똀":"EPft"'
-bind '"똁":"EPfx"'
-bind '"똂":"EPfv"'
-bind '"똃":"EPfg"'
-bind '"똄":"EPa"'
-bind '"똅":"EPq"'
-bind '"똆":"EPqt"'
-bind '"똇":"EPt"'
-bind '"똈":"EPT"'
-bind '"똉":"EPd"'
-bind '"똊":"EPw"'
-bind '"똋":"EPc"'
-bind '"똌":"EPz"'
-bind '"똍":"EPx"'
-bind '"똎":"EPv"'
-bind '"똏":"EPg"'
-bind '"또":"Eh"'
-bind '"똑":"Ehr"'
-bind '"똒":"EhR"'
-bind '"똓":"Ehrt"'
-bind '"똔":"Ehs"'
-bind '"똕":"Ehsw"'
-bind '"똖":"Ehsg"'
-bind '"똗":"Ehe"'
-bind '"똘":"Ehf"'
-bind '"똙":"Ehfr"'
-bind '"똚":"Ehfa"'
-bind '"똛":"Ehfq"'
-bind '"똜":"Ehft"'
-bind '"똝":"Ehfx"'
-bind '"똞":"Ehfv"'
-bind '"똟":"Ehfg"'
-bind '"똠":"Eha"'
-bind '"똡":"Ehq"'
-bind '"똢":"Ehqt"'
-bind '"똣":"Eht"'
-bind '"똤":"EhT"'
-bind '"똥":"Ehd"'
-bind '"똦":"Ehw"'
-bind '"똧":"Ehc"'
-bind '"똨":"Ehz"'
-bind '"똩":"Ehx"'
-bind '"똪":"Ehv"'
-bind '"똫":"Ehg"'
-bind '"똬":"Ehk"'
-bind '"똭":"Ehkr"'
-bind '"똮":"EhkR"'
-bind '"똯":"Ehkrt"'
-bind '"똰":"Ehks"'
-bind '"똱":"Ehksw"'
-bind '"똲":"Ehksg"'
-bind '"똳":"Ehke"'
-bind '"똴":"Ehkf"'
-bind '"똵":"Ehkfr"'
-bind '"똶":"Ehkfa"'
-bind '"똷":"Ehkfq"'
-bind '"똸":"Ehkft"'
-bind '"똹":"Ehkfx"'
-bind '"똺":"Ehkfv"'
-bind '"똻":"Ehkfg"'
-bind '"똼":"Ehka"'
-bind '"똽":"Ehkq"'
-bind '"똾":"Ehkqt"'
-bind '"똿":"Ehkt"'
-bind '"뙀":"EhkT"'
-bind '"뙁":"Ehkd"'
-bind '"뙂":"Ehkw"'
-bind '"뙃":"Ehkc"'
-bind '"뙄":"Ehkz"'
-bind '"뙅":"Ehkx"'
-bind '"뙆":"Ehkv"'
-bind '"뙇":"Ehkg"'
-bind '"뙈":"Eho"'
-bind '"뙉":"Ehor"'
-bind '"뙊":"EhoR"'
-bind '"뙋":"Ehort"'
-bind '"뙌":"Ehos"'
-bind '"뙍":"Ehosw"'
-bind '"뙎":"Ehosg"'
-bind '"뙏":"Ehoe"'
-bind '"뙐":"Ehof"'
-bind '"뙑":"Ehofr"'
-bind '"뙒":"Ehofa"'
-bind '"뙓":"Ehofq"'
-bind '"뙔":"Ehoft"'
-bind '"뙕":"Ehofx"'
-bind '"뙖":"Ehofv"'
-bind '"뙗":"Ehofg"'
-bind '"뙘":"Ehoa"'
-bind '"뙙":"Ehoq"'
-bind '"뙚":"Ehoqt"'
-bind '"뙛":"Ehot"'
-bind '"뙜":"EhoT"'
-bind '"뙝":"Ehod"'
-bind '"뙞":"Ehow"'
-bind '"뙟":"Ehoc"'
-bind '"뙠":"Ehoz"'
-bind '"뙡":"Ehox"'
-bind '"뙢":"Ehov"'
-bind '"뙣":"Ehog"'
-bind '"뙤":"Ehl"'
-bind '"뙥":"Ehlr"'
-bind '"뙦":"EhlR"'
-bind '"뙧":"Ehlrt"'
-bind '"뙨":"Ehls"'
-bind '"뙩":"Ehlsw"'
-bind '"뙪":"Ehlsg"'
-bind '"뙫":"Ehle"'
-bind '"뙬":"Ehlf"'
-bind '"뙭":"Ehlfr"'
-bind '"뙮":"Ehlfa"'
-bind '"뙯":"Ehlfq"'
-bind '"뙰":"Ehlft"'
-bind '"뙱":"Ehlfx"'
-bind '"뙲":"Ehlfv"'
-bind '"뙳":"Ehlfg"'
-bind '"뙴":"Ehla"'
-bind '"뙵":"Ehlq"'
-bind '"뙶":"Ehlqt"'
-bind '"뙷":"Ehlt"'
-bind '"뙸":"EhlT"'
-bind '"뙹":"Ehld"'
-bind '"뙺":"Ehlw"'
-bind '"뙻":"Ehlc"'
-bind '"뙼":"Ehlz"'
-bind '"뙽":"Ehlx"'
-bind '"뙾":"Ehlv"'
-bind '"뙿":"Ehlg"'
-bind '"뚀":"Ey"'
-bind '"뚁":"Eyr"'
-bind '"뚂":"EyR"'
-bind '"뚃":"Eyrt"'
-bind '"뚄":"Eys"'
-bind '"뚅":"Eysw"'
-bind '"뚆":"Eysg"'
-bind '"뚇":"Eye"'
-bind '"뚈":"Eyf"'
-bind '"뚉":"Eyfr"'
-bind '"뚊":"Eyfa"'
-bind '"뚋":"Eyfq"'
-bind '"뚌":"Eyft"'
-bind '"뚍":"Eyfx"'
-bind '"뚎":"Eyfv"'
-bind '"뚏":"Eyfg"'
-bind '"뚐":"Eya"'
-bind '"뚑":"Eyq"'
-bind '"뚒":"Eyqt"'
-bind '"뚓":"Eyt"'
-bind '"뚔":"EyT"'
-bind '"뚕":"Eyd"'
-bind '"뚖":"Eyw"'
-bind '"뚗":"Eyc"'
-bind '"뚘":"Eyz"'
-bind '"뚙":"Eyx"'
-bind '"뚚":"Eyv"'
-bind '"뚛":"Eyg"'
-bind '"뚜":"En"'
-bind '"뚝":"Enr"'
-bind '"뚞":"EnR"'
-bind '"뚟":"Enrt"'
-bind '"뚠":"Ens"'
-bind '"뚡":"Ensw"'
-bind '"뚢":"Ensg"'
-bind '"뚣":"Ene"'
-bind '"뚤":"Enf"'
-bind '"뚥":"Enfr"'
-bind '"뚦":"Enfa"'
-bind '"뚧":"Enfq"'
-bind '"뚨":"Enft"'
-bind '"뚩":"Enfx"'
-bind '"뚪":"Enfv"'
-bind '"뚫":"Enfg"'
-bind '"뚬":"Ena"'
-bind '"뚭":"Enq"'
-bind '"뚮":"Enqt"'
-bind '"뚯":"Ent"'
-bind '"뚰":"EnT"'
-bind '"뚱":"End"'
-bind '"뚲":"Enw"'
-bind '"뚳":"Enc"'
-bind '"뚴":"Enz"'
-bind '"뚵":"Enx"'
-bind '"뚶":"Env"'
-bind '"뚷":"Eng"'
-bind '"뚸":"Enj"'
-bind '"뚹":"Enjr"'
-bind '"뚺":"EnjR"'
-bind '"뚻":"Enjrt"'
-bind '"뚼":"Enjs"'
-bind '"뚽":"Enjsw"'
-bind '"뚾":"Enjsg"'
-bind '"뚿":"Enje"'
-bind '"뛀":"Enjf"'
-bind '"뛁":"Enjfr"'
-bind '"뛂":"Enjfa"'
-bind '"뛃":"Enjfq"'
-bind '"뛄":"Enjft"'
-bind '"뛅":"Enjfx"'
-bind '"뛆":"Enjfv"'
-bind '"뛇":"Enjfg"'
-bind '"뛈":"Enja"'
-bind '"뛉":"Enjq"'
-bind '"뛊":"Enjqt"'
-bind '"뛋":"Enjt"'
-bind '"뛌":"EnjT"'
-bind '"뛍":"Enjd"'
-bind '"뛎":"Enjw"'
-bind '"뛏":"Enjc"'
-bind '"뛐":"Enjz"'
-bind '"뛑":"Enjx"'
-bind '"뛒":"Enjv"'
-bind '"뛓":"Enjg"'
-bind '"뛔":"Enp"'
-bind '"뛕":"Enpr"'
-bind '"뛖":"EnpR"'
-bind '"뛗":"Enprt"'
-bind '"뛘":"Enps"'
-bind '"뛙":"Enpsw"'
-bind '"뛚":"Enpsg"'
-bind '"뛛":"Enpe"'
-bind '"뛜":"Enpf"'
-bind '"뛝":"Enpfr"'
-bind '"뛞":"Enpfa"'
-bind '"뛟":"Enpfq"'
-bind '"뛠":"Enpft"'
-bind '"뛡":"Enpfx"'
-bind '"뛢":"Enpfv"'
-bind '"뛣":"Enpfg"'
-bind '"뛤":"Enpa"'
-bind '"뛥":"Enpq"'
-bind '"뛦":"Enpqt"'
-bind '"뛧":"Enpt"'
-bind '"뛨":"EnpT"'
-bind '"뛩":"Enpd"'
-bind '"뛪":"Enpw"'
-bind '"뛫":"Enpc"'
-bind '"뛬":"Enpz"'
-bind '"뛭":"Enpx"'
-bind '"뛮":"Enpv"'
-bind '"뛯":"Enpg"'
-bind '"뛰":"Enl"'
-bind '"뛱":"Enlr"'
-bind '"뛲":"EnlR"'
-bind '"뛳":"Enlrt"'
-bind '"뛴":"Enls"'
-bind '"뛵":"Enlsw"'
-bind '"뛶":"Enlsg"'
-bind '"뛷":"Enle"'
-bind '"뛸":"Enlf"'
-bind '"뛹":"Enlfr"'
-bind '"뛺":"Enlfa"'
-bind '"뛻":"Enlfq"'
-bind '"뛼":"Enlft"'
-bind '"뛽":"Enlfx"'
-bind '"뛾":"Enlfv"'
-bind '"뛿":"Enlfg"'
-bind '"뜀":"Enla"'
-bind '"뜁":"Enlq"'
-bind '"뜂":"Enlqt"'
-bind '"뜃":"Enlt"'
-bind '"뜄":"EnlT"'
-bind '"뜅":"Enld"'
-bind '"뜆":"Enlw"'
-bind '"뜇":"Enlc"'
-bind '"뜈":"Enlz"'
-bind '"뜉":"Enlx"'
-bind '"뜊":"Enlv"'
-bind '"뜋":"Enlg"'
-bind '"뜌":"Eb"'
-bind '"뜍":"Ebr"'
-bind '"뜎":"EbR"'
-bind '"뜏":"Ebrt"'
-bind '"뜐":"Ebs"'
-bind '"뜑":"Ebsw"'
-bind '"뜒":"Ebsg"'
-bind '"뜓":"Ebe"'
-bind '"뜔":"Ebf"'
-bind '"뜕":"Ebfr"'
-bind '"뜖":"Ebfa"'
-bind '"뜗":"Ebfq"'
-bind '"뜘":"Ebft"'
-bind '"뜙":"Ebfx"'
-bind '"뜚":"Ebfv"'
-bind '"뜛":"Ebfg"'
-bind '"뜜":"Eba"'
-bind '"뜝":"Ebq"'
-bind '"뜞":"Ebqt"'
-bind '"뜟":"Ebt"'
-bind '"뜠":"EbT"'
-bind '"뜡":"Ebd"'
-bind '"뜢":"Ebw"'
-bind '"뜣":"Ebc"'
-bind '"뜤":"Ebz"'
-bind '"뜥":"Ebx"'
-bind '"뜦":"Ebv"'
-bind '"뜧":"Ebg"'
-bind '"뜨":"Em"'
-bind '"뜩":"Emr"'
-bind '"뜪":"EmR"'
-bind '"뜫":"Emrt"'
-bind '"뜬":"Ems"'
-bind '"뜭":"Emsw"'
-bind '"뜮":"Emsg"'
-bind '"뜯":"Eme"'
-bind '"뜰":"Emf"'
-bind '"뜱":"Emfr"'
-bind '"뜲":"Emfa"'
-bind '"뜳":"Emfq"'
-bind '"뜴":"Emft"'
-bind '"뜵":"Emfx"'
-bind '"뜶":"Emfv"'
-bind '"뜷":"Emfg"'
-bind '"뜸":"Ema"'
-bind '"뜹":"Emq"'
-bind '"뜺":"Emqt"'
-bind '"뜻":"Emt"'
-bind '"뜼":"EmT"'
-bind '"뜽":"Emd"'
-bind '"뜾":"Emw"'
-bind '"뜿":"Emc"'
-bind '"띀":"Emz"'
-bind '"띁":"Emx"'
-bind '"띂":"Emv"'
-bind '"띃":"Emg"'
-bind '"띄":"Eml"'
-bind '"띅":"Emlr"'
-bind '"띆":"EmlR"'
-bind '"띇":"Emlrt"'
-bind '"띈":"Emls"'
-bind '"띉":"Emlsw"'
-bind '"띊":"Emlsg"'
-bind '"띋":"Emle"'
-bind '"띌":"Emlf"'
-bind '"띍":"Emlfr"'
-bind '"띎":"Emlfa"'
-bind '"띏":"Emlfq"'
-bind '"띐":"Emlft"'
-bind '"띑":"Emlfx"'
-bind '"띒":"Emlfv"'
-bind '"띓":"Emlfg"'
-bind '"띔":"Emla"'
-bind '"띕":"Emlq"'
-bind '"띖":"Emlqt"'
-bind '"띗":"Emlt"'
-bind '"띘":"EmlT"'
-bind '"띙":"Emld"'
-bind '"띚":"Emlw"'
-bind '"띛":"Emlc"'
-bind '"띜":"Emlz"'
-bind '"띝":"Emlx"'
-bind '"띞":"Emlv"'
-bind '"띟":"Emlg"'
-bind '"띠":"El"'
-bind '"띡":"Elr"'
-bind '"띢":"ElR"'
-bind '"띣":"Elrt"'
-bind '"띤":"Els"'
-bind '"띥":"Elsw"'
-bind '"띦":"Elsg"'
-bind '"띧":"Ele"'
-bind '"띨":"Elf"'
-bind '"띩":"Elfr"'
-bind '"띪":"Elfa"'
-bind '"띫":"Elfq"'
-bind '"띬":"Elft"'
-bind '"띭":"Elfx"'
-bind '"띮":"Elfv"'
-bind '"띯":"Elfg"'
-bind '"띰":"Ela"'
-bind '"띱":"Elq"'
-bind '"띲":"Elqt"'
-bind '"띳":"Elt"'
-bind '"띴":"ElT"'
-bind '"띵":"Eld"'
-bind '"띶":"Elw"'
-bind '"띷":"Elc"'
-bind '"띸":"Elz"'
-bind '"띹":"Elx"'
-bind '"띺":"Elv"'
-bind '"띻":"Elg"'
-bind '"라":"fk"'
-bind '"락":"fkr"'
-bind '"띾":"fkR"'
-bind '"띿":"fkrt"'
-bind '"란":"fks"'
-bind '"랁":"fksw"'
-bind '"랂":"fksg"'
-bind '"랃":"fke"'
-bind '"랄":"fkf"'
-bind '"랅":"fkfr"'
-bind '"랆":"fkfa"'
-bind '"랇":"fkfq"'
-bind '"랈":"fkft"'
-bind '"랉":"fkfx"'
-bind '"랊":"fkfv"'
-bind '"랋":"fkfg"'
-bind '"람":"fka"'
-bind '"랍":"fkq"'
-bind '"랎":"fkqt"'
-bind '"랏":"fkt"'
-bind '"랐":"fkT"'
-bind '"랑":"fkd"'
-bind '"랒":"fkw"'
-bind '"랓":"fkc"'
-bind '"랔":"fkz"'
-bind '"랕":"fkx"'
-bind '"랖":"fkv"'
-bind '"랗":"fkg"'
-bind '"래":"fo"'
-bind '"랙":"for"'
-bind '"랚":"foR"'
-bind '"랛":"fort"'
-bind '"랜":"fos"'
-bind '"랝":"fosw"'
-bind '"랞":"fosg"'
-bind '"랟":"foe"'
-bind '"랠":"fof"'
-bind '"랡":"fofr"'
-bind '"랢":"fofa"'
-bind '"랣":"fofq"'
-bind '"랤":"foft"'
-bind '"랥":"fofx"'
-bind '"랦":"fofv"'
-bind '"랧":"fofg"'
-bind '"램":"foa"'
-bind '"랩":"foq"'
-bind '"랪":"foqt"'
-bind '"랫":"fot"'
-bind '"랬":"foT"'
-bind '"랭":"fod"'
-bind '"랮":"fow"'
-bind '"랯":"foc"'
-bind '"랰":"foz"'
-bind '"랱":"fox"'
-bind '"랲":"fov"'
-bind '"랳":"fog"'
-bind '"랴":"fi"'
-bind '"략":"fir"'
-bind '"랶":"fiR"'
-bind '"랷":"firt"'
-bind '"랸":"fis"'
-bind '"랹":"fisw"'
-bind '"랺":"fisg"'
-bind '"랻":"fie"'
-bind '"랼":"fif"'
-bind '"랽":"fifr"'
-bind '"랾":"fifa"'
-bind '"랿":"fifq"'
-bind '"럀":"fift"'
-bind '"럁":"fifx"'
-bind '"럂":"fifv"'
-bind '"럃":"fifg"'
-bind '"럄":"fia"'
-bind '"럅":"fiq"'
-bind '"럆":"fiqt"'
-bind '"럇":"fit"'
-bind '"럈":"fiT"'
-bind '"량":"fid"'
-bind '"럊":"fiw"'
-bind '"럋":"fic"'
-bind '"럌":"fiz"'
-bind '"럍":"fix"'
-bind '"럎":"fiv"'
-bind '"럏":"fig"'
-bind '"럐":"fO"'
-bind '"럑":"fOr"'
-bind '"럒":"fOR"'
-bind '"럓":"fOrt"'
-bind '"럔":"fOs"'
-bind '"럕":"fOsw"'
-bind '"럖":"fOsg"'
-bind '"럗":"fOe"'
-bind '"럘":"fOf"'
-bind '"럙":"fOfr"'
-bind '"럚":"fOfa"'
-bind '"럛":"fOfq"'
-bind '"럜":"fOft"'
-bind '"럝":"fOfx"'
-bind '"럞":"fOfv"'
-bind '"럟":"fOfg"'
-bind '"럠":"fOa"'
-bind '"럡":"fOq"'
-bind '"럢":"fOqt"'
-bind '"럣":"fOt"'
-bind '"럤":"fOT"'
-bind '"럥":"fOd"'
-bind '"럦":"fOw"'
-bind '"럧":"fOc"'
-bind '"럨":"fOz"'
-bind '"럩":"fOx"'
-bind '"럪":"fOv"'
-bind '"럫":"fOg"'
-bind '"러":"fj"'
-bind '"럭":"fjr"'
-bind '"럮":"fjR"'
-bind '"럯":"fjrt"'
-bind '"런":"fjs"'
-bind '"럱":"fjsw"'
-bind '"럲":"fjsg"'
-bind '"럳":"fje"'
-bind '"럴":"fjf"'
-bind '"럵":"fjfr"'
-bind '"럶":"fjfa"'
-bind '"럷":"fjfq"'
-bind '"럸":"fjft"'
-bind '"럹":"fjfx"'
-bind '"럺":"fjfv"'
-bind '"럻":"fjfg"'
-bind '"럼":"fja"'
-bind '"럽":"fjq"'
-bind '"럾":"fjqt"'
-bind '"럿":"fjt"'
-bind '"렀":"fjT"'
-bind '"렁":"fjd"'
-bind '"렂":"fjw"'
-bind '"렃":"fjc"'
-bind '"렄":"fjz"'
-bind '"렅":"fjx"'
-bind '"렆":"fjv"'
-bind '"렇":"fjg"'
-bind '"레":"fp"'
-bind '"렉":"fpr"'
-bind '"렊":"fpR"'
-bind '"렋":"fprt"'
-bind '"렌":"fps"'
-bind '"렍":"fpsw"'
-bind '"렎":"fpsg"'
-bind '"렏":"fpe"'
-bind '"렐":"fpf"'
-bind '"렑":"fpfr"'
-bind '"렒":"fpfa"'
-bind '"렓":"fpfq"'
-bind '"렔":"fpft"'
-bind '"렕":"fpfx"'
-bind '"렖":"fpfv"'
-bind '"렗":"fpfg"'
-bind '"렘":"fpa"'
-bind '"렙":"fpq"'
-bind '"렚":"fpqt"'
-bind '"렛":"fpt"'
-bind '"렜":"fpT"'
-bind '"렝":"fpd"'
-bind '"렞":"fpw"'
-bind '"렟":"fpc"'
-bind '"렠":"fpz"'
-bind '"렡":"fpx"'
-bind '"렢":"fpv"'
-bind '"렣":"fpg"'
-bind '"려":"fu"'
-bind '"력":"fur"'
-bind '"렦":"fuR"'
-bind '"렧":"furt"'
-bind '"련":"fus"'
-bind '"렩":"fusw"'
-bind '"렪":"fusg"'
-bind '"렫":"fue"'
-bind '"렬":"fuf"'
-bind '"렭":"fufr"'
-bind '"렮":"fufa"'
-bind '"렯":"fufq"'
-bind '"렰":"fuft"'
-bind '"렱":"fufx"'
-bind '"렲":"fufv"'
-bind '"렳":"fufg"'
-bind '"렴":"fua"'
-bind '"렵":"fuq"'
-bind '"렶":"fuqt"'
-bind '"렷":"fut"'
-bind '"렸":"fuT"'
-bind '"령":"fud"'
-bind '"렺":"fuw"'
-bind '"렻":"fuc"'
-bind '"렼":"fuz"'
-bind '"렽":"fux"'
-bind '"렾":"fuv"'
-bind '"렿":"fug"'
-bind '"례":"fP"'
-bind '"롁":"fPr"'
-bind '"롂":"fPR"'
-bind '"롃":"fPrt"'
-bind '"롄":"fPs"'
-bind '"롅":"fPsw"'
-bind '"롆":"fPsg"'
-bind '"롇":"fPe"'
-bind '"롈":"fPf"'
-bind '"롉":"fPfr"'
-bind '"롊":"fPfa"'
-bind '"롋":"fPfq"'
-bind '"롌":"fPft"'
-bind '"롍":"fPfx"'
-bind '"롎":"fPfv"'
-bind '"롏":"fPfg"'
-bind '"롐":"fPa"'
-bind '"롑":"fPq"'
-bind '"롒":"fPqt"'
-bind '"롓":"fPt"'
-bind '"롔":"fPT"'
-bind '"롕":"fPd"'
-bind '"롖":"fPw"'
-bind '"롗":"fPc"'
-bind '"롘":"fPz"'
-bind '"롙":"fPx"'
-bind '"롚":"fPv"'
-bind '"롛":"fPg"'
-bind '"로":"fh"'
-bind '"록":"fhr"'
-bind '"롞":"fhR"'
-bind '"롟":"fhrt"'
-bind '"론":"fhs"'
-bind '"롡":"fhsw"'
-bind '"롢":"fhsg"'
-bind '"롣":"fhe"'
-bind '"롤":"fhf"'
-bind '"롥":"fhfr"'
-bind '"롦":"fhfa"'
-bind '"롧":"fhfq"'
-bind '"롨":"fhft"'
-bind '"롩":"fhfx"'
-bind '"롪":"fhfv"'
-bind '"롫":"fhfg"'
-bind '"롬":"fha"'
-bind '"롭":"fhq"'
-bind '"롮":"fhqt"'
-bind '"롯":"fht"'
-bind '"롰":"fhT"'
-bind '"롱":"fhd"'
-bind '"롲":"fhw"'
-bind '"롳":"fhc"'
-bind '"롴":"fhz"'
-bind '"롵":"fhx"'
-bind '"롶":"fhv"'
-bind '"롷":"fhg"'
-bind '"롸":"fhk"'
-bind '"롹":"fhkr"'
-bind '"롺":"fhkR"'
-bind '"롻":"fhkrt"'
-bind '"롼":"fhks"'
-bind '"롽":"fhksw"'
-bind '"롾":"fhksg"'
-bind '"롿":"fhke"'
-bind '"뢀":"fhkf"'
-bind '"뢁":"fhkfr"'
-bind '"뢂":"fhkfa"'
-bind '"뢃":"fhkfq"'
-bind '"뢄":"fhkft"'
-bind '"뢅":"fhkfx"'
-bind '"뢆":"fhkfv"'
-bind '"뢇":"fhkfg"'
-bind '"뢈":"fhka"'
-bind '"뢉":"fhkq"'
-bind '"뢊":"fhkqt"'
-bind '"뢋":"fhkt"'
-bind '"뢌":"fhkT"'
-bind '"뢍":"fhkd"'
-bind '"뢎":"fhkw"'
-bind '"뢏":"fhkc"'
-bind '"뢐":"fhkz"'
-bind '"뢑":"fhkx"'
-bind '"뢒":"fhkv"'
-bind '"뢓":"fhkg"'
-bind '"뢔":"fho"'
-bind '"뢕":"fhor"'
-bind '"뢖":"fhoR"'
-bind '"뢗":"fhort"'
-bind '"뢘":"fhos"'
-bind '"뢙":"fhosw"'
-bind '"뢚":"fhosg"'
-bind '"뢛":"fhoe"'
-bind '"뢜":"fhof"'
-bind '"뢝":"fhofr"'
-bind '"뢞":"fhofa"'
-bind '"뢟":"fhofq"'
-bind '"뢠":"fhoft"'
-bind '"뢡":"fhofx"'
-bind '"뢢":"fhofv"'
-bind '"뢣":"fhofg"'
-bind '"뢤":"fhoa"'
-bind '"뢥":"fhoq"'
-bind '"뢦":"fhoqt"'
-bind '"뢧":"fhot"'
-bind '"뢨":"fhoT"'
-bind '"뢩":"fhod"'
-bind '"뢪":"fhow"'
-bind '"뢫":"fhoc"'
-bind '"뢬":"fhoz"'
-bind '"뢭":"fhox"'
-bind '"뢮":"fhov"'
-bind '"뢯":"fhog"'
-bind '"뢰":"fhl"'
-bind '"뢱":"fhlr"'
-bind '"뢲":"fhlR"'
-bind '"뢳":"fhlrt"'
-bind '"뢴":"fhls"'
-bind '"뢵":"fhlsw"'
-bind '"뢶":"fhlsg"'
-bind '"뢷":"fhle"'
-bind '"뢸":"fhlf"'
-bind '"뢹":"fhlfr"'
-bind '"뢺":"fhlfa"'
-bind '"뢻":"fhlfq"'
-bind '"뢼":"fhlft"'
-bind '"뢽":"fhlfx"'
-bind '"뢾":"fhlfv"'
-bind '"뢿":"fhlfg"'
-bind '"룀":"fhla"'
-bind '"룁":"fhlq"'
-bind '"룂":"fhlqt"'
-bind '"룃":"fhlt"'
-bind '"룄":"fhlT"'
-bind '"룅":"fhld"'
-bind '"룆":"fhlw"'
-bind '"룇":"fhlc"'
-bind '"룈":"fhlz"'
-bind '"룉":"fhlx"'
-bind '"룊":"fhlv"'
-bind '"룋":"fhlg"'
-bind '"료":"fy"'
-bind '"룍":"fyr"'
-bind '"룎":"fyR"'
-bind '"룏":"fyrt"'
-bind '"룐":"fys"'
-bind '"룑":"fysw"'
-bind '"룒":"fysg"'
-bind '"룓":"fye"'
-bind '"룔":"fyf"'
-bind '"룕":"fyfr"'
-bind '"룖":"fyfa"'
-bind '"룗":"fyfq"'
-bind '"룘":"fyft"'
-bind '"룙":"fyfx"'
-bind '"룚":"fyfv"'
-bind '"룛":"fyfg"'
-bind '"룜":"fya"'
-bind '"룝":"fyq"'
-bind '"룞":"fyqt"'
-bind '"룟":"fyt"'
-bind '"룠":"fyT"'
-bind '"룡":"fyd"'
-bind '"룢":"fyw"'
-bind '"룣":"fyc"'
-bind '"룤":"fyz"'
-bind '"룥":"fyx"'
-bind '"룦":"fyv"'
-bind '"룧":"fyg"'
-bind '"루":"fn"'
-bind '"룩":"fnr"'
-bind '"룪":"fnR"'
-bind '"룫":"fnrt"'
-bind '"룬":"fns"'
-bind '"룭":"fnsw"'
-bind '"룮":"fnsg"'
-bind '"룯":"fne"'
-bind '"룰":"fnf"'
-bind '"룱":"fnfr"'
-bind '"룲":"fnfa"'
-bind '"룳":"fnfq"'
-bind '"룴":"fnft"'
-bind '"룵":"fnfx"'
-bind '"룶":"fnfv"'
-bind '"룷":"fnfg"'
-bind '"룸":"fna"'
-bind '"룹":"fnq"'
-bind '"룺":"fnqt"'
-bind '"룻":"fnt"'
-bind '"룼":"fnT"'
-bind '"룽":"fnd"'
-bind '"룾":"fnw"'
-bind '"룿":"fnc"'
-bind '"뤀":"fnz"'
-bind '"뤁":"fnx"'
-bind '"뤂":"fnv"'
-bind '"뤃":"fng"'
-bind '"뤄":"fnj"'
-bind '"뤅":"fnjr"'
-bind '"뤆":"fnjR"'
-bind '"뤇":"fnjrt"'
-bind '"뤈":"fnjs"'
-bind '"뤉":"fnjsw"'
-bind '"뤊":"fnjsg"'
-bind '"뤋":"fnje"'
-bind '"뤌":"fnjf"'
-bind '"뤍":"fnjfr"'
-bind '"뤎":"fnjfa"'
-bind '"뤏":"fnjfq"'
-bind '"뤐":"fnjft"'
-bind '"뤑":"fnjfx"'
-bind '"뤒":"fnjfv"'
-bind '"뤓":"fnjfg"'
-bind '"뤔":"fnja"'
-bind '"뤕":"fnjq"'
-bind '"뤖":"fnjqt"'
-bind '"뤗":"fnjt"'
-bind '"뤘":"fnjT"'
-bind '"뤙":"fnjd"'
-bind '"뤚":"fnjw"'
-bind '"뤛":"fnjc"'
-bind '"뤜":"fnjz"'
-bind '"뤝":"fnjx"'
-bind '"뤞":"fnjv"'
-bind '"뤟":"fnjg"'
-bind '"뤠":"fnp"'
-bind '"뤡":"fnpr"'
-bind '"뤢":"fnpR"'
-bind '"뤣":"fnprt"'
-bind '"뤤":"fnps"'
-bind '"뤥":"fnpsw"'
-bind '"뤦":"fnpsg"'
-bind '"뤧":"fnpe"'
-bind '"뤨":"fnpf"'
-bind '"뤩":"fnpfr"'
-bind '"뤪":"fnpfa"'
-bind '"뤫":"fnpfq"'
-bind '"뤬":"fnpft"'
-bind '"뤭":"fnpfx"'
-bind '"뤮":"fnpfv"'
-bind '"뤯":"fnpfg"'
-bind '"뤰":"fnpa"'
-bind '"뤱":"fnpq"'
-bind '"뤲":"fnpqt"'
-bind '"뤳":"fnpt"'
-bind '"뤴":"fnpT"'
-bind '"뤵":"fnpd"'
-bind '"뤶":"fnpw"'
-bind '"뤷":"fnpc"'
-bind '"뤸":"fnpz"'
-bind '"뤹":"fnpx"'
-bind '"뤺":"fnpv"'
-bind '"뤻":"fnpg"'
-bind '"뤼":"fnl"'
-bind '"뤽":"fnlr"'
-bind '"뤾":"fnlR"'
-bind '"뤿":"fnlrt"'
-bind '"륀":"fnls"'
-bind '"륁":"fnlsw"'
-bind '"륂":"fnlsg"'
-bind '"륃":"fnle"'
-bind '"륄":"fnlf"'
-bind '"륅":"fnlfr"'
-bind '"륆":"fnlfa"'
-bind '"륇":"fnlfq"'
-bind '"륈":"fnlft"'
-bind '"륉":"fnlfx"'
-bind '"륊":"fnlfv"'
-bind '"륋":"fnlfg"'
-bind '"륌":"fnla"'
-bind '"륍":"fnlq"'
-bind '"륎":"fnlqt"'
-bind '"륏":"fnlt"'
-bind '"륐":"fnlT"'
-bind '"륑":"fnld"'
-bind '"륒":"fnlw"'
-bind '"륓":"fnlc"'
-bind '"륔":"fnlz"'
-bind '"륕":"fnlx"'
-bind '"륖":"fnlv"'
-bind '"륗":"fnlg"'
-bind '"류":"fb"'
-bind '"륙":"fbr"'
-bind '"륚":"fbR"'
-bind '"륛":"fbrt"'
-bind '"륜":"fbs"'
-bind '"륝":"fbsw"'
-bind '"륞":"fbsg"'
-bind '"륟":"fbe"'
-bind '"률":"fbf"'
-bind '"륡":"fbfr"'
-bind '"륢":"fbfa"'
-bind '"륣":"fbfq"'
-bind '"륤":"fbft"'
-bind '"륥":"fbfx"'
-bind '"륦":"fbfv"'
-bind '"륧":"fbfg"'
-bind '"륨":"fba"'
-bind '"륩":"fbq"'
-bind '"륪":"fbqt"'
-bind '"륫":"fbt"'
-bind '"륬":"fbT"'
-bind '"륭":"fbd"'
-bind '"륮":"fbw"'
-bind '"륯":"fbc"'
-bind '"륰":"fbz"'
-bind '"륱":"fbx"'
-bind '"륲":"fbv"'
-bind '"륳":"fbg"'
-bind '"르":"fm"'
-bind '"륵":"fmr"'
-bind '"륶":"fmR"'
-bind '"륷":"fmrt"'
-bind '"른":"fms"'
-bind '"륹":"fmsw"'
-bind '"륺":"fmsg"'
-bind '"륻":"fme"'
-bind '"를":"fmf"'
-bind '"륽":"fmfr"'
-bind '"륾":"fmfa"'
-bind '"륿":"fmfq"'
-bind '"릀":"fmft"'
-bind '"릁":"fmfx"'
-bind '"릂":"fmfv"'
-bind '"릃":"fmfg"'
-bind '"름":"fma"'
-bind '"릅":"fmq"'
-bind '"릆":"fmqt"'
-bind '"릇":"fmt"'
-bind '"릈":"fmT"'
-bind '"릉":"fmd"'
-bind '"릊":"fmw"'
-bind '"릋":"fmc"'
-bind '"릌":"fmz"'
-bind '"릍":"fmx"'
-bind '"릎":"fmv"'
-bind '"릏":"fmg"'
-bind '"릐":"fml"'
-bind '"릑":"fmlr"'
-bind '"릒":"fmlR"'
-bind '"릓":"fmlrt"'
-bind '"릔":"fmls"'
-bind '"릕":"fmlsw"'
-bind '"릖":"fmlsg"'
-bind '"릗":"fmle"'
-bind '"릘":"fmlf"'
-bind '"릙":"fmlfr"'
-bind '"릚":"fmlfa"'
-bind '"릛":"fmlfq"'
-bind '"릜":"fmlft"'
-bind '"릝":"fmlfx"'
-bind '"릞":"fmlfv"'
-bind '"릟":"fmlfg"'
-bind '"릠":"fmla"'
-bind '"릡":"fmlq"'
-bind '"릢":"fmlqt"'
-bind '"릣":"fmlt"'
-bind '"릤":"fmlT"'
-bind '"릥":"fmld"'
-bind '"릦":"fmlw"'
-bind '"릧":"fmlc"'
-bind '"릨":"fmlz"'
-bind '"릩":"fmlx"'
-bind '"릪":"fmlv"'
-bind '"릫":"fmlg"'
-bind '"리":"fl"'
-bind '"릭":"flr"'
-bind '"릮":"flR"'
-bind '"릯":"flrt"'
-bind '"린":"fls"'
-bind '"릱":"flsw"'
-bind '"릲":"flsg"'
-bind '"릳":"fle"'
-bind '"릴":"flf"'
-bind '"릵":"flfr"'
-bind '"릶":"flfa"'
-bind '"릷":"flfq"'
-bind '"릸":"flft"'
-bind '"릹":"flfx"'
-bind '"릺":"flfv"'
-bind '"릻":"flfg"'
-bind '"림":"fla"'
-bind '"립":"flq"'
-bind '"릾":"flqt"'
-bind '"릿":"flt"'
-bind '"맀":"flT"'
-bind '"링":"fld"'
-bind '"맂":"flw"'
-bind '"맃":"flc"'
-bind '"맄":"flz"'
-bind '"맅":"flx"'
-bind '"맆":"flv"'
-bind '"맇":"flg"'
-bind '"마":"ak"'
-bind '"막":"akr"'
-bind '"맊":"akR"'
-bind '"맋":"akrt"'
-bind '"만":"aks"'
-bind '"맍":"aksw"'
-bind '"많":"aksg"'
-bind '"맏":"ake"'
-bind '"말":"akf"'
-bind '"맑":"akfr"'
-bind '"맒":"akfa"'
-bind '"맓":"akfq"'
-bind '"맔":"akft"'
-bind '"맕":"akfx"'
-bind '"맖":"akfv"'
-bind '"맗":"akfg"'
-bind '"맘":"aka"'
-bind '"맙":"akq"'
-bind '"맚":"akqt"'
-bind '"맛":"akt"'
-bind '"맜":"akT"'
-bind '"망":"akd"'
-bind '"맞":"akw"'
-bind '"맟":"akc"'
-bind '"맠":"akz"'
-bind '"맡":"akx"'
-bind '"맢":"akv"'
-bind '"맣":"akg"'
-bind '"매":"ao"'
-bind '"맥":"aor"'
-bind '"맦":"aoR"'
-bind '"맧":"aort"'
-bind '"맨":"aos"'
-bind '"맩":"aosw"'
-bind '"맪":"aosg"'
-bind '"맫":"aoe"'
-bind '"맬":"aof"'
-bind '"맭":"aofr"'
-bind '"맮":"aofa"'
-bind '"맯":"aofq"'
-bind '"맰":"aoft"'
-bind '"맱":"aofx"'
-bind '"맲":"aofv"'
-bind '"맳":"aofg"'
-bind '"맴":"aoa"'
-bind '"맵":"aoq"'
-bind '"맶":"aoqt"'
-bind '"맷":"aot"'
-bind '"맸":"aoT"'
-bind '"맹":"aod"'
-bind '"맺":"aow"'
-bind '"맻":"aoc"'
-bind '"맼":"aoz"'
-bind '"맽":"aox"'
-bind '"맾":"aov"'
-bind '"맿":"aog"'
-bind '"먀":"ai"'
-bind '"먁":"air"'
-bind '"먂":"aiR"'
-bind '"먃":"airt"'
-bind '"먄":"ais"'
-bind '"먅":"aisw"'
-bind '"먆":"aisg"'
-bind '"먇":"aie"'
-bind '"먈":"aif"'
-bind '"먉":"aifr"'
-bind '"먊":"aifa"'
-bind '"먋":"aifq"'
-bind '"먌":"aift"'
-bind '"먍":"aifx"'
-bind '"먎":"aifv"'
-bind '"먏":"aifg"'
-bind '"먐":"aia"'
-bind '"먑":"aiq"'
-bind '"먒":"aiqt"'
-bind '"먓":"ait"'
-bind '"먔":"aiT"'
-bind '"먕":"aid"'
-bind '"먖":"aiw"'
-bind '"먗":"aic"'
-bind '"먘":"aiz"'
-bind '"먙":"aix"'
-bind '"먚":"aiv"'
-bind '"먛":"aig"'
-bind '"먜":"aO"'
-bind '"먝":"aOr"'
-bind '"먞":"aOR"'
-bind '"먟":"aOrt"'
-bind '"먠":"aOs"'
-bind '"먡":"aOsw"'
-bind '"먢":"aOsg"'
-bind '"먣":"aOe"'
-bind '"먤":"aOf"'
-bind '"먥":"aOfr"'
-bind '"먦":"aOfa"'
-bind '"먧":"aOfq"'
-bind '"먨":"aOft"'
-bind '"먩":"aOfx"'
-bind '"먪":"aOfv"'
-bind '"먫":"aOfg"'
-bind '"먬":"aOa"'
-bind '"먭":"aOq"'
-bind '"먮":"aOqt"'
-bind '"먯":"aOt"'
-bind '"먰":"aOT"'
-bind '"먱":"aOd"'
-bind '"먲":"aOw"'
-bind '"먳":"aOc"'
-bind '"먴":"aOz"'
-bind '"먵":"aOx"'
-bind '"먶":"aOv"'
-bind '"먷":"aOg"'
-bind '"머":"aj"'
-bind '"먹":"ajr"'
-bind '"먺":"ajR"'
-bind '"먻":"ajrt"'
-bind '"먼":"ajs"'
-bind '"먽":"ajsw"'
-bind '"먾":"ajsg"'
-bind '"먿":"aje"'
-bind '"멀":"ajf"'
-bind '"멁":"ajfr"'
-bind '"멂":"ajfa"'
-bind '"멃":"ajfq"'
-bind '"멄":"ajft"'
-bind '"멅":"ajfx"'
-bind '"멆":"ajfv"'
-bind '"멇":"ajfg"'
-bind '"멈":"aja"'
-bind '"멉":"ajq"'
-bind '"멊":"ajqt"'
-bind '"멋":"ajt"'
-bind '"멌":"ajT"'
-bind '"멍":"ajd"'
-bind '"멎":"ajw"'
-bind '"멏":"ajc"'
-bind '"멐":"ajz"'
-bind '"멑":"ajx"'
-bind '"멒":"ajv"'
-bind '"멓":"ajg"'
-bind '"메":"ap"'
-bind '"멕":"apr"'
-bind '"멖":"apR"'
-bind '"멗":"aprt"'
-bind '"멘":"aps"'
-bind '"멙":"apsw"'
-bind '"멚":"apsg"'
-bind '"멛":"ape"'
-bind '"멜":"apf"'
-bind '"멝":"apfr"'
-bind '"멞":"apfa"'
-bind '"멟":"apfq"'
-bind '"멠":"apft"'
-bind '"멡":"apfx"'
-bind '"멢":"apfv"'
-bind '"멣":"apfg"'
-bind '"멤":"apa"'
-bind '"멥":"apq"'
-bind '"멦":"apqt"'
-bind '"멧":"apt"'
-bind '"멨":"apT"'
-bind '"멩":"apd"'
-bind '"멪":"apw"'
-bind '"멫":"apc"'
-bind '"멬":"apz"'
-bind '"멭":"apx"'
-bind '"멮":"apv"'
-bind '"멯":"apg"'
-bind '"며":"au"'
-bind '"멱":"aur"'
-bind '"멲":"auR"'
-bind '"멳":"aurt"'
-bind '"면":"aus"'
-bind '"멵":"ausw"'
-bind '"멶":"ausg"'
-bind '"멷":"aue"'
-bind '"멸":"auf"'
-bind '"멹":"aufr"'
-bind '"멺":"aufa"'
-bind '"멻":"aufq"'
-bind '"멼":"auft"'
-bind '"멽":"aufx"'
-bind '"멾":"aufv"'
-bind '"멿":"aufg"'
-bind '"몀":"aua"'
-bind '"몁":"auq"'
-bind '"몂":"auqt"'
-bind '"몃":"aut"'
-bind '"몄":"auT"'
-bind '"명":"aud"'
-bind '"몆":"auw"'
-bind '"몇":"auc"'
-bind '"몈":"auz"'
-bind '"몉":"aux"'
-bind '"몊":"auv"'
-bind '"몋":"aug"'
-bind '"몌":"aP"'
-bind '"몍":"aPr"'
-bind '"몎":"aPR"'
-bind '"몏":"aPrt"'
-bind '"몐":"aPs"'
-bind '"몑":"aPsw"'
-bind '"몒":"aPsg"'
-bind '"몓":"aPe"'
-bind '"몔":"aPf"'
-bind '"몕":"aPfr"'
-bind '"몖":"aPfa"'
-bind '"몗":"aPfq"'
-bind '"몘":"aPft"'
-bind '"몙":"aPfx"'
-bind '"몚":"aPfv"'
-bind '"몛":"aPfg"'
-bind '"몜":"aPa"'
-bind '"몝":"aPq"'
-bind '"몞":"aPqt"'
-bind '"몟":"aPt"'
-bind '"몠":"aPT"'
-bind '"몡":"aPd"'
-bind '"몢":"aPw"'
-bind '"몣":"aPc"'
-bind '"몤":"aPz"'
-bind '"몥":"aPx"'
-bind '"몦":"aPv"'
-bind '"몧":"aPg"'
-bind '"모":"ah"'
-bind '"목":"ahr"'
-bind '"몪":"ahR"'
-bind '"몫":"ahrt"'
-bind '"몬":"ahs"'
-bind '"몭":"ahsw"'
-bind '"몮":"ahsg"'
-bind '"몯":"ahe"'
-bind '"몰":"ahf"'
-bind '"몱":"ahfr"'
-bind '"몲":"ahfa"'
-bind '"몳":"ahfq"'
-bind '"몴":"ahft"'
-bind '"몵":"ahfx"'
-bind '"몶":"ahfv"'
-bind '"몷":"ahfg"'
-bind '"몸":"aha"'
-bind '"몹":"ahq"'
-bind '"몺":"ahqt"'
-bind '"못":"aht"'
-bind '"몼":"ahT"'
-bind '"몽":"ahd"'
-bind '"몾":"ahw"'
-bind '"몿":"ahc"'
-bind '"뫀":"ahz"'
-bind '"뫁":"ahx"'
-bind '"뫂":"ahv"'
-bind '"뫃":"ahg"'
-bind '"뫄":"ahk"'
-bind '"뫅":"ahkr"'
-bind '"뫆":"ahkR"'
-bind '"뫇":"ahkrt"'
-bind '"뫈":"ahks"'
-bind '"뫉":"ahksw"'
-bind '"뫊":"ahksg"'
-bind '"뫋":"ahke"'
-bind '"뫌":"ahkf"'
-bind '"뫍":"ahkfr"'
-bind '"뫎":"ahkfa"'
-bind '"뫏":"ahkfq"'
-bind '"뫐":"ahkft"'
-bind '"뫑":"ahkfx"'
-bind '"뫒":"ahkfv"'
-bind '"뫓":"ahkfg"'
-bind '"뫔":"ahka"'
-bind '"뫕":"ahkq"'
-bind '"뫖":"ahkqt"'
-bind '"뫗":"ahkt"'
-bind '"뫘":"ahkT"'
-bind '"뫙":"ahkd"'
-bind '"뫚":"ahkw"'
-bind '"뫛":"ahkc"'
-bind '"뫜":"ahkz"'
-bind '"뫝":"ahkx"'
-bind '"뫞":"ahkv"'
-bind '"뫟":"ahkg"'
-bind '"뫠":"aho"'
-bind '"뫡":"ahor"'
-bind '"뫢":"ahoR"'
-bind '"뫣":"ahort"'
-bind '"뫤":"ahos"'
-bind '"뫥":"ahosw"'
-bind '"뫦":"ahosg"'
-bind '"뫧":"ahoe"'
-bind '"뫨":"ahof"'
-bind '"뫩":"ahofr"'
-bind '"뫪":"ahofa"'
-bind '"뫫":"ahofq"'
-bind '"뫬":"ahoft"'
-bind '"뫭":"ahofx"'
-bind '"뫮":"ahofv"'
-bind '"뫯":"ahofg"'
-bind '"뫰":"ahoa"'
-bind '"뫱":"ahoq"'
-bind '"뫲":"ahoqt"'
-bind '"뫳":"ahot"'
-bind '"뫴":"ahoT"'
-bind '"뫵":"ahod"'
-bind '"뫶":"ahow"'
-bind '"뫷":"ahoc"'
-bind '"뫸":"ahoz"'
-bind '"뫹":"ahox"'
-bind '"뫺":"ahov"'
-bind '"뫻":"ahog"'
-bind '"뫼":"ahl"'
-bind '"뫽":"ahlr"'
-bind '"뫾":"ahlR"'
-bind '"뫿":"ahlrt"'
-bind '"묀":"ahls"'
-bind '"묁":"ahlsw"'
-bind '"묂":"ahlsg"'
-bind '"묃":"ahle"'
-bind '"묄":"ahlf"'
-bind '"묅":"ahlfr"'
-bind '"묆":"ahlfa"'
-bind '"묇":"ahlfq"'
-bind '"묈":"ahlft"'
-bind '"묉":"ahlfx"'
-bind '"묊":"ahlfv"'
-bind '"묋":"ahlfg"'
-bind '"묌":"ahla"'
-bind '"묍":"ahlq"'
-bind '"묎":"ahlqt"'
-bind '"묏":"ahlt"'
-bind '"묐":"ahlT"'
-bind '"묑":"ahld"'
-bind '"묒":"ahlw"'
-bind '"묓":"ahlc"'
-bind '"묔":"ahlz"'
-bind '"묕":"ahlx"'
-bind '"묖":"ahlv"'
-bind '"묗":"ahlg"'
-bind '"묘":"ay"'
-bind '"묙":"ayr"'
-bind '"묚":"ayR"'
-bind '"묛":"ayrt"'
-bind '"묜":"ays"'
-bind '"묝":"aysw"'
-bind '"묞":"aysg"'
-bind '"묟":"aye"'
-bind '"묠":"ayf"'
-bind '"묡":"ayfr"'
-bind '"묢":"ayfa"'
-bind '"묣":"ayfq"'
-bind '"묤":"ayft"'
-bind '"묥":"ayfx"'
-bind '"묦":"ayfv"'
-bind '"묧":"ayfg"'
-bind '"묨":"aya"'
-bind '"묩":"ayq"'
-bind '"묪":"ayqt"'
-bind '"묫":"ayt"'
-bind '"묬":"ayT"'
-bind '"묭":"ayd"'
-bind '"묮":"ayw"'
-bind '"묯":"ayc"'
-bind '"묰":"ayz"'
-bind '"묱":"ayx"'
-bind '"묲":"ayv"'
-bind '"묳":"ayg"'
-bind '"무":"an"'
-bind '"묵":"anr"'
-bind '"묶":"anR"'
-bind '"묷":"anrt"'
-bind '"문":"ans"'
-bind '"묹":"answ"'
-bind '"묺":"ansg"'
-bind '"묻":"ane"'
-bind '"물":"anf"'
-bind '"묽":"anfr"'
-bind '"묾":"anfa"'
-bind '"묿":"anfq"'
-bind '"뭀":"anft"'
-bind '"뭁":"anfx"'
-bind '"뭂":"anfv"'
-bind '"뭃":"anfg"'
-bind '"뭄":"ana"'
-bind '"뭅":"anq"'
-bind '"뭆":"anqt"'
-bind '"뭇":"ant"'
-bind '"뭈":"anT"'
-bind '"뭉":"and"'
-bind '"뭊":"anw"'
-bind '"뭋":"anc"'
-bind '"뭌":"anz"'
-bind '"뭍":"anx"'
-bind '"뭎":"anv"'
-bind '"뭏":"ang"'
-bind '"뭐":"anj"'
-bind '"뭑":"anjr"'
-bind '"뭒":"anjR"'
-bind '"뭓":"anjrt"'
-bind '"뭔":"anjs"'
-bind '"뭕":"anjsw"'
-bind '"뭖":"anjsg"'
-bind '"뭗":"anje"'
-bind '"뭘":"anjf"'
-bind '"뭙":"anjfr"'
-bind '"뭚":"anjfa"'
-bind '"뭛":"anjfq"'
-bind '"뭜":"anjft"'
-bind '"뭝":"anjfx"'
-bind '"뭞":"anjfv"'
-bind '"뭟":"anjfg"'
-bind '"뭠":"anja"'
-bind '"뭡":"anjq"'
-bind '"뭢":"anjqt"'
-bind '"뭣":"anjt"'
-bind '"뭤":"anjT"'
-bind '"뭥":"anjd"'
-bind '"뭦":"anjw"'
-bind '"뭧":"anjc"'
-bind '"뭨":"anjz"'
-bind '"뭩":"anjx"'
-bind '"뭪":"anjv"'
-bind '"뭫":"anjg"'
-bind '"뭬":"anp"'
-bind '"뭭":"anpr"'
-bind '"뭮":"anpR"'
-bind '"뭯":"anprt"'
-bind '"뭰":"anps"'
-bind '"뭱":"anpsw"'
-bind '"뭲":"anpsg"'
-bind '"뭳":"anpe"'
-bind '"뭴":"anpf"'
-bind '"뭵":"anpfr"'
-bind '"뭶":"anpfa"'
-bind '"뭷":"anpfq"'
-bind '"뭸":"anpft"'
-bind '"뭹":"anpfx"'
-bind '"뭺":"anpfv"'
-bind '"뭻":"anpfg"'
-bind '"뭼":"anpa"'
-bind '"뭽":"anpq"'
-bind '"뭾":"anpqt"'
-bind '"뭿":"anpt"'
-bind '"뮀":"anpT"'
-bind '"뮁":"anpd"'
-bind '"뮂":"anpw"'
-bind '"뮃":"anpc"'
-bind '"뮄":"anpz"'
-bind '"뮅":"anpx"'
-bind '"뮆":"anpv"'
-bind '"뮇":"anpg"'
-bind '"뮈":"anl"'
-bind '"뮉":"anlr"'
-bind '"뮊":"anlR"'
-bind '"뮋":"anlrt"'
-bind '"뮌":"anls"'
-bind '"뮍":"anlsw"'
-bind '"뮎":"anlsg"'
-bind '"뮏":"anle"'
-bind '"뮐":"anlf"'
-bind '"뮑":"anlfr"'
-bind '"뮒":"anlfa"'
-bind '"뮓":"anlfq"'
-bind '"뮔":"anlft"'
-bind '"뮕":"anlfx"'
-bind '"뮖":"anlfv"'
-bind '"뮗":"anlfg"'
-bind '"뮘":"anla"'
-bind '"뮙":"anlq"'
-bind '"뮚":"anlqt"'
-bind '"뮛":"anlt"'
-bind '"뮜":"anlT"'
-bind '"뮝":"anld"'
-bind '"뮞":"anlw"'
-bind '"뮟":"anlc"'
-bind '"뮠":"anlz"'
-bind '"뮡":"anlx"'
-bind '"뮢":"anlv"'
-bind '"뮣":"anlg"'
-bind '"뮤":"ab"'
-bind '"뮥":"abr"'
-bind '"뮦":"abR"'
-bind '"뮧":"abrt"'
-bind '"뮨":"abs"'
-bind '"뮩":"absw"'
-bind '"뮪":"absg"'
-bind '"뮫":"abe"'
-bind '"뮬":"abf"'
-bind '"뮭":"abfr"'
-bind '"뮮":"abfa"'
-bind '"뮯":"abfq"'
-bind '"뮰":"abft"'
-bind '"뮱":"abfx"'
-bind '"뮲":"abfv"'
-bind '"뮳":"abfg"'
-bind '"뮴":"aba"'
-bind '"뮵":"abq"'
-bind '"뮶":"abqt"'
-bind '"뮷":"abt"'
-bind '"뮸":"abT"'
-bind '"뮹":"abd"'
-bind '"뮺":"abw"'
-bind '"뮻":"abc"'
-bind '"뮼":"abz"'
-bind '"뮽":"abx"'
-bind '"뮾":"abv"'
-bind '"뮿":"abg"'
-bind '"므":"am"'
-bind '"믁":"amr"'
-bind '"믂":"amR"'
-bind '"믃":"amrt"'
-bind '"믄":"ams"'
-bind '"믅":"amsw"'
-bind '"믆":"amsg"'
-bind '"믇":"ame"'
-bind '"믈":"amf"'
-bind '"믉":"amfr"'
-bind '"믊":"amfa"'
-bind '"믋":"amfq"'
-bind '"믌":"amft"'
-bind '"믍":"amfx"'
-bind '"믎":"amfv"'
-bind '"믏":"amfg"'
-bind '"믐":"ama"'
-bind '"믑":"amq"'
-bind '"믒":"amqt"'
-bind '"믓":"amt"'
-bind '"믔":"amT"'
-bind '"믕":"amd"'
-bind '"믖":"amw"'
-bind '"믗":"amc"'
-bind '"믘":"amz"'
-bind '"믙":"amx"'
-bind '"믚":"amv"'
-bind '"믛":"amg"'
-bind '"믜":"aml"'
-bind '"믝":"amlr"'
-bind '"믞":"amlR"'
-bind '"믟":"amlrt"'
-bind '"믠":"amls"'
-bind '"믡":"amlsw"'
-bind '"믢":"amlsg"'
-bind '"믣":"amle"'
-bind '"믤":"amlf"'
-bind '"믥":"amlfr"'
-bind '"믦":"amlfa"'
-bind '"믧":"amlfq"'
-bind '"믨":"amlft"'
-bind '"믩":"amlfx"'
-bind '"믪":"amlfv"'
-bind '"믫":"amlfg"'
-bind '"믬":"amla"'
-bind '"믭":"amlq"'
-bind '"믮":"amlqt"'
-bind '"믯":"amlt"'
-bind '"믰":"amlT"'
-bind '"믱":"amld"'
-bind '"믲":"amlw"'
-bind '"믳":"amlc"'
-bind '"믴":"amlz"'
-bind '"믵":"amlx"'
-bind '"믶":"amlv"'
-bind '"믷":"amlg"'
-bind '"미":"al"'
-bind '"믹":"alr"'
-bind '"믺":"alR"'
-bind '"믻":"alrt"'
-bind '"민":"als"'
-bind '"믽":"alsw"'
-bind '"믾":"alsg"'
-bind '"믿":"ale"'
-bind '"밀":"alf"'
-bind '"밁":"alfr"'
-bind '"밂":"alfa"'
-bind '"밃":"alfq"'
-bind '"밄":"alft"'
-bind '"밅":"alfx"'
-bind '"밆":"alfv"'
-bind '"밇":"alfg"'
-bind '"밈":"ala"'
-bind '"밉":"alq"'
-bind '"밊":"alqt"'
-bind '"밋":"alt"'
-bind '"밌":"alT"'
-bind '"밍":"ald"'
-bind '"밎":"alw"'
-bind '"및":"alc"'
-bind '"밐":"alz"'
-bind '"밑":"alx"'
-bind '"밒":"alv"'
-bind '"밓":"alg"'
-bind '"바":"qk"'
-bind '"박":"qkr"'
-bind '"밖":"qkR"'
-bind '"밗":"qkrt"'
-bind '"반":"qks"'
-bind '"밙":"qksw"'
-bind '"밚":"qksg"'
-bind '"받":"qke"'
-bind '"발":"qkf"'
-bind '"밝":"qkfr"'
-bind '"밞":"qkfa"'
-bind '"밟":"qkfq"'
-bind '"밠":"qkft"'
-bind '"밡":"qkfx"'
-bind '"밢":"qkfv"'
-bind '"밣":"qkfg"'
-bind '"밤":"qka"'
-bind '"밥":"qkq"'
-bind '"밦":"qkqt"'
-bind '"밧":"qkt"'
-bind '"밨":"qkT"'
-bind '"방":"qkd"'
-bind '"밪":"qkw"'
-bind '"밫":"qkc"'
-bind '"밬":"qkz"'
-bind '"밭":"qkx"'
-bind '"밮":"qkv"'
-bind '"밯":"qkg"'
-bind '"배":"qo"'
-bind '"백":"qor"'
-bind '"밲":"qoR"'
-bind '"밳":"qort"'
-bind '"밴":"qos"'
-bind '"밵":"qosw"'
-bind '"밶":"qosg"'
-bind '"밷":"qoe"'
-bind '"밸":"qof"'
-bind '"밹":"qofr"'
-bind '"밺":"qofa"'
-bind '"밻":"qofq"'
-bind '"밼":"qoft"'
-bind '"밽":"qofx"'
-bind '"밾":"qofv"'
-bind '"밿":"qofg"'
-bind '"뱀":"qoa"'
-bind '"뱁":"qoq"'
-bind '"뱂":"qoqt"'
-bind '"뱃":"qot"'
-bind '"뱄":"qoT"'
-bind '"뱅":"qod"'
-bind '"뱆":"qow"'
-bind '"뱇":"qoc"'
-bind '"뱈":"qoz"'
-bind '"뱉":"qox"'
-bind '"뱊":"qov"'
-bind '"뱋":"qog"'
-bind '"뱌":"qi"'
-bind '"뱍":"qir"'
-bind '"뱎":"qiR"'
-bind '"뱏":"qirt"'
-bind '"뱐":"qis"'
-bind '"뱑":"qisw"'
-bind '"뱒":"qisg"'
-bind '"뱓":"qie"'
-bind '"뱔":"qif"'
-bind '"뱕":"qifr"'
-bind '"뱖":"qifa"'
-bind '"뱗":"qifq"'
-bind '"뱘":"qift"'
-bind '"뱙":"qifx"'
-bind '"뱚":"qifv"'
-bind '"뱛":"qifg"'
-bind '"뱜":"qia"'
-bind '"뱝":"qiq"'
-bind '"뱞":"qiqt"'
-bind '"뱟":"qit"'
-bind '"뱠":"qiT"'
-bind '"뱡":"qid"'
-bind '"뱢":"qiw"'
-bind '"뱣":"qic"'
-bind '"뱤":"qiz"'
-bind '"뱥":"qix"'
-bind '"뱦":"qiv"'
-bind '"뱧":"qig"'
-bind '"뱨":"qO"'
-bind '"뱩":"qOr"'
-bind '"뱪":"qOR"'
-bind '"뱫":"qOrt"'
-bind '"뱬":"qOs"'
-bind '"뱭":"qOsw"'
-bind '"뱮":"qOsg"'
-bind '"뱯":"qOe"'
-bind '"뱰":"qOf"'
-bind '"뱱":"qOfr"'
-bind '"뱲":"qOfa"'
-bind '"뱳":"qOfq"'
-bind '"뱴":"qOft"'
-bind '"뱵":"qOfx"'
-bind '"뱶":"qOfv"'
-bind '"뱷":"qOfg"'
-bind '"뱸":"qOa"'
-bind '"뱹":"qOq"'
-bind '"뱺":"qOqt"'
-bind '"뱻":"qOt"'
-bind '"뱼":"qOT"'
-bind '"뱽":"qOd"'
-bind '"뱾":"qOw"'
-bind '"뱿":"qOc"'
-bind '"벀":"qOz"'
-bind '"벁":"qOx"'
-bind '"벂":"qOv"'
-bind '"벃":"qOg"'
-bind '"버":"qj"'
-bind '"벅":"qjr"'
-bind '"벆":"qjR"'
-bind '"벇":"qjrt"'
-bind '"번":"qjs"'
-bind '"벉":"qjsw"'
-bind '"벊":"qjsg"'
-bind '"벋":"qje"'
-bind '"벌":"qjf"'
-bind '"벍":"qjfr"'
-bind '"벎":"qjfa"'
-bind '"벏":"qjfq"'
-bind '"벐":"qjft"'
-bind '"벑":"qjfx"'
-bind '"벒":"qjfv"'
-bind '"벓":"qjfg"'
-bind '"범":"qja"'
-bind '"법":"qjq"'
-bind '"벖":"qjqt"'
-bind '"벗":"qjt"'
-bind '"벘":"qjT"'
-bind '"벙":"qjd"'
-bind '"벚":"qjw"'
-bind '"벛":"qjc"'
-bind '"벜":"qjz"'
-bind '"벝":"qjx"'
-bind '"벞":"qjv"'
-bind '"벟":"qjg"'
-bind '"베":"qp"'
-bind '"벡":"qpr"'
-bind '"벢":"qpR"'
-bind '"벣":"qprt"'
-bind '"벤":"qps"'
-bind '"벥":"qpsw"'
-bind '"벦":"qpsg"'
-bind '"벧":"qpe"'
-bind '"벨":"qpf"'
-bind '"벩":"qpfr"'
-bind '"벪":"qpfa"'
-bind '"벫":"qpfq"'
-bind '"벬":"qpft"'
-bind '"벭":"qpfx"'
-bind '"벮":"qpfv"'
-bind '"벯":"qpfg"'
-bind '"벰":"qpa"'
-bind '"벱":"qpq"'
-bind '"벲":"qpqt"'
-bind '"벳":"qpt"'
-bind '"벴":"qpT"'
-bind '"벵":"qpd"'
-bind '"벶":"qpw"'
-bind '"벷":"qpc"'
-bind '"벸":"qpz"'
-bind '"벹":"qpx"'
-bind '"벺":"qpv"'
-bind '"벻":"qpg"'
-bind '"벼":"qu"'
-bind '"벽":"qur"'
-bind '"벾":"quR"'
-bind '"벿":"qurt"'
-bind '"변":"qus"'
-bind '"볁":"qusw"'
-bind '"볂":"qusg"'
-bind '"볃":"que"'
-bind '"별":"quf"'
-bind '"볅":"qufr"'
-bind '"볆":"qufa"'
-bind '"볇":"qufq"'
-bind '"볈":"quft"'
-bind '"볉":"qufx"'
-bind '"볊":"qufv"'
-bind '"볋":"qufg"'
-bind '"볌":"qua"'
-bind '"볍":"quq"'
-bind '"볎":"quqt"'
-bind '"볏":"qut"'
-bind '"볐":"quT"'
-bind '"병":"qud"'
-bind '"볒":"quw"'
-bind '"볓":"quc"'
-bind '"볔":"quz"'
-bind '"볕":"qux"'
-bind '"볖":"quv"'
-bind '"볗":"qug"'
-bind '"볘":"qP"'
-bind '"볙":"qPr"'
-bind '"볚":"qPR"'
-bind '"볛":"qPrt"'
-bind '"볜":"qPs"'
-bind '"볝":"qPsw"'
-bind '"볞":"qPsg"'
-bind '"볟":"qPe"'
-bind '"볠":"qPf"'
-bind '"볡":"qPfr"'
-bind '"볢":"qPfa"'
-bind '"볣":"qPfq"'
-bind '"볤":"qPft"'
-bind '"볥":"qPfx"'
-bind '"볦":"qPfv"'
-bind '"볧":"qPfg"'
-bind '"볨":"qPa"'
-bind '"볩":"qPq"'
-bind '"볪":"qPqt"'
-bind '"볫":"qPt"'
-bind '"볬":"qPT"'
-bind '"볭":"qPd"'
-bind '"볮":"qPw"'
-bind '"볯":"qPc"'
-bind '"볰":"qPz"'
-bind '"볱":"qPx"'
-bind '"볲":"qPv"'
-bind '"볳":"qPg"'
-bind '"보":"qh"'
-bind '"복":"qhr"'
-bind '"볶":"qhR"'
-bind '"볷":"qhrt"'
-bind '"본":"qhs"'
-bind '"볹":"qhsw"'
-bind '"볺":"qhsg"'
-bind '"볻":"qhe"'
-bind '"볼":"qhf"'
-bind '"볽":"qhfr"'
-bind '"볾":"qhfa"'
-bind '"볿":"qhfq"'
-bind '"봀":"qhft"'
-bind '"봁":"qhfx"'
-bind '"봂":"qhfv"'
-bind '"봃":"qhfg"'
-bind '"봄":"qha"'
-bind '"봅":"qhq"'
-bind '"봆":"qhqt"'
-bind '"봇":"qht"'
-bind '"봈":"qhT"'
-bind '"봉":"qhd"'
-bind '"봊":"qhw"'
-bind '"봋":"qhc"'
-bind '"봌":"qhz"'
-bind '"봍":"qhx"'
-bind '"봎":"qhv"'
-bind '"봏":"qhg"'
-bind '"봐":"qhk"'
-bind '"봑":"qhkr"'
-bind '"봒":"qhkR"'
-bind '"봓":"qhkrt"'
-bind '"봔":"qhks"'
-bind '"봕":"qhksw"'
-bind '"봖":"qhksg"'
-bind '"봗":"qhke"'
-bind '"봘":"qhkf"'
-bind '"봙":"qhkfr"'
-bind '"봚":"qhkfa"'
-bind '"봛":"qhkfq"'
-bind '"봜":"qhkft"'
-bind '"봝":"qhkfx"'
-bind '"봞":"qhkfv"'
-bind '"봟":"qhkfg"'
-bind '"봠":"qhka"'
-bind '"봡":"qhkq"'
-bind '"봢":"qhkqt"'
-bind '"봣":"qhkt"'
-bind '"봤":"qhkT"'
-bind '"봥":"qhkd"'
-bind '"봦":"qhkw"'
-bind '"봧":"qhkc"'
-bind '"봨":"qhkz"'
-bind '"봩":"qhkx"'
-bind '"봪":"qhkv"'
-bind '"봫":"qhkg"'
-bind '"봬":"qho"'
-bind '"봭":"qhor"'
-bind '"봮":"qhoR"'
-bind '"봯":"qhort"'
-bind '"봰":"qhos"'
-bind '"봱":"qhosw"'
-bind '"봲":"qhosg"'
-bind '"봳":"qhoe"'
-bind '"봴":"qhof"'
-bind '"봵":"qhofr"'
-bind '"봶":"qhofa"'
-bind '"봷":"qhofq"'
-bind '"봸":"qhoft"'
-bind '"봹":"qhofx"'
-bind '"봺":"qhofv"'
-bind '"봻":"qhofg"'
-bind '"봼":"qhoa"'
-bind '"봽":"qhoq"'
-bind '"봾":"qhoqt"'
-bind '"봿":"qhot"'
-bind '"뵀":"qhoT"'
-bind '"뵁":"qhod"'
-bind '"뵂":"qhow"'
-bind '"뵃":"qhoc"'
-bind '"뵄":"qhoz"'
-bind '"뵅":"qhox"'
-bind '"뵆":"qhov"'
-bind '"뵇":"qhog"'
-bind '"뵈":"qhl"'
-bind '"뵉":"qhlr"'
-bind '"뵊":"qhlR"'
-bind '"뵋":"qhlrt"'
-bind '"뵌":"qhls"'
-bind '"뵍":"qhlsw"'
-bind '"뵎":"qhlsg"'
-bind '"뵏":"qhle"'
-bind '"뵐":"qhlf"'
-bind '"뵑":"qhlfr"'
-bind '"뵒":"qhlfa"'
-bind '"뵓":"qhlfq"'
-bind '"뵔":"qhlft"'
-bind '"뵕":"qhlfx"'
-bind '"뵖":"qhlfv"'
-bind '"뵗":"qhlfg"'
-bind '"뵘":"qhla"'
-bind '"뵙":"qhlq"'
-bind '"뵚":"qhlqt"'
-bind '"뵛":"qhlt"'
-bind '"뵜":"qhlT"'
-bind '"뵝":"qhld"'
-bind '"뵞":"qhlw"'
-bind '"뵟":"qhlc"'
-bind '"뵠":"qhlz"'
-bind '"뵡":"qhlx"'
-bind '"뵢":"qhlv"'
-bind '"뵣":"qhlg"'
-bind '"뵤":"qy"'
-bind '"뵥":"qyr"'
-bind '"뵦":"qyR"'
-bind '"뵧":"qyrt"'
-bind '"뵨":"qys"'
-bind '"뵩":"qysw"'
-bind '"뵪":"qysg"'
-bind '"뵫":"qye"'
-bind '"뵬":"qyf"'
-bind '"뵭":"qyfr"'
-bind '"뵮":"qyfa"'
-bind '"뵯":"qyfq"'
-bind '"뵰":"qyft"'
-bind '"뵱":"qyfx"'
-bind '"뵲":"qyfv"'
-bind '"뵳":"qyfg"'
-bind '"뵴":"qya"'
-bind '"뵵":"qyq"'
-bind '"뵶":"qyqt"'
-bind '"뵷":"qyt"'
-bind '"뵸":"qyT"'
-bind '"뵹":"qyd"'
-bind '"뵺":"qyw"'
-bind '"뵻":"qyc"'
-bind '"뵼":"qyz"'
-bind '"뵽":"qyx"'
-bind '"뵾":"qyv"'
-bind '"뵿":"qyg"'
-bind '"부":"qn"'
-bind '"북":"qnr"'
-bind '"붂":"qnR"'
-bind '"붃":"qnrt"'
-bind '"분":"qns"'
-bind '"붅":"qnsw"'
-bind '"붆":"qnsg"'
-bind '"붇":"qne"'
-bind '"불":"qnf"'
-bind '"붉":"qnfr"'
-bind '"붊":"qnfa"'
-bind '"붋":"qnfq"'
-bind '"붌":"qnft"'
-bind '"붍":"qnfx"'
-bind '"붎":"qnfv"'
-bind '"붏":"qnfg"'
-bind '"붐":"qna"'
-bind '"붑":"qnq"'
-bind '"붒":"qnqt"'
-bind '"붓":"qnt"'
-bind '"붔":"qnT"'
-bind '"붕":"qnd"'
-bind '"붖":"qnw"'
-bind '"붗":"qnc"'
-bind '"붘":"qnz"'
-bind '"붙":"qnx"'
-bind '"붚":"qnv"'
-bind '"붛":"qng"'
-bind '"붜":"qnj"'
-bind '"붝":"qnjr"'
-bind '"붞":"qnjR"'
-bind '"붟":"qnjrt"'
-bind '"붠":"qnjs"'
-bind '"붡":"qnjsw"'
-bind '"붢":"qnjsg"'
-bind '"붣":"qnje"'
-bind '"붤":"qnjf"'
-bind '"붥":"qnjfr"'
-bind '"붦":"qnjfa"'
-bind '"붧":"qnjfq"'
-bind '"붨":"qnjft"'
-bind '"붩":"qnjfx"'
-bind '"붪":"qnjfv"'
-bind '"붫":"qnjfg"'
-bind '"붬":"qnja"'
-bind '"붭":"qnjq"'
-bind '"붮":"qnjqt"'
-bind '"붯":"qnjt"'
-bind '"붰":"qnjT"'
-bind '"붱":"qnjd"'
-bind '"붲":"qnjw"'
-bind '"붳":"qnjc"'
-bind '"붴":"qnjz"'
-bind '"붵":"qnjx"'
-bind '"붶":"qnjv"'
-bind '"붷":"qnjg"'
-bind '"붸":"qnp"'
-bind '"붹":"qnpr"'
-bind '"붺":"qnpR"'
-bind '"붻":"qnprt"'
-bind '"붼":"qnps"'
-bind '"붽":"qnpsw"'
-bind '"붾":"qnpsg"'
-bind '"붿":"qnpe"'
-bind '"뷀":"qnpf"'
-bind '"뷁":"qnpfr"'
-bind '"뷂":"qnpfa"'
-bind '"뷃":"qnpfq"'
-bind '"뷄":"qnpft"'
-bind '"뷅":"qnpfx"'
-bind '"뷆":"qnpfv"'
-bind '"뷇":"qnpfg"'
-bind '"뷈":"qnpa"'
-bind '"뷉":"qnpq"'
-bind '"뷊":"qnpqt"'
-bind '"뷋":"qnpt"'
-bind '"뷌":"qnpT"'
-bind '"뷍":"qnpd"'
-bind '"뷎":"qnpw"'
-bind '"뷏":"qnpc"'
-bind '"뷐":"qnpz"'
-bind '"뷑":"qnpx"'
-bind '"뷒":"qnpv"'
-bind '"뷓":"qnpg"'
-bind '"뷔":"qnl"'
-bind '"뷕":"qnlr"'
-bind '"뷖":"qnlR"'
-bind '"뷗":"qnlrt"'
-bind '"뷘":"qnls"'
-bind '"뷙":"qnlsw"'
-bind '"뷚":"qnlsg"'
-bind '"뷛":"qnle"'
-bind '"뷜":"qnlf"'
-bind '"뷝":"qnlfr"'
-bind '"뷞":"qnlfa"'
-bind '"뷟":"qnlfq"'
-bind '"뷠":"qnlft"'
-bind '"뷡":"qnlfx"'
-bind '"뷢":"qnlfv"'
-bind '"뷣":"qnlfg"'
-bind '"뷤":"qnla"'
-bind '"뷥":"qnlq"'
-bind '"뷦":"qnlqt"'
-bind '"뷧":"qnlt"'
-bind '"뷨":"qnlT"'
-bind '"뷩":"qnld"'
-bind '"뷪":"qnlw"'
-bind '"뷫":"qnlc"'
-bind '"뷬":"qnlz"'
-bind '"뷭":"qnlx"'
-bind '"뷮":"qnlv"'
-bind '"뷯":"qnlg"'
-bind '"뷰":"qb"'
-bind '"뷱":"qbr"'
-bind '"뷲":"qbR"'
-bind '"뷳":"qbrt"'
-bind '"뷴":"qbs"'
-bind '"뷵":"qbsw"'
-bind '"뷶":"qbsg"'
-bind '"뷷":"qbe"'
-bind '"뷸":"qbf"'
-bind '"뷹":"qbfr"'
-bind '"뷺":"qbfa"'
-bind '"뷻":"qbfq"'
-bind '"뷼":"qbft"'
-bind '"뷽":"qbfx"'
-bind '"뷾":"qbfv"'
-bind '"뷿":"qbfg"'
-bind '"븀":"qba"'
-bind '"븁":"qbq"'
-bind '"븂":"qbqt"'
-bind '"븃":"qbt"'
-bind '"븄":"qbT"'
-bind '"븅":"qbd"'
-bind '"븆":"qbw"'
-bind '"븇":"qbc"'
-bind '"븈":"qbz"'
-bind '"븉":"qbx"'
-bind '"븊":"qbv"'
-bind '"븋":"qbg"'
-bind '"브":"qm"'
-bind '"븍":"qmr"'
-bind '"븎":"qmR"'
-bind '"븏":"qmrt"'
-bind '"븐":"qms"'
-bind '"븑":"qmsw"'
-bind '"븒":"qmsg"'
-bind '"븓":"qme"'
-bind '"블":"qmf"'
-bind '"븕":"qmfr"'
-bind '"븖":"qmfa"'
-bind '"븗":"qmfq"'
-bind '"븘":"qmft"'
-bind '"븙":"qmfx"'
-bind '"븚":"qmfv"'
-bind '"븛":"qmfg"'
-bind '"븜":"qma"'
-bind '"븝":"qmq"'
-bind '"븞":"qmqt"'
-bind '"븟":"qmt"'
-bind '"븠":"qmT"'
-bind '"븡":"qmd"'
-bind '"븢":"qmw"'
-bind '"븣":"qmc"'
-bind '"븤":"qmz"'
-bind '"븥":"qmx"'
-bind '"븦":"qmv"'
-bind '"븧":"qmg"'
-bind '"븨":"qml"'
-bind '"븩":"qmlr"'
-bind '"븪":"qmlR"'
-bind '"븫":"qmlrt"'
-bind '"븬":"qmls"'
-bind '"븭":"qmlsw"'
-bind '"븮":"qmlsg"'
-bind '"븯":"qmle"'
-bind '"븰":"qmlf"'
-bind '"븱":"qmlfr"'
-bind '"븲":"qmlfa"'
-bind '"븳":"qmlfq"'
-bind '"븴":"qmlft"'
-bind '"븵":"qmlfx"'
-bind '"븶":"qmlfv"'
-bind '"븷":"qmlfg"'
-bind '"븸":"qmla"'
-bind '"븹":"qmlq"'
-bind '"븺":"qmlqt"'
-bind '"븻":"qmlt"'
-bind '"븼":"qmlT"'
-bind '"븽":"qmld"'
-bind '"븾":"qmlw"'
-bind '"븿":"qmlc"'
-bind '"빀":"qmlz"'
-bind '"빁":"qmlx"'
-bind '"빂":"qmlv"'
-bind '"빃":"qmlg"'
-bind '"비":"ql"'
-bind '"빅":"qlr"'
-bind '"빆":"qlR"'
-bind '"빇":"qlrt"'
-bind '"빈":"qls"'
-bind '"빉":"qlsw"'
-bind '"빊":"qlsg"'
-bind '"빋":"qle"'
-bind '"빌":"qlf"'
-bind '"빍":"qlfr"'
-bind '"빎":"qlfa"'
-bind '"빏":"qlfq"'
-bind '"빐":"qlft"'
-bind '"빑":"qlfx"'
-bind '"빒":"qlfv"'
-bind '"빓":"qlfg"'
-bind '"빔":"qla"'
-bind '"빕":"qlq"'
-bind '"빖":"qlqt"'
-bind '"빗":"qlt"'
-bind '"빘":"qlT"'
-bind '"빙":"qld"'
-bind '"빚":"qlw"'
-bind '"빛":"qlc"'
-bind '"빜":"qlz"'
-bind '"빝":"qlx"'
-bind '"빞":"qlv"'
-bind '"빟":"qlg"'
-bind '"빠":"Qk"'
-bind '"빡":"Qkr"'
-bind '"빢":"QkR"'
-bind '"빣":"Qkrt"'
-bind '"빤":"Qks"'
-bind '"빥":"Qksw"'
-bind '"빦":"Qksg"'
-bind '"빧":"Qke"'
-bind '"빨":"Qkf"'
-bind '"빩":"Qkfr"'
-bind '"빪":"Qkfa"'
-bind '"빫":"Qkfq"'
-bind '"빬":"Qkft"'
-bind '"빭":"Qkfx"'
-bind '"빮":"Qkfv"'
-bind '"빯":"Qkfg"'
-bind '"빰":"Qka"'
-bind '"빱":"Qkq"'
-bind '"빲":"Qkqt"'
-bind '"빳":"Qkt"'
-bind '"빴":"QkT"'
-bind '"빵":"Qkd"'
-bind '"빶":"Qkw"'
-bind '"빷":"Qkc"'
-bind '"빸":"Qkz"'
-bind '"빹":"Qkx"'
-bind '"빺":"Qkv"'
-bind '"빻":"Qkg"'
-bind '"빼":"Qo"'
-bind '"빽":"Qor"'
-bind '"빾":"QoR"'
-bind '"빿":"Qort"'
-bind '"뺀":"Qos"'
-bind '"뺁":"Qosw"'
-bind '"뺂":"Qosg"'
-bind '"뺃":"Qoe"'
-bind '"뺄":"Qof"'
-bind '"뺅":"Qofr"'
-bind '"뺆":"Qofa"'
-bind '"뺇":"Qofq"'
-bind '"뺈":"Qoft"'
-bind '"뺉":"Qofx"'
-bind '"뺊":"Qofv"'
-bind '"뺋":"Qofg"'
-bind '"뺌":"Qoa"'
-bind '"뺍":"Qoq"'
-bind '"뺎":"Qoqt"'
-bind '"뺏":"Qot"'
-bind '"뺐":"QoT"'
-bind '"뺑":"Qod"'
-bind '"뺒":"Qow"'
-bind '"뺓":"Qoc"'
-bind '"뺔":"Qoz"'
-bind '"뺕":"Qox"'
-bind '"뺖":"Qov"'
-bind '"뺗":"Qog"'
-bind '"뺘":"Qi"'
-bind '"뺙":"Qir"'
-bind '"뺚":"QiR"'
-bind '"뺛":"Qirt"'
-bind '"뺜":"Qis"'
-bind '"뺝":"Qisw"'
-bind '"뺞":"Qisg"'
-bind '"뺟":"Qie"'
-bind '"뺠":"Qif"'
-bind '"뺡":"Qifr"'
-bind '"뺢":"Qifa"'
-bind '"뺣":"Qifq"'
-bind '"뺤":"Qift"'
-bind '"뺥":"Qifx"'
-bind '"뺦":"Qifv"'
-bind '"뺧":"Qifg"'
-bind '"뺨":"Qia"'
-bind '"뺩":"Qiq"'
-bind '"뺪":"Qiqt"'
-bind '"뺫":"Qit"'
-bind '"뺬":"QiT"'
-bind '"뺭":"Qid"'
-bind '"뺮":"Qiw"'
-bind '"뺯":"Qic"'
-bind '"뺰":"Qiz"'
-bind '"뺱":"Qix"'
-bind '"뺲":"Qiv"'
-bind '"뺳":"Qig"'
-bind '"뺴":"QO"'
-bind '"뺵":"QOr"'
-bind '"뺶":"QOR"'
-bind '"뺷":"QOrt"'
-bind '"뺸":"QOs"'
-bind '"뺹":"QOsw"'
-bind '"뺺":"QOsg"'
-bind '"뺻":"QOe"'
-bind '"뺼":"QOf"'
-bind '"뺽":"QOfr"'
-bind '"뺾":"QOfa"'
-bind '"뺿":"QOfq"'
-bind '"뻀":"QOft"'
-bind '"뻁":"QOfx"'
-bind '"뻂":"QOfv"'
-bind '"뻃":"QOfg"'
-bind '"뻄":"QOa"'
-bind '"뻅":"QOq"'
-bind '"뻆":"QOqt"'
-bind '"뻇":"QOt"'
-bind '"뻈":"QOT"'
-bind '"뻉":"QOd"'
-bind '"뻊":"QOw"'
-bind '"뻋":"QOc"'
-bind '"뻌":"QOz"'
-bind '"뻍":"QOx"'
-bind '"뻎":"QOv"'
-bind '"뻏":"QOg"'
-bind '"뻐":"Qj"'
-bind '"뻑":"Qjr"'
-bind '"뻒":"QjR"'
-bind '"뻓":"Qjrt"'
-bind '"뻔":"Qjs"'
-bind '"뻕":"Qjsw"'
-bind '"뻖":"Qjsg"'
-bind '"뻗":"Qje"'
-bind '"뻘":"Qjf"'
-bind '"뻙":"Qjfr"'
-bind '"뻚":"Qjfa"'
-bind '"뻛":"Qjfq"'
-bind '"뻜":"Qjft"'
-bind '"뻝":"Qjfx"'
-bind '"뻞":"Qjfv"'
-bind '"뻟":"Qjfg"'
-bind '"뻠":"Qja"'
-bind '"뻡":"Qjq"'
-bind '"뻢":"Qjqt"'
-bind '"뻣":"Qjt"'
-bind '"뻤":"QjT"'
-bind '"뻥":"Qjd"'
-bind '"뻦":"Qjw"'
-bind '"뻧":"Qjc"'
-bind '"뻨":"Qjz"'
-bind '"뻩":"Qjx"'
-bind '"뻪":"Qjv"'
-bind '"뻫":"Qjg"'
-bind '"뻬":"Qp"'
-bind '"뻭":"Qpr"'
-bind '"뻮":"QpR"'
-bind '"뻯":"Qprt"'
-bind '"뻰":"Qps"'
-bind '"뻱":"Qpsw"'
-bind '"뻲":"Qpsg"'
-bind '"뻳":"Qpe"'
-bind '"뻴":"Qpf"'
-bind '"뻵":"Qpfr"'
-bind '"뻶":"Qpfa"'
-bind '"뻷":"Qpfq"'
-bind '"뻸":"Qpft"'
-bind '"뻹":"Qpfx"'
-bind '"뻺":"Qpfv"'
-bind '"뻻":"Qpfg"'
-bind '"뻼":"Qpa"'
-bind '"뻽":"Qpq"'
-bind '"뻾":"Qpqt"'
-bind '"뻿":"Qpt"'
-bind '"뼀":"QpT"'
-bind '"뼁":"Qpd"'
-bind '"뼂":"Qpw"'
-bind '"뼃":"Qpc"'
-bind '"뼄":"Qpz"'
-bind '"뼅":"Qpx"'
-bind '"뼆":"Qpv"'
-bind '"뼇":"Qpg"'
-bind '"뼈":"Qu"'
-bind '"뼉":"Qur"'
-bind '"뼊":"QuR"'
-bind '"뼋":"Qurt"'
-bind '"뼌":"Qus"'
-bind '"뼍":"Qusw"'
-bind '"뼎":"Qusg"'
-bind '"뼏":"Que"'
-bind '"뼐":"Quf"'
-bind '"뼑":"Qufr"'
-bind '"뼒":"Qufa"'
-bind '"뼓":"Qufq"'
-bind '"뼔":"Quft"'
-bind '"뼕":"Qufx"'
-bind '"뼖":"Qufv"'
-bind '"뼗":"Qufg"'
-bind '"뼘":"Qua"'
-bind '"뼙":"Quq"'
-bind '"뼚":"Quqt"'
-bind '"뼛":"Qut"'
-bind '"뼜":"QuT"'
-bind '"뼝":"Qud"'
-bind '"뼞":"Quw"'
-bind '"뼟":"Quc"'
-bind '"뼠":"Quz"'
-bind '"뼡":"Qux"'
-bind '"뼢":"Quv"'
-bind '"뼣":"Qug"'
-bind '"뼤":"QP"'
-bind '"뼥":"QPr"'
-bind '"뼦":"QPR"'
-bind '"뼧":"QPrt"'
-bind '"뼨":"QPs"'
-bind '"뼩":"QPsw"'
-bind '"뼪":"QPsg"'
-bind '"뼫":"QPe"'
-bind '"뼬":"QPf"'
-bind '"뼭":"QPfr"'
-bind '"뼮":"QPfa"'
-bind '"뼯":"QPfq"'
-bind '"뼰":"QPft"'
-bind '"뼱":"QPfx"'
-bind '"뼲":"QPfv"'
-bind '"뼳":"QPfg"'
-bind '"뼴":"QPa"'
-bind '"뼵":"QPq"'
-bind '"뼶":"QPqt"'
-bind '"뼷":"QPt"'
-bind '"뼸":"QPT"'
-bind '"뼹":"QPd"'
-bind '"뼺":"QPw"'
-bind '"뼻":"QPc"'
-bind '"뼼":"QPz"'
-bind '"뼽":"QPx"'
-bind '"뼾":"QPv"'
-bind '"뼿":"QPg"'
-bind '"뽀":"Qh"'
-bind '"뽁":"Qhr"'
-bind '"뽂":"QhR"'
-bind '"뽃":"Qhrt"'
-bind '"뽄":"Qhs"'
-bind '"뽅":"Qhsw"'
-bind '"뽆":"Qhsg"'
-bind '"뽇":"Qhe"'
-bind '"뽈":"Qhf"'
-bind '"뽉":"Qhfr"'
-bind '"뽊":"Qhfa"'
-bind '"뽋":"Qhfq"'
-bind '"뽌":"Qhft"'
-bind '"뽍":"Qhfx"'
-bind '"뽎":"Qhfv"'
-bind '"뽏":"Qhfg"'
-bind '"뽐":"Qha"'
-bind '"뽑":"Qhq"'
-bind '"뽒":"Qhqt"'
-bind '"뽓":"Qht"'
-bind '"뽔":"QhT"'
-bind '"뽕":"Qhd"'
-bind '"뽖":"Qhw"'
-bind '"뽗":"Qhc"'
-bind '"뽘":"Qhz"'
-bind '"뽙":"Qhx"'
-bind '"뽚":"Qhv"'
-bind '"뽛":"Qhg"'
-bind '"뽜":"Qhk"'
-bind '"뽝":"Qhkr"'
-bind '"뽞":"QhkR"'
-bind '"뽟":"Qhkrt"'
-bind '"뽠":"Qhks"'
-bind '"뽡":"Qhksw"'
-bind '"뽢":"Qhksg"'
-bind '"뽣":"Qhke"'
-bind '"뽤":"Qhkf"'
-bind '"뽥":"Qhkfr"'
-bind '"뽦":"Qhkfa"'
-bind '"뽧":"Qhkfq"'
-bind '"뽨":"Qhkft"'
-bind '"뽩":"Qhkfx"'
-bind '"뽪":"Qhkfv"'
-bind '"뽫":"Qhkfg"'
-bind '"뽬":"Qhka"'
-bind '"뽭":"Qhkq"'
-bind '"뽮":"Qhkqt"'
-bind '"뽯":"Qhkt"'
-bind '"뽰":"QhkT"'
-bind '"뽱":"Qhkd"'
-bind '"뽲":"Qhkw"'
-bind '"뽳":"Qhkc"'
-bind '"뽴":"Qhkz"'
-bind '"뽵":"Qhkx"'
-bind '"뽶":"Qhkv"'
-bind '"뽷":"Qhkg"'
-bind '"뽸":"Qho"'
-bind '"뽹":"Qhor"'
-bind '"뽺":"QhoR"'
-bind '"뽻":"Qhort"'
-bind '"뽼":"Qhos"'
-bind '"뽽":"Qhosw"'
-bind '"뽾":"Qhosg"'
-bind '"뽿":"Qhoe"'
-bind '"뾀":"Qhof"'
-bind '"뾁":"Qhofr"'
-bind '"뾂":"Qhofa"'
-bind '"뾃":"Qhofq"'
-bind '"뾄":"Qhoft"'
-bind '"뾅":"Qhofx"'
-bind '"뾆":"Qhofv"'
-bind '"뾇":"Qhofg"'
-bind '"뾈":"Qhoa"'
-bind '"뾉":"Qhoq"'
-bind '"뾊":"Qhoqt"'
-bind '"뾋":"Qhot"'
-bind '"뾌":"QhoT"'
-bind '"뾍":"Qhod"'
-bind '"뾎":"Qhow"'
-bind '"뾏":"Qhoc"'
-bind '"뾐":"Qhoz"'
-bind '"뾑":"Qhox"'
-bind '"뾒":"Qhov"'
-bind '"뾓":"Qhog"'
-bind '"뾔":"Qhl"'
-bind '"뾕":"Qhlr"'
-bind '"뾖":"QhlR"'
-bind '"뾗":"Qhlrt"'
-bind '"뾘":"Qhls"'
-bind '"뾙":"Qhlsw"'
-bind '"뾚":"Qhlsg"'
-bind '"뾛":"Qhle"'
-bind '"뾜":"Qhlf"'
-bind '"뾝":"Qhlfr"'
-bind '"뾞":"Qhlfa"'
-bind '"뾟":"Qhlfq"'
-bind '"뾠":"Qhlft"'
-bind '"뾡":"Qhlfx"'
-bind '"뾢":"Qhlfv"'
-bind '"뾣":"Qhlfg"'
-bind '"뾤":"Qhla"'
-bind '"뾥":"Qhlq"'
-bind '"뾦":"Qhlqt"'
-bind '"뾧":"Qhlt"'
-bind '"뾨":"QhlT"'
-bind '"뾩":"Qhld"'
-bind '"뾪":"Qhlw"'
-bind '"뾫":"Qhlc"'
-bind '"뾬":"Qhlz"'
-bind '"뾭":"Qhlx"'
-bind '"뾮":"Qhlv"'
-bind '"뾯":"Qhlg"'
-bind '"뾰":"Qy"'
-bind '"뾱":"Qyr"'
-bind '"뾲":"QyR"'
-bind '"뾳":"Qyrt"'
-bind '"뾴":"Qys"'
-bind '"뾵":"Qysw"'
-bind '"뾶":"Qysg"'
-bind '"뾷":"Qye"'
-bind '"뾸":"Qyf"'
-bind '"뾹":"Qyfr"'
-bind '"뾺":"Qyfa"'
-bind '"뾻":"Qyfq"'
-bind '"뾼":"Qyft"'
-bind '"뾽":"Qyfx"'
-bind '"뾾":"Qyfv"'
-bind '"뾿":"Qyfg"'
-bind '"뿀":"Qya"'
-bind '"뿁":"Qyq"'
-bind '"뿂":"Qyqt"'
-bind '"뿃":"Qyt"'
-bind '"뿄":"QyT"'
-bind '"뿅":"Qyd"'
-bind '"뿆":"Qyw"'
-bind '"뿇":"Qyc"'
-bind '"뿈":"Qyz"'
-bind '"뿉":"Qyx"'
-bind '"뿊":"Qyv"'
-bind '"뿋":"Qyg"'
-bind '"뿌":"Qn"'
-bind '"뿍":"Qnr"'
-bind '"뿎":"QnR"'
-bind '"뿏":"Qnrt"'
-bind '"뿐":"Qns"'
-bind '"뿑":"Qnsw"'
-bind '"뿒":"Qnsg"'
-bind '"뿓":"Qne"'
-bind '"뿔":"Qnf"'
-bind '"뿕":"Qnfr"'
-bind '"뿖":"Qnfa"'
-bind '"뿗":"Qnfq"'
-bind '"뿘":"Qnft"'
-bind '"뿙":"Qnfx"'
-bind '"뿚":"Qnfv"'
-bind '"뿛":"Qnfg"'
-bind '"뿜":"Qna"'
-bind '"뿝":"Qnq"'
-bind '"뿞":"Qnqt"'
-bind '"뿟":"Qnt"'
-bind '"뿠":"QnT"'
-bind '"뿡":"Qnd"'
-bind '"뿢":"Qnw"'
-bind '"뿣":"Qnc"'
-bind '"뿤":"Qnz"'
-bind '"뿥":"Qnx"'
-bind '"뿦":"Qnv"'
-bind '"뿧":"Qng"'
-bind '"뿨":"Qnj"'
-bind '"뿩":"Qnjr"'
-bind '"뿪":"QnjR"'
-bind '"뿫":"Qnjrt"'
-bind '"뿬":"Qnjs"'
-bind '"뿭":"Qnjsw"'
-bind '"뿮":"Qnjsg"'
-bind '"뿯":"Qnje"'
-bind '"뿰":"Qnjf"'
-bind '"뿱":"Qnjfr"'
-bind '"뿲":"Qnjfa"'
-bind '"뿳":"Qnjfq"'
-bind '"뿴":"Qnjft"'
-bind '"뿵":"Qnjfx"'
-bind '"뿶":"Qnjfv"'
-bind '"뿷":"Qnjfg"'
-bind '"뿸":"Qnja"'
-bind '"뿹":"Qnjq"'
-bind '"뿺":"Qnjqt"'
-bind '"뿻":"Qnjt"'
-bind '"뿼":"QnjT"'
-bind '"뿽":"Qnjd"'
-bind '"뿾":"Qnjw"'
-bind '"뿿":"Qnjc"'
-bind '"쀀":"Qnjz"'
-bind '"쀁":"Qnjx"'
-bind '"쀂":"Qnjv"'
-bind '"쀃":"Qnjg"'
-bind '"쀄":"Qnp"'
-bind '"쀅":"Qnpr"'
-bind '"쀆":"QnpR"'
-bind '"쀇":"Qnprt"'
-bind '"쀈":"Qnps"'
-bind '"쀉":"Qnpsw"'
-bind '"쀊":"Qnpsg"'
-bind '"쀋":"Qnpe"'
-bind '"쀌":"Qnpf"'
-bind '"쀍":"Qnpfr"'
-bind '"쀎":"Qnpfa"'
-bind '"쀏":"Qnpfq"'
-bind '"쀐":"Qnpft"'
-bind '"쀑":"Qnpfx"'
-bind '"쀒":"Qnpfv"'
-bind '"쀓":"Qnpfg"'
-bind '"쀔":"Qnpa"'
-bind '"쀕":"Qnpq"'
-bind '"쀖":"Qnpqt"'
-bind '"쀗":"Qnpt"'
-bind '"쀘":"QnpT"'
-bind '"쀙":"Qnpd"'
-bind '"쀚":"Qnpw"'
-bind '"쀛":"Qnpc"'
-bind '"쀜":"Qnpz"'
-bind '"쀝":"Qnpx"'
-bind '"쀞":"Qnpv"'
-bind '"쀟":"Qnpg"'
-bind '"쀠":"Qnl"'
-bind '"쀡":"Qnlr"'
-bind '"쀢":"QnlR"'
-bind '"쀣":"Qnlrt"'
-bind '"쀤":"Qnls"'
-bind '"쀥":"Qnlsw"'
-bind '"쀦":"Qnlsg"'
-bind '"쀧":"Qnle"'
-bind '"쀨":"Qnlf"'
-bind '"쀩":"Qnlfr"'
-bind '"쀪":"Qnlfa"'
-bind '"쀫":"Qnlfq"'
-bind '"쀬":"Qnlft"'
-bind '"쀭":"Qnlfx"'
-bind '"쀮":"Qnlfv"'
-bind '"쀯":"Qnlfg"'
-bind '"쀰":"Qnla"'
-bind '"쀱":"Qnlq"'
-bind '"쀲":"Qnlqt"'
-bind '"쀳":"Qnlt"'
-bind '"쀴":"QnlT"'
-bind '"쀵":"Qnld"'
-bind '"쀶":"Qnlw"'
-bind '"쀷":"Qnlc"'
-bind '"쀸":"Qnlz"'
-bind '"쀹":"Qnlx"'
-bind '"쀺":"Qnlv"'
-bind '"쀻":"Qnlg"'
-bind '"쀼":"Qb"'
-bind '"쀽":"Qbr"'
-bind '"쀾":"QbR"'
-bind '"쀿":"Qbrt"'
-bind '"쁀":"Qbs"'
-bind '"쁁":"Qbsw"'
-bind '"쁂":"Qbsg"'
-bind '"쁃":"Qbe"'
-bind '"쁄":"Qbf"'
-bind '"쁅":"Qbfr"'
-bind '"쁆":"Qbfa"'
-bind '"쁇":"Qbfq"'
-bind '"쁈":"Qbft"'
-bind '"쁉":"Qbfx"'
-bind '"쁊":"Qbfv"'
-bind '"쁋":"Qbfg"'
-bind '"쁌":"Qba"'
-bind '"쁍":"Qbq"'
-bind '"쁎":"Qbqt"'
-bind '"쁏":"Qbt"'
-bind '"쁐":"QbT"'
-bind '"쁑":"Qbd"'
-bind '"쁒":"Qbw"'
-bind '"쁓":"Qbc"'
-bind '"쁔":"Qbz"'
-bind '"쁕":"Qbx"'
-bind '"쁖":"Qbv"'
-bind '"쁗":"Qbg"'
-bind '"쁘":"Qm"'
-bind '"쁙":"Qmr"'
-bind '"쁚":"QmR"'
-bind '"쁛":"Qmrt"'
-bind '"쁜":"Qms"'
-bind '"쁝":"Qmsw"'
-bind '"쁞":"Qmsg"'
-bind '"쁟":"Qme"'
-bind '"쁠":"Qmf"'
-bind '"쁡":"Qmfr"'
-bind '"쁢":"Qmfa"'
-bind '"쁣":"Qmfq"'
-bind '"쁤":"Qmft"'
-bind '"쁥":"Qmfx"'
-bind '"쁦":"Qmfv"'
-bind '"쁧":"Qmfg"'
-bind '"쁨":"Qma"'
-bind '"쁩":"Qmq"'
-bind '"쁪":"Qmqt"'
-bind '"쁫":"Qmt"'
-bind '"쁬":"QmT"'
-bind '"쁭":"Qmd"'
-bind '"쁮":"Qmw"'
-bind '"쁯":"Qmc"'
-bind '"쁰":"Qmz"'
-bind '"쁱":"Qmx"'
-bind '"쁲":"Qmv"'
-bind '"쁳":"Qmg"'
-bind '"쁴":"Qml"'
-bind '"쁵":"Qmlr"'
-bind '"쁶":"QmlR"'
-bind '"쁷":"Qmlrt"'
-bind '"쁸":"Qmls"'
-bind '"쁹":"Qmlsw"'
-bind '"쁺":"Qmlsg"'
-bind '"쁻":"Qmle"'
-bind '"쁼":"Qmlf"'
-bind '"쁽":"Qmlfr"'
-bind '"쁾":"Qmlfa"'
-bind '"쁿":"Qmlfq"'
-bind '"삀":"Qmlft"'
-bind '"삁":"Qmlfx"'
-bind '"삂":"Qmlfv"'
-bind '"삃":"Qmlfg"'
-bind '"삄":"Qmla"'
-bind '"삅":"Qmlq"'
-bind '"삆":"Qmlqt"'
-bind '"삇":"Qmlt"'
-bind '"삈":"QmlT"'
-bind '"삉":"Qmld"'
-bind '"삊":"Qmlw"'
-bind '"삋":"Qmlc"'
-bind '"삌":"Qmlz"'
-bind '"삍":"Qmlx"'
-bind '"삎":"Qmlv"'
-bind '"삏":"Qmlg"'
-bind '"삐":"Ql"'
-bind '"삑":"Qlr"'
-bind '"삒":"QlR"'
-bind '"삓":"Qlrt"'
-bind '"삔":"Qls"'
-bind '"삕":"Qlsw"'
-bind '"삖":"Qlsg"'
-bind '"삗":"Qle"'
-bind '"삘":"Qlf"'
-bind '"삙":"Qlfr"'
-bind '"삚":"Qlfa"'
-bind '"삛":"Qlfq"'
-bind '"삜":"Qlft"'
-bind '"삝":"Qlfx"'
-bind '"삞":"Qlfv"'
-bind '"삟":"Qlfg"'
-bind '"삠":"Qla"'
-bind '"삡":"Qlq"'
-bind '"삢":"Qlqt"'
-bind '"삣":"Qlt"'
-bind '"삤":"QlT"'
-bind '"삥":"Qld"'
-bind '"삦":"Qlw"'
-bind '"삧":"Qlc"'
-bind '"삨":"Qlz"'
-bind '"삩":"Qlx"'
-bind '"삪":"Qlv"'
-bind '"삫":"Qlg"'
-bind '"사":"tk"'
-bind '"삭":"tkr"'
-bind '"삮":"tkR"'
-bind '"삯":"tkrt"'
-bind '"산":"tks"'
-bind '"삱":"tksw"'
-bind '"삲":"tksg"'
-bind '"삳":"tke"'
-bind '"살":"tkf"'
-bind '"삵":"tkfr"'
-bind '"삶":"tkfa"'
-bind '"삷":"tkfq"'
-bind '"삸":"tkft"'
-bind '"삹":"tkfx"'
-bind '"삺":"tkfv"'
-bind '"삻":"tkfg"'
-bind '"삼":"tka"'
-bind '"삽":"tkq"'
-bind '"삾":"tkqt"'
-bind '"삿":"tkt"'
-bind '"샀":"tkT"'
-bind '"상":"tkd"'
-bind '"샂":"tkw"'
-bind '"샃":"tkc"'
-bind '"샄":"tkz"'
-bind '"샅":"tkx"'
-bind '"샆":"tkv"'
-bind '"샇":"tkg"'
-bind '"새":"to"'
-bind '"색":"tor"'
-bind '"샊":"toR"'
-bind '"샋":"tort"'
-bind '"샌":"tos"'
-bind '"샍":"tosw"'
-bind '"샎":"tosg"'
-bind '"샏":"toe"'
-bind '"샐":"tof"'
-bind '"샑":"tofr"'
-bind '"샒":"tofa"'
-bind '"샓":"tofq"'
-bind '"샔":"toft"'
-bind '"샕":"tofx"'
-bind '"샖":"tofv"'
-bind '"샗":"tofg"'
-bind '"샘":"toa"'
-bind '"샙":"toq"'
-bind '"샚":"toqt"'
-bind '"샛":"tot"'
-bind '"샜":"toT"'
-bind '"생":"tod"'
-bind '"샞":"tow"'
-bind '"샟":"toc"'
-bind '"샠":"toz"'
-bind '"샡":"tox"'
-bind '"샢":"tov"'
-bind '"샣":"tog"'
-bind '"샤":"ti"'
-bind '"샥":"tir"'
-bind '"샦":"tiR"'
-bind '"샧":"tirt"'
-bind '"샨":"tis"'
-bind '"샩":"tisw"'
-bind '"샪":"tisg"'
-bind '"샫":"tie"'
-bind '"샬":"tif"'
-bind '"샭":"tifr"'
-bind '"샮":"tifa"'
-bind '"샯":"tifq"'
-bind '"샰":"tift"'
-bind '"샱":"tifx"'
-bind '"샲":"tifv"'
-bind '"샳":"tifg"'
-bind '"샴":"tia"'
-bind '"샵":"tiq"'
-bind '"샶":"tiqt"'
-bind '"샷":"tit"'
-bind '"샸":"tiT"'
-bind '"샹":"tid"'
-bind '"샺":"tiw"'
-bind '"샻":"tic"'
-bind '"샼":"tiz"'
-bind '"샽":"tix"'
-bind '"샾":"tiv"'
-bind '"샿":"tig"'
-bind '"섀":"tO"'
-bind '"섁":"tOr"'
-bind '"섂":"tOR"'
-bind '"섃":"tOrt"'
-bind '"섄":"tOs"'
-bind '"섅":"tOsw"'
-bind '"섆":"tOsg"'
-bind '"섇":"tOe"'
-bind '"섈":"tOf"'
-bind '"섉":"tOfr"'
-bind '"섊":"tOfa"'
-bind '"섋":"tOfq"'
-bind '"섌":"tOft"'
-bind '"섍":"tOfx"'
-bind '"섎":"tOfv"'
-bind '"섏":"tOfg"'
-bind '"섐":"tOa"'
-bind '"섑":"tOq"'
-bind '"섒":"tOqt"'
-bind '"섓":"tOt"'
-bind '"섔":"tOT"'
-bind '"섕":"tOd"'
-bind '"섖":"tOw"'
-bind '"섗":"tOc"'
-bind '"섘":"tOz"'
-bind '"섙":"tOx"'
-bind '"섚":"tOv"'
-bind '"섛":"tOg"'
-bind '"서":"tj"'
-bind '"석":"tjr"'
-bind '"섞":"tjR"'
-bind '"섟":"tjrt"'
-bind '"선":"tjs"'
-bind '"섡":"tjsw"'
-bind '"섢":"tjsg"'
-bind '"섣":"tje"'
-bind '"설":"tjf"'
-bind '"섥":"tjfr"'
-bind '"섦":"tjfa"'
-bind '"섧":"tjfq"'
-bind '"섨":"tjft"'
-bind '"섩":"tjfx"'
-bind '"섪":"tjfv"'
-bind '"섫":"tjfg"'
-bind '"섬":"tja"'
-bind '"섭":"tjq"'
-bind '"섮":"tjqt"'
-bind '"섯":"tjt"'
-bind '"섰":"tjT"'
-bind '"성":"tjd"'
-bind '"섲":"tjw"'
-bind '"섳":"tjc"'
-bind '"섴":"tjz"'
-bind '"섵":"tjx"'
-bind '"섶":"tjv"'
-bind '"섷":"tjg"'
-bind '"세":"tp"'
-bind '"섹":"tpr"'
-bind '"섺":"tpR"'
-bind '"섻":"tprt"'
-bind '"센":"tps"'
-bind '"섽":"tpsw"'
-bind '"섾":"tpsg"'
-bind '"섿":"tpe"'
-bind '"셀":"tpf"'
-bind '"셁":"tpfr"'
-bind '"셂":"tpfa"'
-bind '"셃":"tpfq"'
-bind '"셄":"tpft"'
-bind '"셅":"tpfx"'
-bind '"셆":"tpfv"'
-bind '"셇":"tpfg"'
-bind '"셈":"tpa"'
-bind '"셉":"tpq"'
-bind '"셊":"tpqt"'
-bind '"셋":"tpt"'
-bind '"셌":"tpT"'
-bind '"셍":"tpd"'
-bind '"셎":"tpw"'
-bind '"셏":"tpc"'
-bind '"셐":"tpz"'
-bind '"셑":"tpx"'
-bind '"셒":"tpv"'
-bind '"셓":"tpg"'
-bind '"셔":"tu"'
-bind '"셕":"tur"'
-bind '"셖":"tuR"'
-bind '"셗":"turt"'
-bind '"션":"tus"'
-bind '"셙":"tusw"'
-bind '"셚":"tusg"'
-bind '"셛":"tue"'
-bind '"셜":"tuf"'
-bind '"셝":"tufr"'
-bind '"셞":"tufa"'
-bind '"셟":"tufq"'
-bind '"셠":"tuft"'
-bind '"셡":"tufx"'
-bind '"셢":"tufv"'
-bind '"셣":"tufg"'
-bind '"셤":"tua"'
-bind '"셥":"tuq"'
-bind '"셦":"tuqt"'
-bind '"셧":"tut"'
-bind '"셨":"tuT"'
-bind '"셩":"tud"'
-bind '"셪":"tuw"'
-bind '"셫":"tuc"'
-bind '"셬":"tuz"'
-bind '"셭":"tux"'
-bind '"셮":"tuv"'
-bind '"셯":"tug"'
-bind '"셰":"tP"'
-bind '"셱":"tPr"'
-bind '"셲":"tPR"'
-bind '"셳":"tPrt"'
-bind '"셴":"tPs"'
-bind '"셵":"tPsw"'
-bind '"셶":"tPsg"'
-bind '"셷":"tPe"'
-bind '"셸":"tPf"'
-bind '"셹":"tPfr"'
-bind '"셺":"tPfa"'
-bind '"셻":"tPfq"'
-bind '"셼":"tPft"'
-bind '"셽":"tPfx"'
-bind '"셾":"tPfv"'
-bind '"셿":"tPfg"'
-bind '"솀":"tPa"'
-bind '"솁":"tPq"'
-bind '"솂":"tPqt"'
-bind '"솃":"tPt"'
-bind '"솄":"tPT"'
-bind '"솅":"tPd"'
-bind '"솆":"tPw"'
-bind '"솇":"tPc"'
-bind '"솈":"tPz"'
-bind '"솉":"tPx"'
-bind '"솊":"tPv"'
-bind '"솋":"tPg"'
-bind '"소":"th"'
-bind '"속":"thr"'
-bind '"솎":"thR"'
-bind '"솏":"thrt"'
-bind '"손":"ths"'
-bind '"솑":"thsw"'
-bind '"솒":"thsg"'
-bind '"솓":"the"'
-bind '"솔":"thf"'
-bind '"솕":"thfr"'
-bind '"솖":"thfa"'
-bind '"솗":"thfq"'
-bind '"솘":"thft"'
-bind '"솙":"thfx"'
-bind '"솚":"thfv"'
-bind '"솛":"thfg"'
-bind '"솜":"tha"'
-bind '"솝":"thq"'
-bind '"솞":"thqt"'
-bind '"솟":"tht"'
-bind '"솠":"thT"'
-bind '"송":"thd"'
-bind '"솢":"thw"'
-bind '"솣":"thc"'
-bind '"솤":"thz"'
-bind '"솥":"thx"'
-bind '"솦":"thv"'
-bind '"솧":"thg"'
-bind '"솨":"thk"'
-bind '"솩":"thkr"'
-bind '"솪":"thkR"'
-bind '"솫":"thkrt"'
-bind '"솬":"thks"'
-bind '"솭":"thksw"'
-bind '"솮":"thksg"'
-bind '"솯":"thke"'
-bind '"솰":"thkf"'
-bind '"솱":"thkfr"'
-bind '"솲":"thkfa"'
-bind '"솳":"thkfq"'
-bind '"솴":"thkft"'
-bind '"솵":"thkfx"'
-bind '"솶":"thkfv"'
-bind '"솷":"thkfg"'
-bind '"솸":"thka"'
-bind '"솹":"thkq"'
-bind '"솺":"thkqt"'
-bind '"솻":"thkt"'
-bind '"솼":"thkT"'
-bind '"솽":"thkd"'
-bind '"솾":"thkw"'
-bind '"솿":"thkc"'
-bind '"쇀":"thkz"'
-bind '"쇁":"thkx"'
-bind '"쇂":"thkv"'
-bind '"쇃":"thkg"'
-bind '"쇄":"tho"'
-bind '"쇅":"thor"'
-bind '"쇆":"thoR"'
-bind '"쇇":"thort"'
-bind '"쇈":"thos"'
-bind '"쇉":"thosw"'
-bind '"쇊":"thosg"'
-bind '"쇋":"thoe"'
-bind '"쇌":"thof"'
-bind '"쇍":"thofr"'
-bind '"쇎":"thofa"'
-bind '"쇏":"thofq"'
-bind '"쇐":"thoft"'
-bind '"쇑":"thofx"'
-bind '"쇒":"thofv"'
-bind '"쇓":"thofg"'
-bind '"쇔":"thoa"'
-bind '"쇕":"thoq"'
-bind '"쇖":"thoqt"'
-bind '"쇗":"thot"'
-bind '"쇘":"thoT"'
-bind '"쇙":"thod"'
-bind '"쇚":"thow"'
-bind '"쇛":"thoc"'
-bind '"쇜":"thoz"'
-bind '"쇝":"thox"'
-bind '"쇞":"thov"'
-bind '"쇟":"thog"'
-bind '"쇠":"thl"'
-bind '"쇡":"thlr"'
-bind '"쇢":"thlR"'
-bind '"쇣":"thlrt"'
-bind '"쇤":"thls"'
-bind '"쇥":"thlsw"'
-bind '"쇦":"thlsg"'
-bind '"쇧":"thle"'
-bind '"쇨":"thlf"'
-bind '"쇩":"thlfr"'
-bind '"쇪":"thlfa"'
-bind '"쇫":"thlfq"'
-bind '"쇬":"thlft"'
-bind '"쇭":"thlfx"'
-bind '"쇮":"thlfv"'
-bind '"쇯":"thlfg"'
-bind '"쇰":"thla"'
-bind '"쇱":"thlq"'
-bind '"쇲":"thlqt"'
-bind '"쇳":"thlt"'
-bind '"쇴":"thlT"'
-bind '"쇵":"thld"'
-bind '"쇶":"thlw"'
-bind '"쇷":"thlc"'
-bind '"쇸":"thlz"'
-bind '"쇹":"thlx"'
-bind '"쇺":"thlv"'
-bind '"쇻":"thlg"'
-bind '"쇼":"ty"'
-bind '"쇽":"tyr"'
-bind '"쇾":"tyR"'
-bind '"쇿":"tyrt"'
-bind '"숀":"tys"'
-bind '"숁":"tysw"'
-bind '"숂":"tysg"'
-bind '"숃":"tye"'
-bind '"숄":"tyf"'
-bind '"숅":"tyfr"'
-bind '"숆":"tyfa"'
-bind '"숇":"tyfq"'
-bind '"숈":"tyft"'
-bind '"숉":"tyfx"'
-bind '"숊":"tyfv"'
-bind '"숋":"tyfg"'
-bind '"숌":"tya"'
-bind '"숍":"tyq"'
-bind '"숎":"tyqt"'
-bind '"숏":"tyt"'
-bind '"숐":"tyT"'
-bind '"숑":"tyd"'
-bind '"숒":"tyw"'
-bind '"숓":"tyc"'
-bind '"숔":"tyz"'
-bind '"숕":"tyx"'
-bind '"숖":"tyv"'
-bind '"숗":"tyg"'
-bind '"수":"tn"'
-bind '"숙":"tnr"'
-bind '"숚":"tnR"'
-bind '"숛":"tnrt"'
-bind '"순":"tns"'
-bind '"숝":"tnsw"'
-bind '"숞":"tnsg"'
-bind '"숟":"tne"'
-bind '"술":"tnf"'
-bind '"숡":"tnfr"'
-bind '"숢":"tnfa"'
-bind '"숣":"tnfq"'
-bind '"숤":"tnft"'
-bind '"숥":"tnfx"'
-bind '"숦":"tnfv"'
-bind '"숧":"tnfg"'
-bind '"숨":"tna"'
-bind '"숩":"tnq"'
-bind '"숪":"tnqt"'
-bind '"숫":"tnt"'
-bind '"숬":"tnT"'
-bind '"숭":"tnd"'
-bind '"숮":"tnw"'
-bind '"숯":"tnc"'
-bind '"숰":"tnz"'
-bind '"숱":"tnx"'
-bind '"숲":"tnv"'
-bind '"숳":"tng"'
-bind '"숴":"tnj"'
-bind '"숵":"tnjr"'
-bind '"숶":"tnjR"'
-bind '"숷":"tnjrt"'
-bind '"숸":"tnjs"'
-bind '"숹":"tnjsw"'
-bind '"숺":"tnjsg"'
-bind '"숻":"tnje"'
-bind '"숼":"tnjf"'
-bind '"숽":"tnjfr"'
-bind '"숾":"tnjfa"'
-bind '"숿":"tnjfq"'
-bind '"쉀":"tnjft"'
-bind '"쉁":"tnjfx"'
-bind '"쉂":"tnjfv"'
-bind '"쉃":"tnjfg"'
-bind '"쉄":"tnja"'
-bind '"쉅":"tnjq"'
-bind '"쉆":"tnjqt"'
-bind '"쉇":"tnjt"'
-bind '"쉈":"tnjT"'
-bind '"쉉":"tnjd"'
-bind '"쉊":"tnjw"'
-bind '"쉋":"tnjc"'
-bind '"쉌":"tnjz"'
-bind '"쉍":"tnjx"'
-bind '"쉎":"tnjv"'
-bind '"쉏":"tnjg"'
-bind '"쉐":"tnp"'
-bind '"쉑":"tnpr"'
-bind '"쉒":"tnpR"'
-bind '"쉓":"tnprt"'
-bind '"쉔":"tnps"'
-bind '"쉕":"tnpsw"'
-bind '"쉖":"tnpsg"'
-bind '"쉗":"tnpe"'
-bind '"쉘":"tnpf"'
-bind '"쉙":"tnpfr"'
-bind '"쉚":"tnpfa"'
-bind '"쉛":"tnpfq"'
-bind '"쉜":"tnpft"'
-bind '"쉝":"tnpfx"'
-bind '"쉞":"tnpfv"'
-bind '"쉟":"tnpfg"'
-bind '"쉠":"tnpa"'
-bind '"쉡":"tnpq"'
-bind '"쉢":"tnpqt"'
-bind '"쉣":"tnpt"'
-bind '"쉤":"tnpT"'
-bind '"쉥":"tnpd"'
-bind '"쉦":"tnpw"'
-bind '"쉧":"tnpc"'
-bind '"쉨":"tnpz"'
-bind '"쉩":"tnpx"'
-bind '"쉪":"tnpv"'
-bind '"쉫":"tnpg"'
-bind '"쉬":"tnl"'
-bind '"쉭":"tnlr"'
-bind '"쉮":"tnlR"'
-bind '"쉯":"tnlrt"'
-bind '"쉰":"tnls"'
-bind '"쉱":"tnlsw"'
-bind '"쉲":"tnlsg"'
-bind '"쉳":"tnle"'
-bind '"쉴":"tnlf"'
-bind '"쉵":"tnlfr"'
-bind '"쉶":"tnlfa"'
-bind '"쉷":"tnlfq"'
-bind '"쉸":"tnlft"'
-bind '"쉹":"tnlfx"'
-bind '"쉺":"tnlfv"'
-bind '"쉻":"tnlfg"'
-bind '"쉼":"tnla"'
-bind '"쉽":"tnlq"'
-bind '"쉾":"tnlqt"'
-bind '"쉿":"tnlt"'
-bind '"슀":"tnlT"'
-bind '"슁":"tnld"'
-bind '"슂":"tnlw"'
-bind '"슃":"tnlc"'
-bind '"슄":"tnlz"'
-bind '"슅":"tnlx"'
-bind '"슆":"tnlv"'
-bind '"슇":"tnlg"'
-bind '"슈":"tb"'
-bind '"슉":"tbr"'
-bind '"슊":"tbR"'
-bind '"슋":"tbrt"'
-bind '"슌":"tbs"'
-bind '"슍":"tbsw"'
-bind '"슎":"tbsg"'
-bind '"슏":"tbe"'
-bind '"슐":"tbf"'
-bind '"슑":"tbfr"'
-bind '"슒":"tbfa"'
-bind '"슓":"tbfq"'
-bind '"슔":"tbft"'
-bind '"슕":"tbfx"'
-bind '"슖":"tbfv"'
-bind '"슗":"tbfg"'
-bind '"슘":"tba"'
-bind '"슙":"tbq"'
-bind '"슚":"tbqt"'
-bind '"슛":"tbt"'
-bind '"슜":"tbT"'
-bind '"슝":"tbd"'
-bind '"슞":"tbw"'
-bind '"슟":"tbc"'
-bind '"슠":"tbz"'
-bind '"슡":"tbx"'
-bind '"슢":"tbv"'
-bind '"슣":"tbg"'
-bind '"스":"tm"'
-bind '"슥":"tmr"'
-bind '"슦":"tmR"'
-bind '"슧":"tmrt"'
-bind '"슨":"tms"'
-bind '"슩":"tmsw"'
-bind '"슪":"tmsg"'
-bind '"슫":"tme"'
-bind '"슬":"tmf"'
-bind '"슭":"tmfr"'
-bind '"슮":"tmfa"'
-bind '"슯":"tmfq"'
-bind '"슰":"tmft"'
-bind '"슱":"tmfx"'
-bind '"슲":"tmfv"'
-bind '"슳":"tmfg"'
-bind '"슴":"tma"'
-bind '"습":"tmq"'
-bind '"슶":"tmqt"'
-bind '"슷":"tmt"'
-bind '"슸":"tmT"'
-bind '"승":"tmd"'
-bind '"슺":"tmw"'
-bind '"슻":"tmc"'
-bind '"슼":"tmz"'
-bind '"슽":"tmx"'
-bind '"슾":"tmv"'
-bind '"슿":"tmg"'
-bind '"싀":"tml"'
-bind '"싁":"tmlr"'
-bind '"싂":"tmlR"'
-bind '"싃":"tmlrt"'
-bind '"싄":"tmls"'
-bind '"싅":"tmlsw"'
-bind '"싆":"tmlsg"'
-bind '"싇":"tmle"'
-bind '"싈":"tmlf"'
-bind '"싉":"tmlfr"'
-bind '"싊":"tmlfa"'
-bind '"싋":"tmlfq"'
-bind '"싌":"tmlft"'
-bind '"싍":"tmlfx"'
-bind '"싎":"tmlfv"'
-bind '"싏":"tmlfg"'
-bind '"싐":"tmla"'
-bind '"싑":"tmlq"'
-bind '"싒":"tmlqt"'
-bind '"싓":"tmlt"'
-bind '"싔":"tmlT"'
-bind '"싕":"tmld"'
-bind '"싖":"tmlw"'
-bind '"싗":"tmlc"'
-bind '"싘":"tmlz"'
-bind '"싙":"tmlx"'
-bind '"싚":"tmlv"'
-bind '"싛":"tmlg"'
-bind '"시":"tl"'
-bind '"식":"tlr"'
-bind '"싞":"tlR"'
-bind '"싟":"tlrt"'
-bind '"신":"tls"'
-bind '"싡":"tlsw"'
-bind '"싢":"tlsg"'
-bind '"싣":"tle"'
-bind '"실":"tlf"'
-bind '"싥":"tlfr"'
-bind '"싦":"tlfa"'
-bind '"싧":"tlfq"'
-bind '"싨":"tlft"'
-bind '"싩":"tlfx"'
-bind '"싪":"tlfv"'
-bind '"싫":"tlfg"'
-bind '"심":"tla"'
-bind '"십":"tlq"'
-bind '"싮":"tlqt"'
-bind '"싯":"tlt"'
-bind '"싰":"tlT"'
-bind '"싱":"tld"'
-bind '"싲":"tlw"'
-bind '"싳":"tlc"'
-bind '"싴":"tlz"'
-bind '"싵":"tlx"'
-bind '"싶":"tlv"'
-bind '"싷":"tlg"'
-bind '"싸":"Tk"'
-bind '"싹":"Tkr"'
-bind '"싺":"TkR"'
-bind '"싻":"Tkrt"'
-bind '"싼":"Tks"'
-bind '"싽":"Tksw"'
-bind '"싾":"Tksg"'
-bind '"싿":"Tke"'
-bind '"쌀":"Tkf"'
-bind '"쌁":"Tkfr"'
-bind '"쌂":"Tkfa"'
-bind '"쌃":"Tkfq"'
-bind '"쌄":"Tkft"'
-bind '"쌅":"Tkfx"'
-bind '"쌆":"Tkfv"'
-bind '"쌇":"Tkfg"'
-bind '"쌈":"Tka"'
-bind '"쌉":"Tkq"'
-bind '"쌊":"Tkqt"'
-bind '"쌋":"Tkt"'
-bind '"쌌":"TkT"'
-bind '"쌍":"Tkd"'
-bind '"쌎":"Tkw"'
-bind '"쌏":"Tkc"'
-bind '"쌐":"Tkz"'
-bind '"쌑":"Tkx"'
-bind '"쌒":"Tkv"'
-bind '"쌓":"Tkg"'
-bind '"쌔":"To"'
-bind '"쌕":"Tor"'
-bind '"쌖":"ToR"'
-bind '"쌗":"Tort"'
-bind '"쌘":"Tos"'
-bind '"쌙":"Tosw"'
-bind '"쌚":"Tosg"'
-bind '"쌛":"Toe"'
-bind '"쌜":"Tof"'
-bind '"쌝":"Tofr"'
-bind '"쌞":"Tofa"'
-bind '"쌟":"Tofq"'
-bind '"쌠":"Toft"'
-bind '"쌡":"Tofx"'
-bind '"쌢":"Tofv"'
-bind '"쌣":"Tofg"'
-bind '"쌤":"Toa"'
-bind '"쌥":"Toq"'
-bind '"쌦":"Toqt"'
-bind '"쌧":"Tot"'
-bind '"쌨":"ToT"'
-bind '"쌩":"Tod"'
-bind '"쌪":"Tow"'
-bind '"쌫":"Toc"'
-bind '"쌬":"Toz"'
-bind '"쌭":"Tox"'
-bind '"쌮":"Tov"'
-bind '"쌯":"Tog"'
-bind '"쌰":"Ti"'
-bind '"쌱":"Tir"'
-bind '"쌲":"TiR"'
-bind '"쌳":"Tirt"'
-bind '"쌴":"Tis"'
-bind '"쌵":"Tisw"'
-bind '"쌶":"Tisg"'
-bind '"쌷":"Tie"'
-bind '"쌸":"Tif"'
-bind '"쌹":"Tifr"'
-bind '"쌺":"Tifa"'
-bind '"쌻":"Tifq"'
-bind '"쌼":"Tift"'
-bind '"쌽":"Tifx"'
-bind '"쌾":"Tifv"'
-bind '"쌿":"Tifg"'
-bind '"썀":"Tia"'
-bind '"썁":"Tiq"'
-bind '"썂":"Tiqt"'
-bind '"썃":"Tit"'
-bind '"썄":"TiT"'
-bind '"썅":"Tid"'
-bind '"썆":"Tiw"'
-bind '"썇":"Tic"'
-bind '"썈":"Tiz"'
-bind '"썉":"Tix"'
-bind '"썊":"Tiv"'
-bind '"썋":"Tig"'
-bind '"썌":"TO"'
-bind '"썍":"TOr"'
-bind '"썎":"TOR"'
-bind '"썏":"TOrt"'
-bind '"썐":"TOs"'
-bind '"썑":"TOsw"'
-bind '"썒":"TOsg"'
-bind '"썓":"TOe"'
-bind '"썔":"TOf"'
-bind '"썕":"TOfr"'
-bind '"썖":"TOfa"'
-bind '"썗":"TOfq"'
-bind '"썘":"TOft"'
-bind '"썙":"TOfx"'
-bind '"썚":"TOfv"'
-bind '"썛":"TOfg"'
-bind '"썜":"TOa"'
-bind '"썝":"TOq"'
-bind '"썞":"TOqt"'
-bind '"썟":"TOt"'
-bind '"썠":"TOT"'
-bind '"썡":"TOd"'
-bind '"썢":"TOw"'
-bind '"썣":"TOc"'
-bind '"썤":"TOz"'
-bind '"썥":"TOx"'
-bind '"썦":"TOv"'
-bind '"썧":"TOg"'
-bind '"써":"Tj"'
-bind '"썩":"Tjr"'
-bind '"썪":"TjR"'
-bind '"썫":"Tjrt"'
-bind '"썬":"Tjs"'
-bind '"썭":"Tjsw"'
-bind '"썮":"Tjsg"'
-bind '"썯":"Tje"'
-bind '"썰":"Tjf"'
-bind '"썱":"Tjfr"'
-bind '"썲":"Tjfa"'
-bind '"썳":"Tjfq"'
-bind '"썴":"Tjft"'
-bind '"썵":"Tjfx"'
-bind '"썶":"Tjfv"'
-bind '"썷":"Tjfg"'
-bind '"썸":"Tja"'
-bind '"썹":"Tjq"'
-bind '"썺":"Tjqt"'
-bind '"썻":"Tjt"'
-bind '"썼":"TjT"'
-bind '"썽":"Tjd"'
-bind '"썾":"Tjw"'
-bind '"썿":"Tjc"'
-bind '"쎀":"Tjz"'
-bind '"쎁":"Tjx"'
-bind '"쎂":"Tjv"'
-bind '"쎃":"Tjg"'
-bind '"쎄":"Tp"'
-bind '"쎅":"Tpr"'
-bind '"쎆":"TpR"'
-bind '"쎇":"Tprt"'
-bind '"쎈":"Tps"'
-bind '"쎉":"Tpsw"'
-bind '"쎊":"Tpsg"'
-bind '"쎋":"Tpe"'
-bind '"쎌":"Tpf"'
-bind '"쎍":"Tpfr"'
-bind '"쎎":"Tpfa"'
-bind '"쎏":"Tpfq"'
-bind '"쎐":"Tpft"'
-bind '"쎑":"Tpfx"'
-bind '"쎒":"Tpfv"'
-bind '"쎓":"Tpfg"'
-bind '"쎔":"Tpa"'
-bind '"쎕":"Tpq"'
-bind '"쎖":"Tpqt"'
-bind '"쎗":"Tpt"'
-bind '"쎘":"TpT"'
-bind '"쎙":"Tpd"'
-bind '"쎚":"Tpw"'
-bind '"쎛":"Tpc"'
-bind '"쎜":"Tpz"'
-bind '"쎝":"Tpx"'
-bind '"쎞":"Tpv"'
-bind '"쎟":"Tpg"'
-bind '"쎠":"Tu"'
-bind '"쎡":"Tur"'
-bind '"쎢":"TuR"'
-bind '"쎣":"Turt"'
-bind '"쎤":"Tus"'
-bind '"쎥":"Tusw"'
-bind '"쎦":"Tusg"'
-bind '"쎧":"Tue"'
-bind '"쎨":"Tuf"'
-bind '"쎩":"Tufr"'
-bind '"쎪":"Tufa"'
-bind '"쎫":"Tufq"'
-bind '"쎬":"Tuft"'
-bind '"쎭":"Tufx"'
-bind '"쎮":"Tufv"'
-bind '"쎯":"Tufg"'
-bind '"쎰":"Tua"'
-bind '"쎱":"Tuq"'
-bind '"쎲":"Tuqt"'
-bind '"쎳":"Tut"'
-bind '"쎴":"TuT"'
-bind '"쎵":"Tud"'
-bind '"쎶":"Tuw"'
-bind '"쎷":"Tuc"'
-bind '"쎸":"Tuz"'
-bind '"쎹":"Tux"'
-bind '"쎺":"Tuv"'
-bind '"쎻":"Tug"'
-bind '"쎼":"TP"'
-bind '"쎽":"TPr"'
-bind '"쎾":"TPR"'
-bind '"쎿":"TPrt"'
-bind '"쏀":"TPs"'
-bind '"쏁":"TPsw"'
-bind '"쏂":"TPsg"'
-bind '"쏃":"TPe"'
-bind '"쏄":"TPf"'
-bind '"쏅":"TPfr"'
-bind '"쏆":"TPfa"'
-bind '"쏇":"TPfq"'
-bind '"쏈":"TPft"'
-bind '"쏉":"TPfx"'
-bind '"쏊":"TPfv"'
-bind '"쏋":"TPfg"'
-bind '"쏌":"TPa"'
-bind '"쏍":"TPq"'
-bind '"쏎":"TPqt"'
-bind '"쏏":"TPt"'
-bind '"쏐":"TPT"'
-bind '"쏑":"TPd"'
-bind '"쏒":"TPw"'
-bind '"쏓":"TPc"'
-bind '"쏔":"TPz"'
-bind '"쏕":"TPx"'
-bind '"쏖":"TPv"'
-bind '"쏗":"TPg"'
-bind '"쏘":"Th"'
-bind '"쏙":"Thr"'
-bind '"쏚":"ThR"'
-bind '"쏛":"Thrt"'
-bind '"쏜":"Ths"'
-bind '"쏝":"Thsw"'
-bind '"쏞":"Thsg"'
-bind '"쏟":"The"'
-bind '"쏠":"Thf"'
-bind '"쏡":"Thfr"'
-bind '"쏢":"Thfa"'
-bind '"쏣":"Thfq"'
-bind '"쏤":"Thft"'
-bind '"쏥":"Thfx"'
-bind '"쏦":"Thfv"'
-bind '"쏧":"Thfg"'
-bind '"쏨":"Tha"'
-bind '"쏩":"Thq"'
-bind '"쏪":"Thqt"'
-bind '"쏫":"Tht"'
-bind '"쏬":"ThT"'
-bind '"쏭":"Thd"'
-bind '"쏮":"Thw"'
-bind '"쏯":"Thc"'
-bind '"쏰":"Thz"'
-bind '"쏱":"Thx"'
-bind '"쏲":"Thv"'
-bind '"쏳":"Thg"'
-bind '"쏴":"Thk"'
-bind '"쏵":"Thkr"'
-bind '"쏶":"ThkR"'
-bind '"쏷":"Thkrt"'
-bind '"쏸":"Thks"'
-bind '"쏹":"Thksw"'
-bind '"쏺":"Thksg"'
-bind '"쏻":"Thke"'
-bind '"쏼":"Thkf"'
-bind '"쏽":"Thkfr"'
-bind '"쏾":"Thkfa"'
-bind '"쏿":"Thkfq"'
-bind '"쐀":"Thkft"'
-bind '"쐁":"Thkfx"'
-bind '"쐂":"Thkfv"'
-bind '"쐃":"Thkfg"'
-bind '"쐄":"Thka"'
-bind '"쐅":"Thkq"'
-bind '"쐆":"Thkqt"'
-bind '"쐇":"Thkt"'
-bind '"쐈":"ThkT"'
-bind '"쐉":"Thkd"'
-bind '"쐊":"Thkw"'
-bind '"쐋":"Thkc"'
-bind '"쐌":"Thkz"'
-bind '"쐍":"Thkx"'
-bind '"쐎":"Thkv"'
-bind '"쐏":"Thkg"'
-bind '"쐐":"Tho"'
-bind '"쐑":"Thor"'
-bind '"쐒":"ThoR"'
-bind '"쐓":"Thort"'
-bind '"쐔":"Thos"'
-bind '"쐕":"Thosw"'
-bind '"쐖":"Thosg"'
-bind '"쐗":"Thoe"'
-bind '"쐘":"Thof"'
-bind '"쐙":"Thofr"'
-bind '"쐚":"Thofa"'
-bind '"쐛":"Thofq"'
-bind '"쐜":"Thoft"'
-bind '"쐝":"Thofx"'
-bind '"쐞":"Thofv"'
-bind '"쐟":"Thofg"'
-bind '"쐠":"Thoa"'
-bind '"쐡":"Thoq"'
-bind '"쐢":"Thoqt"'
-bind '"쐣":"Thot"'
-bind '"쐤":"ThoT"'
-bind '"쐥":"Thod"'
-bind '"쐦":"Thow"'
-bind '"쐧":"Thoc"'
-bind '"쐨":"Thoz"'
-bind '"쐩":"Thox"'
-bind '"쐪":"Thov"'
-bind '"쐫":"Thog"'
-bind '"쐬":"Thl"'
-bind '"쐭":"Thlr"'
-bind '"쐮":"ThlR"'
-bind '"쐯":"Thlrt"'
-bind '"쐰":"Thls"'
-bind '"쐱":"Thlsw"'
-bind '"쐲":"Thlsg"'
-bind '"쐳":"Thle"'
-bind '"쐴":"Thlf"'
-bind '"쐵":"Thlfr"'
-bind '"쐶":"Thlfa"'
-bind '"쐷":"Thlfq"'
-bind '"쐸":"Thlft"'
-bind '"쐹":"Thlfx"'
-bind '"쐺":"Thlfv"'
-bind '"쐻":"Thlfg"'
-bind '"쐼":"Thla"'
-bind '"쐽":"Thlq"'
-bind '"쐾":"Thlqt"'
-bind '"쐿":"Thlt"'
-bind '"쑀":"ThlT"'
-bind '"쑁":"Thld"'
-bind '"쑂":"Thlw"'
-bind '"쑃":"Thlc"'
-bind '"쑄":"Thlz"'
-bind '"쑅":"Thlx"'
-bind '"쑆":"Thlv"'
-bind '"쑇":"Thlg"'
-bind '"쑈":"Ty"'
-bind '"쑉":"Tyr"'
-bind '"쑊":"TyR"'
-bind '"쑋":"Tyrt"'
-bind '"쑌":"Tys"'
-bind '"쑍":"Tysw"'
-bind '"쑎":"Tysg"'
-bind '"쑏":"Tye"'
-bind '"쑐":"Tyf"'
-bind '"쑑":"Tyfr"'
-bind '"쑒":"Tyfa"'
-bind '"쑓":"Tyfq"'
-bind '"쑔":"Tyft"'
-bind '"쑕":"Tyfx"'
-bind '"쑖":"Tyfv"'
-bind '"쑗":"Tyfg"'
-bind '"쑘":"Tya"'
-bind '"쑙":"Tyq"'
-bind '"쑚":"Tyqt"'
-bind '"쑛":"Tyt"'
-bind '"쑜":"TyT"'
-bind '"쑝":"Tyd"'
-bind '"쑞":"Tyw"'
-bind '"쑟":"Tyc"'
-bind '"쑠":"Tyz"'
-bind '"쑡":"Tyx"'
-bind '"쑢":"Tyv"'
-bind '"쑣":"Tyg"'
-bind '"쑤":"Tn"'
-bind '"쑥":"Tnr"'
-bind '"쑦":"TnR"'
-bind '"쑧":"Tnrt"'
-bind '"쑨":"Tns"'
-bind '"쑩":"Tnsw"'
-bind '"쑪":"Tnsg"'
-bind '"쑫":"Tne"'
-bind '"쑬":"Tnf"'
-bind '"쑭":"Tnfr"'
-bind '"쑮":"Tnfa"'
-bind '"쑯":"Tnfq"'
-bind '"쑰":"Tnft"'
-bind '"쑱":"Tnfx"'
-bind '"쑲":"Tnfv"'
-bind '"쑳":"Tnfg"'
-bind '"쑴":"Tna"'
-bind '"쑵":"Tnq"'
-bind '"쑶":"Tnqt"'
-bind '"쑷":"Tnt"'
-bind '"쑸":"TnT"'
-bind '"쑹":"Tnd"'
-bind '"쑺":"Tnw"'
-bind '"쑻":"Tnc"'
-bind '"쑼":"Tnz"'
-bind '"쑽":"Tnx"'
-bind '"쑾":"Tnv"'
-bind '"쑿":"Tng"'
-bind '"쒀":"Tnj"'
-bind '"쒁":"Tnjr"'
-bind '"쒂":"TnjR"'
-bind '"쒃":"Tnjrt"'
-bind '"쒄":"Tnjs"'
-bind '"쒅":"Tnjsw"'
-bind '"쒆":"Tnjsg"'
-bind '"쒇":"Tnje"'
-bind '"쒈":"Tnjf"'
-bind '"쒉":"Tnjfr"'
-bind '"쒊":"Tnjfa"'
-bind '"쒋":"Tnjfq"'
-bind '"쒌":"Tnjft"'
-bind '"쒍":"Tnjfx"'
-bind '"쒎":"Tnjfv"'
-bind '"쒏":"Tnjfg"'
-bind '"쒐":"Tnja"'
-bind '"쒑":"Tnjq"'
-bind '"쒒":"Tnjqt"'
-bind '"쒓":"Tnjt"'
-bind '"쒔":"TnjT"'
-bind '"쒕":"Tnjd"'
-bind '"쒖":"Tnjw"'
-bind '"쒗":"Tnjc"'
-bind '"쒘":"Tnjz"'
-bind '"쒙":"Tnjx"'
-bind '"쒚":"Tnjv"'
-bind '"쒛":"Tnjg"'
-bind '"쒜":"Tnp"'
-bind '"쒝":"Tnpr"'
-bind '"쒞":"TnpR"'
-bind '"쒟":"Tnprt"'
-bind '"쒠":"Tnps"'
-bind '"쒡":"Tnpsw"'
-bind '"쒢":"Tnpsg"'
-bind '"쒣":"Tnpe"'
-bind '"쒤":"Tnpf"'
-bind '"쒥":"Tnpfr"'
-bind '"쒦":"Tnpfa"'
-bind '"쒧":"Tnpfq"'
-bind '"쒨":"Tnpft"'
-bind '"쒩":"Tnpfx"'
-bind '"쒪":"Tnpfv"'
-bind '"쒫":"Tnpfg"'
-bind '"쒬":"Tnpa"'
-bind '"쒭":"Tnpq"'
-bind '"쒮":"Tnpqt"'
-bind '"쒯":"Tnpt"'
-bind '"쒰":"TnpT"'
-bind '"쒱":"Tnpd"'
-bind '"쒲":"Tnpw"'
-bind '"쒳":"Tnpc"'
-bind '"쒴":"Tnpz"'
-bind '"쒵":"Tnpx"'
-bind '"쒶":"Tnpv"'
-bind '"쒷":"Tnpg"'
-bind '"쒸":"Tnl"'
-bind '"쒹":"Tnlr"'
-bind '"쒺":"TnlR"'
-bind '"쒻":"Tnlrt"'
-bind '"쒼":"Tnls"'
-bind '"쒽":"Tnlsw"'
-bind '"쒾":"Tnlsg"'
-bind '"쒿":"Tnle"'
-bind '"쓀":"Tnlf"'
-bind '"쓁":"Tnlfr"'
-bind '"쓂":"Tnlfa"'
-bind '"쓃":"Tnlfq"'
-bind '"쓄":"Tnlft"'
-bind '"쓅":"Tnlfx"'
-bind '"쓆":"Tnlfv"'
-bind '"쓇":"Tnlfg"'
-bind '"쓈":"Tnla"'
-bind '"쓉":"Tnlq"'
-bind '"쓊":"Tnlqt"'
-bind '"쓋":"Tnlt"'
-bind '"쓌":"TnlT"'
-bind '"쓍":"Tnld"'
-bind '"쓎":"Tnlw"'
-bind '"쓏":"Tnlc"'
-bind '"쓐":"Tnlz"'
-bind '"쓑":"Tnlx"'
-bind '"쓒":"Tnlv"'
-bind '"쓓":"Tnlg"'
-bind '"쓔":"Tb"'
-bind '"쓕":"Tbr"'
-bind '"쓖":"TbR"'
-bind '"쓗":"Tbrt"'
-bind '"쓘":"Tbs"'
-bind '"쓙":"Tbsw"'
-bind '"쓚":"Tbsg"'
-bind '"쓛":"Tbe"'
-bind '"쓜":"Tbf"'
-bind '"쓝":"Tbfr"'
-bind '"쓞":"Tbfa"'
-bind '"쓟":"Tbfq"'
-bind '"쓠":"Tbft"'
-bind '"쓡":"Tbfx"'
-bind '"쓢":"Tbfv"'
-bind '"쓣":"Tbfg"'
-bind '"쓤":"Tba"'
-bind '"쓥":"Tbq"'
-bind '"쓦":"Tbqt"'
-bind '"쓧":"Tbt"'
-bind '"쓨":"TbT"'
-bind '"쓩":"Tbd"'
-bind '"쓪":"Tbw"'
-bind '"쓫":"Tbc"'
-bind '"쓬":"Tbz"'
-bind '"쓭":"Tbx"'
-bind '"쓮":"Tbv"'
-bind '"쓯":"Tbg"'
-bind '"쓰":"Tm"'
-bind '"쓱":"Tmr"'
-bind '"쓲":"TmR"'
-bind '"쓳":"Tmrt"'
-bind '"쓴":"Tms"'
-bind '"쓵":"Tmsw"'
-bind '"쓶":"Tmsg"'
-bind '"쓷":"Tme"'
-bind '"쓸":"Tmf"'
-bind '"쓹":"Tmfr"'
-bind '"쓺":"Tmfa"'
-bind '"쓻":"Tmfq"'
-bind '"쓼":"Tmft"'
-bind '"쓽":"Tmfx"'
-bind '"쓾":"Tmfv"'
-bind '"쓿":"Tmfg"'
-bind '"씀":"Tma"'
-bind '"씁":"Tmq"'
-bind '"씂":"Tmqt"'
-bind '"씃":"Tmt"'
-bind '"씄":"TmT"'
-bind '"씅":"Tmd"'
-bind '"씆":"Tmw"'
-bind '"씇":"Tmc"'
-bind '"씈":"Tmz"'
-bind '"씉":"Tmx"'
-bind '"씊":"Tmv"'
-bind '"씋":"Tmg"'
-bind '"씌":"Tml"'
-bind '"씍":"Tmlr"'
-bind '"씎":"TmlR"'
-bind '"씏":"Tmlrt"'
-bind '"씐":"Tmls"'
-bind '"씑":"Tmlsw"'
-bind '"씒":"Tmlsg"'
-bind '"씓":"Tmle"'
-bind '"씔":"Tmlf"'
-bind '"씕":"Tmlfr"'
-bind '"씖":"Tmlfa"'
-bind '"씗":"Tmlfq"'
-bind '"씘":"Tmlft"'
-bind '"씙":"Tmlfx"'
-bind '"씚":"Tmlfv"'
-bind '"씛":"Tmlfg"'
-bind '"씜":"Tmla"'
-bind '"씝":"Tmlq"'
-bind '"씞":"Tmlqt"'
-bind '"씟":"Tmlt"'
-bind '"씠":"TmlT"'
-bind '"씡":"Tmld"'
-bind '"씢":"Tmlw"'
-bind '"씣":"Tmlc"'
-bind '"씤":"Tmlz"'
-bind '"씥":"Tmlx"'
-bind '"씦":"Tmlv"'
-bind '"씧":"Tmlg"'
-bind '"씨":"Tl"'
-bind '"씩":"Tlr"'
-bind '"씪":"TlR"'
-bind '"씫":"Tlrt"'
-bind '"씬":"Tls"'
-bind '"씭":"Tlsw"'
-bind '"씮":"Tlsg"'
-bind '"씯":"Tle"'
-bind '"씰":"Tlf"'
-bind '"씱":"Tlfr"'
-bind '"씲":"Tlfa"'
-bind '"씳":"Tlfq"'
-bind '"씴":"Tlft"'
-bind '"씵":"Tlfx"'
-bind '"씶":"Tlfv"'
-bind '"씷":"Tlfg"'
-bind '"씸":"Tla"'
-bind '"씹":"Tlq"'
-bind '"씺":"Tlqt"'
-bind '"씻":"Tlt"'
-bind '"씼":"TlT"'
-bind '"씽":"Tld"'
-bind '"씾":"Tlw"'
-bind '"씿":"Tlc"'
-bind '"앀":"Tlz"'
-bind '"앁":"Tlx"'
-bind '"앂":"Tlv"'
-bind '"앃":"Tlg"'
-bind '"아":"dk"'
-bind '"악":"dkr"'
-bind '"앆":"dkR"'
-bind '"앇":"dkrt"'
-bind '"안":"dks"'
-bind '"앉":"dksw"'
-bind '"않":"dksg"'
-bind '"앋":"dke"'
-bind '"알":"dkf"'
-bind '"앍":"dkfr"'
-bind '"앎":"dkfa"'
-bind '"앏":"dkfq"'
-bind '"앐":"dkft"'
-bind '"앑":"dkfx"'
-bind '"앒":"dkfv"'
-bind '"앓":"dkfg"'
-bind '"암":"dka"'
-bind '"압":"dkq"'
-bind '"앖":"dkqt"'
-bind '"앗":"dkt"'
-bind '"았":"dkT"'
-bind '"앙":"dkd"'
-bind '"앚":"dkw"'
-bind '"앛":"dkc"'
-bind '"앜":"dkz"'
-bind '"앝":"dkx"'
-bind '"앞":"dkv"'
-bind '"앟":"dkg"'
-bind '"애":"do"'
-bind '"액":"dor"'
-bind '"앢":"doR"'
-bind '"앣":"dort"'
-bind '"앤":"dos"'
-bind '"앥":"dosw"'
-bind '"앦":"dosg"'
-bind '"앧":"doe"'
-bind '"앨":"dof"'
-bind '"앩":"dofr"'
-bind '"앪":"dofa"'
-bind '"앫":"dofq"'
-bind '"앬":"doft"'
-bind '"앭":"dofx"'
-bind '"앮":"dofv"'
-bind '"앯":"dofg"'
-bind '"앰":"doa"'
-bind '"앱":"doq"'
-bind '"앲":"doqt"'
-bind '"앳":"dot"'
-bind '"앴":"doT"'
-bind '"앵":"dod"'
-bind '"앶":"dow"'
-bind '"앷":"doc"'
-bind '"앸":"doz"'
-bind '"앹":"dox"'
-bind '"앺":"dov"'
-bind '"앻":"dog"'
-bind '"야":"di"'
-bind '"약":"dir"'
-bind '"앾":"diR"'
-bind '"앿":"dirt"'
-bind '"얀":"dis"'
-bind '"얁":"disw"'
-bind '"얂":"disg"'
-bind '"얃":"die"'
-bind '"얄":"dif"'
-bind '"얅":"difr"'
-bind '"얆":"difa"'
-bind '"얇":"difq"'
-bind '"얈":"dift"'
-bind '"얉":"difx"'
-bind '"얊":"difv"'
-bind '"얋":"difg"'
-bind '"얌":"dia"'
-bind '"얍":"diq"'
-bind '"얎":"diqt"'
-bind '"얏":"dit"'
-bind '"얐":"diT"'
-bind '"양":"did"'
-bind '"얒":"diw"'
-bind '"얓":"dic"'
-bind '"얔":"diz"'
-bind '"얕":"dix"'
-bind '"얖":"div"'
-bind '"얗":"dig"'
-bind '"얘":"dO"'
-bind '"얙":"dOr"'
-bind '"얚":"dOR"'
-bind '"얛":"dOrt"'
-bind '"얜":"dOs"'
-bind '"얝":"dOsw"'
-bind '"얞":"dOsg"'
-bind '"얟":"dOe"'
-bind '"얠":"dOf"'
-bind '"얡":"dOfr"'
-bind '"얢":"dOfa"'
-bind '"얣":"dOfq"'
-bind '"얤":"dOft"'
-bind '"얥":"dOfx"'
-bind '"얦":"dOfv"'
-bind '"얧":"dOfg"'
-bind '"얨":"dOa"'
-bind '"얩":"dOq"'
-bind '"얪":"dOqt"'
-bind '"얫":"dOt"'
-bind '"얬":"dOT"'
-bind '"얭":"dOd"'
-bind '"얮":"dOw"'
-bind '"얯":"dOc"'
-bind '"얰":"dOz"'
-bind '"얱":"dOx"'
-bind '"얲":"dOv"'
-bind '"얳":"dOg"'
-bind '"어":"dj"'
-bind '"억":"djr"'
-bind '"얶":"djR"'
-bind '"얷":"djrt"'
-bind '"언":"djs"'
-bind '"얹":"djsw"'
-bind '"얺":"djsg"'
-bind '"얻":"dje"'
-bind '"얼":"djf"'
-bind '"얽":"djfr"'
-bind '"얾":"djfa"'
-bind '"얿":"djfq"'
-bind '"엀":"djft"'
-bind '"엁":"djfx"'
-bind '"엂":"djfv"'
-bind '"엃":"djfg"'
-bind '"엄":"dja"'
-bind '"업":"djq"'
-bind '"없":"djqt"'
-bind '"엇":"djt"'
-bind '"었":"djT"'
-bind '"엉":"djd"'
-bind '"엊":"djw"'
-bind '"엋":"djc"'
-bind '"엌":"djz"'
-bind '"엍":"djx"'
-bind '"엎":"djv"'
-bind '"엏":"djg"'
-bind '"에":"dp"'
-bind '"엑":"dpr"'
-bind '"엒":"dpR"'
-bind '"엓":"dprt"'
-bind '"엔":"dps"'
-bind '"엕":"dpsw"'
-bind '"엖":"dpsg"'
-bind '"엗":"dpe"'
-bind '"엘":"dpf"'
-bind '"엙":"dpfr"'
-bind '"엚":"dpfa"'
-bind '"엛":"dpfq"'
-bind '"엜":"dpft"'
-bind '"엝":"dpfx"'
-bind '"엞":"dpfv"'
-bind '"엟":"dpfg"'
-bind '"엠":"dpa"'
-bind '"엡":"dpq"'
-bind '"엢":"dpqt"'
-bind '"엣":"dpt"'
-bind '"엤":"dpT"'
-bind '"엥":"dpd"'
-bind '"엦":"dpw"'
-bind '"엧":"dpc"'
-bind '"엨":"dpz"'
-bind '"엩":"dpx"'
-bind '"엪":"dpv"'
-bind '"엫":"dpg"'
-bind '"여":"du"'
-bind '"역":"dur"'
-bind '"엮":"duR"'
-bind '"엯":"durt"'
-bind '"연":"dus"'
-bind '"엱":"dusw"'
-bind '"엲":"dusg"'
-bind '"엳":"due"'
-bind '"열":"duf"'
-bind '"엵":"dufr"'
-bind '"엶":"dufa"'
-bind '"엷":"dufq"'
-bind '"엸":"duft"'
-bind '"엹":"dufx"'
-bind '"엺":"dufv"'
-bind '"엻":"dufg"'
-bind '"염":"dua"'
-bind '"엽":"duq"'
-bind '"엾":"duqt"'
-bind '"엿":"dut"'
-bind '"였":"duT"'
-bind '"영":"dud"'
-bind '"옂":"duw"'
-bind '"옃":"duc"'
-bind '"옄":"duz"'
-bind '"옅":"dux"'
-bind '"옆":"duv"'
-bind '"옇":"dug"'
-bind '"예":"dP"'
-bind '"옉":"dPr"'
-bind '"옊":"dPR"'
-bind '"옋":"dPrt"'
-bind '"옌":"dPs"'
-bind '"옍":"dPsw"'
-bind '"옎":"dPsg"'
-bind '"옏":"dPe"'
-bind '"옐":"dPf"'
-bind '"옑":"dPfr"'
-bind '"옒":"dPfa"'
-bind '"옓":"dPfq"'
-bind '"옔":"dPft"'
-bind '"옕":"dPfx"'
-bind '"옖":"dPfv"'
-bind '"옗":"dPfg"'
-bind '"옘":"dPa"'
-bind '"옙":"dPq"'
-bind '"옚":"dPqt"'
-bind '"옛":"dPt"'
-bind '"옜":"dPT"'
-bind '"옝":"dPd"'
-bind '"옞":"dPw"'
-bind '"옟":"dPc"'
-bind '"옠":"dPz"'
-bind '"옡":"dPx"'
-bind '"옢":"dPv"'
-bind '"옣":"dPg"'
-bind '"오":"dh"'
-bind '"옥":"dhr"'
-bind '"옦":"dhR"'
-bind '"옧":"dhrt"'
-bind '"온":"dhs"'
-bind '"옩":"dhsw"'
-bind '"옪":"dhsg"'
-bind '"옫":"dhe"'
-bind '"올":"dhf"'
-bind '"옭":"dhfr"'
-bind '"옮":"dhfa"'
-bind '"옯":"dhfq"'
-bind '"옰":"dhft"'
-bind '"옱":"dhfx"'
-bind '"옲":"dhfv"'
-bind '"옳":"dhfg"'
-bind '"옴":"dha"'
-bind '"옵":"dhq"'
-bind '"옶":"dhqt"'
-bind '"옷":"dht"'
-bind '"옸":"dhT"'
-bind '"옹":"dhd"'
-bind '"옺":"dhw"'
-bind '"옻":"dhc"'
-bind '"옼":"dhz"'
-bind '"옽":"dhx"'
-bind '"옾":"dhv"'
-bind '"옿":"dhg"'
-bind '"와":"dhk"'
-bind '"왁":"dhkr"'
-bind '"왂":"dhkR"'
-bind '"왃":"dhkrt"'
-bind '"완":"dhks"'
-bind '"왅":"dhksw"'
-bind '"왆":"dhksg"'
-bind '"왇":"dhke"'
-bind '"왈":"dhkf"'
-bind '"왉":"dhkfr"'
-bind '"왊":"dhkfa"'
-bind '"왋":"dhkfq"'
-bind '"왌":"dhkft"'
-bind '"왍":"dhkfx"'
-bind '"왎":"dhkfv"'
-bind '"왏":"dhkfg"'
-bind '"왐":"dhka"'
-bind '"왑":"dhkq"'
-bind '"왒":"dhkqt"'
-bind '"왓":"dhkt"'
-bind '"왔":"dhkT"'
-bind '"왕":"dhkd"'
-bind '"왖":"dhkw"'
-bind '"왗":"dhkc"'
-bind '"왘":"dhkz"'
-bind '"왙":"dhkx"'
-bind '"왚":"dhkv"'
-bind '"왛":"dhkg"'
-bind '"왜":"dho"'
-bind '"왝":"dhor"'
-bind '"왞":"dhoR"'
-bind '"왟":"dhort"'
-bind '"왠":"dhos"'
-bind '"왡":"dhosw"'
-bind '"왢":"dhosg"'
-bind '"왣":"dhoe"'
-bind '"왤":"dhof"'
-bind '"왥":"dhofr"'
-bind '"왦":"dhofa"'
-bind '"왧":"dhofq"'
-bind '"왨":"dhoft"'
-bind '"왩":"dhofx"'
-bind '"왪":"dhofv"'
-bind '"왫":"dhofg"'
-bind '"왬":"dhoa"'
-bind '"왭":"dhoq"'
-bind '"왮":"dhoqt"'
-bind '"왯":"dhot"'
-bind '"왰":"dhoT"'
-bind '"왱":"dhod"'
-bind '"왲":"dhow"'
-bind '"왳":"dhoc"'
-bind '"왴":"dhoz"'
-bind '"왵":"dhox"'
-bind '"왶":"dhov"'
-bind '"왷":"dhog"'
-bind '"외":"dhl"'
-bind '"왹":"dhlr"'
-bind '"왺":"dhlR"'
-bind '"왻":"dhlrt"'
-bind '"왼":"dhls"'
-bind '"왽":"dhlsw"'
-bind '"왾":"dhlsg"'
-bind '"왿":"dhle"'
-bind '"욀":"dhlf"'
-bind '"욁":"dhlfr"'
-bind '"욂":"dhlfa"'
-bind '"욃":"dhlfq"'
-bind '"욄":"dhlft"'
-bind '"욅":"dhlfx"'
-bind '"욆":"dhlfv"'
-bind '"욇":"dhlfg"'
-bind '"욈":"dhla"'
-bind '"욉":"dhlq"'
-bind '"욊":"dhlqt"'
-bind '"욋":"dhlt"'
-bind '"욌":"dhlT"'
-bind '"욍":"dhld"'
-bind '"욎":"dhlw"'
-bind '"욏":"dhlc"'
-bind '"욐":"dhlz"'
-bind '"욑":"dhlx"'
-bind '"욒":"dhlv"'
-bind '"욓":"dhlg"'
-bind '"요":"dy"'
-bind '"욕":"dyr"'
-bind '"욖":"dyR"'
-bind '"욗":"dyrt"'
-bind '"욘":"dys"'
-bind '"욙":"dysw"'
-bind '"욚":"dysg"'
-bind '"욛":"dye"'
-bind '"욜":"dyf"'
-bind '"욝":"dyfr"'
-bind '"욞":"dyfa"'
-bind '"욟":"dyfq"'
-bind '"욠":"dyft"'
-bind '"욡":"dyfx"'
-bind '"욢":"dyfv"'
-bind '"욣":"dyfg"'
-bind '"욤":"dya"'
-bind '"욥":"dyq"'
-bind '"욦":"dyqt"'
-bind '"욧":"dyt"'
-bind '"욨":"dyT"'
-bind '"용":"dyd"'
-bind '"욪":"dyw"'
-bind '"욫":"dyc"'
-bind '"욬":"dyz"'
-bind '"욭":"dyx"'
-bind '"욮":"dyv"'
-bind '"욯":"dyg"'
-bind '"우":"dn"'
-bind '"욱":"dnr"'
-bind '"욲":"dnR"'
-bind '"욳":"dnrt"'
-bind '"운":"dns"'
-bind '"욵":"dnsw"'
-bind '"욶":"dnsg"'
-bind '"욷":"dne"'
-bind '"울":"dnf"'
-bind '"욹":"dnfr"'
-bind '"욺":"dnfa"'
-bind '"욻":"dnfq"'
-bind '"욼":"dnft"'
-bind '"욽":"dnfx"'
-bind '"욾":"dnfv"'
-bind '"욿":"dnfg"'
-bind '"움":"dna"'
-bind '"웁":"dnq"'
-bind '"웂":"dnqt"'
-bind '"웃":"dnt"'
-bind '"웄":"dnT"'
-bind '"웅":"dnd"'
-bind '"웆":"dnw"'
-bind '"웇":"dnc"'
-bind '"웈":"dnz"'
-bind '"웉":"dnx"'
-bind '"웊":"dnv"'
-bind '"웋":"dng"'
-bind '"워":"dnj"'
-bind '"웍":"dnjr"'
-bind '"웎":"dnjR"'
-bind '"웏":"dnjrt"'
-bind '"원":"dnjs"'
-bind '"웑":"dnjsw"'
-bind '"웒":"dnjsg"'
-bind '"웓":"dnje"'
-bind '"월":"dnjf"'
-bind '"웕":"dnjfr"'
-bind '"웖":"dnjfa"'
-bind '"웗":"dnjfq"'
-bind '"웘":"dnjft"'
-bind '"웙":"dnjfx"'
-bind '"웚":"dnjfv"'
-bind '"웛":"dnjfg"'
-bind '"웜":"dnja"'
-bind '"웝":"dnjq"'
-bind '"웞":"dnjqt"'
-bind '"웟":"dnjt"'
-bind '"웠":"dnjT"'
-bind '"웡":"dnjd"'
-bind '"웢":"dnjw"'
-bind '"웣":"dnjc"'
-bind '"웤":"dnjz"'
-bind '"웥":"dnjx"'
-bind '"웦":"dnjv"'
-bind '"웧":"dnjg"'
-bind '"웨":"dnp"'
-bind '"웩":"dnpr"'
-bind '"웪":"dnpR"'
-bind '"웫":"dnprt"'
-bind '"웬":"dnps"'
-bind '"웭":"dnpsw"'
-bind '"웮":"dnpsg"'
-bind '"웯":"dnpe"'
-bind '"웰":"dnpf"'
-bind '"웱":"dnpfr"'
-bind '"웲":"dnpfa"'
-bind '"웳":"dnpfq"'
-bind '"웴":"dnpft"'
-bind '"웵":"dnpfx"'
-bind '"웶":"dnpfv"'
-bind '"웷":"dnpfg"'
-bind '"웸":"dnpa"'
-bind '"웹":"dnpq"'
-bind '"웺":"dnpqt"'
-bind '"웻":"dnpt"'
-bind '"웼":"dnpT"'
-bind '"웽":"dnpd"'
-bind '"웾":"dnpw"'
-bind '"웿":"dnpc"'
-bind '"윀":"dnpz"'
-bind '"윁":"dnpx"'
-bind '"윂":"dnpv"'
-bind '"윃":"dnpg"'
-bind '"위":"dnl"'
-bind '"윅":"dnlr"'
-bind '"윆":"dnlR"'
-bind '"윇":"dnlrt"'
-bind '"윈":"dnls"'
-bind '"윉":"dnlsw"'
-bind '"윊":"dnlsg"'
-bind '"윋":"dnle"'
-bind '"윌":"dnlf"'
-bind '"윍":"dnlfr"'
-bind '"윎":"dnlfa"'
-bind '"윏":"dnlfq"'
-bind '"윐":"dnlft"'
-bind '"윑":"dnlfx"'
-bind '"윒":"dnlfv"'
-bind '"윓":"dnlfg"'
-bind '"윔":"dnla"'
-bind '"윕":"dnlq"'
-bind '"윖":"dnlqt"'
-bind '"윗":"dnlt"'
-bind '"윘":"dnlT"'
-bind '"윙":"dnld"'
-bind '"윚":"dnlw"'
-bind '"윛":"dnlc"'
-bind '"윜":"dnlz"'
-bind '"윝":"dnlx"'
-bind '"윞":"dnlv"'
-bind '"윟":"dnlg"'
-bind '"유":"db"'
-bind '"육":"dbr"'
-bind '"윢":"dbR"'
-bind '"윣":"dbrt"'
-bind '"윤":"dbs"'
-bind '"윥":"dbsw"'
-bind '"윦":"dbsg"'
-bind '"윧":"dbe"'
-bind '"율":"dbf"'
-bind '"윩":"dbfr"'
-bind '"윪":"dbfa"'
-bind '"윫":"dbfq"'
-bind '"윬":"dbft"'
-bind '"윭":"dbfx"'
-bind '"윮":"dbfv"'
-bind '"윯":"dbfg"'
-bind '"윰":"dba"'
-bind '"윱":"dbq"'
-bind '"윲":"dbqt"'
-bind '"윳":"dbt"'
-bind '"윴":"dbT"'
-bind '"융":"dbd"'
-bind '"윶":"dbw"'
-bind '"윷":"dbc"'
-bind '"윸":"dbz"'
-bind '"윹":"dbx"'
-bind '"윺":"dbv"'
-bind '"윻":"dbg"'
-bind '"으":"dm"'
-bind '"윽":"dmr"'
-bind '"윾":"dmR"'
-bind '"윿":"dmrt"'
-bind '"은":"dms"'
-bind '"읁":"dmsw"'
-bind '"읂":"dmsg"'
-bind '"읃":"dme"'
-bind '"을":"dmf"'
-bind '"읅":"dmfr"'
-bind '"읆":"dmfa"'
-bind '"읇":"dmfq"'
-bind '"읈":"dmft"'
-bind '"읉":"dmfx"'
-bind '"읊":"dmfv"'
-bind '"읋":"dmfg"'
-bind '"음":"dma"'
-bind '"읍":"dmq"'
-bind '"읎":"dmqt"'
-bind '"읏":"dmt"'
-bind '"읐":"dmT"'
-bind '"응":"dmd"'
-bind '"읒":"dmw"'
-bind '"읓":"dmc"'
-bind '"읔":"dmz"'
-bind '"읕":"dmx"'
-bind '"읖":"dmv"'
-bind '"읗":"dmg"'
-bind '"의":"dml"'
-bind '"읙":"dmlr"'
-bind '"읚":"dmlR"'
-bind '"읛":"dmlrt"'
-bind '"읜":"dmls"'
-bind '"읝":"dmlsw"'
-bind '"읞":"dmlsg"'
-bind '"읟":"dmle"'
-bind '"읠":"dmlf"'
-bind '"읡":"dmlfr"'
-bind '"읢":"dmlfa"'
-bind '"읣":"dmlfq"'
-bind '"읤":"dmlft"'
-bind '"읥":"dmlfx"'
-bind '"읦":"dmlfv"'
-bind '"읧":"dmlfg"'
-bind '"읨":"dmla"'
-bind '"읩":"dmlq"'
-bind '"읪":"dmlqt"'
-bind '"읫":"dmlt"'
-bind '"읬":"dmlT"'
-bind '"읭":"dmld"'
-bind '"읮":"dmlw"'
-bind '"읯":"dmlc"'
-bind '"읰":"dmlz"'
-bind '"읱":"dmlx"'
-bind '"읲":"dmlv"'
-bind '"읳":"dmlg"'
-bind '"이":"dl"'
-bind '"익":"dlr"'
-bind '"읶":"dlR"'
-bind '"읷":"dlrt"'
-bind '"인":"dls"'
-bind '"읹":"dlsw"'
-bind '"읺":"dlsg"'
-bind '"읻":"dle"'
-bind '"일":"dlf"'
-bind '"읽":"dlfr"'
-bind '"읾":"dlfa"'
-bind '"읿":"dlfq"'
-bind '"잀":"dlft"'
-bind '"잁":"dlfx"'
-bind '"잂":"dlfv"'
-bind '"잃":"dlfg"'
-bind '"임":"dla"'
-bind '"입":"dlq"'
-bind '"잆":"dlqt"'
-bind '"잇":"dlt"'
-bind '"있":"dlT"'
-bind '"잉":"dld"'
-bind '"잊":"dlw"'
-bind '"잋":"dlc"'
-bind '"잌":"dlz"'
-bind '"잍":"dlx"'
-bind '"잎":"dlv"'
-bind '"잏":"dlg"'
-bind '"자":"wk"'
-bind '"작":"wkr"'
-bind '"잒":"wkR"'
-bind '"잓":"wkrt"'
-bind '"잔":"wks"'
-bind '"잕":"wksw"'
-bind '"잖":"wksg"'
-bind '"잗":"wke"'
-bind '"잘":"wkf"'
-bind '"잙":"wkfr"'
-bind '"잚":"wkfa"'
-bind '"잛":"wkfq"'
-bind '"잜":"wkft"'
-bind '"잝":"wkfx"'
-bind '"잞":"wkfv"'
-bind '"잟":"wkfg"'
-bind '"잠":"wka"'
-bind '"잡":"wkq"'
-bind '"잢":"wkqt"'
-bind '"잣":"wkt"'
-bind '"잤":"wkT"'
-bind '"장":"wkd"'
-bind '"잦":"wkw"'
-bind '"잧":"wkc"'
-bind '"잨":"wkz"'
-bind '"잩":"wkx"'
-bind '"잪":"wkv"'
-bind '"잫":"wkg"'
-bind '"재":"wo"'
-bind '"잭":"wor"'
-bind '"잮":"woR"'
-bind '"잯":"wort"'
-bind '"잰":"wos"'
-bind '"잱":"wosw"'
-bind '"잲":"wosg"'
-bind '"잳":"woe"'
-bind '"잴":"wof"'
-bind '"잵":"wofr"'
-bind '"잶":"wofa"'
-bind '"잷":"wofq"'
-bind '"잸":"woft"'
-bind '"잹":"wofx"'
-bind '"잺":"wofv"'
-bind '"잻":"wofg"'
-bind '"잼":"woa"'
-bind '"잽":"woq"'
-bind '"잾":"woqt"'
-bind '"잿":"wot"'
-bind '"쟀":"woT"'
-bind '"쟁":"wod"'
-bind '"쟂":"wow"'
-bind '"쟃":"woc"'
-bind '"쟄":"woz"'
-bind '"쟅":"wox"'
-bind '"쟆":"wov"'
-bind '"쟇":"wog"'
-bind '"쟈":"wi"'
-bind '"쟉":"wir"'
-bind '"쟊":"wiR"'
-bind '"쟋":"wirt"'
-bind '"쟌":"wis"'
-bind '"쟍":"wisw"'
-bind '"쟎":"wisg"'
-bind '"쟏":"wie"'
-bind '"쟐":"wif"'
-bind '"쟑":"wifr"'
-bind '"쟒":"wifa"'
-bind '"쟓":"wifq"'
-bind '"쟔":"wift"'
-bind '"쟕":"wifx"'
-bind '"쟖":"wifv"'
-bind '"쟗":"wifg"'
-bind '"쟘":"wia"'
-bind '"쟙":"wiq"'
-bind '"쟚":"wiqt"'
-bind '"쟛":"wit"'
-bind '"쟜":"wiT"'
-bind '"쟝":"wid"'
-bind '"쟞":"wiw"'
-bind '"쟟":"wic"'
-bind '"쟠":"wiz"'
-bind '"쟡":"wix"'
-bind '"쟢":"wiv"'
-bind '"쟣":"wig"'
-bind '"쟤":"wO"'
-bind '"쟥":"wOr"'
-bind '"쟦":"wOR"'
-bind '"쟧":"wOrt"'
-bind '"쟨":"wOs"'
-bind '"쟩":"wOsw"'
-bind '"쟪":"wOsg"'
-bind '"쟫":"wOe"'
-bind '"쟬":"wOf"'
-bind '"쟭":"wOfr"'
-bind '"쟮":"wOfa"'
-bind '"쟯":"wOfq"'
-bind '"쟰":"wOft"'
-bind '"쟱":"wOfx"'
-bind '"쟲":"wOfv"'
-bind '"쟳":"wOfg"'
-bind '"쟴":"wOa"'
-bind '"쟵":"wOq"'
-bind '"쟶":"wOqt"'
-bind '"쟷":"wOt"'
-bind '"쟸":"wOT"'
-bind '"쟹":"wOd"'
-bind '"쟺":"wOw"'
-bind '"쟻":"wOc"'
-bind '"쟼":"wOz"'
-bind '"쟽":"wOx"'
-bind '"쟾":"wOv"'
-bind '"쟿":"wOg"'
-bind '"저":"wj"'
-bind '"적":"wjr"'
-bind '"젂":"wjR"'
-bind '"젃":"wjrt"'
-bind '"전":"wjs"'
-bind '"젅":"wjsw"'
-bind '"젆":"wjsg"'
-bind '"젇":"wje"'
-bind '"절":"wjf"'
-bind '"젉":"wjfr"'
-bind '"젊":"wjfa"'
-bind '"젋":"wjfq"'
-bind '"젌":"wjft"'
-bind '"젍":"wjfx"'
-bind '"젎":"wjfv"'
-bind '"젏":"wjfg"'
-bind '"점":"wja"'
-bind '"접":"wjq"'
-bind '"젒":"wjqt"'
-bind '"젓":"wjt"'
-bind '"젔":"wjT"'
-bind '"정":"wjd"'
-bind '"젖":"wjw"'
-bind '"젗":"wjc"'
-bind '"젘":"wjz"'
-bind '"젙":"wjx"'
-bind '"젚":"wjv"'
-bind '"젛":"wjg"'
-bind '"제":"wp"'
-bind '"젝":"wpr"'
-bind '"젞":"wpR"'
-bind '"젟":"wprt"'
-bind '"젠":"wps"'
-bind '"젡":"wpsw"'
-bind '"젢":"wpsg"'
-bind '"젣":"wpe"'
-bind '"젤":"wpf"'
-bind '"젥":"wpfr"'
-bind '"젦":"wpfa"'
-bind '"젧":"wpfq"'
-bind '"젨":"wpft"'
-bind '"젩":"wpfx"'
-bind '"젪":"wpfv"'
-bind '"젫":"wpfg"'
-bind '"젬":"wpa"'
-bind '"젭":"wpq"'
-bind '"젮":"wpqt"'
-bind '"젯":"wpt"'
-bind '"젰":"wpT"'
-bind '"젱":"wpd"'
-bind '"젲":"wpw"'
-bind '"젳":"wpc"'
-bind '"젴":"wpz"'
-bind '"젵":"wpx"'
-bind '"젶":"wpv"'
-bind '"젷":"wpg"'
-bind '"져":"wu"'
-bind '"젹":"wur"'
-bind '"젺":"wuR"'
-bind '"젻":"wurt"'
-bind '"젼":"wus"'
-bind '"젽":"wusw"'
-bind '"젾":"wusg"'
-bind '"젿":"wue"'
-bind '"졀":"wuf"'
-bind '"졁":"wufr"'
-bind '"졂":"wufa"'
-bind '"졃":"wufq"'
-bind '"졄":"wuft"'
-bind '"졅":"wufx"'
-bind '"졆":"wufv"'
-bind '"졇":"wufg"'
-bind '"졈":"wua"'
-bind '"졉":"wuq"'
-bind '"졊":"wuqt"'
-bind '"졋":"wut"'
-bind '"졌":"wuT"'
-bind '"졍":"wud"'
-bind '"졎":"wuw"'
-bind '"졏":"wuc"'
-bind '"졐":"wuz"'
-bind '"졑":"wux"'
-bind '"졒":"wuv"'
-bind '"졓":"wug"'
-bind '"졔":"wP"'
-bind '"졕":"wPr"'
-bind '"졖":"wPR"'
-bind '"졗":"wPrt"'
-bind '"졘":"wPs"'
-bind '"졙":"wPsw"'
-bind '"졚":"wPsg"'
-bind '"졛":"wPe"'
-bind '"졜":"wPf"'
-bind '"졝":"wPfr"'
-bind '"졞":"wPfa"'
-bind '"졟":"wPfq"'
-bind '"졠":"wPft"'
-bind '"졡":"wPfx"'
-bind '"졢":"wPfv"'
-bind '"졣":"wPfg"'
-bind '"졤":"wPa"'
-bind '"졥":"wPq"'
-bind '"졦":"wPqt"'
-bind '"졧":"wPt"'
-bind '"졨":"wPT"'
-bind '"졩":"wPd"'
-bind '"졪":"wPw"'
-bind '"졫":"wPc"'
-bind '"졬":"wPz"'
-bind '"졭":"wPx"'
-bind '"졮":"wPv"'
-bind '"졯":"wPg"'
-bind '"조":"wh"'
-bind '"족":"whr"'
-bind '"졲":"whR"'
-bind '"졳":"whrt"'
-bind '"존":"whs"'
-bind '"졵":"whsw"'
-bind '"졶":"whsg"'
-bind '"졷":"whe"'
-bind '"졸":"whf"'
-bind '"졹":"whfr"'
-bind '"졺":"whfa"'
-bind '"졻":"whfq"'
-bind '"졼":"whft"'
-bind '"졽":"whfx"'
-bind '"졾":"whfv"'
-bind '"졿":"whfg"'
-bind '"좀":"wha"'
-bind '"좁":"whq"'
-bind '"좂":"whqt"'
-bind '"좃":"wht"'
-bind '"좄":"whT"'
-bind '"종":"whd"'
-bind '"좆":"whw"'
-bind '"좇":"whc"'
-bind '"좈":"whz"'
-bind '"좉":"whx"'
-bind '"좊":"whv"'
-bind '"좋":"whg"'
-bind '"좌":"whk"'
-bind '"좍":"whkr"'
-bind '"좎":"whkR"'
-bind '"좏":"whkrt"'
-bind '"좐":"whks"'
-bind '"좑":"whksw"'
-bind '"좒":"whksg"'
-bind '"좓":"whke"'
-bind '"좔":"whkf"'
-bind '"좕":"whkfr"'
-bind '"좖":"whkfa"'
-bind '"좗":"whkfq"'
-bind '"좘":"whkft"'
-bind '"좙":"whkfx"'
-bind '"좚":"whkfv"'
-bind '"좛":"whkfg"'
-bind '"좜":"whka"'
-bind '"좝":"whkq"'
-bind '"좞":"whkqt"'
-bind '"좟":"whkt"'
-bind '"좠":"whkT"'
-bind '"좡":"whkd"'
-bind '"좢":"whkw"'
-bind '"좣":"whkc"'
-bind '"좤":"whkz"'
-bind '"좥":"whkx"'
-bind '"좦":"whkv"'
-bind '"좧":"whkg"'
-bind '"좨":"who"'
-bind '"좩":"whor"'
-bind '"좪":"whoR"'
-bind '"좫":"whort"'
-bind '"좬":"whos"'
-bind '"좭":"whosw"'
-bind '"좮":"whosg"'
-bind '"좯":"whoe"'
-bind '"좰":"whof"'
-bind '"좱":"whofr"'
-bind '"좲":"whofa"'
-bind '"좳":"whofq"'
-bind '"좴":"whoft"'
-bind '"좵":"whofx"'
-bind '"좶":"whofv"'
-bind '"좷":"whofg"'
-bind '"좸":"whoa"'
-bind '"좹":"whoq"'
-bind '"좺":"whoqt"'
-bind '"좻":"whot"'
-bind '"좼":"whoT"'
-bind '"좽":"whod"'
-bind '"좾":"whow"'
-bind '"좿":"whoc"'
-bind '"죀":"whoz"'
-bind '"죁":"whox"'
-bind '"죂":"whov"'
-bind '"죃":"whog"'
-bind '"죄":"whl"'
-bind '"죅":"whlr"'
-bind '"죆":"whlR"'
-bind '"죇":"whlrt"'
-bind '"죈":"whls"'
-bind '"죉":"whlsw"'
-bind '"죊":"whlsg"'
-bind '"죋":"whle"'
-bind '"죌":"whlf"'
-bind '"죍":"whlfr"'
-bind '"죎":"whlfa"'
-bind '"죏":"whlfq"'
-bind '"죐":"whlft"'
-bind '"죑":"whlfx"'
-bind '"죒":"whlfv"'
-bind '"죓":"whlfg"'
-bind '"죔":"whla"'
-bind '"죕":"whlq"'
-bind '"죖":"whlqt"'
-bind '"죗":"whlt"'
-bind '"죘":"whlT"'
-bind '"죙":"whld"'
-bind '"죚":"whlw"'
-bind '"죛":"whlc"'
-bind '"죜":"whlz"'
-bind '"죝":"whlx"'
-bind '"죞":"whlv"'
-bind '"죟":"whlg"'
-bind '"죠":"wy"'
-bind '"죡":"wyr"'
-bind '"죢":"wyR"'
-bind '"죣":"wyrt"'
-bind '"죤":"wys"'
-bind '"죥":"wysw"'
-bind '"죦":"wysg"'
-bind '"죧":"wye"'
-bind '"죨":"wyf"'
-bind '"죩":"wyfr"'
-bind '"죪":"wyfa"'
-bind '"죫":"wyfq"'
-bind '"죬":"wyft"'
-bind '"죭":"wyfx"'
-bind '"죮":"wyfv"'
-bind '"죯":"wyfg"'
-bind '"죰":"wya"'
-bind '"죱":"wyq"'
-bind '"죲":"wyqt"'
-bind '"죳":"wyt"'
-bind '"죴":"wyT"'
-bind '"죵":"wyd"'
-bind '"죶":"wyw"'
-bind '"죷":"wyc"'
-bind '"죸":"wyz"'
-bind '"죹":"wyx"'
-bind '"죺":"wyv"'
-bind '"죻":"wyg"'
-bind '"주":"wn"'
-bind '"죽":"wnr"'
-bind '"죾":"wnR"'
-bind '"죿":"wnrt"'
-bind '"준":"wns"'
-bind '"줁":"wnsw"'
-bind '"줂":"wnsg"'
-bind '"줃":"wne"'
-bind '"줄":"wnf"'
-bind '"줅":"wnfr"'
-bind '"줆":"wnfa"'
-bind '"줇":"wnfq"'
-bind '"줈":"wnft"'
-bind '"줉":"wnfx"'
-bind '"줊":"wnfv"'
-bind '"줋":"wnfg"'
-bind '"줌":"wna"'
-bind '"줍":"wnq"'
-bind '"줎":"wnqt"'
-bind '"줏":"wnt"'
-bind '"줐":"wnT"'
-bind '"중":"wnd"'
-bind '"줒":"wnw"'
-bind '"줓":"wnc"'
-bind '"줔":"wnz"'
-bind '"줕":"wnx"'
-bind '"줖":"wnv"'
-bind '"줗":"wng"'
-bind '"줘":"wnj"'
-bind '"줙":"wnjr"'
-bind '"줚":"wnjR"'
-bind '"줛":"wnjrt"'
-bind '"줜":"wnjs"'
-bind '"줝":"wnjsw"'
-bind '"줞":"wnjsg"'
-bind '"줟":"wnje"'
-bind '"줠":"wnjf"'
-bind '"줡":"wnjfr"'
-bind '"줢":"wnjfa"'
-bind '"줣":"wnjfq"'
-bind '"줤":"wnjft"'
-bind '"줥":"wnjfx"'
-bind '"줦":"wnjfv"'
-bind '"줧":"wnjfg"'
-bind '"줨":"wnja"'
-bind '"줩":"wnjq"'
-bind '"줪":"wnjqt"'
-bind '"줫":"wnjt"'
-bind '"줬":"wnjT"'
-bind '"줭":"wnjd"'
-bind '"줮":"wnjw"'
-bind '"줯":"wnjc"'
-bind '"줰":"wnjz"'
-bind '"줱":"wnjx"'
-bind '"줲":"wnjv"'
-bind '"줳":"wnjg"'
-bind '"줴":"wnp"'
-bind '"줵":"wnpr"'
-bind '"줶":"wnpR"'
-bind '"줷":"wnprt"'
-bind '"줸":"wnps"'
-bind '"줹":"wnpsw"'
-bind '"줺":"wnpsg"'
-bind '"줻":"wnpe"'
-bind '"줼":"wnpf"'
-bind '"줽":"wnpfr"'
-bind '"줾":"wnpfa"'
-bind '"줿":"wnpfq"'
-bind '"쥀":"wnpft"'
-bind '"쥁":"wnpfx"'
-bind '"쥂":"wnpfv"'
-bind '"쥃":"wnpfg"'
-bind '"쥄":"wnpa"'
-bind '"쥅":"wnpq"'
-bind '"쥆":"wnpqt"'
-bind '"쥇":"wnpt"'
-bind '"쥈":"wnpT"'
-bind '"쥉":"wnpd"'
-bind '"쥊":"wnpw"'
-bind '"쥋":"wnpc"'
-bind '"쥌":"wnpz"'
-bind '"쥍":"wnpx"'
-bind '"쥎":"wnpv"'
-bind '"쥏":"wnpg"'
-bind '"쥐":"wnl"'
-bind '"쥑":"wnlr"'
-bind '"쥒":"wnlR"'
-bind '"쥓":"wnlrt"'
-bind '"쥔":"wnls"'
-bind '"쥕":"wnlsw"'
-bind '"쥖":"wnlsg"'
-bind '"쥗":"wnle"'
-bind '"쥘":"wnlf"'
-bind '"쥙":"wnlfr"'
-bind '"쥚":"wnlfa"'
-bind '"쥛":"wnlfq"'
-bind '"쥜":"wnlft"'
-bind '"쥝":"wnlfx"'
-bind '"쥞":"wnlfv"'
-bind '"쥟":"wnlfg"'
-bind '"쥠":"wnla"'
-bind '"쥡":"wnlq"'
-bind '"쥢":"wnlqt"'
-bind '"쥣":"wnlt"'
-bind '"쥤":"wnlT"'
-bind '"쥥":"wnld"'
-bind '"쥦":"wnlw"'
-bind '"쥧":"wnlc"'
-bind '"쥨":"wnlz"'
-bind '"쥩":"wnlx"'
-bind '"쥪":"wnlv"'
-bind '"쥫":"wnlg"'
-bind '"쥬":"wb"'
-bind '"쥭":"wbr"'
-bind '"쥮":"wbR"'
-bind '"쥯":"wbrt"'
-bind '"쥰":"wbs"'
-bind '"쥱":"wbsw"'
-bind '"쥲":"wbsg"'
-bind '"쥳":"wbe"'
-bind '"쥴":"wbf"'
-bind '"쥵":"wbfr"'
-bind '"쥶":"wbfa"'
-bind '"쥷":"wbfq"'
-bind '"쥸":"wbft"'
-bind '"쥹":"wbfx"'
-bind '"쥺":"wbfv"'
-bind '"쥻":"wbfg"'
-bind '"쥼":"wba"'
-bind '"쥽":"wbq"'
-bind '"쥾":"wbqt"'
-bind '"쥿":"wbt"'
-bind '"즀":"wbT"'
-bind '"즁":"wbd"'
-bind '"즂":"wbw"'
-bind '"즃":"wbc"'
-bind '"즄":"wbz"'
-bind '"즅":"wbx"'
-bind '"즆":"wbv"'
-bind '"즇":"wbg"'
-bind '"즈":"wm"'
-bind '"즉":"wmr"'
-bind '"즊":"wmR"'
-bind '"즋":"wmrt"'
-bind '"즌":"wms"'
-bind '"즍":"wmsw"'
-bind '"즎":"wmsg"'
-bind '"즏":"wme"'
-bind '"즐":"wmf"'
-bind '"즑":"wmfr"'
-bind '"즒":"wmfa"'
-bind '"즓":"wmfq"'
-bind '"즔":"wmft"'
-bind '"즕":"wmfx"'
-bind '"즖":"wmfv"'
-bind '"즗":"wmfg"'
-bind '"즘":"wma"'
-bind '"즙":"wmq"'
-bind '"즚":"wmqt"'
-bind '"즛":"wmt"'
-bind '"즜":"wmT"'
-bind '"증":"wmd"'
-bind '"즞":"wmw"'
-bind '"즟":"wmc"'
-bind '"즠":"wmz"'
-bind '"즡":"wmx"'
-bind '"즢":"wmv"'
-bind '"즣":"wmg"'
-bind '"즤":"wml"'
-bind '"즥":"wmlr"'
-bind '"즦":"wmlR"'
-bind '"즧":"wmlrt"'
-bind '"즨":"wmls"'
-bind '"즩":"wmlsw"'
-bind '"즪":"wmlsg"'
-bind '"즫":"wmle"'
-bind '"즬":"wmlf"'
-bind '"즭":"wmlfr"'
-bind '"즮":"wmlfa"'
-bind '"즯":"wmlfq"'
-bind '"즰":"wmlft"'
-bind '"즱":"wmlfx"'
-bind '"즲":"wmlfv"'
-bind '"즳":"wmlfg"'
-bind '"즴":"wmla"'
-bind '"즵":"wmlq"'
-bind '"즶":"wmlqt"'
-bind '"즷":"wmlt"'
-bind '"즸":"wmlT"'
-bind '"즹":"wmld"'
-bind '"즺":"wmlw"'
-bind '"즻":"wmlc"'
-bind '"즼":"wmlz"'
-bind '"즽":"wmlx"'
-bind '"즾":"wmlv"'
-bind '"즿":"wmlg"'
-bind '"지":"wl"'
-bind '"직":"wlr"'
-bind '"짂":"wlR"'
-bind '"짃":"wlrt"'
-bind '"진":"wls"'
-bind '"짅":"wlsw"'
-bind '"짆":"wlsg"'
-bind '"짇":"wle"'
-bind '"질":"wlf"'
-bind '"짉":"wlfr"'
-bind '"짊":"wlfa"'
-bind '"짋":"wlfq"'
-bind '"짌":"wlft"'
-bind '"짍":"wlfx"'
-bind '"짎":"wlfv"'
-bind '"짏":"wlfg"'
-bind '"짐":"wla"'
-bind '"집":"wlq"'
-bind '"짒":"wlqt"'
-bind '"짓":"wlt"'
-bind '"짔":"wlT"'
-bind '"징":"wld"'
-bind '"짖":"wlw"'
-bind '"짗":"wlc"'
-bind '"짘":"wlz"'
-bind '"짙":"wlx"'
-bind '"짚":"wlv"'
-bind '"짛":"wlg"'
-bind '"짜":"Wk"'
-bind '"짝":"Wkr"'
-bind '"짞":"WkR"'
-bind '"짟":"Wkrt"'
-bind '"짠":"Wks"'
-bind '"짡":"Wksw"'
-bind '"짢":"Wksg"'
-bind '"짣":"Wke"'
-bind '"짤":"Wkf"'
-bind '"짥":"Wkfr"'
-bind '"짦":"Wkfa"'
-bind '"짧":"Wkfq"'
-bind '"짨":"Wkft"'
-bind '"짩":"Wkfx"'
-bind '"짪":"Wkfv"'
-bind '"짫":"Wkfg"'
-bind '"짬":"Wka"'
-bind '"짭":"Wkq"'
-bind '"짮":"Wkqt"'
-bind '"짯":"Wkt"'
-bind '"짰":"WkT"'
-bind '"짱":"Wkd"'
-bind '"짲":"Wkw"'
-bind '"짳":"Wkc"'
-bind '"짴":"Wkz"'
-bind '"짵":"Wkx"'
-bind '"짶":"Wkv"'
-bind '"짷":"Wkg"'
-bind '"째":"Wo"'
-bind '"짹":"Wor"'
-bind '"짺":"WoR"'
-bind '"짻":"Wort"'
-bind '"짼":"Wos"'
-bind '"짽":"Wosw"'
-bind '"짾":"Wosg"'
-bind '"짿":"Woe"'
-bind '"쨀":"Wof"'
-bind '"쨁":"Wofr"'
-bind '"쨂":"Wofa"'
-bind '"쨃":"Wofq"'
-bind '"쨄":"Woft"'
-bind '"쨅":"Wofx"'
-bind '"쨆":"Wofv"'
-bind '"쨇":"Wofg"'
-bind '"쨈":"Woa"'
-bind '"쨉":"Woq"'
-bind '"쨊":"Woqt"'
-bind '"쨋":"Wot"'
-bind '"쨌":"WoT"'
-bind '"쨍":"Wod"'
-bind '"쨎":"Wow"'
-bind '"쨏":"Woc"'
-bind '"쨐":"Woz"'
-bind '"쨑":"Wox"'
-bind '"쨒":"Wov"'
-bind '"쨓":"Wog"'
-bind '"쨔":"Wi"'
-bind '"쨕":"Wir"'
-bind '"쨖":"WiR"'
-bind '"쨗":"Wirt"'
-bind '"쨘":"Wis"'
-bind '"쨙":"Wisw"'
-bind '"쨚":"Wisg"'
-bind '"쨛":"Wie"'
-bind '"쨜":"Wif"'
-bind '"쨝":"Wifr"'
-bind '"쨞":"Wifa"'
-bind '"쨟":"Wifq"'
-bind '"쨠":"Wift"'
-bind '"쨡":"Wifx"'
-bind '"쨢":"Wifv"'
-bind '"쨣":"Wifg"'
-bind '"쨤":"Wia"'
-bind '"쨥":"Wiq"'
-bind '"쨦":"Wiqt"'
-bind '"쨧":"Wit"'
-bind '"쨨":"WiT"'
-bind '"쨩":"Wid"'
-bind '"쨪":"Wiw"'
-bind '"쨫":"Wic"'
-bind '"쨬":"Wiz"'
-bind '"쨭":"Wix"'
-bind '"쨮":"Wiv"'
-bind '"쨯":"Wig"'
-bind '"쨰":"WO"'
-bind '"쨱":"WOr"'
-bind '"쨲":"WOR"'
-bind '"쨳":"WOrt"'
-bind '"쨴":"WOs"'
-bind '"쨵":"WOsw"'
-bind '"쨶":"WOsg"'
-bind '"쨷":"WOe"'
-bind '"쨸":"WOf"'
-bind '"쨹":"WOfr"'
-bind '"쨺":"WOfa"'
-bind '"쨻":"WOfq"'
-bind '"쨼":"WOft"'
-bind '"쨽":"WOfx"'
-bind '"쨾":"WOfv"'
-bind '"쨿":"WOfg"'
-bind '"쩀":"WOa"'
-bind '"쩁":"WOq"'
-bind '"쩂":"WOqt"'
-bind '"쩃":"WOt"'
-bind '"쩄":"WOT"'
-bind '"쩅":"WOd"'
-bind '"쩆":"WOw"'
-bind '"쩇":"WOc"'
-bind '"쩈":"WOz"'
-bind '"쩉":"WOx"'
-bind '"쩊":"WOv"'
-bind '"쩋":"WOg"'
-bind '"쩌":"Wj"'
-bind '"쩍":"Wjr"'
-bind '"쩎":"WjR"'
-bind '"쩏":"Wjrt"'
-bind '"쩐":"Wjs"'
-bind '"쩑":"Wjsw"'
-bind '"쩒":"Wjsg"'
-bind '"쩓":"Wje"'
-bind '"쩔":"Wjf"'
-bind '"쩕":"Wjfr"'
-bind '"쩖":"Wjfa"'
-bind '"쩗":"Wjfq"'
-bind '"쩘":"Wjft"'
-bind '"쩙":"Wjfx"'
-bind '"쩚":"Wjfv"'
-bind '"쩛":"Wjfg"'
-bind '"쩜":"Wja"'
-bind '"쩝":"Wjq"'
-bind '"쩞":"Wjqt"'
-bind '"쩟":"Wjt"'
-bind '"쩠":"WjT"'
-bind '"쩡":"Wjd"'
-bind '"쩢":"Wjw"'
-bind '"쩣":"Wjc"'
-bind '"쩤":"Wjz"'
-bind '"쩥":"Wjx"'
-bind '"쩦":"Wjv"'
-bind '"쩧":"Wjg"'
-bind '"쩨":"Wp"'
-bind '"쩩":"Wpr"'
-bind '"쩪":"WpR"'
-bind '"쩫":"Wprt"'
-bind '"쩬":"Wps"'
-bind '"쩭":"Wpsw"'
-bind '"쩮":"Wpsg"'
-bind '"쩯":"Wpe"'
-bind '"쩰":"Wpf"'
-bind '"쩱":"Wpfr"'
-bind '"쩲":"Wpfa"'
-bind '"쩳":"Wpfq"'
-bind '"쩴":"Wpft"'
-bind '"쩵":"Wpfx"'
-bind '"쩶":"Wpfv"'
-bind '"쩷":"Wpfg"'
-bind '"쩸":"Wpa"'
-bind '"쩹":"Wpq"'
-bind '"쩺":"Wpqt"'
-bind '"쩻":"Wpt"'
-bind '"쩼":"WpT"'
-bind '"쩽":"Wpd"'
-bind '"쩾":"Wpw"'
-bind '"쩿":"Wpc"'
-bind '"쪀":"Wpz"'
-bind '"쪁":"Wpx"'
-bind '"쪂":"Wpv"'
-bind '"쪃":"Wpg"'
-bind '"쪄":"Wu"'
-bind '"쪅":"Wur"'
-bind '"쪆":"WuR"'
-bind '"쪇":"Wurt"'
-bind '"쪈":"Wus"'
-bind '"쪉":"Wusw"'
-bind '"쪊":"Wusg"'
-bind '"쪋":"Wue"'
-bind '"쪌":"Wuf"'
-bind '"쪍":"Wufr"'
-bind '"쪎":"Wufa"'
-bind '"쪏":"Wufq"'
-bind '"쪐":"Wuft"'
-bind '"쪑":"Wufx"'
-bind '"쪒":"Wufv"'
-bind '"쪓":"Wufg"'
-bind '"쪔":"Wua"'
-bind '"쪕":"Wuq"'
-bind '"쪖":"Wuqt"'
-bind '"쪗":"Wut"'
-bind '"쪘":"WuT"'
-bind '"쪙":"Wud"'
-bind '"쪚":"Wuw"'
-bind '"쪛":"Wuc"'
-bind '"쪜":"Wuz"'
-bind '"쪝":"Wux"'
-bind '"쪞":"Wuv"'
-bind '"쪟":"Wug"'
-bind '"쪠":"WP"'
-bind '"쪡":"WPr"'
-bind '"쪢":"WPR"'
-bind '"쪣":"WPrt"'
-bind '"쪤":"WPs"'
-bind '"쪥":"WPsw"'
-bind '"쪦":"WPsg"'
-bind '"쪧":"WPe"'
-bind '"쪨":"WPf"'
-bind '"쪩":"WPfr"'
-bind '"쪪":"WPfa"'
-bind '"쪫":"WPfq"'
-bind '"쪬":"WPft"'
-bind '"쪭":"WPfx"'
-bind '"쪮":"WPfv"'
-bind '"쪯":"WPfg"'
-bind '"쪰":"WPa"'
-bind '"쪱":"WPq"'
-bind '"쪲":"WPqt"'
-bind '"쪳":"WPt"'
-bind '"쪴":"WPT"'
-bind '"쪵":"WPd"'
-bind '"쪶":"WPw"'
-bind '"쪷":"WPc"'
-bind '"쪸":"WPz"'
-bind '"쪹":"WPx"'
-bind '"쪺":"WPv"'
-bind '"쪻":"WPg"'
-bind '"쪼":"Wh"'
-bind '"쪽":"Whr"'
-bind '"쪾":"WhR"'
-bind '"쪿":"Whrt"'
-bind '"쫀":"Whs"'
-bind '"쫁":"Whsw"'
-bind '"쫂":"Whsg"'
-bind '"쫃":"Whe"'
-bind '"쫄":"Whf"'
-bind '"쫅":"Whfr"'
-bind '"쫆":"Whfa"'
-bind '"쫇":"Whfq"'
-bind '"쫈":"Whft"'
-bind '"쫉":"Whfx"'
-bind '"쫊":"Whfv"'
-bind '"쫋":"Whfg"'
-bind '"쫌":"Wha"'
-bind '"쫍":"Whq"'
-bind '"쫎":"Whqt"'
-bind '"쫏":"Wht"'
-bind '"쫐":"WhT"'
-bind '"쫑":"Whd"'
-bind '"쫒":"Whw"'
-bind '"쫓":"Whc"'
-bind '"쫔":"Whz"'
-bind '"쫕":"Whx"'
-bind '"쫖":"Whv"'
-bind '"쫗":"Whg"'
-bind '"쫘":"Whk"'
-bind '"쫙":"Whkr"'
-bind '"쫚":"WhkR"'
-bind '"쫛":"Whkrt"'
-bind '"쫜":"Whks"'
-bind '"쫝":"Whksw"'
-bind '"쫞":"Whksg"'
-bind '"쫟":"Whke"'
-bind '"쫠":"Whkf"'
-bind '"쫡":"Whkfr"'
-bind '"쫢":"Whkfa"'
-bind '"쫣":"Whkfq"'
-bind '"쫤":"Whkft"'
-bind '"쫥":"Whkfx"'
-bind '"쫦":"Whkfv"'
-bind '"쫧":"Whkfg"'
-bind '"쫨":"Whka"'
-bind '"쫩":"Whkq"'
-bind '"쫪":"Whkqt"'
-bind '"쫫":"Whkt"'
-bind '"쫬":"WhkT"'
-bind '"쫭":"Whkd"'
-bind '"쫮":"Whkw"'
-bind '"쫯":"Whkc"'
-bind '"쫰":"Whkz"'
-bind '"쫱":"Whkx"'
-bind '"쫲":"Whkv"'
-bind '"쫳":"Whkg"'
-bind '"쫴":"Who"'
-bind '"쫵":"Whor"'
-bind '"쫶":"WhoR"'
-bind '"쫷":"Whort"'
-bind '"쫸":"Whos"'
-bind '"쫹":"Whosw"'
-bind '"쫺":"Whosg"'
-bind '"쫻":"Whoe"'
-bind '"쫼":"Whof"'
-bind '"쫽":"Whofr"'
-bind '"쫾":"Whofa"'
-bind '"쫿":"Whofq"'
-bind '"쬀":"Whoft"'
-bind '"쬁":"Whofx"'
-bind '"쬂":"Whofv"'
-bind '"쬃":"Whofg"'
-bind '"쬄":"Whoa"'
-bind '"쬅":"Whoq"'
-bind '"쬆":"Whoqt"'
-bind '"쬇":"Whot"'
-bind '"쬈":"WhoT"'
-bind '"쬉":"Whod"'
-bind '"쬊":"Whow"'
-bind '"쬋":"Whoc"'
-bind '"쬌":"Whoz"'
-bind '"쬍":"Whox"'
-bind '"쬎":"Whov"'
-bind '"쬏":"Whog"'
-bind '"쬐":"Whl"'
-bind '"쬑":"Whlr"'
-bind '"쬒":"WhlR"'
-bind '"쬓":"Whlrt"'
-bind '"쬔":"Whls"'
-bind '"쬕":"Whlsw"'
-bind '"쬖":"Whlsg"'
-bind '"쬗":"Whle"'
-bind '"쬘":"Whlf"'
-bind '"쬙":"Whlfr"'
-bind '"쬚":"Whlfa"'
-bind '"쬛":"Whlfq"'
-bind '"쬜":"Whlft"'
-bind '"쬝":"Whlfx"'
-bind '"쬞":"Whlfv"'
-bind '"쬟":"Whlfg"'
-bind '"쬠":"Whla"'
-bind '"쬡":"Whlq"'
-bind '"쬢":"Whlqt"'
-bind '"쬣":"Whlt"'
-bind '"쬤":"WhlT"'
-bind '"쬥":"Whld"'
-bind '"쬦":"Whlw"'
-bind '"쬧":"Whlc"'
-bind '"쬨":"Whlz"'
-bind '"쬩":"Whlx"'
-bind '"쬪":"Whlv"'
-bind '"쬫":"Whlg"'
-bind '"쬬":"Wy"'
-bind '"쬭":"Wyr"'
-bind '"쬮":"WyR"'
-bind '"쬯":"Wyrt"'
-bind '"쬰":"Wys"'
-bind '"쬱":"Wysw"'
-bind '"쬲":"Wysg"'
-bind '"쬳":"Wye"'
-bind '"쬴":"Wyf"'
-bind '"쬵":"Wyfr"'
-bind '"쬶":"Wyfa"'
-bind '"쬷":"Wyfq"'
-bind '"쬸":"Wyft"'
-bind '"쬹":"Wyfx"'
-bind '"쬺":"Wyfv"'
-bind '"쬻":"Wyfg"'
-bind '"쬼":"Wya"'
-bind '"쬽":"Wyq"'
-bind '"쬾":"Wyqt"'
-bind '"쬿":"Wyt"'
-bind '"쭀":"WyT"'
-bind '"쭁":"Wyd"'
-bind '"쭂":"Wyw"'
-bind '"쭃":"Wyc"'
-bind '"쭄":"Wyz"'
-bind '"쭅":"Wyx"'
-bind '"쭆":"Wyv"'
-bind '"쭇":"Wyg"'
-bind '"쭈":"Wn"'
-bind '"쭉":"Wnr"'
-bind '"쭊":"WnR"'
-bind '"쭋":"Wnrt"'
-bind '"쭌":"Wns"'
-bind '"쭍":"Wnsw"'
-bind '"쭎":"Wnsg"'
-bind '"쭏":"Wne"'
-bind '"쭐":"Wnf"'
-bind '"쭑":"Wnfr"'
-bind '"쭒":"Wnfa"'
-bind '"쭓":"Wnfq"'
-bind '"쭔":"Wnft"'
-bind '"쭕":"Wnfx"'
-bind '"쭖":"Wnfv"'
-bind '"쭗":"Wnfg"'
-bind '"쭘":"Wna"'
-bind '"쭙":"Wnq"'
-bind '"쭚":"Wnqt"'
-bind '"쭛":"Wnt"'
-bind '"쭜":"WnT"'
-bind '"쭝":"Wnd"'
-bind '"쭞":"Wnw"'
-bind '"쭟":"Wnc"'
-bind '"쭠":"Wnz"'
-bind '"쭡":"Wnx"'
-bind '"쭢":"Wnv"'
-bind '"쭣":"Wng"'
-bind '"쭤":"Wnj"'
-bind '"쭥":"Wnjr"'
-bind '"쭦":"WnjR"'
-bind '"쭧":"Wnjrt"'
-bind '"쭨":"Wnjs"'
-bind '"쭩":"Wnjsw"'
-bind '"쭪":"Wnjsg"'
-bind '"쭫":"Wnje"'
-bind '"쭬":"Wnjf"'
-bind '"쭭":"Wnjfr"'
-bind '"쭮":"Wnjfa"'
-bind '"쭯":"Wnjfq"'
-bind '"쭰":"Wnjft"'
-bind '"쭱":"Wnjfx"'
-bind '"쭲":"Wnjfv"'
-bind '"쭳":"Wnjfg"'
-bind '"쭴":"Wnja"'
-bind '"쭵":"Wnjq"'
-bind '"쭶":"Wnjqt"'
-bind '"쭷":"Wnjt"'
-bind '"쭸":"WnjT"'
-bind '"쭹":"Wnjd"'
-bind '"쭺":"Wnjw"'
-bind '"쭻":"Wnjc"'
-bind '"쭼":"Wnjz"'
-bind '"쭽":"Wnjx"'
-bind '"쭾":"Wnjv"'
-bind '"쭿":"Wnjg"'
-bind '"쮀":"Wnp"'
-bind '"쮁":"Wnpr"'
-bind '"쮂":"WnpR"'
-bind '"쮃":"Wnprt"'
-bind '"쮄":"Wnps"'
-bind '"쮅":"Wnpsw"'
-bind '"쮆":"Wnpsg"'
-bind '"쮇":"Wnpe"'
-bind '"쮈":"Wnpf"'
-bind '"쮉":"Wnpfr"'
-bind '"쮊":"Wnpfa"'
-bind '"쮋":"Wnpfq"'
-bind '"쮌":"Wnpft"'
-bind '"쮍":"Wnpfx"'
-bind '"쮎":"Wnpfv"'
-bind '"쮏":"Wnpfg"'
-bind '"쮐":"Wnpa"'
-bind '"쮑":"Wnpq"'
-bind '"쮒":"Wnpqt"'
-bind '"쮓":"Wnpt"'
-bind '"쮔":"WnpT"'
-bind '"쮕":"Wnpd"'
-bind '"쮖":"Wnpw"'
-bind '"쮗":"Wnpc"'
-bind '"쮘":"Wnpz"'
-bind '"쮙":"Wnpx"'
-bind '"쮚":"Wnpv"'
-bind '"쮛":"Wnpg"'
-bind '"쮜":"Wnl"'
-bind '"쮝":"Wnlr"'
-bind '"쮞":"WnlR"'
-bind '"쮟":"Wnlrt"'
-bind '"쮠":"Wnls"'
-bind '"쮡":"Wnlsw"'
-bind '"쮢":"Wnlsg"'
-bind '"쮣":"Wnle"'
-bind '"쮤":"Wnlf"'
-bind '"쮥":"Wnlfr"'
-bind '"쮦":"Wnlfa"'
-bind '"쮧":"Wnlfq"'
-bind '"쮨":"Wnlft"'
-bind '"쮩":"Wnlfx"'
-bind '"쮪":"Wnlfv"'
-bind '"쮫":"Wnlfg"'
-bind '"쮬":"Wnla"'
-bind '"쮭":"Wnlq"'
-bind '"쮮":"Wnlqt"'
-bind '"쮯":"Wnlt"'
-bind '"쮰":"WnlT"'
-bind '"쮱":"Wnld"'
-bind '"쮲":"Wnlw"'
-bind '"쮳":"Wnlc"'
-bind '"쮴":"Wnlz"'
-bind '"쮵":"Wnlx"'
-bind '"쮶":"Wnlv"'
-bind '"쮷":"Wnlg"'
-bind '"쮸":"Wb"'
-bind '"쮹":"Wbr"'
-bind '"쮺":"WbR"'
-bind '"쮻":"Wbrt"'
-bind '"쮼":"Wbs"'
-bind '"쮽":"Wbsw"'
-bind '"쮾":"Wbsg"'
-bind '"쮿":"Wbe"'
-bind '"쯀":"Wbf"'
-bind '"쯁":"Wbfr"'
-bind '"쯂":"Wbfa"'
-bind '"쯃":"Wbfq"'
-bind '"쯄":"Wbft"'
-bind '"쯅":"Wbfx"'
-bind '"쯆":"Wbfv"'
-bind '"쯇":"Wbfg"'
-bind '"쯈":"Wba"'
-bind '"쯉":"Wbq"'
-bind '"쯊":"Wbqt"'
-bind '"쯋":"Wbt"'
-bind '"쯌":"WbT"'
-bind '"쯍":"Wbd"'
-bind '"쯎":"Wbw"'
-bind '"쯏":"Wbc"'
-bind '"쯐":"Wbz"'
-bind '"쯑":"Wbx"'
-bind '"쯒":"Wbv"'
-bind '"쯓":"Wbg"'
-bind '"쯔":"Wm"'
-bind '"쯕":"Wmr"'
-bind '"쯖":"WmR"'
-bind '"쯗":"Wmrt"'
-bind '"쯘":"Wms"'
-bind '"쯙":"Wmsw"'
-bind '"쯚":"Wmsg"'
-bind '"쯛":"Wme"'
-bind '"쯜":"Wmf"'
-bind '"쯝":"Wmfr"'
-bind '"쯞":"Wmfa"'
-bind '"쯟":"Wmfq"'
-bind '"쯠":"Wmft"'
-bind '"쯡":"Wmfx"'
-bind '"쯢":"Wmfv"'
-bind '"쯣":"Wmfg"'
-bind '"쯤":"Wma"'
-bind '"쯥":"Wmq"'
-bind '"쯦":"Wmqt"'
-bind '"쯧":"Wmt"'
-bind '"쯨":"WmT"'
-bind '"쯩":"Wmd"'
-bind '"쯪":"Wmw"'
-bind '"쯫":"Wmc"'
-bind '"쯬":"Wmz"'
-bind '"쯭":"Wmx"'
-bind '"쯮":"Wmv"'
-bind '"쯯":"Wmg"'
-bind '"쯰":"Wml"'
-bind '"쯱":"Wmlr"'
-bind '"쯲":"WmlR"'
-bind '"쯳":"Wmlrt"'
-bind '"쯴":"Wmls"'
-bind '"쯵":"Wmlsw"'
-bind '"쯶":"Wmlsg"'
-bind '"쯷":"Wmle"'
-bind '"쯸":"Wmlf"'
-bind '"쯹":"Wmlfr"'
-bind '"쯺":"Wmlfa"'
-bind '"쯻":"Wmlfq"'
-bind '"쯼":"Wmlft"'
-bind '"쯽":"Wmlfx"'
-bind '"쯾":"Wmlfv"'
-bind '"쯿":"Wmlfg"'
-bind '"찀":"Wmla"'
-bind '"찁":"Wmlq"'
-bind '"찂":"Wmlqt"'
-bind '"찃":"Wmlt"'
-bind '"찄":"WmlT"'
-bind '"찅":"Wmld"'
-bind '"찆":"Wmlw"'
-bind '"찇":"Wmlc"'
-bind '"찈":"Wmlz"'
-bind '"찉":"Wmlx"'
-bind '"찊":"Wmlv"'
-bind '"찋":"Wmlg"'
-bind '"찌":"Wl"'
-bind '"찍":"Wlr"'
-bind '"찎":"WlR"'
-bind '"찏":"Wlrt"'
-bind '"찐":"Wls"'
-bind '"찑":"Wlsw"'
-bind '"찒":"Wlsg"'
-bind '"찓":"Wle"'
-bind '"찔":"Wlf"'
-bind '"찕":"Wlfr"'
-bind '"찖":"Wlfa"'
-bind '"찗":"Wlfq"'
-bind '"찘":"Wlft"'
-bind '"찙":"Wlfx"'
-bind '"찚":"Wlfv"'
-bind '"찛":"Wlfg"'
-bind '"찜":"Wla"'
-bind '"찝":"Wlq"'
-bind '"찞":"Wlqt"'
-bind '"찟":"Wlt"'
-bind '"찠":"WlT"'
-bind '"찡":"Wld"'
-bind '"찢":"Wlw"'
-bind '"찣":"Wlc"'
-bind '"찤":"Wlz"'
-bind '"찥":"Wlx"'
-bind '"찦":"Wlv"'
-bind '"찧":"Wlg"'
-bind '"차":"ck"'
-bind '"착":"ckr"'
-bind '"찪":"ckR"'
-bind '"찫":"ckrt"'
-bind '"찬":"cks"'
-bind '"찭":"cksw"'
-bind '"찮":"cksg"'
-bind '"찯":"cke"'
-bind '"찰":"ckf"'
-bind '"찱":"ckfr"'
-bind '"찲":"ckfa"'
-bind '"찳":"ckfq"'
-bind '"찴":"ckft"'
-bind '"찵":"ckfx"'
-bind '"찶":"ckfv"'
-bind '"찷":"ckfg"'
-bind '"참":"cka"'
-bind '"찹":"ckq"'
-bind '"찺":"ckqt"'
-bind '"찻":"ckt"'
-bind '"찼":"ckT"'
-bind '"창":"ckd"'
-bind '"찾":"ckw"'
-bind '"찿":"ckc"'
-bind '"챀":"ckz"'
-bind '"챁":"ckx"'
-bind '"챂":"ckv"'
-bind '"챃":"ckg"'
-bind '"채":"co"'
-bind '"책":"cor"'
-bind '"챆":"coR"'
-bind '"챇":"cort"'
-bind '"챈":"cos"'
-bind '"챉":"cosw"'
-bind '"챊":"cosg"'
-bind '"챋":"coe"'
-bind '"챌":"cof"'
-bind '"챍":"cofr"'
-bind '"챎":"cofa"'
-bind '"챏":"cofq"'
-bind '"챐":"coft"'
-bind '"챑":"cofx"'
-bind '"챒":"cofv"'
-bind '"챓":"cofg"'
-bind '"챔":"coa"'
-bind '"챕":"coq"'
-bind '"챖":"coqt"'
-bind '"챗":"cot"'
-bind '"챘":"coT"'
-bind '"챙":"cod"'
-bind '"챚":"cow"'
-bind '"챛":"coc"'
-bind '"챜":"coz"'
-bind '"챝":"cox"'
-bind '"챞":"cov"'
-bind '"챟":"cog"'
-bind '"챠":"ci"'
-bind '"챡":"cir"'
-bind '"챢":"ciR"'
-bind '"챣":"cirt"'
-bind '"챤":"cis"'
-bind '"챥":"cisw"'
-bind '"챦":"cisg"'
-bind '"챧":"cie"'
-bind '"챨":"cif"'
-bind '"챩":"cifr"'
-bind '"챪":"cifa"'
-bind '"챫":"cifq"'
-bind '"챬":"cift"'
-bind '"챭":"cifx"'
-bind '"챮":"cifv"'
-bind '"챯":"cifg"'
-bind '"챰":"cia"'
-bind '"챱":"ciq"'
-bind '"챲":"ciqt"'
-bind '"챳":"cit"'
-bind '"챴":"ciT"'
-bind '"챵":"cid"'
-bind '"챶":"ciw"'
-bind '"챷":"cic"'
-bind '"챸":"ciz"'
-bind '"챹":"cix"'
-bind '"챺":"civ"'
-bind '"챻":"cig"'
-bind '"챼":"cO"'
-bind '"챽":"cOr"'
-bind '"챾":"cOR"'
-bind '"챿":"cOrt"'
-bind '"첀":"cOs"'
-bind '"첁":"cOsw"'
-bind '"첂":"cOsg"'
-bind '"첃":"cOe"'
-bind '"첄":"cOf"'
-bind '"첅":"cOfr"'
-bind '"첆":"cOfa"'
-bind '"첇":"cOfq"'
-bind '"첈":"cOft"'
-bind '"첉":"cOfx"'
-bind '"첊":"cOfv"'
-bind '"첋":"cOfg"'
-bind '"첌":"cOa"'
-bind '"첍":"cOq"'
-bind '"첎":"cOqt"'
-bind '"첏":"cOt"'
-bind '"첐":"cOT"'
-bind '"첑":"cOd"'
-bind '"첒":"cOw"'
-bind '"첓":"cOc"'
-bind '"첔":"cOz"'
-bind '"첕":"cOx"'
-bind '"첖":"cOv"'
-bind '"첗":"cOg"'
-bind '"처":"cj"'
-bind '"척":"cjr"'
-bind '"첚":"cjR"'
-bind '"첛":"cjrt"'
-bind '"천":"cjs"'
-bind '"첝":"cjsw"'
-bind '"첞":"cjsg"'
-bind '"첟":"cje"'
-bind '"철":"cjf"'
-bind '"첡":"cjfr"'
-bind '"첢":"cjfa"'
-bind '"첣":"cjfq"'
-bind '"첤":"cjft"'
-bind '"첥":"cjfx"'
-bind '"첦":"cjfv"'
-bind '"첧":"cjfg"'
-bind '"첨":"cja"'
-bind '"첩":"cjq"'
-bind '"첪":"cjqt"'
-bind '"첫":"cjt"'
-bind '"첬":"cjT"'
-bind '"청":"cjd"'
-bind '"첮":"cjw"'
-bind '"첯":"cjc"'
-bind '"첰":"cjz"'
-bind '"첱":"cjx"'
-bind '"첲":"cjv"'
-bind '"첳":"cjg"'
-bind '"체":"cp"'
-bind '"첵":"cpr"'
-bind '"첶":"cpR"'
-bind '"첷":"cprt"'
-bind '"첸":"cps"'
-bind '"첹":"cpsw"'
-bind '"첺":"cpsg"'
-bind '"첻":"cpe"'
-bind '"첼":"cpf"'
-bind '"첽":"cpfr"'
-bind '"첾":"cpfa"'
-bind '"첿":"cpfq"'
-bind '"쳀":"cpft"'
-bind '"쳁":"cpfx"'
-bind '"쳂":"cpfv"'
-bind '"쳃":"cpfg"'
-bind '"쳄":"cpa"'
-bind '"쳅":"cpq"'
-bind '"쳆":"cpqt"'
-bind '"쳇":"cpt"'
-bind '"쳈":"cpT"'
-bind '"쳉":"cpd"'
-bind '"쳊":"cpw"'
-bind '"쳋":"cpc"'
-bind '"쳌":"cpz"'
-bind '"쳍":"cpx"'
-bind '"쳎":"cpv"'
-bind '"쳏":"cpg"'
-bind '"쳐":"cu"'
-bind '"쳑":"cur"'
-bind '"쳒":"cuR"'
-bind '"쳓":"curt"'
-bind '"쳔":"cus"'
-bind '"쳕":"cusw"'
-bind '"쳖":"cusg"'
-bind '"쳗":"cue"'
-bind '"쳘":"cuf"'
-bind '"쳙":"cufr"'
-bind '"쳚":"cufa"'
-bind '"쳛":"cufq"'
-bind '"쳜":"cuft"'
-bind '"쳝":"cufx"'
-bind '"쳞":"cufv"'
-bind '"쳟":"cufg"'
-bind '"쳠":"cua"'
-bind '"쳡":"cuq"'
-bind '"쳢":"cuqt"'
-bind '"쳣":"cut"'
-bind '"쳤":"cuT"'
-bind '"쳥":"cud"'
-bind '"쳦":"cuw"'
-bind '"쳧":"cuc"'
-bind '"쳨":"cuz"'
-bind '"쳩":"cux"'
-bind '"쳪":"cuv"'
-bind '"쳫":"cug"'
-bind '"쳬":"cP"'
-bind '"쳭":"cPr"'
-bind '"쳮":"cPR"'
-bind '"쳯":"cPrt"'
-bind '"쳰":"cPs"'
-bind '"쳱":"cPsw"'
-bind '"쳲":"cPsg"'
-bind '"쳳":"cPe"'
-bind '"쳴":"cPf"'
-bind '"쳵":"cPfr"'
-bind '"쳶":"cPfa"'
-bind '"쳷":"cPfq"'
-bind '"쳸":"cPft"'
-bind '"쳹":"cPfx"'
-bind '"쳺":"cPfv"'
-bind '"쳻":"cPfg"'
-bind '"쳼":"cPa"'
-bind '"쳽":"cPq"'
-bind '"쳾":"cPqt"'
-bind '"쳿":"cPt"'
-bind '"촀":"cPT"'
-bind '"촁":"cPd"'
-bind '"촂":"cPw"'
-bind '"촃":"cPc"'
-bind '"촄":"cPz"'
-bind '"촅":"cPx"'
-bind '"촆":"cPv"'
-bind '"촇":"cPg"'
-bind '"초":"ch"'
-bind '"촉":"chr"'
-bind '"촊":"chR"'
-bind '"촋":"chrt"'
-bind '"촌":"chs"'
-bind '"촍":"chsw"'
-bind '"촎":"chsg"'
-bind '"촏":"che"'
-bind '"촐":"chf"'
-bind '"촑":"chfr"'
-bind '"촒":"chfa"'
-bind '"촓":"chfq"'
-bind '"촔":"chft"'
-bind '"촕":"chfx"'
-bind '"촖":"chfv"'
-bind '"촗":"chfg"'
-bind '"촘":"cha"'
-bind '"촙":"chq"'
-bind '"촚":"chqt"'
-bind '"촛":"cht"'
-bind '"촜":"chT"'
-bind '"총":"chd"'
-bind '"촞":"chw"'
-bind '"촟":"chc"'
-bind '"촠":"chz"'
-bind '"촡":"chx"'
-bind '"촢":"chv"'
-bind '"촣":"chg"'
-bind '"촤":"chk"'
-bind '"촥":"chkr"'
-bind '"촦":"chkR"'
-bind '"촧":"chkrt"'
-bind '"촨":"chks"'
-bind '"촩":"chksw"'
-bind '"촪":"chksg"'
-bind '"촫":"chke"'
-bind '"촬":"chkf"'
-bind '"촭":"chkfr"'
-bind '"촮":"chkfa"'
-bind '"촯":"chkfq"'
-bind '"촰":"chkft"'
-bind '"촱":"chkfx"'
-bind '"촲":"chkfv"'
-bind '"촳":"chkfg"'
-bind '"촴":"chka"'
-bind '"촵":"chkq"'
-bind '"촶":"chkqt"'
-bind '"촷":"chkt"'
-bind '"촸":"chkT"'
-bind '"촹":"chkd"'
-bind '"촺":"chkw"'
-bind '"촻":"chkc"'
-bind '"촼":"chkz"'
-bind '"촽":"chkx"'
-bind '"촾":"chkv"'
-bind '"촿":"chkg"'
-bind '"쵀":"cho"'
-bind '"쵁":"chor"'
-bind '"쵂":"choR"'
-bind '"쵃":"chort"'
-bind '"쵄":"chos"'
-bind '"쵅":"chosw"'
-bind '"쵆":"chosg"'
-bind '"쵇":"choe"'
-bind '"쵈":"chof"'
-bind '"쵉":"chofr"'
-bind '"쵊":"chofa"'
-bind '"쵋":"chofq"'
-bind '"쵌":"choft"'
-bind '"쵍":"chofx"'
-bind '"쵎":"chofv"'
-bind '"쵏":"chofg"'
-bind '"쵐":"choa"'
-bind '"쵑":"choq"'
-bind '"쵒":"choqt"'
-bind '"쵓":"chot"'
-bind '"쵔":"choT"'
-bind '"쵕":"chod"'
-bind '"쵖":"chow"'
-bind '"쵗":"choc"'
-bind '"쵘":"choz"'
-bind '"쵙":"chox"'
-bind '"쵚":"chov"'
-bind '"쵛":"chog"'
-bind '"최":"chl"'
-bind '"쵝":"chlr"'
-bind '"쵞":"chlR"'
-bind '"쵟":"chlrt"'
-bind '"쵠":"chls"'
-bind '"쵡":"chlsw"'
-bind '"쵢":"chlsg"'
-bind '"쵣":"chle"'
-bind '"쵤":"chlf"'
-bind '"쵥":"chlfr"'
-bind '"쵦":"chlfa"'
-bind '"쵧":"chlfq"'
-bind '"쵨":"chlft"'
-bind '"쵩":"chlfx"'
-bind '"쵪":"chlfv"'
-bind '"쵫":"chlfg"'
-bind '"쵬":"chla"'
-bind '"쵭":"chlq"'
-bind '"쵮":"chlqt"'
-bind '"쵯":"chlt"'
-bind '"쵰":"chlT"'
-bind '"쵱":"chld"'
-bind '"쵲":"chlw"'
-bind '"쵳":"chlc"'
-bind '"쵴":"chlz"'
-bind '"쵵":"chlx"'
-bind '"쵶":"chlv"'
-bind '"쵷":"chlg"'
-bind '"쵸":"cy"'
-bind '"쵹":"cyr"'
-bind '"쵺":"cyR"'
-bind '"쵻":"cyrt"'
-bind '"쵼":"cys"'
-bind '"쵽":"cysw"'
-bind '"쵾":"cysg"'
-bind '"쵿":"cye"'
-bind '"춀":"cyf"'
-bind '"춁":"cyfr"'
-bind '"춂":"cyfa"'
-bind '"춃":"cyfq"'
-bind '"춄":"cyft"'
-bind '"춅":"cyfx"'
-bind '"춆":"cyfv"'
-bind '"춇":"cyfg"'
-bind '"춈":"cya"'
-bind '"춉":"cyq"'
-bind '"춊":"cyqt"'
-bind '"춋":"cyt"'
-bind '"춌":"cyT"'
-bind '"춍":"cyd"'
-bind '"춎":"cyw"'
-bind '"춏":"cyc"'
-bind '"춐":"cyz"'
-bind '"춑":"cyx"'
-bind '"춒":"cyv"'
-bind '"춓":"cyg"'
-bind '"추":"cn"'
-bind '"축":"cnr"'
-bind '"춖":"cnR"'
-bind '"춗":"cnrt"'
-bind '"춘":"cns"'
-bind '"춙":"cnsw"'
-bind '"춚":"cnsg"'
-bind '"춛":"cne"'
-bind '"출":"cnf"'
-bind '"춝":"cnfr"'
-bind '"춞":"cnfa"'
-bind '"춟":"cnfq"'
-bind '"춠":"cnft"'
-bind '"춡":"cnfx"'
-bind '"춢":"cnfv"'
-bind '"춣":"cnfg"'
-bind '"춤":"cna"'
-bind '"춥":"cnq"'
-bind '"춦":"cnqt"'
-bind '"춧":"cnt"'
-bind '"춨":"cnT"'
-bind '"충":"cnd"'
-bind '"춪":"cnw"'
-bind '"춫":"cnc"'
-bind '"춬":"cnz"'
-bind '"춭":"cnx"'
-bind '"춮":"cnv"'
-bind '"춯":"cng"'
-bind '"춰":"cnj"'
-bind '"춱":"cnjr"'
-bind '"춲":"cnjR"'
-bind '"춳":"cnjrt"'
-bind '"춴":"cnjs"'
-bind '"춵":"cnjsw"'
-bind '"춶":"cnjsg"'
-bind '"춷":"cnje"'
-bind '"춸":"cnjf"'
-bind '"춹":"cnjfr"'
-bind '"춺":"cnjfa"'
-bind '"춻":"cnjfq"'
-bind '"춼":"cnjft"'
-bind '"춽":"cnjfx"'
-bind '"춾":"cnjfv"'
-bind '"춿":"cnjfg"'
-bind '"췀":"cnja"'
-bind '"췁":"cnjq"'
-bind '"췂":"cnjqt"'
-bind '"췃":"cnjt"'
-bind '"췄":"cnjT"'
-bind '"췅":"cnjd"'
-bind '"췆":"cnjw"'
-bind '"췇":"cnjc"'
-bind '"췈":"cnjz"'
-bind '"췉":"cnjx"'
-bind '"췊":"cnjv"'
-bind '"췋":"cnjg"'
-bind '"췌":"cnp"'
-bind '"췍":"cnpr"'
-bind '"췎":"cnpR"'
-bind '"췏":"cnprt"'
-bind '"췐":"cnps"'
-bind '"췑":"cnpsw"'
-bind '"췒":"cnpsg"'
-bind '"췓":"cnpe"'
-bind '"췔":"cnpf"'
-bind '"췕":"cnpfr"'
-bind '"췖":"cnpfa"'
-bind '"췗":"cnpfq"'
-bind '"췘":"cnpft"'
-bind '"췙":"cnpfx"'
-bind '"췚":"cnpfv"'
-bind '"췛":"cnpfg"'
-bind '"췜":"cnpa"'
-bind '"췝":"cnpq"'
-bind '"췞":"cnpqt"'
-bind '"췟":"cnpt"'
-bind '"췠":"cnpT"'
-bind '"췡":"cnpd"'
-bind '"췢":"cnpw"'
-bind '"췣":"cnpc"'
-bind '"췤":"cnpz"'
-bind '"췥":"cnpx"'
-bind '"췦":"cnpv"'
-bind '"췧":"cnpg"'
-bind '"취":"cnl"'
-bind '"췩":"cnlr"'
-bind '"췪":"cnlR"'
-bind '"췫":"cnlrt"'
-bind '"췬":"cnls"'
-bind '"췭":"cnlsw"'
-bind '"췮":"cnlsg"'
-bind '"췯":"cnle"'
-bind '"췰":"cnlf"'
-bind '"췱":"cnlfr"'
-bind '"췲":"cnlfa"'
-bind '"췳":"cnlfq"'
-bind '"췴":"cnlft"'
-bind '"췵":"cnlfx"'
-bind '"췶":"cnlfv"'
-bind '"췷":"cnlfg"'
-bind '"췸":"cnla"'
-bind '"췹":"cnlq"'
-bind '"췺":"cnlqt"'
-bind '"췻":"cnlt"'
-bind '"췼":"cnlT"'
-bind '"췽":"cnld"'
-bind '"췾":"cnlw"'
-bind '"췿":"cnlc"'
-bind '"츀":"cnlz"'
-bind '"츁":"cnlx"'
-bind '"츂":"cnlv"'
-bind '"츃":"cnlg"'
-bind '"츄":"cb"'
-bind '"츅":"cbr"'
-bind '"츆":"cbR"'
-bind '"츇":"cbrt"'
-bind '"츈":"cbs"'
-bind '"츉":"cbsw"'
-bind '"츊":"cbsg"'
-bind '"츋":"cbe"'
-bind '"츌":"cbf"'
-bind '"츍":"cbfr"'
-bind '"츎":"cbfa"'
-bind '"츏":"cbfq"'
-bind '"츐":"cbft"'
-bind '"츑":"cbfx"'
-bind '"츒":"cbfv"'
-bind '"츓":"cbfg"'
-bind '"츔":"cba"'
-bind '"츕":"cbq"'
-bind '"츖":"cbqt"'
-bind '"츗":"cbt"'
-bind '"츘":"cbT"'
-bind '"츙":"cbd"'
-bind '"츚":"cbw"'
-bind '"츛":"cbc"'
-bind '"츜":"cbz"'
-bind '"츝":"cbx"'
-bind '"츞":"cbv"'
-bind '"츟":"cbg"'
-bind '"츠":"cm"'
-bind '"측":"cmr"'
-bind '"츢":"cmR"'
-bind '"츣":"cmrt"'
-bind '"츤":"cms"'
-bind '"츥":"cmsw"'
-bind '"츦":"cmsg"'
-bind '"츧":"cme"'
-bind '"츨":"cmf"'
-bind '"츩":"cmfr"'
-bind '"츪":"cmfa"'
-bind '"츫":"cmfq"'
-bind '"츬":"cmft"'
-bind '"츭":"cmfx"'
-bind '"츮":"cmfv"'
-bind '"츯":"cmfg"'
-bind '"츰":"cma"'
-bind '"츱":"cmq"'
-bind '"츲":"cmqt"'
-bind '"츳":"cmt"'
-bind '"츴":"cmT"'
-bind '"층":"cmd"'
-bind '"츶":"cmw"'
-bind '"츷":"cmc"'
-bind '"츸":"cmz"'
-bind '"츹":"cmx"'
-bind '"츺":"cmv"'
-bind '"츻":"cmg"'
-bind '"츼":"cml"'
-bind '"츽":"cmlr"'
-bind '"츾":"cmlR"'
-bind '"츿":"cmlrt"'
-bind '"칀":"cmls"'
-bind '"칁":"cmlsw"'
-bind '"칂":"cmlsg"'
-bind '"칃":"cmle"'
-bind '"칄":"cmlf"'
-bind '"칅":"cmlfr"'
-bind '"칆":"cmlfa"'
-bind '"칇":"cmlfq"'
-bind '"칈":"cmlft"'
-bind '"칉":"cmlfx"'
-bind '"칊":"cmlfv"'
-bind '"칋":"cmlfg"'
-bind '"칌":"cmla"'
-bind '"칍":"cmlq"'
-bind '"칎":"cmlqt"'
-bind '"칏":"cmlt"'
-bind '"칐":"cmlT"'
-bind '"칑":"cmld"'
-bind '"칒":"cmlw"'
-bind '"칓":"cmlc"'
-bind '"칔":"cmlz"'
-bind '"칕":"cmlx"'
-bind '"칖":"cmlv"'
-bind '"칗":"cmlg"'
-bind '"치":"cl"'
-bind '"칙":"clr"'
-bind '"칚":"clR"'
-bind '"칛":"clrt"'
-bind '"친":"cls"'
-bind '"칝":"clsw"'
-bind '"칞":"clsg"'
-bind '"칟":"cle"'
-bind '"칠":"clf"'
-bind '"칡":"clfr"'
-bind '"칢":"clfa"'
-bind '"칣":"clfq"'
-bind '"칤":"clft"'
-bind '"칥":"clfx"'
-bind '"칦":"clfv"'
-bind '"칧":"clfg"'
-bind '"침":"cla"'
-bind '"칩":"clq"'
-bind '"칪":"clqt"'
-bind '"칫":"clt"'
-bind '"칬":"clT"'
-bind '"칭":"cld"'
-bind '"칮":"clw"'
-bind '"칯":"clc"'
-bind '"칰":"clz"'
-bind '"칱":"clx"'
-bind '"칲":"clv"'
-bind '"칳":"clg"'
-bind '"카":"zk"'
-bind '"칵":"zkr"'
-bind '"칶":"zkR"'
-bind '"칷":"zkrt"'
-bind '"칸":"zks"'
-bind '"칹":"zksw"'
-bind '"칺":"zksg"'
-bind '"칻":"zke"'
-bind '"칼":"zkf"'
-bind '"칽":"zkfr"'
-bind '"칾":"zkfa"'
-bind '"칿":"zkfq"'
-bind '"캀":"zkft"'
-bind '"캁":"zkfx"'
-bind '"캂":"zkfv"'
-bind '"캃":"zkfg"'
-bind '"캄":"zka"'
-bind '"캅":"zkq"'
-bind '"캆":"zkqt"'
-bind '"캇":"zkt"'
-bind '"캈":"zkT"'
-bind '"캉":"zkd"'
-bind '"캊":"zkw"'
-bind '"캋":"zkc"'
-bind '"캌":"zkz"'
-bind '"캍":"zkx"'
-bind '"캎":"zkv"'
-bind '"캏":"zkg"'
-bind '"캐":"zo"'
-bind '"캑":"zor"'
-bind '"캒":"zoR"'
-bind '"캓":"zort"'
-bind '"캔":"zos"'
-bind '"캕":"zosw"'
-bind '"캖":"zosg"'
-bind '"캗":"zoe"'
-bind '"캘":"zof"'
-bind '"캙":"zofr"'
-bind '"캚":"zofa"'
-bind '"캛":"zofq"'
-bind '"캜":"zoft"'
-bind '"캝":"zofx"'
-bind '"캞":"zofv"'
-bind '"캟":"zofg"'
-bind '"캠":"zoa"'
-bind '"캡":"zoq"'
-bind '"캢":"zoqt"'
-bind '"캣":"zot"'
-bind '"캤":"zoT"'
-bind '"캥":"zod"'
-bind '"캦":"zow"'
-bind '"캧":"zoc"'
-bind '"캨":"zoz"'
-bind '"캩":"zox"'
-bind '"캪":"zov"'
-bind '"캫":"zog"'
-bind '"캬":"zi"'
-bind '"캭":"zir"'
-bind '"캮":"ziR"'
-bind '"캯":"zirt"'
-bind '"캰":"zis"'
-bind '"캱":"zisw"'
-bind '"캲":"zisg"'
-bind '"캳":"zie"'
-bind '"캴":"zif"'
-bind '"캵":"zifr"'
-bind '"캶":"zifa"'
-bind '"캷":"zifq"'
-bind '"캸":"zift"'
-bind '"캹":"zifx"'
-bind '"캺":"zifv"'
-bind '"캻":"zifg"'
-bind '"캼":"zia"'
-bind '"캽":"ziq"'
-bind '"캾":"ziqt"'
-bind '"캿":"zit"'
-bind '"컀":"ziT"'
-bind '"컁":"zid"'
-bind '"컂":"ziw"'
-bind '"컃":"zic"'
-bind '"컄":"ziz"'
-bind '"컅":"zix"'
-bind '"컆":"ziv"'
-bind '"컇":"zig"'
-bind '"컈":"zO"'
-bind '"컉":"zOr"'
-bind '"컊":"zOR"'
-bind '"컋":"zOrt"'
-bind '"컌":"zOs"'
-bind '"컍":"zOsw"'
-bind '"컎":"zOsg"'
-bind '"컏":"zOe"'
-bind '"컐":"zOf"'
-bind '"컑":"zOfr"'
-bind '"컒":"zOfa"'
-bind '"컓":"zOfq"'
-bind '"컔":"zOft"'
-bind '"컕":"zOfx"'
-bind '"컖":"zOfv"'
-bind '"컗":"zOfg"'
-bind '"컘":"zOa"'
-bind '"컙":"zOq"'
-bind '"컚":"zOqt"'
-bind '"컛":"zOt"'
-bind '"컜":"zOT"'
-bind '"컝":"zOd"'
-bind '"컞":"zOw"'
-bind '"컟":"zOc"'
-bind '"컠":"zOz"'
-bind '"컡":"zOx"'
-bind '"컢":"zOv"'
-bind '"컣":"zOg"'
-bind '"커":"zj"'
-bind '"컥":"zjr"'
-bind '"컦":"zjR"'
-bind '"컧":"zjrt"'
-bind '"컨":"zjs"'
-bind '"컩":"zjsw"'
-bind '"컪":"zjsg"'
-bind '"컫":"zje"'
-bind '"컬":"zjf"'
-bind '"컭":"zjfr"'
-bind '"컮":"zjfa"'
-bind '"컯":"zjfq"'
-bind '"컰":"zjft"'
-bind '"컱":"zjfx"'
-bind '"컲":"zjfv"'
-bind '"컳":"zjfg"'
-bind '"컴":"zja"'
-bind '"컵":"zjq"'
-bind '"컶":"zjqt"'
-bind '"컷":"zjt"'
-bind '"컸":"zjT"'
-bind '"컹":"zjd"'
-bind '"컺":"zjw"'
-bind '"컻":"zjc"'
-bind '"컼":"zjz"'
-bind '"컽":"zjx"'
-bind '"컾":"zjv"'
-bind '"컿":"zjg"'
-bind '"케":"zp"'
-bind '"켁":"zpr"'
-bind '"켂":"zpR"'
-bind '"켃":"zprt"'
-bind '"켄":"zps"'
-bind '"켅":"zpsw"'
-bind '"켆":"zpsg"'
-bind '"켇":"zpe"'
-bind '"켈":"zpf"'
-bind '"켉":"zpfr"'
-bind '"켊":"zpfa"'
-bind '"켋":"zpfq"'
-bind '"켌":"zpft"'
-bind '"켍":"zpfx"'
-bind '"켎":"zpfv"'
-bind '"켏":"zpfg"'
-bind '"켐":"zpa"'
-bind '"켑":"zpq"'
-bind '"켒":"zpqt"'
-bind '"켓":"zpt"'
-bind '"켔":"zpT"'
-bind '"켕":"zpd"'
-bind '"켖":"zpw"'
-bind '"켗":"zpc"'
-bind '"켘":"zpz"'
-bind '"켙":"zpx"'
-bind '"켚":"zpv"'
-bind '"켛":"zpg"'
-bind '"켜":"zu"'
-bind '"켝":"zur"'
-bind '"켞":"zuR"'
-bind '"켟":"zurt"'
-bind '"켠":"zus"'
-bind '"켡":"zusw"'
-bind '"켢":"zusg"'
-bind '"켣":"zue"'
-bind '"켤":"zuf"'
-bind '"켥":"zufr"'
-bind '"켦":"zufa"'
-bind '"켧":"zufq"'
-bind '"켨":"zuft"'
-bind '"켩":"zufx"'
-bind '"켪":"zufv"'
-bind '"켫":"zufg"'
-bind '"켬":"zua"'
-bind '"켭":"zuq"'
-bind '"켮":"zuqt"'
-bind '"켯":"zut"'
-bind '"켰":"zuT"'
-bind '"켱":"zud"'
-bind '"켲":"zuw"'
-bind '"켳":"zuc"'
-bind '"켴":"zuz"'
-bind '"켵":"zux"'
-bind '"켶":"zuv"'
-bind '"켷":"zug"'
-bind '"켸":"zP"'
-bind '"켹":"zPr"'
-bind '"켺":"zPR"'
-bind '"켻":"zPrt"'
-bind '"켼":"zPs"'
-bind '"켽":"zPsw"'
-bind '"켾":"zPsg"'
-bind '"켿":"zPe"'
-bind '"콀":"zPf"'
-bind '"콁":"zPfr"'
-bind '"콂":"zPfa"'
-bind '"콃":"zPfq"'
-bind '"콄":"zPft"'
-bind '"콅":"zPfx"'
-bind '"콆":"zPfv"'
-bind '"콇":"zPfg"'
-bind '"콈":"zPa"'
-bind '"콉":"zPq"'
-bind '"콊":"zPqt"'
-bind '"콋":"zPt"'
-bind '"콌":"zPT"'
-bind '"콍":"zPd"'
-bind '"콎":"zPw"'
-bind '"콏":"zPc"'
-bind '"콐":"zPz"'
-bind '"콑":"zPx"'
-bind '"콒":"zPv"'
-bind '"콓":"zPg"'
-bind '"코":"zh"'
-bind '"콕":"zhr"'
-bind '"콖":"zhR"'
-bind '"콗":"zhrt"'
-bind '"콘":"zhs"'
-bind '"콙":"zhsw"'
-bind '"콚":"zhsg"'
-bind '"콛":"zhe"'
-bind '"콜":"zhf"'
-bind '"콝":"zhfr"'
-bind '"콞":"zhfa"'
-bind '"콟":"zhfq"'
-bind '"콠":"zhft"'
-bind '"콡":"zhfx"'
-bind '"콢":"zhfv"'
-bind '"콣":"zhfg"'
-bind '"콤":"zha"'
-bind '"콥":"zhq"'
-bind '"콦":"zhqt"'
-bind '"콧":"zht"'
-bind '"콨":"zhT"'
-bind '"콩":"zhd"'
-bind '"콪":"zhw"'
-bind '"콫":"zhc"'
-bind '"콬":"zhz"'
-bind '"콭":"zhx"'
-bind '"콮":"zhv"'
-bind '"콯":"zhg"'
-bind '"콰":"zhk"'
-bind '"콱":"zhkr"'
-bind '"콲":"zhkR"'
-bind '"콳":"zhkrt"'
-bind '"콴":"zhks"'
-bind '"콵":"zhksw"'
-bind '"콶":"zhksg"'
-bind '"콷":"zhke"'
-bind '"콸":"zhkf"'
-bind '"콹":"zhkfr"'
-bind '"콺":"zhkfa"'
-bind '"콻":"zhkfq"'
-bind '"콼":"zhkft"'
-bind '"콽":"zhkfx"'
-bind '"콾":"zhkfv"'
-bind '"콿":"zhkfg"'
-bind '"쾀":"zhka"'
-bind '"쾁":"zhkq"'
-bind '"쾂":"zhkqt"'
-bind '"쾃":"zhkt"'
-bind '"쾄":"zhkT"'
-bind '"쾅":"zhkd"'
-bind '"쾆":"zhkw"'
-bind '"쾇":"zhkc"'
-bind '"쾈":"zhkz"'
-bind '"쾉":"zhkx"'
-bind '"쾊":"zhkv"'
-bind '"쾋":"zhkg"'
-bind '"쾌":"zho"'
-bind '"쾍":"zhor"'
-bind '"쾎":"zhoR"'
-bind '"쾏":"zhort"'
-bind '"쾐":"zhos"'
-bind '"쾑":"zhosw"'
-bind '"쾒":"zhosg"'
-bind '"쾓":"zhoe"'
-bind '"쾔":"zhof"'
-bind '"쾕":"zhofr"'
-bind '"쾖":"zhofa"'
-bind '"쾗":"zhofq"'
-bind '"쾘":"zhoft"'
-bind '"쾙":"zhofx"'
-bind '"쾚":"zhofv"'
-bind '"쾛":"zhofg"'
-bind '"쾜":"zhoa"'
-bind '"쾝":"zhoq"'
-bind '"쾞":"zhoqt"'
-bind '"쾟":"zhot"'
-bind '"쾠":"zhoT"'
-bind '"쾡":"zhod"'
-bind '"쾢":"zhow"'
-bind '"쾣":"zhoc"'
-bind '"쾤":"zhoz"'
-bind '"쾥":"zhox"'
-bind '"쾦":"zhov"'
-bind '"쾧":"zhog"'
-bind '"쾨":"zhl"'
-bind '"쾩":"zhlr"'
-bind '"쾪":"zhlR"'
-bind '"쾫":"zhlrt"'
-bind '"쾬":"zhls"'
-bind '"쾭":"zhlsw"'
-bind '"쾮":"zhlsg"'
-bind '"쾯":"zhle"'
-bind '"쾰":"zhlf"'
-bind '"쾱":"zhlfr"'
-bind '"쾲":"zhlfa"'
-bind '"쾳":"zhlfq"'
-bind '"쾴":"zhlft"'
-bind '"쾵":"zhlfx"'
-bind '"쾶":"zhlfv"'
-bind '"쾷":"zhlfg"'
-bind '"쾸":"zhla"'
-bind '"쾹":"zhlq"'
-bind '"쾺":"zhlqt"'
-bind '"쾻":"zhlt"'
-bind '"쾼":"zhlT"'
-bind '"쾽":"zhld"'
-bind '"쾾":"zhlw"'
-bind '"쾿":"zhlc"'
-bind '"쿀":"zhlz"'
-bind '"쿁":"zhlx"'
-bind '"쿂":"zhlv"'
-bind '"쿃":"zhlg"'
-bind '"쿄":"zy"'
-bind '"쿅":"zyr"'
-bind '"쿆":"zyR"'
-bind '"쿇":"zyrt"'
-bind '"쿈":"zys"'
-bind '"쿉":"zysw"'
-bind '"쿊":"zysg"'
-bind '"쿋":"zye"'
-bind '"쿌":"zyf"'
-bind '"쿍":"zyfr"'
-bind '"쿎":"zyfa"'
-bind '"쿏":"zyfq"'
-bind '"쿐":"zyft"'
-bind '"쿑":"zyfx"'
-bind '"쿒":"zyfv"'
-bind '"쿓":"zyfg"'
-bind '"쿔":"zya"'
-bind '"쿕":"zyq"'
-bind '"쿖":"zyqt"'
-bind '"쿗":"zyt"'
-bind '"쿘":"zyT"'
-bind '"쿙":"zyd"'
-bind '"쿚":"zyw"'
-bind '"쿛":"zyc"'
-bind '"쿜":"zyz"'
-bind '"쿝":"zyx"'
-bind '"쿞":"zyv"'
-bind '"쿟":"zyg"'
-bind '"쿠":"zn"'
-bind '"쿡":"znr"'
-bind '"쿢":"znR"'
-bind '"쿣":"znrt"'
-bind '"쿤":"zns"'
-bind '"쿥":"znsw"'
-bind '"쿦":"znsg"'
-bind '"쿧":"zne"'
-bind '"쿨":"znf"'
-bind '"쿩":"znfr"'
-bind '"쿪":"znfa"'
-bind '"쿫":"znfq"'
-bind '"쿬":"znft"'
-bind '"쿭":"znfx"'
-bind '"쿮":"znfv"'
-bind '"쿯":"znfg"'
-bind '"쿰":"zna"'
-bind '"쿱":"znq"'
-bind '"쿲":"znqt"'
-bind '"쿳":"znt"'
-bind '"쿴":"znT"'
-bind '"쿵":"znd"'
-bind '"쿶":"znw"'
-bind '"쿷":"znc"'
-bind '"쿸":"znz"'
-bind '"쿹":"znx"'
-bind '"쿺":"znv"'
-bind '"쿻":"zng"'
-bind '"쿼":"znj"'
-bind '"쿽":"znjr"'
-bind '"쿾":"znjR"'
-bind '"쿿":"znjrt"'
-bind '"퀀":"znjs"'
-bind '"퀁":"znjsw"'
-bind '"퀂":"znjsg"'
-bind '"퀃":"znje"'
-bind '"퀄":"znjf"'
-bind '"퀅":"znjfr"'
-bind '"퀆":"znjfa"'
-bind '"퀇":"znjfq"'
-bind '"퀈":"znjft"'
-bind '"퀉":"znjfx"'
-bind '"퀊":"znjfv"'
-bind '"퀋":"znjfg"'
-bind '"퀌":"znja"'
-bind '"퀍":"znjq"'
-bind '"퀎":"znjqt"'
-bind '"퀏":"znjt"'
-bind '"퀐":"znjT"'
-bind '"퀑":"znjd"'
-bind '"퀒":"znjw"'
-bind '"퀓":"znjc"'
-bind '"퀔":"znjz"'
-bind '"퀕":"znjx"'
-bind '"퀖":"znjv"'
-bind '"퀗":"znjg"'
-bind '"퀘":"znp"'
-bind '"퀙":"znpr"'
-bind '"퀚":"znpR"'
-bind '"퀛":"znprt"'
-bind '"퀜":"znps"'
-bind '"퀝":"znpsw"'
-bind '"퀞":"znpsg"'
-bind '"퀟":"znpe"'
-bind '"퀠":"znpf"'
-bind '"퀡":"znpfr"'
-bind '"퀢":"znpfa"'
-bind '"퀣":"znpfq"'
-bind '"퀤":"znpft"'
-bind '"퀥":"znpfx"'
-bind '"퀦":"znpfv"'
-bind '"퀧":"znpfg"'
-bind '"퀨":"znpa"'
-bind '"퀩":"znpq"'
-bind '"퀪":"znpqt"'
-bind '"퀫":"znpt"'
-bind '"퀬":"znpT"'
-bind '"퀭":"znpd"'
-bind '"퀮":"znpw"'
-bind '"퀯":"znpc"'
-bind '"퀰":"znpz"'
-bind '"퀱":"znpx"'
-bind '"퀲":"znpv"'
-bind '"퀳":"znpg"'
-bind '"퀴":"znl"'
-bind '"퀵":"znlr"'
-bind '"퀶":"znlR"'
-bind '"퀷":"znlrt"'
-bind '"퀸":"znls"'
-bind '"퀹":"znlsw"'
-bind '"퀺":"znlsg"'
-bind '"퀻":"znle"'
-bind '"퀼":"znlf"'
-bind '"퀽":"znlfr"'
-bind '"퀾":"znlfa"'
-bind '"퀿":"znlfq"'
-bind '"큀":"znlft"'
-bind '"큁":"znlfx"'
-bind '"큂":"znlfv"'
-bind '"큃":"znlfg"'
-bind '"큄":"znla"'
-bind '"큅":"znlq"'
-bind '"큆":"znlqt"'
-bind '"큇":"znlt"'
-bind '"큈":"znlT"'
-bind '"큉":"znld"'
-bind '"큊":"znlw"'
-bind '"큋":"znlc"'
-bind '"큌":"znlz"'
-bind '"큍":"znlx"'
-bind '"큎":"znlv"'
-bind '"큏":"znlg"'
-bind '"큐":"zb"'
-bind '"큑":"zbr"'
-bind '"큒":"zbR"'
-bind '"큓":"zbrt"'
-bind '"큔":"zbs"'
-bind '"큕":"zbsw"'
-bind '"큖":"zbsg"'
-bind '"큗":"zbe"'
-bind '"큘":"zbf"'
-bind '"큙":"zbfr"'
-bind '"큚":"zbfa"'
-bind '"큛":"zbfq"'
-bind '"큜":"zbft"'
-bind '"큝":"zbfx"'
-bind '"큞":"zbfv"'
-bind '"큟":"zbfg"'
-bind '"큠":"zba"'
-bind '"큡":"zbq"'
-bind '"큢":"zbqt"'
-bind '"큣":"zbt"'
-bind '"큤":"zbT"'
-bind '"큥":"zbd"'
-bind '"큦":"zbw"'
-bind '"큧":"zbc"'
-bind '"큨":"zbz"'
-bind '"큩":"zbx"'
-bind '"큪":"zbv"'
-bind '"큫":"zbg"'
-bind '"크":"zm"'
-bind '"큭":"zmr"'
-bind '"큮":"zmR"'
-bind '"큯":"zmrt"'
-bind '"큰":"zms"'
-bind '"큱":"zmsw"'
-bind '"큲":"zmsg"'
-bind '"큳":"zme"'
-bind '"클":"zmf"'
-bind '"큵":"zmfr"'
-bind '"큶":"zmfa"'
-bind '"큷":"zmfq"'
-bind '"큸":"zmft"'
-bind '"큹":"zmfx"'
-bind '"큺":"zmfv"'
-bind '"큻":"zmfg"'
-bind '"큼":"zma"'
-bind '"큽":"zmq"'
-bind '"큾":"zmqt"'
-bind '"큿":"zmt"'
-bind '"킀":"zmT"'
-bind '"킁":"zmd"'
-bind '"킂":"zmw"'
-bind '"킃":"zmc"'
-bind '"킄":"zmz"'
-bind '"킅":"zmx"'
-bind '"킆":"zmv"'
-bind '"킇":"zmg"'
-bind '"킈":"zml"'
-bind '"킉":"zmlr"'
-bind '"킊":"zmlR"'
-bind '"킋":"zmlrt"'
-bind '"킌":"zmls"'
-bind '"킍":"zmlsw"'
-bind '"킎":"zmlsg"'
-bind '"킏":"zmle"'
-bind '"킐":"zmlf"'
-bind '"킑":"zmlfr"'
-bind '"킒":"zmlfa"'
-bind '"킓":"zmlfq"'
-bind '"킔":"zmlft"'
-bind '"킕":"zmlfx"'
-bind '"킖":"zmlfv"'
-bind '"킗":"zmlfg"'
-bind '"킘":"zmla"'
-bind '"킙":"zmlq"'
-bind '"킚":"zmlqt"'
-bind '"킛":"zmlt"'
-bind '"킜":"zmlT"'
-bind '"킝":"zmld"'
-bind '"킞":"zmlw"'
-bind '"킟":"zmlc"'
-bind '"킠":"zmlz"'
-bind '"킡":"zmlx"'
-bind '"킢":"zmlv"'
-bind '"킣":"zmlg"'
-bind '"키":"zl"'
-bind '"킥":"zlr"'
-bind '"킦":"zlR"'
-bind '"킧":"zlrt"'
-bind '"킨":"zls"'
-bind '"킩":"zlsw"'
-bind '"킪":"zlsg"'
-bind '"킫":"zle"'
-bind '"킬":"zlf"'
-bind '"킭":"zlfr"'
-bind '"킮":"zlfa"'
-bind '"킯":"zlfq"'
-bind '"킰":"zlft"'
-bind '"킱":"zlfx"'
-bind '"킲":"zlfv"'
-bind '"킳":"zlfg"'
-bind '"킴":"zla"'
-bind '"킵":"zlq"'
-bind '"킶":"zlqt"'
-bind '"킷":"zlt"'
-bind '"킸":"zlT"'
-bind '"킹":"zld"'
-bind '"킺":"zlw"'
-bind '"킻":"zlc"'
-bind '"킼":"zlz"'
-bind '"킽":"zlx"'
-bind '"킾":"zlv"'
-bind '"킿":"zlg"'
-bind '"타":"xk"'
-bind '"탁":"xkr"'
-bind '"탂":"xkR"'
-bind '"탃":"xkrt"'
-bind '"탄":"xks"'
-bind '"탅":"xksw"'
-bind '"탆":"xksg"'
-bind '"탇":"xke"'
-bind '"탈":"xkf"'
-bind '"탉":"xkfr"'
-bind '"탊":"xkfa"'
-bind '"탋":"xkfq"'
-bind '"탌":"xkft"'
-bind '"탍":"xkfx"'
-bind '"탎":"xkfv"'
-bind '"탏":"xkfg"'
-bind '"탐":"xka"'
-bind '"탑":"xkq"'
-bind '"탒":"xkqt"'
-bind '"탓":"xkt"'
-bind '"탔":"xkT"'
-bind '"탕":"xkd"'
-bind '"탖":"xkw"'
-bind '"탗":"xkc"'
-bind '"탘":"xkz"'
-bind '"탙":"xkx"'
-bind '"탚":"xkv"'
-bind '"탛":"xkg"'
-bind '"태":"xo"'
-bind '"택":"xor"'
-bind '"탞":"xoR"'
-bind '"탟":"xort"'
-bind '"탠":"xos"'
-bind '"탡":"xosw"'
-bind '"탢":"xosg"'
-bind '"탣":"xoe"'
-bind '"탤":"xof"'
-bind '"탥":"xofr"'
-bind '"탦":"xofa"'
-bind '"탧":"xofq"'
-bind '"탨":"xoft"'
-bind '"탩":"xofx"'
-bind '"탪":"xofv"'
-bind '"탫":"xofg"'
-bind '"탬":"xoa"'
-bind '"탭":"xoq"'
-bind '"탮":"xoqt"'
-bind '"탯":"xot"'
-bind '"탰":"xoT"'
-bind '"탱":"xod"'
-bind '"탲":"xow"'
-bind '"탳":"xoc"'
-bind '"탴":"xoz"'
-bind '"탵":"xox"'
-bind '"탶":"xov"'
-bind '"탷":"xog"'
-bind '"탸":"xi"'
-bind '"탹":"xir"'
-bind '"탺":"xiR"'
-bind '"탻":"xirt"'
-bind '"탼":"xis"'
-bind '"탽":"xisw"'
-bind '"탾":"xisg"'
-bind '"탿":"xie"'
-bind '"턀":"xif"'
-bind '"턁":"xifr"'
-bind '"턂":"xifa"'
-bind '"턃":"xifq"'
-bind '"턄":"xift"'
-bind '"턅":"xifx"'
-bind '"턆":"xifv"'
-bind '"턇":"xifg"'
-bind '"턈":"xia"'
-bind '"턉":"xiq"'
-bind '"턊":"xiqt"'
-bind '"턋":"xit"'
-bind '"턌":"xiT"'
-bind '"턍":"xid"'
-bind '"턎":"xiw"'
-bind '"턏":"xic"'
-bind '"턐":"xiz"'
-bind '"턑":"xix"'
-bind '"턒":"xiv"'
-bind '"턓":"xig"'
-bind '"턔":"xO"'
-bind '"턕":"xOr"'
-bind '"턖":"xOR"'
-bind '"턗":"xOrt"'
-bind '"턘":"xOs"'
-bind '"턙":"xOsw"'
-bind '"턚":"xOsg"'
-bind '"턛":"xOe"'
-bind '"턜":"xOf"'
-bind '"턝":"xOfr"'
-bind '"턞":"xOfa"'
-bind '"턟":"xOfq"'
-bind '"턠":"xOft"'
-bind '"턡":"xOfx"'
-bind '"턢":"xOfv"'
-bind '"턣":"xOfg"'
-bind '"턤":"xOa"'
-bind '"턥":"xOq"'
-bind '"턦":"xOqt"'
-bind '"턧":"xOt"'
-bind '"턨":"xOT"'
-bind '"턩":"xOd"'
-bind '"턪":"xOw"'
-bind '"턫":"xOc"'
-bind '"턬":"xOz"'
-bind '"턭":"xOx"'
-bind '"턮":"xOv"'
-bind '"턯":"xOg"'
-bind '"터":"xj"'
-bind '"턱":"xjr"'
-bind '"턲":"xjR"'
-bind '"턳":"xjrt"'
-bind '"턴":"xjs"'
-bind '"턵":"xjsw"'
-bind '"턶":"xjsg"'
-bind '"턷":"xje"'
-bind '"털":"xjf"'
-bind '"턹":"xjfr"'
-bind '"턺":"xjfa"'
-bind '"턻":"xjfq"'
-bind '"턼":"xjft"'
-bind '"턽":"xjfx"'
-bind '"턾":"xjfv"'
-bind '"턿":"xjfg"'
-bind '"텀":"xja"'
-bind '"텁":"xjq"'
-bind '"텂":"xjqt"'
-bind '"텃":"xjt"'
-bind '"텄":"xjT"'
-bind '"텅":"xjd"'
-bind '"텆":"xjw"'
-bind '"텇":"xjc"'
-bind '"텈":"xjz"'
-bind '"텉":"xjx"'
-bind '"텊":"xjv"'
-bind '"텋":"xjg"'
-bind '"테":"xp"'
-bind '"텍":"xpr"'
-bind '"텎":"xpR"'
-bind '"텏":"xprt"'
-bind '"텐":"xps"'
-bind '"텑":"xpsw"'
-bind '"텒":"xpsg"'
-bind '"텓":"xpe"'
-bind '"텔":"xpf"'
-bind '"텕":"xpfr"'
-bind '"텖":"xpfa"'
-bind '"텗":"xpfq"'
-bind '"텘":"xpft"'
-bind '"텙":"xpfx"'
-bind '"텚":"xpfv"'
-bind '"텛":"xpfg"'
-bind '"템":"xpa"'
-bind '"텝":"xpq"'
-bind '"텞":"xpqt"'
-bind '"텟":"xpt"'
-bind '"텠":"xpT"'
-bind '"텡":"xpd"'
-bind '"텢":"xpw"'
-bind '"텣":"xpc"'
-bind '"텤":"xpz"'
-bind '"텥":"xpx"'
-bind '"텦":"xpv"'
-bind '"텧":"xpg"'
-bind '"텨":"xu"'
-bind '"텩":"xur"'
-bind '"텪":"xuR"'
-bind '"텫":"xurt"'
-bind '"텬":"xus"'
-bind '"텭":"xusw"'
-bind '"텮":"xusg"'
-bind '"텯":"xue"'
-bind '"텰":"xuf"'
-bind '"텱":"xufr"'
-bind '"텲":"xufa"'
-bind '"텳":"xufq"'
-bind '"텴":"xuft"'
-bind '"텵":"xufx"'
-bind '"텶":"xufv"'
-bind '"텷":"xufg"'
-bind '"텸":"xua"'
-bind '"텹":"xuq"'
-bind '"텺":"xuqt"'
-bind '"텻":"xut"'
-bind '"텼":"xuT"'
-bind '"텽":"xud"'
-bind '"텾":"xuw"'
-bind '"텿":"xuc"'
-bind '"톀":"xuz"'
-bind '"톁":"xux"'
-bind '"톂":"xuv"'
-bind '"톃":"xug"'
-bind '"톄":"xP"'
-bind '"톅":"xPr"'
-bind '"톆":"xPR"'
-bind '"톇":"xPrt"'
-bind '"톈":"xPs"'
-bind '"톉":"xPsw"'
-bind '"톊":"xPsg"'
-bind '"톋":"xPe"'
-bind '"톌":"xPf"'
-bind '"톍":"xPfr"'
-bind '"톎":"xPfa"'
-bind '"톏":"xPfq"'
-bind '"톐":"xPft"'
-bind '"톑":"xPfx"'
-bind '"톒":"xPfv"'
-bind '"톓":"xPfg"'
-bind '"톔":"xPa"'
-bind '"톕":"xPq"'
-bind '"톖":"xPqt"'
-bind '"톗":"xPt"'
-bind '"톘":"xPT"'
-bind '"톙":"xPd"'
-bind '"톚":"xPw"'
-bind '"톛":"xPc"'
-bind '"톜":"xPz"'
-bind '"톝":"xPx"'
-bind '"톞":"xPv"'
-bind '"톟":"xPg"'
-bind '"토":"xh"'
-bind '"톡":"xhr"'
-bind '"톢":"xhR"'
-bind '"톣":"xhrt"'
-bind '"톤":"xhs"'
-bind '"톥":"xhsw"'
-bind '"톦":"xhsg"'
-bind '"톧":"xhe"'
-bind '"톨":"xhf"'
-bind '"톩":"xhfr"'
-bind '"톪":"xhfa"'
-bind '"톫":"xhfq"'
-bind '"톬":"xhft"'
-bind '"톭":"xhfx"'
-bind '"톮":"xhfv"'
-bind '"톯":"xhfg"'
-bind '"톰":"xha"'
-bind '"톱":"xhq"'
-bind '"톲":"xhqt"'
-bind '"톳":"xht"'
-bind '"톴":"xhT"'
-bind '"통":"xhd"'
-bind '"톶":"xhw"'
-bind '"톷":"xhc"'
-bind '"톸":"xhz"'
-bind '"톹":"xhx"'
-bind '"톺":"xhv"'
-bind '"톻":"xhg"'
-bind '"톼":"xhk"'
-bind '"톽":"xhkr"'
-bind '"톾":"xhkR"'
-bind '"톿":"xhkrt"'
-bind '"퇀":"xhks"'
-bind '"퇁":"xhksw"'
-bind '"퇂":"xhksg"'
-bind '"퇃":"xhke"'
-bind '"퇄":"xhkf"'
-bind '"퇅":"xhkfr"'
-bind '"퇆":"xhkfa"'
-bind '"퇇":"xhkfq"'
-bind '"퇈":"xhkft"'
-bind '"퇉":"xhkfx"'
-bind '"퇊":"xhkfv"'
-bind '"퇋":"xhkfg"'
-bind '"퇌":"xhka"'
-bind '"퇍":"xhkq"'
-bind '"퇎":"xhkqt"'
-bind '"퇏":"xhkt"'
-bind '"퇐":"xhkT"'
-bind '"퇑":"xhkd"'
-bind '"퇒":"xhkw"'
-bind '"퇓":"xhkc"'
-bind '"퇔":"xhkz"'
-bind '"퇕":"xhkx"'
-bind '"퇖":"xhkv"'
-bind '"퇗":"xhkg"'
-bind '"퇘":"xho"'
-bind '"퇙":"xhor"'
-bind '"퇚":"xhoR"'
-bind '"퇛":"xhort"'
-bind '"퇜":"xhos"'
-bind '"퇝":"xhosw"'
-bind '"퇞":"xhosg"'
-bind '"퇟":"xhoe"'
-bind '"퇠":"xhof"'
-bind '"퇡":"xhofr"'
-bind '"퇢":"xhofa"'
-bind '"퇣":"xhofq"'
-bind '"퇤":"xhoft"'
-bind '"퇥":"xhofx"'
-bind '"퇦":"xhofv"'
-bind '"퇧":"xhofg"'
-bind '"퇨":"xhoa"'
-bind '"퇩":"xhoq"'
-bind '"퇪":"xhoqt"'
-bind '"퇫":"xhot"'
-bind '"퇬":"xhoT"'
-bind '"퇭":"xhod"'
-bind '"퇮":"xhow"'
-bind '"퇯":"xhoc"'
-bind '"퇰":"xhoz"'
-bind '"퇱":"xhox"'
-bind '"퇲":"xhov"'
-bind '"퇳":"xhog"'
-bind '"퇴":"xhl"'
-bind '"퇵":"xhlr"'
-bind '"퇶":"xhlR"'
-bind '"퇷":"xhlrt"'
-bind '"퇸":"xhls"'
-bind '"퇹":"xhlsw"'
-bind '"퇺":"xhlsg"'
-bind '"퇻":"xhle"'
-bind '"퇼":"xhlf"'
-bind '"퇽":"xhlfr"'
-bind '"퇾":"xhlfa"'
-bind '"퇿":"xhlfq"'
-bind '"툀":"xhlft"'
-bind '"툁":"xhlfx"'
-bind '"툂":"xhlfv"'
-bind '"툃":"xhlfg"'
-bind '"툄":"xhla"'
-bind '"툅":"xhlq"'
-bind '"툆":"xhlqt"'
-bind '"툇":"xhlt"'
-bind '"툈":"xhlT"'
-bind '"툉":"xhld"'
-bind '"툊":"xhlw"'
-bind '"툋":"xhlc"'
-bind '"툌":"xhlz"'
-bind '"툍":"xhlx"'
-bind '"툎":"xhlv"'
-bind '"툏":"xhlg"'
-bind '"툐":"xy"'
-bind '"툑":"xyr"'
-bind '"툒":"xyR"'
-bind '"툓":"xyrt"'
-bind '"툔":"xys"'
-bind '"툕":"xysw"'
-bind '"툖":"xysg"'
-bind '"툗":"xye"'
-bind '"툘":"xyf"'
-bind '"툙":"xyfr"'
-bind '"툚":"xyfa"'
-bind '"툛":"xyfq"'
-bind '"툜":"xyft"'
-bind '"툝":"xyfx"'
-bind '"툞":"xyfv"'
-bind '"툟":"xyfg"'
-bind '"툠":"xya"'
-bind '"툡":"xyq"'
-bind '"툢":"xyqt"'
-bind '"툣":"xyt"'
-bind '"툤":"xyT"'
-bind '"툥":"xyd"'
-bind '"툦":"xyw"'
-bind '"툧":"xyc"'
-bind '"툨":"xyz"'
-bind '"툩":"xyx"'
-bind '"툪":"xyv"'
-bind '"툫":"xyg"'
-bind '"투":"xn"'
-bind '"툭":"xnr"'
-bind '"툮":"xnR"'
-bind '"툯":"xnrt"'
-bind '"툰":"xns"'
-bind '"툱":"xnsw"'
-bind '"툲":"xnsg"'
-bind '"툳":"xne"'
-bind '"툴":"xnf"'
-bind '"툵":"xnfr"'
-bind '"툶":"xnfa"'
-bind '"툷":"xnfq"'
-bind '"툸":"xnft"'
-bind '"툹":"xnfx"'
-bind '"툺":"xnfv"'
-bind '"툻":"xnfg"'
-bind '"툼":"xna"'
-bind '"툽":"xnq"'
-bind '"툾":"xnqt"'
-bind '"툿":"xnt"'
-bind '"퉀":"xnT"'
-bind '"퉁":"xnd"'
-bind '"퉂":"xnw"'
-bind '"퉃":"xnc"'
-bind '"퉄":"xnz"'
-bind '"퉅":"xnx"'
-bind '"퉆":"xnv"'
-bind '"퉇":"xng"'
-bind '"퉈":"xnj"'
-bind '"퉉":"xnjr"'
-bind '"퉊":"xnjR"'
-bind '"퉋":"xnjrt"'
-bind '"퉌":"xnjs"'
-bind '"퉍":"xnjsw"'
-bind '"퉎":"xnjsg"'
-bind '"퉏":"xnje"'
-bind '"퉐":"xnjf"'
-bind '"퉑":"xnjfr"'
-bind '"퉒":"xnjfa"'
-bind '"퉓":"xnjfq"'
-bind '"퉔":"xnjft"'
-bind '"퉕":"xnjfx"'
-bind '"퉖":"xnjfv"'
-bind '"퉗":"xnjfg"'
-bind '"퉘":"xnja"'
-bind '"퉙":"xnjq"'
-bind '"퉚":"xnjqt"'
-bind '"퉛":"xnjt"'
-bind '"퉜":"xnjT"'
-bind '"퉝":"xnjd"'
-bind '"퉞":"xnjw"'
-bind '"퉟":"xnjc"'
-bind '"퉠":"xnjz"'
-bind '"퉡":"xnjx"'
-bind '"퉢":"xnjv"'
-bind '"퉣":"xnjg"'
-bind '"퉤":"xnp"'
-bind '"퉥":"xnpr"'
-bind '"퉦":"xnpR"'
-bind '"퉧":"xnprt"'
-bind '"퉨":"xnps"'
-bind '"퉩":"xnpsw"'
-bind '"퉪":"xnpsg"'
-bind '"퉫":"xnpe"'
-bind '"퉬":"xnpf"'
-bind '"퉭":"xnpfr"'
-bind '"퉮":"xnpfa"'
-bind '"퉯":"xnpfq"'
-bind '"퉰":"xnpft"'
-bind '"퉱":"xnpfx"'
-bind '"퉲":"xnpfv"'
-bind '"퉳":"xnpfg"'
-bind '"퉴":"xnpa"'
-bind '"퉵":"xnpq"'
-bind '"퉶":"xnpqt"'
-bind '"퉷":"xnpt"'
-bind '"퉸":"xnpT"'
-bind '"퉹":"xnpd"'
-bind '"퉺":"xnpw"'
-bind '"퉻":"xnpc"'
-bind '"퉼":"xnpz"'
-bind '"퉽":"xnpx"'
-bind '"퉾":"xnpv"'
-bind '"퉿":"xnpg"'
-bind '"튀":"xnl"'
-bind '"튁":"xnlr"'
-bind '"튂":"xnlR"'
-bind '"튃":"xnlrt"'
-bind '"튄":"xnls"'
-bind '"튅":"xnlsw"'
-bind '"튆":"xnlsg"'
-bind '"튇":"xnle"'
-bind '"튈":"xnlf"'
-bind '"튉":"xnlfr"'
-bind '"튊":"xnlfa"'
-bind '"튋":"xnlfq"'
-bind '"튌":"xnlft"'
-bind '"튍":"xnlfx"'
-bind '"튎":"xnlfv"'
-bind '"튏":"xnlfg"'
-bind '"튐":"xnla"'
-bind '"튑":"xnlq"'
-bind '"튒":"xnlqt"'
-bind '"튓":"xnlt"'
-bind '"튔":"xnlT"'
-bind '"튕":"xnld"'
-bind '"튖":"xnlw"'
-bind '"튗":"xnlc"'
-bind '"튘":"xnlz"'
-bind '"튙":"xnlx"'
-bind '"튚":"xnlv"'
-bind '"튛":"xnlg"'
-bind '"튜":"xb"'
-bind '"튝":"xbr"'
-bind '"튞":"xbR"'
-bind '"튟":"xbrt"'
-bind '"튠":"xbs"'
-bind '"튡":"xbsw"'
-bind '"튢":"xbsg"'
-bind '"튣":"xbe"'
-bind '"튤":"xbf"'
-bind '"튥":"xbfr"'
-bind '"튦":"xbfa"'
-bind '"튧":"xbfq"'
-bind '"튨":"xbft"'
-bind '"튩":"xbfx"'
-bind '"튪":"xbfv"'
-bind '"튫":"xbfg"'
-bind '"튬":"xba"'
-bind '"튭":"xbq"'
-bind '"튮":"xbqt"'
-bind '"튯":"xbt"'
-bind '"튰":"xbT"'
-bind '"튱":"xbd"'
-bind '"튲":"xbw"'
-bind '"튳":"xbc"'
-bind '"튴":"xbz"'
-bind '"튵":"xbx"'
-bind '"튶":"xbv"'
-bind '"튷":"xbg"'
-bind '"트":"xm"'
-bind '"특":"xmr"'
-bind '"튺":"xmR"'
-bind '"튻":"xmrt"'
-bind '"튼":"xms"'
-bind '"튽":"xmsw"'
-bind '"튾":"xmsg"'
-bind '"튿":"xme"'
-bind '"틀":"xmf"'
-bind '"틁":"xmfr"'
-bind '"틂":"xmfa"'
-bind '"틃":"xmfq"'
-bind '"틄":"xmft"'
-bind '"틅":"xmfx"'
-bind '"틆":"xmfv"'
-bind '"틇":"xmfg"'
-bind '"틈":"xma"'
-bind '"틉":"xmq"'
-bind '"틊":"xmqt"'
-bind '"틋":"xmt"'
-bind '"틌":"xmT"'
-bind '"틍":"xmd"'
-bind '"틎":"xmw"'
-bind '"틏":"xmc"'
-bind '"틐":"xmz"'
-bind '"틑":"xmx"'
-bind '"틒":"xmv"'
-bind '"틓":"xmg"'
-bind '"틔":"xml"'
-bind '"틕":"xmlr"'
-bind '"틖":"xmlR"'
-bind '"틗":"xmlrt"'
-bind '"틘":"xmls"'
-bind '"틙":"xmlsw"'
-bind '"틚":"xmlsg"'
-bind '"틛":"xmle"'
-bind '"틜":"xmlf"'
-bind '"틝":"xmlfr"'
-bind '"틞":"xmlfa"'
-bind '"틟":"xmlfq"'
-bind '"틠":"xmlft"'
-bind '"틡":"xmlfx"'
-bind '"틢":"xmlfv"'
-bind '"틣":"xmlfg"'
-bind '"틤":"xmla"'
-bind '"틥":"xmlq"'
-bind '"틦":"xmlqt"'
-bind '"틧":"xmlt"'
-bind '"틨":"xmlT"'
-bind '"틩":"xmld"'
-bind '"틪":"xmlw"'
-bind '"틫":"xmlc"'
-bind '"틬":"xmlz"'
-bind '"틭":"xmlx"'
-bind '"틮":"xmlv"'
-bind '"틯":"xmlg"'
-bind '"티":"xl"'
-bind '"틱":"xlr"'
-bind '"틲":"xlR"'
-bind '"틳":"xlrt"'
-bind '"틴":"xls"'
-bind '"틵":"xlsw"'
-bind '"틶":"xlsg"'
-bind '"틷":"xle"'
-bind '"틸":"xlf"'
-bind '"틹":"xlfr"'
-bind '"틺":"xlfa"'
-bind '"틻":"xlfq"'
-bind '"틼":"xlft"'
-bind '"틽":"xlfx"'
-bind '"틾":"xlfv"'
-bind '"틿":"xlfg"'
-bind '"팀":"xla"'
-bind '"팁":"xlq"'
-bind '"팂":"xlqt"'
-bind '"팃":"xlt"'
-bind '"팄":"xlT"'
-bind '"팅":"xld"'
-bind '"팆":"xlw"'
-bind '"팇":"xlc"'
-bind '"팈":"xlz"'
-bind '"팉":"xlx"'
-bind '"팊":"xlv"'
-bind '"팋":"xlg"'
-bind '"파":"vk"'
-bind '"팍":"vkr"'
-bind '"팎":"vkR"'
-bind '"팏":"vkrt"'
-bind '"판":"vks"'
-bind '"팑":"vksw"'
-bind '"팒":"vksg"'
-bind '"팓":"vke"'
-bind '"팔":"vkf"'
-bind '"팕":"vkfr"'
-bind '"팖":"vkfa"'
-bind '"팗":"vkfq"'
-bind '"팘":"vkft"'
-bind '"팙":"vkfx"'
-bind '"팚":"vkfv"'
-bind '"팛":"vkfg"'
-bind '"팜":"vka"'
-bind '"팝":"vkq"'
-bind '"팞":"vkqt"'
-bind '"팟":"vkt"'
-bind '"팠":"vkT"'
-bind '"팡":"vkd"'
-bind '"팢":"vkw"'
-bind '"팣":"vkc"'
-bind '"팤":"vkz"'
-bind '"팥":"vkx"'
-bind '"팦":"vkv"'
-bind '"팧":"vkg"'
-bind '"패":"vo"'
-bind '"팩":"vor"'
-bind '"팪":"voR"'
-bind '"팫":"vort"'
-bind '"팬":"vos"'
-bind '"팭":"vosw"'
-bind '"팮":"vosg"'
-bind '"팯":"voe"'
-bind '"팰":"vof"'
-bind '"팱":"vofr"'
-bind '"팲":"vofa"'
-bind '"팳":"vofq"'
-bind '"팴":"voft"'
-bind '"팵":"vofx"'
-bind '"팶":"vofv"'
-bind '"팷":"vofg"'
-bind '"팸":"voa"'
-bind '"팹":"voq"'
-bind '"팺":"voqt"'
-bind '"팻":"vot"'
-bind '"팼":"voT"'
-bind '"팽":"vod"'
-bind '"팾":"vow"'
-bind '"팿":"voc"'
-bind '"퍀":"voz"'
-bind '"퍁":"vox"'
-bind '"퍂":"vov"'
-bind '"퍃":"vog"'
-bind '"퍄":"vi"'
-bind '"퍅":"vir"'
-bind '"퍆":"viR"'
-bind '"퍇":"virt"'
-bind '"퍈":"vis"'
-bind '"퍉":"visw"'
-bind '"퍊":"visg"'
-bind '"퍋":"vie"'
-bind '"퍌":"vif"'
-bind '"퍍":"vifr"'
-bind '"퍎":"vifa"'
-bind '"퍏":"vifq"'
-bind '"퍐":"vift"'
-bind '"퍑":"vifx"'
-bind '"퍒":"vifv"'
-bind '"퍓":"vifg"'
-bind '"퍔":"via"'
-bind '"퍕":"viq"'
-bind '"퍖":"viqt"'
-bind '"퍗":"vit"'
-bind '"퍘":"viT"'
-bind '"퍙":"vid"'
-bind '"퍚":"viw"'
-bind '"퍛":"vic"'
-bind '"퍜":"viz"'
-bind '"퍝":"vix"'
-bind '"퍞":"viv"'
-bind '"퍟":"vig"'
-bind '"퍠":"vO"'
-bind '"퍡":"vOr"'
-bind '"퍢":"vOR"'
-bind '"퍣":"vOrt"'
-bind '"퍤":"vOs"'
-bind '"퍥":"vOsw"'
-bind '"퍦":"vOsg"'
-bind '"퍧":"vOe"'
-bind '"퍨":"vOf"'
-bind '"퍩":"vOfr"'
-bind '"퍪":"vOfa"'
-bind '"퍫":"vOfq"'
-bind '"퍬":"vOft"'
-bind '"퍭":"vOfx"'
-bind '"퍮":"vOfv"'
-bind '"퍯":"vOfg"'
-bind '"퍰":"vOa"'
-bind '"퍱":"vOq"'
-bind '"퍲":"vOqt"'
-bind '"퍳":"vOt"'
-bind '"퍴":"vOT"'
-bind '"퍵":"vOd"'
-bind '"퍶":"vOw"'
-bind '"퍷":"vOc"'
-bind '"퍸":"vOz"'
-bind '"퍹":"vOx"'
-bind '"퍺":"vOv"'
-bind '"퍻":"vOg"'
-bind '"퍼":"vj"'
-bind '"퍽":"vjr"'
-bind '"퍾":"vjR"'
-bind '"퍿":"vjrt"'
-bind '"펀":"vjs"'
-bind '"펁":"vjsw"'
-bind '"펂":"vjsg"'
-bind '"펃":"vje"'
-bind '"펄":"vjf"'
-bind '"펅":"vjfr"'
-bind '"펆":"vjfa"'
-bind '"펇":"vjfq"'
-bind '"펈":"vjft"'
-bind '"펉":"vjfx"'
-bind '"펊":"vjfv"'
-bind '"펋":"vjfg"'
-bind '"펌":"vja"'
-bind '"펍":"vjq"'
-bind '"펎":"vjqt"'
-bind '"펏":"vjt"'
-bind '"펐":"vjT"'
-bind '"펑":"vjd"'
-bind '"펒":"vjw"'
-bind '"펓":"vjc"'
-bind '"펔":"vjz"'
-bind '"펕":"vjx"'
-bind '"펖":"vjv"'
-bind '"펗":"vjg"'
-bind '"페":"vp"'
-bind '"펙":"vpr"'
-bind '"펚":"vpR"'
-bind '"펛":"vprt"'
-bind '"펜":"vps"'
-bind '"펝":"vpsw"'
-bind '"펞":"vpsg"'
-bind '"펟":"vpe"'
-bind '"펠":"vpf"'
-bind '"펡":"vpfr"'
-bind '"펢":"vpfa"'
-bind '"펣":"vpfq"'
-bind '"펤":"vpft"'
-bind '"펥":"vpfx"'
-bind '"펦":"vpfv"'
-bind '"펧":"vpfg"'
-bind '"펨":"vpa"'
-bind '"펩":"vpq"'
-bind '"펪":"vpqt"'
-bind '"펫":"vpt"'
-bind '"펬":"vpT"'
-bind '"펭":"vpd"'
-bind '"펮":"vpw"'
-bind '"펯":"vpc"'
-bind '"펰":"vpz"'
-bind '"펱":"vpx"'
-bind '"펲":"vpv"'
-bind '"펳":"vpg"'
-bind '"펴":"vu"'
-bind '"펵":"vur"'
-bind '"펶":"vuR"'
-bind '"펷":"vurt"'
-bind '"편":"vus"'
-bind '"펹":"vusw"'
-bind '"펺":"vusg"'
-bind '"펻":"vue"'
-bind '"펼":"vuf"'
-bind '"펽":"vufr"'
-bind '"펾":"vufa"'
-bind '"펿":"vufq"'
-bind '"폀":"vuft"'
-bind '"폁":"vufx"'
-bind '"폂":"vufv"'
-bind '"폃":"vufg"'
-bind '"폄":"vua"'
-bind '"폅":"vuq"'
-bind '"폆":"vuqt"'
-bind '"폇":"vut"'
-bind '"폈":"vuT"'
-bind '"평":"vud"'
-bind '"폊":"vuw"'
-bind '"폋":"vuc"'
-bind '"폌":"vuz"'
-bind '"폍":"vux"'
-bind '"폎":"vuv"'
-bind '"폏":"vug"'
-bind '"폐":"vP"'
-bind '"폑":"vPr"'
-bind '"폒":"vPR"'
-bind '"폓":"vPrt"'
-bind '"폔":"vPs"'
-bind '"폕":"vPsw"'
-bind '"폖":"vPsg"'
-bind '"폗":"vPe"'
-bind '"폘":"vPf"'
-bind '"폙":"vPfr"'
-bind '"폚":"vPfa"'
-bind '"폛":"vPfq"'
-bind '"폜":"vPft"'
-bind '"폝":"vPfx"'
-bind '"폞":"vPfv"'
-bind '"폟":"vPfg"'
-bind '"폠":"vPa"'
-bind '"폡":"vPq"'
-bind '"폢":"vPqt"'
-bind '"폣":"vPt"'
-bind '"폤":"vPT"'
-bind '"폥":"vPd"'
-bind '"폦":"vPw"'
-bind '"폧":"vPc"'
-bind '"폨":"vPz"'
-bind '"폩":"vPx"'
-bind '"폪":"vPv"'
-bind '"폫":"vPg"'
-bind '"포":"vh"'
-bind '"폭":"vhr"'
-bind '"폮":"vhR"'
-bind '"폯":"vhrt"'
-bind '"폰":"vhs"'
-bind '"폱":"vhsw"'
-bind '"폲":"vhsg"'
-bind '"폳":"vhe"'
-bind '"폴":"vhf"'
-bind '"폵":"vhfr"'
-bind '"폶":"vhfa"'
-bind '"폷":"vhfq"'
-bind '"폸":"vhft"'
-bind '"폹":"vhfx"'
-bind '"폺":"vhfv"'
-bind '"폻":"vhfg"'
-bind '"폼":"vha"'
-bind '"폽":"vhq"'
-bind '"폾":"vhqt"'
-bind '"폿":"vht"'
-bind '"퐀":"vhT"'
-bind '"퐁":"vhd"'
-bind '"퐂":"vhw"'
-bind '"퐃":"vhc"'
-bind '"퐄":"vhz"'
-bind '"퐅":"vhx"'
-bind '"퐆":"vhv"'
-bind '"퐇":"vhg"'
-bind '"퐈":"vhk"'
-bind '"퐉":"vhkr"'
-bind '"퐊":"vhkR"'
-bind '"퐋":"vhkrt"'
-bind '"퐌":"vhks"'
-bind '"퐍":"vhksw"'
-bind '"퐎":"vhksg"'
-bind '"퐏":"vhke"'
-bind '"퐐":"vhkf"'
-bind '"퐑":"vhkfr"'
-bind '"퐒":"vhkfa"'
-bind '"퐓":"vhkfq"'
-bind '"퐔":"vhkft"'
-bind '"퐕":"vhkfx"'
-bind '"퐖":"vhkfv"'
-bind '"퐗":"vhkfg"'
-bind '"퐘":"vhka"'
-bind '"퐙":"vhkq"'
-bind '"퐚":"vhkqt"'
-bind '"퐛":"vhkt"'
-bind '"퐜":"vhkT"'
-bind '"퐝":"vhkd"'
-bind '"퐞":"vhkw"'
-bind '"퐟":"vhkc"'
-bind '"퐠":"vhkz"'
-bind '"퐡":"vhkx"'
-bind '"퐢":"vhkv"'
-bind '"퐣":"vhkg"'
-bind '"퐤":"vho"'
-bind '"퐥":"vhor"'
-bind '"퐦":"vhoR"'
-bind '"퐧":"vhort"'
-bind '"퐨":"vhos"'
-bind '"퐩":"vhosw"'
-bind '"퐪":"vhosg"'
-bind '"퐫":"vhoe"'
-bind '"퐬":"vhof"'
-bind '"퐭":"vhofr"'
-bind '"퐮":"vhofa"'
-bind '"퐯":"vhofq"'
-bind '"퐰":"vhoft"'
-bind '"퐱":"vhofx"'
-bind '"퐲":"vhofv"'
-bind '"퐳":"vhofg"'
-bind '"퐴":"vhoa"'
-bind '"퐵":"vhoq"'
-bind '"퐶":"vhoqt"'
-bind '"퐷":"vhot"'
-bind '"퐸":"vhoT"'
-bind '"퐹":"vhod"'
-bind '"퐺":"vhow"'
-bind '"퐻":"vhoc"'
-bind '"퐼":"vhoz"'
-bind '"퐽":"vhox"'
-bind '"퐾":"vhov"'
-bind '"퐿":"vhog"'
-bind '"푀":"vhl"'
-bind '"푁":"vhlr"'
-bind '"푂":"vhlR"'
-bind '"푃":"vhlrt"'
-bind '"푄":"vhls"'
-bind '"푅":"vhlsw"'
-bind '"푆":"vhlsg"'
-bind '"푇":"vhle"'
-bind '"푈":"vhlf"'
-bind '"푉":"vhlfr"'
-bind '"푊":"vhlfa"'
-bind '"푋":"vhlfq"'
-bind '"푌":"vhlft"'
-bind '"푍":"vhlfx"'
-bind '"푎":"vhlfv"'
-bind '"푏":"vhlfg"'
-bind '"푐":"vhla"'
-bind '"푑":"vhlq"'
-bind '"푒":"vhlqt"'
-bind '"푓":"vhlt"'
-bind '"푔":"vhlT"'
-bind '"푕":"vhld"'
-bind '"푖":"vhlw"'
-bind '"푗":"vhlc"'
-bind '"푘":"vhlz"'
-bind '"푙":"vhlx"'
-bind '"푚":"vhlv"'
-bind '"푛":"vhlg"'
-bind '"표":"vy"'
-bind '"푝":"vyr"'
-bind '"푞":"vyR"'
-bind '"푟":"vyrt"'
-bind '"푠":"vys"'
-bind '"푡":"vysw"'
-bind '"푢":"vysg"'
-bind '"푣":"vye"'
-bind '"푤":"vyf"'
-bind '"푥":"vyfr"'
-bind '"푦":"vyfa"'
-bind '"푧":"vyfq"'
-bind '"푨":"vyft"'
-bind '"푩":"vyfx"'
-bind '"푪":"vyfv"'
-bind '"푫":"vyfg"'
-bind '"푬":"vya"'
-bind '"푭":"vyq"'
-bind '"푮":"vyqt"'
-bind '"푯":"vyt"'
-bind '"푰":"vyT"'
-bind '"푱":"vyd"'
-bind '"푲":"vyw"'
-bind '"푳":"vyc"'
-bind '"푴":"vyz"'
-bind '"푵":"vyx"'
-bind '"푶":"vyv"'
-bind '"푷":"vyg"'
-bind '"푸":"vn"'
-bind '"푹":"vnr"'
-bind '"푺":"vnR"'
-bind '"푻":"vnrt"'
-bind '"푼":"vns"'
-bind '"푽":"vnsw"'
-bind '"푾":"vnsg"'
-bind '"푿":"vne"'
-bind '"풀":"vnf"'
-bind '"풁":"vnfr"'
-bind '"풂":"vnfa"'
-bind '"풃":"vnfq"'
-bind '"풄":"vnft"'
-bind '"풅":"vnfx"'
-bind '"풆":"vnfv"'
-bind '"풇":"vnfg"'
-bind '"품":"vna"'
-bind '"풉":"vnq"'
-bind '"풊":"vnqt"'
-bind '"풋":"vnt"'
-bind '"풌":"vnT"'
-bind '"풍":"vnd"'
-bind '"풎":"vnw"'
-bind '"풏":"vnc"'
-bind '"풐":"vnz"'
-bind '"풑":"vnx"'
-bind '"풒":"vnv"'
-bind '"풓":"vng"'
-bind '"풔":"vnj"'
-bind '"풕":"vnjr"'
-bind '"풖":"vnjR"'
-bind '"풗":"vnjrt"'
-bind '"풘":"vnjs"'
-bind '"풙":"vnjsw"'
-bind '"풚":"vnjsg"'
-bind '"풛":"vnje"'
-bind '"풜":"vnjf"'
-bind '"풝":"vnjfr"'
-bind '"풞":"vnjfa"'
-bind '"풟":"vnjfq"'
-bind '"풠":"vnjft"'
-bind '"풡":"vnjfx"'
-bind '"풢":"vnjfv"'
-bind '"풣":"vnjfg"'
-bind '"풤":"vnja"'
-bind '"풥":"vnjq"'
-bind '"풦":"vnjqt"'
-bind '"풧":"vnjt"'
-bind '"풨":"vnjT"'
-bind '"풩":"vnjd"'
-bind '"풪":"vnjw"'
-bind '"풫":"vnjc"'
-bind '"풬":"vnjz"'
-bind '"풭":"vnjx"'
-bind '"풮":"vnjv"'
-bind '"풯":"vnjg"'
-bind '"풰":"vnp"'
-bind '"풱":"vnpr"'
-bind '"풲":"vnpR"'
-bind '"풳":"vnprt"'
-bind '"풴":"vnps"'
-bind '"풵":"vnpsw"'
-bind '"풶":"vnpsg"'
-bind '"풷":"vnpe"'
-bind '"풸":"vnpf"'
-bind '"풹":"vnpfr"'
-bind '"풺":"vnpfa"'
-bind '"풻":"vnpfq"'
-bind '"풼":"vnpft"'
-bind '"풽":"vnpfx"'
-bind '"풾":"vnpfv"'
-bind '"풿":"vnpfg"'
-bind '"퓀":"vnpa"'
-bind '"퓁":"vnpq"'
-bind '"퓂":"vnpqt"'
-bind '"퓃":"vnpt"'
-bind '"퓄":"vnpT"'
-bind '"퓅":"vnpd"'
-bind '"퓆":"vnpw"'
-bind '"퓇":"vnpc"'
-bind '"퓈":"vnpz"'
-bind '"퓉":"vnpx"'
-bind '"퓊":"vnpv"'
-bind '"퓋":"vnpg"'
-bind '"퓌":"vnl"'
-bind '"퓍":"vnlr"'
-bind '"퓎":"vnlR"'
-bind '"퓏":"vnlrt"'
-bind '"퓐":"vnls"'
-bind '"퓑":"vnlsw"'
-bind '"퓒":"vnlsg"'
-bind '"퓓":"vnle"'
-bind '"퓔":"vnlf"'
-bind '"퓕":"vnlfr"'
-bind '"퓖":"vnlfa"'
-bind '"퓗":"vnlfq"'
-bind '"퓘":"vnlft"'
-bind '"퓙":"vnlfx"'
-bind '"퓚":"vnlfv"'
-bind '"퓛":"vnlfg"'
-bind '"퓜":"vnla"'
-bind '"퓝":"vnlq"'
-bind '"퓞":"vnlqt"'
-bind '"퓟":"vnlt"'
-bind '"퓠":"vnlT"'
-bind '"퓡":"vnld"'
-bind '"퓢":"vnlw"'
-bind '"퓣":"vnlc"'
-bind '"퓤":"vnlz"'
-bind '"퓥":"vnlx"'
-bind '"퓦":"vnlv"'
-bind '"퓧":"vnlg"'
-bind '"퓨":"vb"'
-bind '"퓩":"vbr"'
-bind '"퓪":"vbR"'
-bind '"퓫":"vbrt"'
-bind '"퓬":"vbs"'
-bind '"퓭":"vbsw"'
-bind '"퓮":"vbsg"'
-bind '"퓯":"vbe"'
-bind '"퓰":"vbf"'
-bind '"퓱":"vbfr"'
-bind '"퓲":"vbfa"'
-bind '"퓳":"vbfq"'
-bind '"퓴":"vbft"'
-bind '"퓵":"vbfx"'
-bind '"퓶":"vbfv"'
-bind '"퓷":"vbfg"'
-bind '"퓸":"vba"'
-bind '"퓹":"vbq"'
-bind '"퓺":"vbqt"'
-bind '"퓻":"vbt"'
-bind '"퓼":"vbT"'
-bind '"퓽":"vbd"'
-bind '"퓾":"vbw"'
-bind '"퓿":"vbc"'
-bind '"픀":"vbz"'
-bind '"픁":"vbx"'
-bind '"픂":"vbv"'
-bind '"픃":"vbg"'
-bind '"프":"vm"'
-bind '"픅":"vmr"'
-bind '"픆":"vmR"'
-bind '"픇":"vmrt"'
-bind '"픈":"vms"'
-bind '"픉":"vmsw"'
-bind '"픊":"vmsg"'
-bind '"픋":"vme"'
-bind '"플":"vmf"'
-bind '"픍":"vmfr"'
-bind '"픎":"vmfa"'
-bind '"픏":"vmfq"'
-bind '"픐":"vmft"'
-bind '"픑":"vmfx"'
-bind '"픒":"vmfv"'
-bind '"픓":"vmfg"'
-bind '"픔":"vma"'
-bind '"픕":"vmq"'
-bind '"픖":"vmqt"'
-bind '"픗":"vmt"'
-bind '"픘":"vmT"'
-bind '"픙":"vmd"'
-bind '"픚":"vmw"'
-bind '"픛":"vmc"'
-bind '"픜":"vmz"'
-bind '"픝":"vmx"'
-bind '"픞":"vmv"'
-bind '"픟":"vmg"'
-bind '"픠":"vml"'
-bind '"픡":"vmlr"'
-bind '"픢":"vmlR"'
-bind '"픣":"vmlrt"'
-bind '"픤":"vmls"'
-bind '"픥":"vmlsw"'
-bind '"픦":"vmlsg"'
-bind '"픧":"vmle"'
-bind '"픨":"vmlf"'
-bind '"픩":"vmlfr"'
-bind '"픪":"vmlfa"'
-bind '"픫":"vmlfq"'
-bind '"픬":"vmlft"'
-bind '"픭":"vmlfx"'
-bind '"픮":"vmlfv"'
-bind '"픯":"vmlfg"'
-bind '"픰":"vmla"'
-bind '"픱":"vmlq"'
-bind '"픲":"vmlqt"'
-bind '"픳":"vmlt"'
-bind '"픴":"vmlT"'
-bind '"픵":"vmld"'
-bind '"픶":"vmlw"'
-bind '"픷":"vmlc"'
-bind '"픸":"vmlz"'
-bind '"픹":"vmlx"'
-bind '"픺":"vmlv"'
-bind '"픻":"vmlg"'
-bind '"피":"vl"'
-bind '"픽":"vlr"'
-bind '"픾":"vlR"'
-bind '"픿":"vlrt"'
-bind '"핀":"vls"'
-bind '"핁":"vlsw"'
-bind '"핂":"vlsg"'
-bind '"핃":"vle"'
-bind '"필":"vlf"'
-bind '"핅":"vlfr"'
-bind '"핆":"vlfa"'
-bind '"핇":"vlfq"'
-bind '"핈":"vlft"'
-bind '"핉":"vlfx"'
-bind '"핊":"vlfv"'
-bind '"핋":"vlfg"'
-bind '"핌":"vla"'
-bind '"핍":"vlq"'
-bind '"핎":"vlqt"'
-bind '"핏":"vlt"'
-bind '"핐":"vlT"'
-bind '"핑":"vld"'
-bind '"핒":"vlw"'
-bind '"핓":"vlc"'
-bind '"핔":"vlz"'
-bind '"핕":"vlx"'
-bind '"핖":"vlv"'
-bind '"핗":"vlg"'
-bind '"하":"gk"'
-bind '"학":"gkr"'
-bind '"핚":"gkR"'
-bind '"핛":"gkrt"'
-bind '"한":"gks"'
-bind '"핝":"gksw"'
-bind '"핞":"gksg"'
-bind '"핟":"gke"'
-bind '"할":"gkf"'
-bind '"핡":"gkfr"'
-bind '"핢":"gkfa"'
-bind '"핣":"gkfq"'
-bind '"핤":"gkft"'
-bind '"핥":"gkfx"'
-bind '"핦":"gkfv"'
-bind '"핧":"gkfg"'
-bind '"함":"gka"'
-bind '"합":"gkq"'
-bind '"핪":"gkqt"'
-bind '"핫":"gkt"'
-bind '"핬":"gkT"'
-bind '"항":"gkd"'
-bind '"핮":"gkw"'
-bind '"핯":"gkc"'
-bind '"핰":"gkz"'
-bind '"핱":"gkx"'
-bind '"핲":"gkv"'
-bind '"핳":"gkg"'
-bind '"해":"go"'
-bind '"핵":"gor"'
-bind '"핶":"goR"'
-bind '"핷":"gort"'
-bind '"핸":"gos"'
-bind '"핹":"gosw"'
-bind '"핺":"gosg"'
-bind '"핻":"goe"'
-bind '"핼":"gof"'
-bind '"핽":"gofr"'
-bind '"핾":"gofa"'
-bind '"핿":"gofq"'
-bind '"햀":"goft"'
-bind '"햁":"gofx"'
-bind '"햂":"gofv"'
-bind '"햃":"gofg"'
-bind '"햄":"goa"'
-bind '"햅":"goq"'
-bind '"햆":"goqt"'
-bind '"햇":"got"'
-bind '"했":"goT"'
-bind '"행":"god"'
-bind '"햊":"gow"'
-bind '"햋":"goc"'
-bind '"햌":"goz"'
-bind '"햍":"gox"'
-bind '"햎":"gov"'
-bind '"햏":"gog"'
-bind '"햐":"gi"'
-bind '"햑":"gir"'
-bind '"햒":"giR"'
-bind '"햓":"girt"'
-bind '"햔":"gis"'
-bind '"햕":"gisw"'
-bind '"햖":"gisg"'
-bind '"햗":"gie"'
-bind '"햘":"gif"'
-bind '"햙":"gifr"'
-bind '"햚":"gifa"'
-bind '"햛":"gifq"'
-bind '"햜":"gift"'
-bind '"햝":"gifx"'
-bind '"햞":"gifv"'
-bind '"햟":"gifg"'
-bind '"햠":"gia"'
-bind '"햡":"giq"'
-bind '"햢":"giqt"'
-bind '"햣":"git"'
-bind '"햤":"giT"'
-bind '"향":"gid"'
-bind '"햦":"giw"'
-bind '"햧":"gic"'
-bind '"햨":"giz"'
-bind '"햩":"gix"'
-bind '"햪":"giv"'
-bind '"햫":"gig"'
-bind '"햬":"gO"'
-bind '"햭":"gOr"'
-bind '"햮":"gOR"'
-bind '"햯":"gOrt"'
-bind '"햰":"gOs"'
-bind '"햱":"gOsw"'
-bind '"햲":"gOsg"'
-bind '"햳":"gOe"'
-bind '"햴":"gOf"'
-bind '"햵":"gOfr"'
-bind '"햶":"gOfa"'
-bind '"햷":"gOfq"'
-bind '"햸":"gOft"'
-bind '"햹":"gOfx"'
-bind '"햺":"gOfv"'
-bind '"햻":"gOfg"'
-bind '"햼":"gOa"'
-bind '"햽":"gOq"'
-bind '"햾":"gOqt"'
-bind '"햿":"gOt"'
-bind '"헀":"gOT"'
-bind '"헁":"gOd"'
-bind '"헂":"gOw"'
-bind '"헃":"gOc"'
-bind '"헄":"gOz"'
-bind '"헅":"gOx"'
-bind '"헆":"gOv"'
-bind '"헇":"gOg"'
-bind '"허":"gj"'
-bind '"헉":"gjr"'
-bind '"헊":"gjR"'
-bind '"헋":"gjrt"'
-bind '"헌":"gjs"'
-bind '"헍":"gjsw"'
-bind '"헎":"gjsg"'
-bind '"헏":"gje"'
-bind '"헐":"gjf"'
-bind '"헑":"gjfr"'
-bind '"헒":"gjfa"'
-bind '"헓":"gjfq"'
-bind '"헔":"gjft"'
-bind '"헕":"gjfx"'
-bind '"헖":"gjfv"'
-bind '"헗":"gjfg"'
-bind '"험":"gja"'
-bind '"헙":"gjq"'
-bind '"헚":"gjqt"'
-bind '"헛":"gjt"'
-bind '"헜":"gjT"'
-bind '"헝":"gjd"'
-bind '"헞":"gjw"'
-bind '"헟":"gjc"'
-bind '"헠":"gjz"'
-bind '"헡":"gjx"'
-bind '"헢":"gjv"'
-bind '"헣":"gjg"'
-bind '"헤":"gp"'
-bind '"헥":"gpr"'
-bind '"헦":"gpR"'
-bind '"헧":"gprt"'
-bind '"헨":"gps"'
-bind '"헩":"gpsw"'
-bind '"헪":"gpsg"'
-bind '"헫":"gpe"'
-bind '"헬":"gpf"'
-bind '"헭":"gpfr"'
-bind '"헮":"gpfa"'
-bind '"헯":"gpfq"'
-bind '"헰":"gpft"'
-bind '"헱":"gpfx"'
-bind '"헲":"gpfv"'
-bind '"헳":"gpfg"'
-bind '"헴":"gpa"'
-bind '"헵":"gpq"'
-bind '"헶":"gpqt"'
-bind '"헷":"gpt"'
-bind '"헸":"gpT"'
-bind '"헹":"gpd"'
-bind '"헺":"gpw"'
-bind '"헻":"gpc"'
-bind '"헼":"gpz"'
-bind '"헽":"gpx"'
-bind '"헾":"gpv"'
-bind '"헿":"gpg"'
-bind '"혀":"gu"'
-bind '"혁":"gur"'
-bind '"혂":"guR"'
-bind '"혃":"gurt"'
-bind '"현":"gus"'
-bind '"혅":"gusw"'
-bind '"혆":"gusg"'
-bind '"혇":"gue"'
-bind '"혈":"guf"'
-bind '"혉":"gufr"'
-bind '"혊":"gufa"'
-bind '"혋":"gufq"'
-bind '"혌":"guft"'
-bind '"혍":"gufx"'
-bind '"혎":"gufv"'
-bind '"혏":"gufg"'
-bind '"혐":"gua"'
-bind '"협":"guq"'
-bind '"혒":"guqt"'
-bind '"혓":"gut"'
-bind '"혔":"guT"'
-bind '"형":"gud"'
-bind '"혖":"guw"'
-bind '"혗":"guc"'
-bind '"혘":"guz"'
-bind '"혙":"gux"'
-bind '"혚":"guv"'
-bind '"혛":"gug"'
-bind '"혜":"gP"'
-bind '"혝":"gPr"'
-bind '"혞":"gPR"'
-bind '"혟":"gPrt"'
-bind '"혠":"gPs"'
-bind '"혡":"gPsw"'
-bind '"혢":"gPsg"'
-bind '"혣":"gPe"'
-bind '"혤":"gPf"'
-bind '"혥":"gPfr"'
-bind '"혦":"gPfa"'
-bind '"혧":"gPfq"'
-bind '"혨":"gPft"'
-bind '"혩":"gPfx"'
-bind '"혪":"gPfv"'
-bind '"혫":"gPfg"'
-bind '"혬":"gPa"'
-bind '"혭":"gPq"'
-bind '"혮":"gPqt"'
-bind '"혯":"gPt"'
-bind '"혰":"gPT"'
-bind '"혱":"gPd"'
-bind '"혲":"gPw"'
-bind '"혳":"gPc"'
-bind '"혴":"gPz"'
-bind '"혵":"gPx"'
-bind '"혶":"gPv"'
-bind '"혷":"gPg"'
-bind '"호":"gh"'
-bind '"혹":"ghr"'
-bind '"혺":"ghR"'
-bind '"혻":"ghrt"'
-bind '"혼":"ghs"'
-bind '"혽":"ghsw"'
-bind '"혾":"ghsg"'
-bind '"혿":"ghe"'
-bind '"홀":"ghf"'
-bind '"홁":"ghfr"'
-bind '"홂":"ghfa"'
-bind '"홃":"ghfq"'
-bind '"홄":"ghft"'
-bind '"홅":"ghfx"'
-bind '"홆":"ghfv"'
-bind '"홇":"ghfg"'
-bind '"홈":"gha"'
-bind '"홉":"ghq"'
-bind '"홊":"ghqt"'
-bind '"홋":"ght"'
-bind '"홌":"ghT"'
-bind '"홍":"ghd"'
-bind '"홎":"ghw"'
-bind '"홏":"ghc"'
-bind '"홐":"ghz"'
-bind '"홑":"ghx"'
-bind '"홒":"ghv"'
-bind '"홓":"ghg"'
-bind '"화":"ghk"'
-bind '"확":"ghkr"'
-bind '"홖":"ghkR"'
-bind '"홗":"ghkrt"'
-bind '"환":"ghks"'
-bind '"홙":"ghksw"'
-bind '"홚":"ghksg"'
-bind '"홛":"ghke"'
-bind '"활":"ghkf"'
-bind '"홝":"ghkfr"'
-bind '"홞":"ghkfa"'
-bind '"홟":"ghkfq"'
-bind '"홠":"ghkft"'
-bind '"홡":"ghkfx"'
-bind '"홢":"ghkfv"'
-bind '"홣":"ghkfg"'
-bind '"홤":"ghka"'
-bind '"홥":"ghkq"'
-bind '"홦":"ghkqt"'
-bind '"홧":"ghkt"'
-bind '"홨":"ghkT"'
-bind '"황":"ghkd"'
-bind '"홪":"ghkw"'
-bind '"홫":"ghkc"'
-bind '"홬":"ghkz"'
-bind '"홭":"ghkx"'
-bind '"홮":"ghkv"'
-bind '"홯":"ghkg"'
-bind '"홰":"gho"'
-bind '"홱":"ghor"'
-bind '"홲":"ghoR"'
-bind '"홳":"ghort"'
-bind '"홴":"ghos"'
-bind '"홵":"ghosw"'
-bind '"홶":"ghosg"'
-bind '"홷":"ghoe"'
-bind '"홸":"ghof"'
-bind '"홹":"ghofr"'
-bind '"홺":"ghofa"'
-bind '"홻":"ghofq"'
-bind '"홼":"ghoft"'
-bind '"홽":"ghofx"'
-bind '"홾":"ghofv"'
-bind '"홿":"ghofg"'
-bind '"횀":"ghoa"'
-bind '"횁":"ghoq"'
-bind '"횂":"ghoqt"'
-bind '"횃":"ghot"'
-bind '"횄":"ghoT"'
-bind '"횅":"ghod"'
-bind '"횆":"ghow"'
-bind '"횇":"ghoc"'
-bind '"횈":"ghoz"'
-bind '"횉":"ghox"'
-bind '"횊":"ghov"'
-bind '"횋":"ghog"'
-bind '"회":"ghl"'
-bind '"획":"ghlr"'
-bind '"횎":"ghlR"'
-bind '"횏":"ghlrt"'
-bind '"횐":"ghls"'
-bind '"횑":"ghlsw"'
-bind '"횒":"ghlsg"'
-bind '"횓":"ghle"'
-bind '"횔":"ghlf"'
-bind '"횕":"ghlfr"'
-bind '"횖":"ghlfa"'
-bind '"횗":"ghlfq"'
-bind '"횘":"ghlft"'
-bind '"횙":"ghlfx"'
-bind '"횚":"ghlfv"'
-bind '"횛":"ghlfg"'
-bind '"횜":"ghla"'
-bind '"횝":"ghlq"'
-bind '"횞":"ghlqt"'
-bind '"횟":"ghlt"'
-bind '"횠":"ghlT"'
-bind '"횡":"ghld"'
-bind '"횢":"ghlw"'
-bind '"횣":"ghlc"'
-bind '"횤":"ghlz"'
-bind '"횥":"ghlx"'
-bind '"횦":"ghlv"'
-bind '"횧":"ghlg"'
-bind '"효":"gy"'
-bind '"횩":"gyr"'
-bind '"횪":"gyR"'
-bind '"횫":"gyrt"'
-bind '"횬":"gys"'
-bind '"횭":"gysw"'
-bind '"횮":"gysg"'
-bind '"횯":"gye"'
-bind '"횰":"gyf"'
-bind '"횱":"gyfr"'
-bind '"횲":"gyfa"'
-bind '"횳":"gyfq"'
-bind '"횴":"gyft"'
-bind '"횵":"gyfx"'
-bind '"횶":"gyfv"'
-bind '"횷":"gyfg"'
-bind '"횸":"gya"'
-bind '"횹":"gyq"'
-bind '"횺":"gyqt"'
-bind '"횻":"gyt"'
-bind '"횼":"gyT"'
-bind '"횽":"gyd"'
-bind '"횾":"gyw"'
-bind '"횿":"gyc"'
-bind '"훀":"gyz"'
-bind '"훁":"gyx"'
-bind '"훂":"gyv"'
-bind '"훃":"gyg"'
-bind '"후":"gn"'
-bind '"훅":"gnr"'
-bind '"훆":"gnR"'
-bind '"훇":"gnrt"'
-bind '"훈":"gns"'
-bind '"훉":"gnsw"'
-bind '"훊":"gnsg"'
-bind '"훋":"gne"'
-bind '"훌":"gnf"'
-bind '"훍":"gnfr"'
-bind '"훎":"gnfa"'
-bind '"훏":"gnfq"'
-bind '"훐":"gnft"'
-bind '"훑":"gnfx"'
-bind '"훒":"gnfv"'
-bind '"훓":"gnfg"'
-bind '"훔":"gna"'
-bind '"훕":"gnq"'
-bind '"훖":"gnqt"'
-bind '"훗":"gnt"'
-bind '"훘":"gnT"'
-bind '"훙":"gnd"'
-bind '"훚":"gnw"'
-bind '"훛":"gnc"'
-bind '"훜":"gnz"'
-bind '"훝":"gnx"'
-bind '"훞":"gnv"'
-bind '"훟":"gng"'
-bind '"훠":"gnj"'
-bind '"훡":"gnjr"'
-bind '"훢":"gnjR"'
-bind '"훣":"gnjrt"'
-bind '"훤":"gnjs"'
-bind '"훥":"gnjsw"'
-bind '"훦":"gnjsg"'
-bind '"훧":"gnje"'
-bind '"훨":"gnjf"'
-bind '"훩":"gnjfr"'
-bind '"훪":"gnjfa"'
-bind '"훫":"gnjfq"'
-bind '"훬":"gnjft"'
-bind '"훭":"gnjfx"'
-bind '"훮":"gnjfv"'
-bind '"훯":"gnjfg"'
-bind '"훰":"gnja"'
-bind '"훱":"gnjq"'
-bind '"훲":"gnjqt"'
-bind '"훳":"gnjt"'
-bind '"훴":"gnjT"'
-bind '"훵":"gnjd"'
-bind '"훶":"gnjw"'
-bind '"훷":"gnjc"'
-bind '"훸":"gnjz"'
-bind '"훹":"gnjx"'
-bind '"훺":"gnjv"'
-bind '"훻":"gnjg"'
-bind '"훼":"gnp"'
-bind '"훽":"gnpr"'
-bind '"훾":"gnpR"'
-bind '"훿":"gnprt"'
-bind '"휀":"gnps"'
-bind '"휁":"gnpsw"'
-bind '"휂":"gnpsg"'
-bind '"휃":"gnpe"'
-bind '"휄":"gnpf"'
-bind '"휅":"gnpfr"'
-bind '"휆":"gnpfa"'
-bind '"휇":"gnpfq"'
-bind '"휈":"gnpft"'
-bind '"휉":"gnpfx"'
-bind '"휊":"gnpfv"'
-bind '"휋":"gnpfg"'
-bind '"휌":"gnpa"'
-bind '"휍":"gnpq"'
-bind '"휎":"gnpqt"'
-bind '"휏":"gnpt"'
-bind '"휐":"gnpT"'
-bind '"휑":"gnpd"'
-bind '"휒":"gnpw"'
-bind '"휓":"gnpc"'
-bind '"휔":"gnpz"'
-bind '"휕":"gnpx"'
-bind '"휖":"gnpv"'
-bind '"휗":"gnpg"'
-bind '"휘":"gnl"'
-bind '"휙":"gnlr"'
-bind '"휚":"gnlR"'
-bind '"휛":"gnlrt"'
-bind '"휜":"gnls"'
-bind '"휝":"gnlsw"'
-bind '"휞":"gnlsg"'
-bind '"휟":"gnle"'
-bind '"휠":"gnlf"'
-bind '"휡":"gnlfr"'
-bind '"휢":"gnlfa"'
-bind '"휣":"gnlfq"'
-bind '"휤":"gnlft"'
-bind '"휥":"gnlfx"'
-bind '"휦":"gnlfv"'
-bind '"휧":"gnlfg"'
-bind '"휨":"gnla"'
-bind '"휩":"gnlq"'
-bind '"휪":"gnlqt"'
-bind '"휫":"gnlt"'
-bind '"휬":"gnlT"'
-bind '"휭":"gnld"'
-bind '"휮":"gnlw"'
-bind '"휯":"gnlc"'
-bind '"휰":"gnlz"'
-bind '"휱":"gnlx"'
-bind '"휲":"gnlv"'
-bind '"휳":"gnlg"'
-bind '"휴":"gb"'
-bind '"휵":"gbr"'
-bind '"휶":"gbR"'
-bind '"휷":"gbrt"'
-bind '"휸":"gbs"'
-bind '"휹":"gbsw"'
-bind '"휺":"gbsg"'
-bind '"휻":"gbe"'
-bind '"휼":"gbf"'
-bind '"휽":"gbfr"'
-bind '"휾":"gbfa"'
-bind '"휿":"gbfq"'
-bind '"흀":"gbft"'
-bind '"흁":"gbfx"'
-bind '"흂":"gbfv"'
-bind '"흃":"gbfg"'
-bind '"흄":"gba"'
-bind '"흅":"gbq"'
-bind '"흆":"gbqt"'
-bind '"흇":"gbt"'
-bind '"흈":"gbT"'
-bind '"흉":"gbd"'
-bind '"흊":"gbw"'
-bind '"흋":"gbc"'
-bind '"흌":"gbz"'
-bind '"흍":"gbx"'
-bind '"흎":"gbv"'
-bind '"흏":"gbg"'
-bind '"흐":"gm"'
-bind '"흑":"gmr"'
-bind '"흒":"gmR"'
-bind '"흓":"gmrt"'
-bind '"흔":"gms"'
-bind '"흕":"gmsw"'
-bind '"흖":"gmsg"'
-bind '"흗":"gme"'
-bind '"흘":"gmf"'
-bind '"흙":"gmfr"'
-bind '"흚":"gmfa"'
-bind '"흛":"gmfq"'
-bind '"흜":"gmft"'
-bind '"흝":"gmfx"'
-bind '"흞":"gmfv"'
-bind '"흟":"gmfg"'
-bind '"흠":"gma"'
-bind '"흡":"gmq"'
-bind '"흢":"gmqt"'
-bind '"흣":"gmt"'
-bind '"흤":"gmT"'
-bind '"흥":"gmd"'
-bind '"흦":"gmw"'
-bind '"흧":"gmc"'
-bind '"흨":"gmz"'
-bind '"흩":"gmx"'
-bind '"흪":"gmv"'
-bind '"흫":"gmg"'
-bind '"희":"gml"'
-bind '"흭":"gmlr"'
-bind '"흮":"gmlR"'
-bind '"흯":"gmlrt"'
-bind '"흰":"gmls"'
-bind '"흱":"gmlsw"'
-bind '"흲":"gmlsg"'
-bind '"흳":"gmle"'
-bind '"흴":"gmlf"'
-bind '"흵":"gmlfr"'
-bind '"흶":"gmlfa"'
-bind '"흷":"gmlfq"'
-bind '"흸":"gmlft"'
-bind '"흹":"gmlfx"'
-bind '"흺":"gmlfv"'
-bind '"흻":"gmlfg"'
-bind '"흼":"gmla"'
-bind '"흽":"gmlq"'
-bind '"흾":"gmlqt"'
-bind '"흿":"gmlt"'
-bind '"힀":"gmlT"'
-bind '"힁":"gmld"'
-bind '"힂":"gmlw"'
-bind '"힃":"gmlc"'
-bind '"힄":"gmlz"'
-bind '"힅":"gmlx"'
-bind '"힆":"gmlv"'
-bind '"힇":"gmlg"'
-bind '"히":"gl"'
-bind '"힉":"glr"'
-bind '"힊":"glR"'
-bind '"힋":"glrt"'
-bind '"힌":"gls"'
-bind '"힍":"glsw"'
-bind '"힎":"glsg"'
-bind '"힏":"gle"'
-bind '"힐":"glf"'
-bind '"힑":"glfr"'
-bind '"힒":"glfa"'
-bind '"힓":"glfq"'
-bind '"힔":"glft"'
-bind '"힕":"glfx"'
-bind '"힖":"glfv"'
-bind '"힗":"glfg"'
-bind '"힘":"gla"'
-bind '"힙":"glq"'
-bind '"힚":"glqt"'
-bind '"힛":"glt"'
-bind '"힜":"glT"'
-bind '"힝":"gld"'
-bind '"힞":"glw"'
-bind '"힟":"glc"'
-bind '"힠":"glz"'
-bind '"힡":"glx"'
-bind '"힢":"glv"'
-bind '"힣":"glg"'
+declare -A gksdud
+gksdud[ㄱ]="r"
+gksdud[ㄲ]="R"
+gksdud[ㄳ]="rt"
+gksdud[ㄴ]="s"
+gksdud[ㄵ]="sw"
+gksdud[ㄶ]="sg"
+gksdud[ㄷ]="e"
+gksdud[ㄸ]="E"
+gksdud[ㄹ]="f"
+gksdud[ㄺ]="fr"
+gksdud[ㄻ]="fa"
+gksdud[ㄼ]="fq"
+gksdud[ㄽ]="ft"
+gksdud[ㄾ]="fx"
+gksdud[ㄿ]="fv"
+gksdud[ㅀ]="fg"
+gksdud[ㅁ]="a"
+gksdud[ㅂ]="q"
+gksdud[ㅃ]="Q"
+gksdud[ㅄ]="qt"
+gksdud[ㅅ]="t"
+gksdud[ㅆ]="T"
+gksdud[ㅇ]="d"
+gksdud[ㅈ]="w"
+gksdud[ㅉ]="W"
+gksdud[ㅊ]="c"
+gksdud[ㅋ]="z"
+gksdud[ㅌ]="x"
+gksdud[ㅍ]="v"
+gksdud[ㅎ]="g"
+gksdud[ㅏ]="k"
+gksdud[ㅐ]="o"
+gksdud[ㅑ]="i"
+gksdud[ㅒ]="O"
+gksdud[ㅓ]="j"
+gksdud[ㅔ]="p"
+gksdud[ㅕ]="u"
+gksdud[ㅖ]="P"
+gksdud[ㅗ]="h"
+gksdud[ㅘ]="hk"
+gksdud[ㅙ]="ho"
+gksdud[ㅚ]="hl"
+gksdud[ㅛ]="y"
+gksdud[ㅜ]="n"
+gksdud[ㅝ]="nj"
+gksdud[ㅞ]="np"
+gksdud[ㅟ]="nl"
+gksdud[ㅠ]="b"
+gksdud[ㅡ]="m"
+gksdud[ㅢ]="ml"
+gksdud[ㅣ]="l"
+gksdud[가]="rk"
+gksdud[개]="ro"
+gksdud[갸]="ri"
+gksdud[걔]="rO"
+gksdud[거]="rj"
+gksdud[게]="rp"
+gksdud[겨]="ru"
+gksdud[계]="rP"
+gksdud[고]="rh"
+gksdud[과]="rhk"
+gksdud[괘]="rho"
+gksdud[괴]="rhl"
+gksdud[교]="ry"
+gksdud[구]="rn"
+gksdud[궈]="rnj"
+gksdud[궤]="rnp"
+gksdud[귀]="rnl"
+gksdud[규]="rb"
+gksdud[그]="rm"
+gksdud[긔]="rml"
+gksdud[기]="rl"
+gksdud[까]="Rk"
+gksdud[깨]="Ro"
+gksdud[꺄]="Ri"
+gksdud[꺠]="RO"
+gksdud[꺼]="Rj"
+gksdud[께]="Rp"
+gksdud[껴]="Ru"
+gksdud[꼐]="RP"
+gksdud[꼬]="Rh"
+gksdud[꽈]="Rhk"
+gksdud[꽤]="Rho"
+gksdud[꾀]="Rhl"
+gksdud[꾜]="Ry"
+gksdud[꾸]="Rn"
+gksdud[꿔]="Rnj"
+gksdud[꿰]="Rnp"
+gksdud[뀌]="Rnl"
+gksdud[뀨]="Rb"
+gksdud[끄]="Rm"
+gksdud[끠]="Rml"
+gksdud[끼]="Rl"
+gksdud[나]="sk"
+gksdud[내]="so"
+gksdud[냐]="si"
+gksdud[냬]="sO"
+gksdud[너]="sj"
+gksdud[네]="sp"
+gksdud[녀]="su"
+gksdud[녜]="sP"
+gksdud[노]="sh"
+gksdud[놔]="shk"
+gksdud[놰]="sho"
+gksdud[뇌]="shl"
+gksdud[뇨]="sy"
+gksdud[누]="sn"
+gksdud[눠]="snj"
+gksdud[눼]="snp"
+gksdud[뉘]="snl"
+gksdud[뉴]="sb"
+gksdud[느]="sm"
+gksdud[늬]="sml"
+gksdud[니]="sl"
+gksdud[다]="ek"
+gksdud[대]="eo"
+gksdud[댜]="ei"
+gksdud[댸]="eO"
+gksdud[더]="ej"
+gksdud[데]="ep"
+gksdud[뎌]="eu"
+gksdud[뎨]="eP"
+gksdud[도]="eh"
+gksdud[돠]="ehk"
+gksdud[돼]="eho"
+gksdud[되]="ehl"
+gksdud[됴]="ey"
+gksdud[두]="en"
+gksdud[둬]="enj"
+gksdud[뒈]="enp"
+gksdud[뒤]="enl"
+gksdud[듀]="eb"
+gksdud[드]="em"
+gksdud[듸]="eml"
+gksdud[디]="el"
+gksdud[따]="Ek"
+gksdud[때]="Eo"
+gksdud[땨]="Ei"
+gksdud[떄]="EO"
+gksdud[떠]="Ej"
+gksdud[떼]="Ep"
+gksdud[뗘]="Eu"
+gksdud[뗴]="EP"
+gksdud[또]="Eh"
+gksdud[똬]="Ehk"
+gksdud[뙈]="Eho"
+gksdud[뙤]="Ehl"
+gksdud[뚀]="Ey"
+gksdud[뚜]="En"
+gksdud[뚸]="Enj"
+gksdud[뛔]="Enp"
+gksdud[뛰]="Enl"
+gksdud[뜌]="Eb"
+gksdud[뜨]="Em"
+gksdud[띄]="Eml"
+gksdud[띠]="El"
+gksdud[라]="fk"
+gksdud[래]="fo"
+gksdud[랴]="fi"
+gksdud[럐]="fO"
+gksdud[러]="fj"
+gksdud[레]="fp"
+gksdud[려]="fu"
+gksdud[례]="fP"
+gksdud[로]="fh"
+gksdud[롸]="fhk"
+gksdud[뢔]="fho"
+gksdud[뢰]="fhl"
+gksdud[료]="fy"
+gksdud[루]="fn"
+gksdud[뤄]="fnj"
+gksdud[뤠]="fnp"
+gksdud[뤼]="fnl"
+gksdud[류]="fb"
+gksdud[르]="fm"
+gksdud[릐]="fml"
+gksdud[리]="fl"
+gksdud[마]="ak"
+gksdud[매]="ao"
+gksdud[먀]="ai"
+gksdud[먜]="aO"
+gksdud[머]="aj"
+gksdud[메]="ap"
+gksdud[며]="au"
+gksdud[몌]="aP"
+gksdud[모]="ah"
+gksdud[뫄]="ahk"
+gksdud[뫠]="aho"
+gksdud[뫼]="ahl"
+gksdud[묘]="ay"
+gksdud[무]="an"
+gksdud[뭐]="anj"
+gksdud[뭬]="anp"
+gksdud[뮈]="anl"
+gksdud[뮤]="ab"
+gksdud[므]="am"
+gksdud[믜]="aml"
+gksdud[미]="al"
+gksdud[바]="qk"
+gksdud[배]="qo"
+gksdud[뱌]="qi"
+gksdud[뱨]="qO"
+gksdud[버]="qj"
+gksdud[베]="qp"
+gksdud[벼]="qu"
+gksdud[볘]="qP"
+gksdud[보]="qh"
+gksdud[봐]="qhk"
+gksdud[봬]="qho"
+gksdud[뵈]="qhl"
+gksdud[뵤]="qy"
+gksdud[부]="qn"
+gksdud[붜]="qnj"
+gksdud[붸]="qnp"
+gksdud[뷔]="qnl"
+gksdud[뷰]="qb"
+gksdud[브]="qm"
+gksdud[븨]="qml"
+gksdud[비]="ql"
+gksdud[빠]="Qk"
+gksdud[빼]="Qo"
+gksdud[뺘]="Qi"
+gksdud[뺴]="QO"
+gksdud[뻐]="Qj"
+gksdud[뻬]="Qp"
+gksdud[뼈]="Qu"
+gksdud[뼤]="QP"
+gksdud[뽀]="Qh"
+gksdud[뽜]="Qhk"
+gksdud[뽸]="Qho"
+gksdud[뾔]="Qhl"
+gksdud[뾰]="Qy"
+gksdud[뿌]="Qn"
+gksdud[뿨]="Qnj"
+gksdud[쀄]="Qnp"
+gksdud[쀠]="Qnl"
+gksdud[쀼]="Qb"
+gksdud[쁘]="Qm"
+gksdud[쁴]="Qml"
+gksdud[삐]="Ql"
+gksdud[사]="tk"
+gksdud[새]="to"
+gksdud[샤]="ti"
+gksdud[섀]="tO"
+gksdud[서]="tj"
+gksdud[세]="tp"
+gksdud[셔]="tu"
+gksdud[셰]="tP"
+gksdud[소]="th"
+gksdud[솨]="thk"
+gksdud[쇄]="tho"
+gksdud[쇠]="thl"
+gksdud[쇼]="ty"
+gksdud[수]="tn"
+gksdud[숴]="tnj"
+gksdud[쉐]="tnp"
+gksdud[쉬]="tnl"
+gksdud[슈]="tb"
+gksdud[스]="tm"
+gksdud[싀]="tml"
+gksdud[시]="tl"
+gksdud[싸]="Tk"
+gksdud[쌔]="To"
+gksdud[쌰]="Ti"
+gksdud[썌]="TO"
+gksdud[써]="Tj"
+gksdud[쎄]="Tp"
+gksdud[쎠]="Tu"
+gksdud[쎼]="TP"
+gksdud[쏘]="Th"
+gksdud[쏴]="Thk"
+gksdud[쐐]="Tho"
+gksdud[쐬]="Thl"
+gksdud[쑈]="Ty"
+gksdud[쑤]="Tn"
+gksdud[쒀]="Tnj"
+gksdud[쒜]="Tnp"
+gksdud[쒸]="Tnl"
+gksdud[쓔]="Tb"
+gksdud[쓰]="Tm"
+gksdud[씌]="Tml"
+gksdud[씨]="Tl"
+gksdud[아]="dk"
+gksdud[애]="do"
+gksdud[야]="di"
+gksdud[얘]="dO"
+gksdud[어]="dj"
+gksdud[에]="dp"
+gksdud[여]="du"
+gksdud[예]="dP"
+gksdud[오]="dh"
+gksdud[와]="dhk"
+gksdud[왜]="dho"
+gksdud[외]="dhl"
+gksdud[요]="dy"
+gksdud[우]="dn"
+gksdud[워]="dnj"
+gksdud[웨]="dnp"
+gksdud[위]="dnl"
+gksdud[유]="db"
+gksdud[으]="dm"
+gksdud[의]="dml"
+gksdud[이]="dl"
+gksdud[자]="wk"
+gksdud[재]="wo"
+gksdud[쟈]="wi"
+gksdud[쟤]="wO"
+gksdud[저]="wj"
+gksdud[제]="wp"
+gksdud[져]="wu"
+gksdud[졔]="wP"
+gksdud[조]="wh"
+gksdud[좌]="whk"
+gksdud[좨]="who"
+gksdud[죄]="whl"
+gksdud[죠]="wy"
+gksdud[주]="wn"
+gksdud[줘]="wnj"
+gksdud[줴]="wnp"
+gksdud[쥐]="wnl"
+gksdud[쥬]="wb"
+gksdud[즈]="wm"
+gksdud[즤]="wml"
+gksdud[지]="wl"
+gksdud[짜]="Wk"
+gksdud[째]="Wo"
+gksdud[쨔]="Wi"
+gksdud[쨰]="WO"
+gksdud[쩌]="Wj"
+gksdud[쩨]="Wp"
+gksdud[쪄]="Wu"
+gksdud[쪠]="WP"
+gksdud[쪼]="Wh"
+gksdud[쫘]="Whk"
+gksdud[쫴]="Who"
+gksdud[쬐]="Whl"
+gksdud[쬬]="Wy"
+gksdud[쭈]="Wn"
+gksdud[쭤]="Wnj"
+gksdud[쮀]="Wnp"
+gksdud[쮜]="Wnl"
+gksdud[쮸]="Wb"
+gksdud[쯔]="Wm"
+gksdud[쯰]="Wml"
+gksdud[찌]="Wl"
+gksdud[차]="ck"
+gksdud[채]="co"
+gksdud[챠]="ci"
+gksdud[챼]="cO"
+gksdud[처]="cj"
+gksdud[체]="cp"
+gksdud[쳐]="cu"
+gksdud[쳬]="cP"
+gksdud[초]="ch"
+gksdud[촤]="chk"
+gksdud[쵀]="cho"
+gksdud[최]="chl"
+gksdud[쵸]="cy"
+gksdud[추]="cn"
+gksdud[춰]="cnj"
+gksdud[췌]="cnp"
+gksdud[취]="cnl"
+gksdud[츄]="cb"
+gksdud[츠]="cm"
+gksdud[츼]="cml"
+gksdud[치]="cl"
+gksdud[카]="zk"
+gksdud[캐]="zo"
+gksdud[캬]="zi"
+gksdud[컈]="zO"
+gksdud[커]="zj"
+gksdud[케]="zp"
+gksdud[켜]="zu"
+gksdud[켸]="zP"
+gksdud[코]="zh"
+gksdud[콰]="zhk"
+gksdud[쾌]="zho"
+gksdud[쾨]="zhl"
+gksdud[쿄]="zy"
+gksdud[쿠]="zn"
+gksdud[쿼]="znj"
+gksdud[퀘]="znp"
+gksdud[퀴]="znl"
+gksdud[큐]="zb"
+gksdud[크]="zm"
+gksdud[킈]="zml"
+gksdud[키]="zl"
+gksdud[타]="xk"
+gksdud[태]="xo"
+gksdud[탸]="xi"
+gksdud[턔]="xO"
+gksdud[터]="xj"
+gksdud[테]="xp"
+gksdud[텨]="xu"
+gksdud[톄]="xP"
+gksdud[토]="xh"
+gksdud[톼]="xhk"
+gksdud[퇘]="xho"
+gksdud[퇴]="xhl"
+gksdud[툐]="xy"
+gksdud[투]="xn"
+gksdud[퉈]="xnj"
+gksdud[퉤]="xnp"
+gksdud[튀]="xnl"
+gksdud[튜]="xb"
+gksdud[트]="xm"
+gksdud[틔]="xml"
+gksdud[티]="xl"
+gksdud[파]="vk"
+gksdud[패]="vo"
+gksdud[퍄]="vi"
+gksdud[퍠]="vO"
+gksdud[퍼]="vj"
+gksdud[페]="vp"
+gksdud[펴]="vu"
+gksdud[폐]="vP"
+gksdud[포]="vh"
+gksdud[퐈]="vhk"
+gksdud[퐤]="vho"
+gksdud[푀]="vhl"
+gksdud[표]="vy"
+gksdud[푸]="vn"
+gksdud[풔]="vnj"
+gksdud[풰]="vnp"
+gksdud[퓌]="vnl"
+gksdud[퓨]="vb"
+gksdud[프]="vm"
+gksdud[픠]="vml"
+gksdud[피]="vl"
+gksdud[하]="gk"
+gksdud[해]="go"
+gksdud[햐]="gi"
+gksdud[햬]="gO"
+gksdud[허]="gj"
+gksdud[헤]="gp"
+gksdud[혀]="gu"
+gksdud[혜]="gP"
+gksdud[호]="gh"
+gksdud[화]="ghk"
+gksdud[홰]="gho"
+gksdud[회]="ghl"
+gksdud[효]="gy"
+gksdud[후]="gn"
+gksdud[훠]="gnj"
+gksdud[훼]="gnp"
+gksdud[휘]="gnl"
+gksdud[휴]="gb"
+gksdud[흐]="gm"
+gksdud[희]="gml"
+gksdud[히]="gl"
+gksdud[가]="rk"
+gksdud[각]="rkr"
+gksdud[갂]="rkR"
+gksdud[갃]="rkrt"
+gksdud[간]="rks"
+gksdud[갅]="rksw"
+gksdud[갆]="rksg"
+gksdud[갇]="rke"
+gksdud[갈]="rkf"
+gksdud[갉]="rkfr"
+gksdud[갊]="rkfa"
+gksdud[갋]="rkfq"
+gksdud[갌]="rkft"
+gksdud[갍]="rkfx"
+gksdud[갎]="rkfv"
+gksdud[갏]="rkfg"
+gksdud[감]="rka"
+gksdud[갑]="rkq"
+gksdud[값]="rkqt"
+gksdud[갓]="rkt"
+gksdud[갔]="rkT"
+gksdud[강]="rkd"
+gksdud[갖]="rkw"
+gksdud[갗]="rkc"
+gksdud[갘]="rkz"
+gksdud[같]="rkx"
+gksdud[갚]="rkv"
+gksdud[갛]="rkg"
+gksdud[개]="ro"
+gksdud[객]="ror"
+gksdud[갞]="roR"
+gksdud[갟]="rort"
+gksdud[갠]="ros"
+gksdud[갡]="rosw"
+gksdud[갢]="rosg"
+gksdud[갣]="roe"
+gksdud[갤]="rof"
+gksdud[갥]="rofr"
+gksdud[갦]="rofa"
+gksdud[갧]="rofq"
+gksdud[갨]="roft"
+gksdud[갩]="rofx"
+gksdud[갪]="rofv"
+gksdud[갫]="rofg"
+gksdud[갬]="roa"
+gksdud[갭]="roq"
+gksdud[갮]="roqt"
+gksdud[갯]="rot"
+gksdud[갰]="roT"
+gksdud[갱]="rod"
+gksdud[갲]="row"
+gksdud[갳]="roc"
+gksdud[갴]="roz"
+gksdud[갵]="rox"
+gksdud[갶]="rov"
+gksdud[갷]="rog"
+gksdud[갸]="ri"
+gksdud[갹]="rir"
+gksdud[갺]="riR"
+gksdud[갻]="rirt"
+gksdud[갼]="ris"
+gksdud[갽]="risw"
+gksdud[갾]="risg"
+gksdud[갿]="rie"
+gksdud[걀]="rif"
+gksdud[걁]="rifr"
+gksdud[걂]="rifa"
+gksdud[걃]="rifq"
+gksdud[걄]="rift"
+gksdud[걅]="rifx"
+gksdud[걆]="rifv"
+gksdud[걇]="rifg"
+gksdud[걈]="ria"
+gksdud[걉]="riq"
+gksdud[걊]="riqt"
+gksdud[걋]="rit"
+gksdud[걌]="riT"
+gksdud[걍]="rid"
+gksdud[걎]="riw"
+gksdud[걏]="ric"
+gksdud[걐]="riz"
+gksdud[걑]="rix"
+gksdud[걒]="riv"
+gksdud[걓]="rig"
+gksdud[걔]="rO"
+gksdud[걕]="rOr"
+gksdud[걖]="rOR"
+gksdud[걗]="rOrt"
+gksdud[걘]="rOs"
+gksdud[걙]="rOsw"
+gksdud[걚]="rOsg"
+gksdud[걛]="rOe"
+gksdud[걜]="rOf"
+gksdud[걝]="rOfr"
+gksdud[걞]="rOfa"
+gksdud[걟]="rOfq"
+gksdud[걠]="rOft"
+gksdud[걡]="rOfx"
+gksdud[걢]="rOfv"
+gksdud[걣]="rOfg"
+gksdud[걤]="rOa"
+gksdud[걥]="rOq"
+gksdud[걦]="rOqt"
+gksdud[걧]="rOt"
+gksdud[걨]="rOT"
+gksdud[걩]="rOd"
+gksdud[걪]="rOw"
+gksdud[걫]="rOc"
+gksdud[걬]="rOz"
+gksdud[걭]="rOx"
+gksdud[걮]="rOv"
+gksdud[걯]="rOg"
+gksdud[거]="rj"
+gksdud[걱]="rjr"
+gksdud[걲]="rjR"
+gksdud[걳]="rjrt"
+gksdud[건]="rjs"
+gksdud[걵]="rjsw"
+gksdud[걶]="rjsg"
+gksdud[걷]="rje"
+gksdud[걸]="rjf"
+gksdud[걹]="rjfr"
+gksdud[걺]="rjfa"
+gksdud[걻]="rjfq"
+gksdud[걼]="rjft"
+gksdud[걽]="rjfx"
+gksdud[걾]="rjfv"
+gksdud[걿]="rjfg"
+gksdud[검]="rja"
+gksdud[겁]="rjq"
+gksdud[겂]="rjqt"
+gksdud[것]="rjt"
+gksdud[겄]="rjT"
+gksdud[겅]="rjd"
+gksdud[겆]="rjw"
+gksdud[겇]="rjc"
+gksdud[겈]="rjz"
+gksdud[겉]="rjx"
+gksdud[겊]="rjv"
+gksdud[겋]="rjg"
+gksdud[게]="rp"
+gksdud[겍]="rpr"
+gksdud[겎]="rpR"
+gksdud[겏]="rprt"
+gksdud[겐]="rps"
+gksdud[겑]="rpsw"
+gksdud[겒]="rpsg"
+gksdud[겓]="rpe"
+gksdud[겔]="rpf"
+gksdud[겕]="rpfr"
+gksdud[겖]="rpfa"
+gksdud[겗]="rpfq"
+gksdud[겘]="rpft"
+gksdud[겙]="rpfx"
+gksdud[겚]="rpfv"
+gksdud[겛]="rpfg"
+gksdud[겜]="rpa"
+gksdud[겝]="rpq"
+gksdud[겞]="rpqt"
+gksdud[겟]="rpt"
+gksdud[겠]="rpT"
+gksdud[겡]="rpd"
+gksdud[겢]="rpw"
+gksdud[겣]="rpc"
+gksdud[겤]="rpz"
+gksdud[겥]="rpx"
+gksdud[겦]="rpv"
+gksdud[겧]="rpg"
+gksdud[겨]="ru"
+gksdud[격]="rur"
+gksdud[겪]="ruR"
+gksdud[겫]="rurt"
+gksdud[견]="rus"
+gksdud[겭]="rusw"
+gksdud[겮]="rusg"
+gksdud[겯]="rue"
+gksdud[결]="ruf"
+gksdud[겱]="rufr"
+gksdud[겲]="rufa"
+gksdud[겳]="rufq"
+gksdud[겴]="ruft"
+gksdud[겵]="rufx"
+gksdud[겶]="rufv"
+gksdud[겷]="rufg"
+gksdud[겸]="rua"
+gksdud[겹]="ruq"
+gksdud[겺]="ruqt"
+gksdud[겻]="rut"
+gksdud[겼]="ruT"
+gksdud[경]="rud"
+gksdud[겾]="ruw"
+gksdud[겿]="ruc"
+gksdud[곀]="ruz"
+gksdud[곁]="rux"
+gksdud[곂]="ruv"
+gksdud[곃]="rug"
+gksdud[계]="rP"
+gksdud[곅]="rPr"
+gksdud[곆]="rPR"
+gksdud[곇]="rPrt"
+gksdud[곈]="rPs"
+gksdud[곉]="rPsw"
+gksdud[곊]="rPsg"
+gksdud[곋]="rPe"
+gksdud[곌]="rPf"
+gksdud[곍]="rPfr"
+gksdud[곎]="rPfa"
+gksdud[곏]="rPfq"
+gksdud[곐]="rPft"
+gksdud[곑]="rPfx"
+gksdud[곒]="rPfv"
+gksdud[곓]="rPfg"
+gksdud[곔]="rPa"
+gksdud[곕]="rPq"
+gksdud[곖]="rPqt"
+gksdud[곗]="rPt"
+gksdud[곘]="rPT"
+gksdud[곙]="rPd"
+gksdud[곚]="rPw"
+gksdud[곛]="rPc"
+gksdud[곜]="rPz"
+gksdud[곝]="rPx"
+gksdud[곞]="rPv"
+gksdud[곟]="rPg"
+gksdud[고]="rh"
+gksdud[곡]="rhr"
+gksdud[곢]="rhR"
+gksdud[곣]="rhrt"
+gksdud[곤]="rhs"
+gksdud[곥]="rhsw"
+gksdud[곦]="rhsg"
+gksdud[곧]="rhe"
+gksdud[골]="rhf"
+gksdud[곩]="rhfr"
+gksdud[곪]="rhfa"
+gksdud[곫]="rhfq"
+gksdud[곬]="rhft"
+gksdud[곭]="rhfx"
+gksdud[곮]="rhfv"
+gksdud[곯]="rhfg"
+gksdud[곰]="rha"
+gksdud[곱]="rhq"
+gksdud[곲]="rhqt"
+gksdud[곳]="rht"
+gksdud[곴]="rhT"
+gksdud[공]="rhd"
+gksdud[곶]="rhw"
+gksdud[곷]="rhc"
+gksdud[곸]="rhz"
+gksdud[곹]="rhx"
+gksdud[곺]="rhv"
+gksdud[곻]="rhg"
+gksdud[과]="rhk"
+gksdud[곽]="rhkr"
+gksdud[곾]="rhkR"
+gksdud[곿]="rhkrt"
+gksdud[관]="rhks"
+gksdud[괁]="rhksw"
+gksdud[괂]="rhksg"
+gksdud[괃]="rhke"
+gksdud[괄]="rhkf"
+gksdud[괅]="rhkfr"
+gksdud[괆]="rhkfa"
+gksdud[괇]="rhkfq"
+gksdud[괈]="rhkft"
+gksdud[괉]="rhkfx"
+gksdud[괊]="rhkfv"
+gksdud[괋]="rhkfg"
+gksdud[괌]="rhka"
+gksdud[괍]="rhkq"
+gksdud[괎]="rhkqt"
+gksdud[괏]="rhkt"
+gksdud[괐]="rhkT"
+gksdud[광]="rhkd"
+gksdud[괒]="rhkw"
+gksdud[괓]="rhkc"
+gksdud[괔]="rhkz"
+gksdud[괕]="rhkx"
+gksdud[괖]="rhkv"
+gksdud[괗]="rhkg"
+gksdud[괘]="rho"
+gksdud[괙]="rhor"
+gksdud[괚]="rhoR"
+gksdud[괛]="rhort"
+gksdud[괜]="rhos"
+gksdud[괝]="rhosw"
+gksdud[괞]="rhosg"
+gksdud[괟]="rhoe"
+gksdud[괠]="rhof"
+gksdud[괡]="rhofr"
+gksdud[괢]="rhofa"
+gksdud[괣]="rhofq"
+gksdud[괤]="rhoft"
+gksdud[괥]="rhofx"
+gksdud[괦]="rhofv"
+gksdud[괧]="rhofg"
+gksdud[괨]="rhoa"
+gksdud[괩]="rhoq"
+gksdud[괪]="rhoqt"
+gksdud[괫]="rhot"
+gksdud[괬]="rhoT"
+gksdud[괭]="rhod"
+gksdud[괮]="rhow"
+gksdud[괯]="rhoc"
+gksdud[괰]="rhoz"
+gksdud[괱]="rhox"
+gksdud[괲]="rhov"
+gksdud[괳]="rhog"
+gksdud[괴]="rhl"
+gksdud[괵]="rhlr"
+gksdud[괶]="rhlR"
+gksdud[괷]="rhlrt"
+gksdud[괸]="rhls"
+gksdud[괹]="rhlsw"
+gksdud[괺]="rhlsg"
+gksdud[괻]="rhle"
+gksdud[괼]="rhlf"
+gksdud[괽]="rhlfr"
+gksdud[괾]="rhlfa"
+gksdud[괿]="rhlfq"
+gksdud[굀]="rhlft"
+gksdud[굁]="rhlfx"
+gksdud[굂]="rhlfv"
+gksdud[굃]="rhlfg"
+gksdud[굄]="rhla"
+gksdud[굅]="rhlq"
+gksdud[굆]="rhlqt"
+gksdud[굇]="rhlt"
+gksdud[굈]="rhlT"
+gksdud[굉]="rhld"
+gksdud[굊]="rhlw"
+gksdud[굋]="rhlc"
+gksdud[굌]="rhlz"
+gksdud[굍]="rhlx"
+gksdud[굎]="rhlv"
+gksdud[굏]="rhlg"
+gksdud[교]="ry"
+gksdud[굑]="ryr"
+gksdud[굒]="ryR"
+gksdud[굓]="ryrt"
+gksdud[굔]="rys"
+gksdud[굕]="rysw"
+gksdud[굖]="rysg"
+gksdud[굗]="rye"
+gksdud[굘]="ryf"
+gksdud[굙]="ryfr"
+gksdud[굚]="ryfa"
+gksdud[굛]="ryfq"
+gksdud[굜]="ryft"
+gksdud[굝]="ryfx"
+gksdud[굞]="ryfv"
+gksdud[굟]="ryfg"
+gksdud[굠]="rya"
+gksdud[굡]="ryq"
+gksdud[굢]="ryqt"
+gksdud[굣]="ryt"
+gksdud[굤]="ryT"
+gksdud[굥]="ryd"
+gksdud[굦]="ryw"
+gksdud[굧]="ryc"
+gksdud[굨]="ryz"
+gksdud[굩]="ryx"
+gksdud[굪]="ryv"
+gksdud[굫]="ryg"
+gksdud[구]="rn"
+gksdud[국]="rnr"
+gksdud[굮]="rnR"
+gksdud[굯]="rnrt"
+gksdud[군]="rns"
+gksdud[굱]="rnsw"
+gksdud[굲]="rnsg"
+gksdud[굳]="rne"
+gksdud[굴]="rnf"
+gksdud[굵]="rnfr"
+gksdud[굶]="rnfa"
+gksdud[굷]="rnfq"
+gksdud[굸]="rnft"
+gksdud[굹]="rnfx"
+gksdud[굺]="rnfv"
+gksdud[굻]="rnfg"
+gksdud[굼]="rna"
+gksdud[굽]="rnq"
+gksdud[굾]="rnqt"
+gksdud[굿]="rnt"
+gksdud[궀]="rnT"
+gksdud[궁]="rnd"
+gksdud[궂]="rnw"
+gksdud[궃]="rnc"
+gksdud[궄]="rnz"
+gksdud[궅]="rnx"
+gksdud[궆]="rnv"
+gksdud[궇]="rng"
+gksdud[궈]="rnj"
+gksdud[궉]="rnjr"
+gksdud[궊]="rnjR"
+gksdud[궋]="rnjrt"
+gksdud[권]="rnjs"
+gksdud[궍]="rnjsw"
+gksdud[궎]="rnjsg"
+gksdud[궏]="rnje"
+gksdud[궐]="rnjf"
+gksdud[궑]="rnjfr"
+gksdud[궒]="rnjfa"
+gksdud[궓]="rnjfq"
+gksdud[궔]="rnjft"
+gksdud[궕]="rnjfx"
+gksdud[궖]="rnjfv"
+gksdud[궗]="rnjfg"
+gksdud[궘]="rnja"
+gksdud[궙]="rnjq"
+gksdud[궚]="rnjqt"
+gksdud[궛]="rnjt"
+gksdud[궜]="rnjT"
+gksdud[궝]="rnjd"
+gksdud[궞]="rnjw"
+gksdud[궟]="rnjc"
+gksdud[궠]="rnjz"
+gksdud[궡]="rnjx"
+gksdud[궢]="rnjv"
+gksdud[궣]="rnjg"
+gksdud[궤]="rnp"
+gksdud[궥]="rnpr"
+gksdud[궦]="rnpR"
+gksdud[궧]="rnprt"
+gksdud[궨]="rnps"
+gksdud[궩]="rnpsw"
+gksdud[궪]="rnpsg"
+gksdud[궫]="rnpe"
+gksdud[궬]="rnpf"
+gksdud[궭]="rnpfr"
+gksdud[궮]="rnpfa"
+gksdud[궯]="rnpfq"
+gksdud[궰]="rnpft"
+gksdud[궱]="rnpfx"
+gksdud[궲]="rnpfv"
+gksdud[궳]="rnpfg"
+gksdud[궴]="rnpa"
+gksdud[궵]="rnpq"
+gksdud[궶]="rnpqt"
+gksdud[궷]="rnpt"
+gksdud[궸]="rnpT"
+gksdud[궹]="rnpd"
+gksdud[궺]="rnpw"
+gksdud[궻]="rnpc"
+gksdud[궼]="rnpz"
+gksdud[궽]="rnpx"
+gksdud[궾]="rnpv"
+gksdud[궿]="rnpg"
+gksdud[귀]="rnl"
+gksdud[귁]="rnlr"
+gksdud[귂]="rnlR"
+gksdud[귃]="rnlrt"
+gksdud[귄]="rnls"
+gksdud[귅]="rnlsw"
+gksdud[귆]="rnlsg"
+gksdud[귇]="rnle"
+gksdud[귈]="rnlf"
+gksdud[귉]="rnlfr"
+gksdud[귊]="rnlfa"
+gksdud[귋]="rnlfq"
+gksdud[귌]="rnlft"
+gksdud[귍]="rnlfx"
+gksdud[귎]="rnlfv"
+gksdud[귏]="rnlfg"
+gksdud[귐]="rnla"
+gksdud[귑]="rnlq"
+gksdud[귒]="rnlqt"
+gksdud[귓]="rnlt"
+gksdud[귔]="rnlT"
+gksdud[귕]="rnld"
+gksdud[귖]="rnlw"
+gksdud[귗]="rnlc"
+gksdud[귘]="rnlz"
+gksdud[귙]="rnlx"
+gksdud[귚]="rnlv"
+gksdud[귛]="rnlg"
+gksdud[규]="rb"
+gksdud[귝]="rbr"
+gksdud[귞]="rbR"
+gksdud[귟]="rbrt"
+gksdud[균]="rbs"
+gksdud[귡]="rbsw"
+gksdud[귢]="rbsg"
+gksdud[귣]="rbe"
+gksdud[귤]="rbf"
+gksdud[귥]="rbfr"
+gksdud[귦]="rbfa"
+gksdud[귧]="rbfq"
+gksdud[귨]="rbft"
+gksdud[귩]="rbfx"
+gksdud[귪]="rbfv"
+gksdud[귫]="rbfg"
+gksdud[귬]="rba"
+gksdud[귭]="rbq"
+gksdud[귮]="rbqt"
+gksdud[귯]="rbt"
+gksdud[귰]="rbT"
+gksdud[귱]="rbd"
+gksdud[귲]="rbw"
+gksdud[귳]="rbc"
+gksdud[귴]="rbz"
+gksdud[귵]="rbx"
+gksdud[귶]="rbv"
+gksdud[귷]="rbg"
+gksdud[그]="rm"
+gksdud[극]="rmr"
+gksdud[귺]="rmR"
+gksdud[귻]="rmrt"
+gksdud[근]="rms"
+gksdud[귽]="rmsw"
+gksdud[귾]="rmsg"
+gksdud[귿]="rme"
+gksdud[글]="rmf"
+gksdud[긁]="rmfr"
+gksdud[긂]="rmfa"
+gksdud[긃]="rmfq"
+gksdud[긄]="rmft"
+gksdud[긅]="rmfx"
+gksdud[긆]="rmfv"
+gksdud[긇]="rmfg"
+gksdud[금]="rma"
+gksdud[급]="rmq"
+gksdud[긊]="rmqt"
+gksdud[긋]="rmt"
+gksdud[긌]="rmT"
+gksdud[긍]="rmd"
+gksdud[긎]="rmw"
+gksdud[긏]="rmc"
+gksdud[긐]="rmz"
+gksdud[긑]="rmx"
+gksdud[긒]="rmv"
+gksdud[긓]="rmg"
+gksdud[긔]="rml"
+gksdud[긕]="rmlr"
+gksdud[긖]="rmlR"
+gksdud[긗]="rmlrt"
+gksdud[긘]="rmls"
+gksdud[긙]="rmlsw"
+gksdud[긚]="rmlsg"
+gksdud[긛]="rmle"
+gksdud[긜]="rmlf"
+gksdud[긝]="rmlfr"
+gksdud[긞]="rmlfa"
+gksdud[긟]="rmlfq"
+gksdud[긠]="rmlft"
+gksdud[긡]="rmlfx"
+gksdud[긢]="rmlfv"
+gksdud[긣]="rmlfg"
+gksdud[긤]="rmla"
+gksdud[긥]="rmlq"
+gksdud[긦]="rmlqt"
+gksdud[긧]="rmlt"
+gksdud[긨]="rmlT"
+gksdud[긩]="rmld"
+gksdud[긪]="rmlw"
+gksdud[긫]="rmlc"
+gksdud[긬]="rmlz"
+gksdud[긭]="rmlx"
+gksdud[긮]="rmlv"
+gksdud[긯]="rmlg"
+gksdud[기]="rl"
+gksdud[긱]="rlr"
+gksdud[긲]="rlR"
+gksdud[긳]="rlrt"
+gksdud[긴]="rls"
+gksdud[긵]="rlsw"
+gksdud[긶]="rlsg"
+gksdud[긷]="rle"
+gksdud[길]="rlf"
+gksdud[긹]="rlfr"
+gksdud[긺]="rlfa"
+gksdud[긻]="rlfq"
+gksdud[긼]="rlft"
+gksdud[긽]="rlfx"
+gksdud[긾]="rlfv"
+gksdud[긿]="rlfg"
+gksdud[김]="rla"
+gksdud[깁]="rlq"
+gksdud[깂]="rlqt"
+gksdud[깃]="rlt"
+gksdud[깄]="rlT"
+gksdud[깅]="rld"
+gksdud[깆]="rlw"
+gksdud[깇]="rlc"
+gksdud[깈]="rlz"
+gksdud[깉]="rlx"
+gksdud[깊]="rlv"
+gksdud[깋]="rlg"
+gksdud[까]="Rk"
+gksdud[깍]="Rkr"
+gksdud[깎]="RkR"
+gksdud[깏]="Rkrt"
+gksdud[깐]="Rks"
+gksdud[깑]="Rksw"
+gksdud[깒]="Rksg"
+gksdud[깓]="Rke"
+gksdud[깔]="Rkf"
+gksdud[깕]="Rkfr"
+gksdud[깖]="Rkfa"
+gksdud[깗]="Rkfq"
+gksdud[깘]="Rkft"
+gksdud[깙]="Rkfx"
+gksdud[깚]="Rkfv"
+gksdud[깛]="Rkfg"
+gksdud[깜]="Rka"
+gksdud[깝]="Rkq"
+gksdud[깞]="Rkqt"
+gksdud[깟]="Rkt"
+gksdud[깠]="RkT"
+gksdud[깡]="Rkd"
+gksdud[깢]="Rkw"
+gksdud[깣]="Rkc"
+gksdud[깤]="Rkz"
+gksdud[깥]="Rkx"
+gksdud[깦]="Rkv"
+gksdud[깧]="Rkg"
+gksdud[깨]="Ro"
+gksdud[깩]="Ror"
+gksdud[깪]="RoR"
+gksdud[깫]="Rort"
+gksdud[깬]="Ros"
+gksdud[깭]="Rosw"
+gksdud[깮]="Rosg"
+gksdud[깯]="Roe"
+gksdud[깰]="Rof"
+gksdud[깱]="Rofr"
+gksdud[깲]="Rofa"
+gksdud[깳]="Rofq"
+gksdud[깴]="Roft"
+gksdud[깵]="Rofx"
+gksdud[깶]="Rofv"
+gksdud[깷]="Rofg"
+gksdud[깸]="Roa"
+gksdud[깹]="Roq"
+gksdud[깺]="Roqt"
+gksdud[깻]="Rot"
+gksdud[깼]="RoT"
+gksdud[깽]="Rod"
+gksdud[깾]="Row"
+gksdud[깿]="Roc"
+gksdud[꺀]="Roz"
+gksdud[꺁]="Rox"
+gksdud[꺂]="Rov"
+gksdud[꺃]="Rog"
+gksdud[꺄]="Ri"
+gksdud[꺅]="Rir"
+gksdud[꺆]="RiR"
+gksdud[꺇]="Rirt"
+gksdud[꺈]="Ris"
+gksdud[꺉]="Risw"
+gksdud[꺊]="Risg"
+gksdud[꺋]="Rie"
+gksdud[꺌]="Rif"
+gksdud[꺍]="Rifr"
+gksdud[꺎]="Rifa"
+gksdud[꺏]="Rifq"
+gksdud[꺐]="Rift"
+gksdud[꺑]="Rifx"
+gksdud[꺒]="Rifv"
+gksdud[꺓]="Rifg"
+gksdud[꺔]="Ria"
+gksdud[꺕]="Riq"
+gksdud[꺖]="Riqt"
+gksdud[꺗]="Rit"
+gksdud[꺘]="RiT"
+gksdud[꺙]="Rid"
+gksdud[꺚]="Riw"
+gksdud[꺛]="Ric"
+gksdud[꺜]="Riz"
+gksdud[꺝]="Rix"
+gksdud[꺞]="Riv"
+gksdud[꺟]="Rig"
+gksdud[꺠]="RO"
+gksdud[꺡]="ROr"
+gksdud[꺢]="ROR"
+gksdud[꺣]="ROrt"
+gksdud[꺤]="ROs"
+gksdud[꺥]="ROsw"
+gksdud[꺦]="ROsg"
+gksdud[꺧]="ROe"
+gksdud[꺨]="ROf"
+gksdud[꺩]="ROfr"
+gksdud[꺪]="ROfa"
+gksdud[꺫]="ROfq"
+gksdud[꺬]="ROft"
+gksdud[꺭]="ROfx"
+gksdud[꺮]="ROfv"
+gksdud[꺯]="ROfg"
+gksdud[꺰]="ROa"
+gksdud[꺱]="ROq"
+gksdud[꺲]="ROqt"
+gksdud[꺳]="ROt"
+gksdud[꺴]="ROT"
+gksdud[꺵]="ROd"
+gksdud[꺶]="ROw"
+gksdud[꺷]="ROc"
+gksdud[꺸]="ROz"
+gksdud[꺹]="ROx"
+gksdud[꺺]="ROv"
+gksdud[꺻]="ROg"
+gksdud[꺼]="Rj"
+gksdud[꺽]="Rjr"
+gksdud[꺾]="RjR"
+gksdud[꺿]="Rjrt"
+gksdud[껀]="Rjs"
+gksdud[껁]="Rjsw"
+gksdud[껂]="Rjsg"
+gksdud[껃]="Rje"
+gksdud[껄]="Rjf"
+gksdud[껅]="Rjfr"
+gksdud[껆]="Rjfa"
+gksdud[껇]="Rjfq"
+gksdud[껈]="Rjft"
+gksdud[껉]="Rjfx"
+gksdud[껊]="Rjfv"
+gksdud[껋]="Rjfg"
+gksdud[껌]="Rja"
+gksdud[껍]="Rjq"
+gksdud[껎]="Rjqt"
+gksdud[껏]="Rjt"
+gksdud[껐]="RjT"
+gksdud[껑]="Rjd"
+gksdud[껒]="Rjw"
+gksdud[껓]="Rjc"
+gksdud[껔]="Rjz"
+gksdud[껕]="Rjx"
+gksdud[껖]="Rjv"
+gksdud[껗]="Rjg"
+gksdud[께]="Rp"
+gksdud[껙]="Rpr"
+gksdud[껚]="RpR"
+gksdud[껛]="Rprt"
+gksdud[껜]="Rps"
+gksdud[껝]="Rpsw"
+gksdud[껞]="Rpsg"
+gksdud[껟]="Rpe"
+gksdud[껠]="Rpf"
+gksdud[껡]="Rpfr"
+gksdud[껢]="Rpfa"
+gksdud[껣]="Rpfq"
+gksdud[껤]="Rpft"
+gksdud[껥]="Rpfx"
+gksdud[껦]="Rpfv"
+gksdud[껧]="Rpfg"
+gksdud[껨]="Rpa"
+gksdud[껩]="Rpq"
+gksdud[껪]="Rpqt"
+gksdud[껫]="Rpt"
+gksdud[껬]="RpT"
+gksdud[껭]="Rpd"
+gksdud[껮]="Rpw"
+gksdud[껯]="Rpc"
+gksdud[껰]="Rpz"
+gksdud[껱]="Rpx"
+gksdud[껲]="Rpv"
+gksdud[껳]="Rpg"
+gksdud[껴]="Ru"
+gksdud[껵]="Rur"
+gksdud[껶]="RuR"
+gksdud[껷]="Rurt"
+gksdud[껸]="Rus"
+gksdud[껹]="Rusw"
+gksdud[껺]="Rusg"
+gksdud[껻]="Rue"
+gksdud[껼]="Ruf"
+gksdud[껽]="Rufr"
+gksdud[껾]="Rufa"
+gksdud[껿]="Rufq"
+gksdud[꼀]="Ruft"
+gksdud[꼁]="Rufx"
+gksdud[꼂]="Rufv"
+gksdud[꼃]="Rufg"
+gksdud[꼄]="Rua"
+gksdud[꼅]="Ruq"
+gksdud[꼆]="Ruqt"
+gksdud[꼇]="Rut"
+gksdud[꼈]="RuT"
+gksdud[꼉]="Rud"
+gksdud[꼊]="Ruw"
+gksdud[꼋]="Ruc"
+gksdud[꼌]="Ruz"
+gksdud[꼍]="Rux"
+gksdud[꼎]="Ruv"
+gksdud[꼏]="Rug"
+gksdud[꼐]="RP"
+gksdud[꼑]="RPr"
+gksdud[꼒]="RPR"
+gksdud[꼓]="RPrt"
+gksdud[꼔]="RPs"
+gksdud[꼕]="RPsw"
+gksdud[꼖]="RPsg"
+gksdud[꼗]="RPe"
+gksdud[꼘]="RPf"
+gksdud[꼙]="RPfr"
+gksdud[꼚]="RPfa"
+gksdud[꼛]="RPfq"
+gksdud[꼜]="RPft"
+gksdud[꼝]="RPfx"
+gksdud[꼞]="RPfv"
+gksdud[꼟]="RPfg"
+gksdud[꼠]="RPa"
+gksdud[꼡]="RPq"
+gksdud[꼢]="RPqt"
+gksdud[꼣]="RPt"
+gksdud[꼤]="RPT"
+gksdud[꼥]="RPd"
+gksdud[꼦]="RPw"
+gksdud[꼧]="RPc"
+gksdud[꼨]="RPz"
+gksdud[꼩]="RPx"
+gksdud[꼪]="RPv"
+gksdud[꼫]="RPg"
+gksdud[꼬]="Rh"
+gksdud[꼭]="Rhr"
+gksdud[꼮]="RhR"
+gksdud[꼯]="Rhrt"
+gksdud[꼰]="Rhs"
+gksdud[꼱]="Rhsw"
+gksdud[꼲]="Rhsg"
+gksdud[꼳]="Rhe"
+gksdud[꼴]="Rhf"
+gksdud[꼵]="Rhfr"
+gksdud[꼶]="Rhfa"
+gksdud[꼷]="Rhfq"
+gksdud[꼸]="Rhft"
+gksdud[꼹]="Rhfx"
+gksdud[꼺]="Rhfv"
+gksdud[꼻]="Rhfg"
+gksdud[꼼]="Rha"
+gksdud[꼽]="Rhq"
+gksdud[꼾]="Rhqt"
+gksdud[꼿]="Rht"
+gksdud[꽀]="RhT"
+gksdud[꽁]="Rhd"
+gksdud[꽂]="Rhw"
+gksdud[꽃]="Rhc"
+gksdud[꽄]="Rhz"
+gksdud[꽅]="Rhx"
+gksdud[꽆]="Rhv"
+gksdud[꽇]="Rhg"
+gksdud[꽈]="Rhk"
+gksdud[꽉]="Rhkr"
+gksdud[꽊]="RhkR"
+gksdud[꽋]="Rhkrt"
+gksdud[꽌]="Rhks"
+gksdud[꽍]="Rhksw"
+gksdud[꽎]="Rhksg"
+gksdud[꽏]="Rhke"
+gksdud[꽐]="Rhkf"
+gksdud[꽑]="Rhkfr"
+gksdud[꽒]="Rhkfa"
+gksdud[꽓]="Rhkfq"
+gksdud[꽔]="Rhkft"
+gksdud[꽕]="Rhkfx"
+gksdud[꽖]="Rhkfv"
+gksdud[꽗]="Rhkfg"
+gksdud[꽘]="Rhka"
+gksdud[꽙]="Rhkq"
+gksdud[꽚]="Rhkqt"
+gksdud[꽛]="Rhkt"
+gksdud[꽜]="RhkT"
+gksdud[꽝]="Rhkd"
+gksdud[꽞]="Rhkw"
+gksdud[꽟]="Rhkc"
+gksdud[꽠]="Rhkz"
+gksdud[꽡]="Rhkx"
+gksdud[꽢]="Rhkv"
+gksdud[꽣]="Rhkg"
+gksdud[꽤]="Rho"
+gksdud[꽥]="Rhor"
+gksdud[꽦]="RhoR"
+gksdud[꽧]="Rhort"
+gksdud[꽨]="Rhos"
+gksdud[꽩]="Rhosw"
+gksdud[꽪]="Rhosg"
+gksdud[꽫]="Rhoe"
+gksdud[꽬]="Rhof"
+gksdud[꽭]="Rhofr"
+gksdud[꽮]="Rhofa"
+gksdud[꽯]="Rhofq"
+gksdud[꽰]="Rhoft"
+gksdud[꽱]="Rhofx"
+gksdud[꽲]="Rhofv"
+gksdud[꽳]="Rhofg"
+gksdud[꽴]="Rhoa"
+gksdud[꽵]="Rhoq"
+gksdud[꽶]="Rhoqt"
+gksdud[꽷]="Rhot"
+gksdud[꽸]="RhoT"
+gksdud[꽹]="Rhod"
+gksdud[꽺]="Rhow"
+gksdud[꽻]="Rhoc"
+gksdud[꽼]="Rhoz"
+gksdud[꽽]="Rhox"
+gksdud[꽾]="Rhov"
+gksdud[꽿]="Rhog"
+gksdud[꾀]="Rhl"
+gksdud[꾁]="Rhlr"
+gksdud[꾂]="RhlR"
+gksdud[꾃]="Rhlrt"
+gksdud[꾄]="Rhls"
+gksdud[꾅]="Rhlsw"
+gksdud[꾆]="Rhlsg"
+gksdud[꾇]="Rhle"
+gksdud[꾈]="Rhlf"
+gksdud[꾉]="Rhlfr"
+gksdud[꾊]="Rhlfa"
+gksdud[꾋]="Rhlfq"
+gksdud[꾌]="Rhlft"
+gksdud[꾍]="Rhlfx"
+gksdud[꾎]="Rhlfv"
+gksdud[꾏]="Rhlfg"
+gksdud[꾐]="Rhla"
+gksdud[꾑]="Rhlq"
+gksdud[꾒]="Rhlqt"
+gksdud[꾓]="Rhlt"
+gksdud[꾔]="RhlT"
+gksdud[꾕]="Rhld"
+gksdud[꾖]="Rhlw"
+gksdud[꾗]="Rhlc"
+gksdud[꾘]="Rhlz"
+gksdud[꾙]="Rhlx"
+gksdud[꾚]="Rhlv"
+gksdud[꾛]="Rhlg"
+gksdud[꾜]="Ry"
+gksdud[꾝]="Ryr"
+gksdud[꾞]="RyR"
+gksdud[꾟]="Ryrt"
+gksdud[꾠]="Rys"
+gksdud[꾡]="Rysw"
+gksdud[꾢]="Rysg"
+gksdud[꾣]="Rye"
+gksdud[꾤]="Ryf"
+gksdud[꾥]="Ryfr"
+gksdud[꾦]="Ryfa"
+gksdud[꾧]="Ryfq"
+gksdud[꾨]="Ryft"
+gksdud[꾩]="Ryfx"
+gksdud[꾪]="Ryfv"
+gksdud[꾫]="Ryfg"
+gksdud[꾬]="Rya"
+gksdud[꾭]="Ryq"
+gksdud[꾮]="Ryqt"
+gksdud[꾯]="Ryt"
+gksdud[꾰]="RyT"
+gksdud[꾱]="Ryd"
+gksdud[꾲]="Ryw"
+gksdud[꾳]="Ryc"
+gksdud[꾴]="Ryz"
+gksdud[꾵]="Ryx"
+gksdud[꾶]="Ryv"
+gksdud[꾷]="Ryg"
+gksdud[꾸]="Rn"
+gksdud[꾹]="Rnr"
+gksdud[꾺]="RnR"
+gksdud[꾻]="Rnrt"
+gksdud[꾼]="Rns"
+gksdud[꾽]="Rnsw"
+gksdud[꾾]="Rnsg"
+gksdud[꾿]="Rne"
+gksdud[꿀]="Rnf"
+gksdud[꿁]="Rnfr"
+gksdud[꿂]="Rnfa"
+gksdud[꿃]="Rnfq"
+gksdud[꿄]="Rnft"
+gksdud[꿅]="Rnfx"
+gksdud[꿆]="Rnfv"
+gksdud[꿇]="Rnfg"
+gksdud[꿈]="Rna"
+gksdud[꿉]="Rnq"
+gksdud[꿊]="Rnqt"
+gksdud[꿋]="Rnt"
+gksdud[꿌]="RnT"
+gksdud[꿍]="Rnd"
+gksdud[꿎]="Rnw"
+gksdud[꿏]="Rnc"
+gksdud[꿐]="Rnz"
+gksdud[꿑]="Rnx"
+gksdud[꿒]="Rnv"
+gksdud[꿓]="Rng"
+gksdud[꿔]="Rnj"
+gksdud[꿕]="Rnjr"
+gksdud[꿖]="RnjR"
+gksdud[꿗]="Rnjrt"
+gksdud[꿘]="Rnjs"
+gksdud[꿙]="Rnjsw"
+gksdud[꿚]="Rnjsg"
+gksdud[꿛]="Rnje"
+gksdud[꿜]="Rnjf"
+gksdud[꿝]="Rnjfr"
+gksdud[꿞]="Rnjfa"
+gksdud[꿟]="Rnjfq"
+gksdud[꿠]="Rnjft"
+gksdud[꿡]="Rnjfx"
+gksdud[꿢]="Rnjfv"
+gksdud[꿣]="Rnjfg"
+gksdud[꿤]="Rnja"
+gksdud[꿥]="Rnjq"
+gksdud[꿦]="Rnjqt"
+gksdud[꿧]="Rnjt"
+gksdud[꿨]="RnjT"
+gksdud[꿩]="Rnjd"
+gksdud[꿪]="Rnjw"
+gksdud[꿫]="Rnjc"
+gksdud[꿬]="Rnjz"
+gksdud[꿭]="Rnjx"
+gksdud[꿮]="Rnjv"
+gksdud[꿯]="Rnjg"
+gksdud[꿰]="Rnp"
+gksdud[꿱]="Rnpr"
+gksdud[꿲]="RnpR"
+gksdud[꿳]="Rnprt"
+gksdud[꿴]="Rnps"
+gksdud[꿵]="Rnpsw"
+gksdud[꿶]="Rnpsg"
+gksdud[꿷]="Rnpe"
+gksdud[꿸]="Rnpf"
+gksdud[꿹]="Rnpfr"
+gksdud[꿺]="Rnpfa"
+gksdud[꿻]="Rnpfq"
+gksdud[꿼]="Rnpft"
+gksdud[꿽]="Rnpfx"
+gksdud[꿾]="Rnpfv"
+gksdud[꿿]="Rnpfg"
+gksdud[뀀]="Rnpa"
+gksdud[뀁]="Rnpq"
+gksdud[뀂]="Rnpqt"
+gksdud[뀃]="Rnpt"
+gksdud[뀄]="RnpT"
+gksdud[뀅]="Rnpd"
+gksdud[뀆]="Rnpw"
+gksdud[뀇]="Rnpc"
+gksdud[뀈]="Rnpz"
+gksdud[뀉]="Rnpx"
+gksdud[뀊]="Rnpv"
+gksdud[뀋]="Rnpg"
+gksdud[뀌]="Rnl"
+gksdud[뀍]="Rnlr"
+gksdud[뀎]="RnlR"
+gksdud[뀏]="Rnlrt"
+gksdud[뀐]="Rnls"
+gksdud[뀑]="Rnlsw"
+gksdud[뀒]="Rnlsg"
+gksdud[뀓]="Rnle"
+gksdud[뀔]="Rnlf"
+gksdud[뀕]="Rnlfr"
+gksdud[뀖]="Rnlfa"
+gksdud[뀗]="Rnlfq"
+gksdud[뀘]="Rnlft"
+gksdud[뀙]="Rnlfx"
+gksdud[뀚]="Rnlfv"
+gksdud[뀛]="Rnlfg"
+gksdud[뀜]="Rnla"
+gksdud[뀝]="Rnlq"
+gksdud[뀞]="Rnlqt"
+gksdud[뀟]="Rnlt"
+gksdud[뀠]="RnlT"
+gksdud[뀡]="Rnld"
+gksdud[뀢]="Rnlw"
+gksdud[뀣]="Rnlc"
+gksdud[뀤]="Rnlz"
+gksdud[뀥]="Rnlx"
+gksdud[뀦]="Rnlv"
+gksdud[뀧]="Rnlg"
+gksdud[뀨]="Rb"
+gksdud[뀩]="Rbr"
+gksdud[뀪]="RbR"
+gksdud[뀫]="Rbrt"
+gksdud[뀬]="Rbs"
+gksdud[뀭]="Rbsw"
+gksdud[뀮]="Rbsg"
+gksdud[뀯]="Rbe"
+gksdud[뀰]="Rbf"
+gksdud[뀱]="Rbfr"
+gksdud[뀲]="Rbfa"
+gksdud[뀳]="Rbfq"
+gksdud[뀴]="Rbft"
+gksdud[뀵]="Rbfx"
+gksdud[뀶]="Rbfv"
+gksdud[뀷]="Rbfg"
+gksdud[뀸]="Rba"
+gksdud[뀹]="Rbq"
+gksdud[뀺]="Rbqt"
+gksdud[뀻]="Rbt"
+gksdud[뀼]="RbT"
+gksdud[뀽]="Rbd"
+gksdud[뀾]="Rbw"
+gksdud[뀿]="Rbc"
+gksdud[끀]="Rbz"
+gksdud[끁]="Rbx"
+gksdud[끂]="Rbv"
+gksdud[끃]="Rbg"
+gksdud[끄]="Rm"
+gksdud[끅]="Rmr"
+gksdud[끆]="RmR"
+gksdud[끇]="Rmrt"
+gksdud[끈]="Rms"
+gksdud[끉]="Rmsw"
+gksdud[끊]="Rmsg"
+gksdud[끋]="Rme"
+gksdud[끌]="Rmf"
+gksdud[끍]="Rmfr"
+gksdud[끎]="Rmfa"
+gksdud[끏]="Rmfq"
+gksdud[끐]="Rmft"
+gksdud[끑]="Rmfx"
+gksdud[끒]="Rmfv"
+gksdud[끓]="Rmfg"
+gksdud[끔]="Rma"
+gksdud[끕]="Rmq"
+gksdud[끖]="Rmqt"
+gksdud[끗]="Rmt"
+gksdud[끘]="RmT"
+gksdud[끙]="Rmd"
+gksdud[끚]="Rmw"
+gksdud[끛]="Rmc"
+gksdud[끜]="Rmz"
+gksdud[끝]="Rmx"
+gksdud[끞]="Rmv"
+gksdud[끟]="Rmg"
+gksdud[끠]="Rml"
+gksdud[끡]="Rmlr"
+gksdud[끢]="RmlR"
+gksdud[끣]="Rmlrt"
+gksdud[끤]="Rmls"
+gksdud[끥]="Rmlsw"
+gksdud[끦]="Rmlsg"
+gksdud[끧]="Rmle"
+gksdud[끨]="Rmlf"
+gksdud[끩]="Rmlfr"
+gksdud[끪]="Rmlfa"
+gksdud[끫]="Rmlfq"
+gksdud[끬]="Rmlft"
+gksdud[끭]="Rmlfx"
+gksdud[끮]="Rmlfv"
+gksdud[끯]="Rmlfg"
+gksdud[끰]="Rmla"
+gksdud[끱]="Rmlq"
+gksdud[끲]="Rmlqt"
+gksdud[끳]="Rmlt"
+gksdud[끴]="RmlT"
+gksdud[끵]="Rmld"
+gksdud[끶]="Rmlw"
+gksdud[끷]="Rmlc"
+gksdud[끸]="Rmlz"
+gksdud[끹]="Rmlx"
+gksdud[끺]="Rmlv"
+gksdud[끻]="Rmlg"
+gksdud[끼]="Rl"
+gksdud[끽]="Rlr"
+gksdud[끾]="RlR"
+gksdud[끿]="Rlrt"
+gksdud[낀]="Rls"
+gksdud[낁]="Rlsw"
+gksdud[낂]="Rlsg"
+gksdud[낃]="Rle"
+gksdud[낄]="Rlf"
+gksdud[낅]="Rlfr"
+gksdud[낆]="Rlfa"
+gksdud[낇]="Rlfq"
+gksdud[낈]="Rlft"
+gksdud[낉]="Rlfx"
+gksdud[낊]="Rlfv"
+gksdud[낋]="Rlfg"
+gksdud[낌]="Rla"
+gksdud[낍]="Rlq"
+gksdud[낎]="Rlqt"
+gksdud[낏]="Rlt"
+gksdud[낐]="RlT"
+gksdud[낑]="Rld"
+gksdud[낒]="Rlw"
+gksdud[낓]="Rlc"
+gksdud[낔]="Rlz"
+gksdud[낕]="Rlx"
+gksdud[낖]="Rlv"
+gksdud[낗]="Rlg"
+gksdud[나]="sk"
+gksdud[낙]="skr"
+gksdud[낚]="skR"
+gksdud[낛]="skrt"
+gksdud[난]="sks"
+gksdud[낝]="sksw"
+gksdud[낞]="sksg"
+gksdud[낟]="ske"
+gksdud[날]="skf"
+gksdud[낡]="skfr"
+gksdud[낢]="skfa"
+gksdud[낣]="skfq"
+gksdud[낤]="skft"
+gksdud[낥]="skfx"
+gksdud[낦]="skfv"
+gksdud[낧]="skfg"
+gksdud[남]="ska"
+gksdud[납]="skq"
+gksdud[낪]="skqt"
+gksdud[낫]="skt"
+gksdud[났]="skT"
+gksdud[낭]="skd"
+gksdud[낮]="skw"
+gksdud[낯]="skc"
+gksdud[낰]="skz"
+gksdud[낱]="skx"
+gksdud[낲]="skv"
+gksdud[낳]="skg"
+gksdud[내]="so"
+gksdud[낵]="sor"
+gksdud[낶]="soR"
+gksdud[낷]="sort"
+gksdud[낸]="sos"
+gksdud[낹]="sosw"
+gksdud[낺]="sosg"
+gksdud[낻]="soe"
+gksdud[낼]="sof"
+gksdud[낽]="sofr"
+gksdud[낾]="sofa"
+gksdud[낿]="sofq"
+gksdud[냀]="soft"
+gksdud[냁]="sofx"
+gksdud[냂]="sofv"
+gksdud[냃]="sofg"
+gksdud[냄]="soa"
+gksdud[냅]="soq"
+gksdud[냆]="soqt"
+gksdud[냇]="sot"
+gksdud[냈]="soT"
+gksdud[냉]="sod"
+gksdud[냊]="sow"
+gksdud[냋]="soc"
+gksdud[냌]="soz"
+gksdud[냍]="sox"
+gksdud[냎]="sov"
+gksdud[냏]="sog"
+gksdud[냐]="si"
+gksdud[냑]="sir"
+gksdud[냒]="siR"
+gksdud[냓]="sirt"
+gksdud[냔]="sis"
+gksdud[냕]="sisw"
+gksdud[냖]="sisg"
+gksdud[냗]="sie"
+gksdud[냘]="sif"
+gksdud[냙]="sifr"
+gksdud[냚]="sifa"
+gksdud[냛]="sifq"
+gksdud[냜]="sift"
+gksdud[냝]="sifx"
+gksdud[냞]="sifv"
+gksdud[냟]="sifg"
+gksdud[냠]="sia"
+gksdud[냡]="siq"
+gksdud[냢]="siqt"
+gksdud[냣]="sit"
+gksdud[냤]="siT"
+gksdud[냥]="sid"
+gksdud[냦]="siw"
+gksdud[냧]="sic"
+gksdud[냨]="siz"
+gksdud[냩]="six"
+gksdud[냪]="siv"
+gksdud[냫]="sig"
+gksdud[냬]="sO"
+gksdud[냭]="sOr"
+gksdud[냮]="sOR"
+gksdud[냯]="sOrt"
+gksdud[냰]="sOs"
+gksdud[냱]="sOsw"
+gksdud[냲]="sOsg"
+gksdud[냳]="sOe"
+gksdud[냴]="sOf"
+gksdud[냵]="sOfr"
+gksdud[냶]="sOfa"
+gksdud[냷]="sOfq"
+gksdud[냸]="sOft"
+gksdud[냹]="sOfx"
+gksdud[냺]="sOfv"
+gksdud[냻]="sOfg"
+gksdud[냼]="sOa"
+gksdud[냽]="sOq"
+gksdud[냾]="sOqt"
+gksdud[냿]="sOt"
+gksdud[넀]="sOT"
+gksdud[넁]="sOd"
+gksdud[넂]="sOw"
+gksdud[넃]="sOc"
+gksdud[넄]="sOz"
+gksdud[넅]="sOx"
+gksdud[넆]="sOv"
+gksdud[넇]="sOg"
+gksdud[너]="sj"
+gksdud[넉]="sjr"
+gksdud[넊]="sjR"
+gksdud[넋]="sjrt"
+gksdud[넌]="sjs"
+gksdud[넍]="sjsw"
+gksdud[넎]="sjsg"
+gksdud[넏]="sje"
+gksdud[널]="sjf"
+gksdud[넑]="sjfr"
+gksdud[넒]="sjfa"
+gksdud[넓]="sjfq"
+gksdud[넔]="sjft"
+gksdud[넕]="sjfx"
+gksdud[넖]="sjfv"
+gksdud[넗]="sjfg"
+gksdud[넘]="sja"
+gksdud[넙]="sjq"
+gksdud[넚]="sjqt"
+gksdud[넛]="sjt"
+gksdud[넜]="sjT"
+gksdud[넝]="sjd"
+gksdud[넞]="sjw"
+gksdud[넟]="sjc"
+gksdud[넠]="sjz"
+gksdud[넡]="sjx"
+gksdud[넢]="sjv"
+gksdud[넣]="sjg"
+gksdud[네]="sp"
+gksdud[넥]="spr"
+gksdud[넦]="spR"
+gksdud[넧]="sprt"
+gksdud[넨]="sps"
+gksdud[넩]="spsw"
+gksdud[넪]="spsg"
+gksdud[넫]="spe"
+gksdud[넬]="spf"
+gksdud[넭]="spfr"
+gksdud[넮]="spfa"
+gksdud[넯]="spfq"
+gksdud[넰]="spft"
+gksdud[넱]="spfx"
+gksdud[넲]="spfv"
+gksdud[넳]="spfg"
+gksdud[넴]="spa"
+gksdud[넵]="spq"
+gksdud[넶]="spqt"
+gksdud[넷]="spt"
+gksdud[넸]="spT"
+gksdud[넹]="spd"
+gksdud[넺]="spw"
+gksdud[넻]="spc"
+gksdud[넼]="spz"
+gksdud[넽]="spx"
+gksdud[넾]="spv"
+gksdud[넿]="spg"
+gksdud[녀]="su"
+gksdud[녁]="sur"
+gksdud[녂]="suR"
+gksdud[녃]="surt"
+gksdud[년]="sus"
+gksdud[녅]="susw"
+gksdud[녆]="susg"
+gksdud[녇]="sue"
+gksdud[녈]="suf"
+gksdud[녉]="sufr"
+gksdud[녊]="sufa"
+gksdud[녋]="sufq"
+gksdud[녌]="suft"
+gksdud[녍]="sufx"
+gksdud[녎]="sufv"
+gksdud[녏]="sufg"
+gksdud[념]="sua"
+gksdud[녑]="suq"
+gksdud[녒]="suqt"
+gksdud[녓]="sut"
+gksdud[녔]="suT"
+gksdud[녕]="sud"
+gksdud[녖]="suw"
+gksdud[녗]="suc"
+gksdud[녘]="suz"
+gksdud[녙]="sux"
+gksdud[녚]="suv"
+gksdud[녛]="sug"
+gksdud[녜]="sP"
+gksdud[녝]="sPr"
+gksdud[녞]="sPR"
+gksdud[녟]="sPrt"
+gksdud[녠]="sPs"
+gksdud[녡]="sPsw"
+gksdud[녢]="sPsg"
+gksdud[녣]="sPe"
+gksdud[녤]="sPf"
+gksdud[녥]="sPfr"
+gksdud[녦]="sPfa"
+gksdud[녧]="sPfq"
+gksdud[녨]="sPft"
+gksdud[녩]="sPfx"
+gksdud[녪]="sPfv"
+gksdud[녫]="sPfg"
+gksdud[녬]="sPa"
+gksdud[녭]="sPq"
+gksdud[녮]="sPqt"
+gksdud[녯]="sPt"
+gksdud[녰]="sPT"
+gksdud[녱]="sPd"
+gksdud[녲]="sPw"
+gksdud[녳]="sPc"
+gksdud[녴]="sPz"
+gksdud[녵]="sPx"
+gksdud[녶]="sPv"
+gksdud[녷]="sPg"
+gksdud[노]="sh"
+gksdud[녹]="shr"
+gksdud[녺]="shR"
+gksdud[녻]="shrt"
+gksdud[논]="shs"
+gksdud[녽]="shsw"
+gksdud[녾]="shsg"
+gksdud[녿]="she"
+gksdud[놀]="shf"
+gksdud[놁]="shfr"
+gksdud[놂]="shfa"
+gksdud[놃]="shfq"
+gksdud[놄]="shft"
+gksdud[놅]="shfx"
+gksdud[놆]="shfv"
+gksdud[놇]="shfg"
+gksdud[놈]="sha"
+gksdud[놉]="shq"
+gksdud[놊]="shqt"
+gksdud[놋]="sht"
+gksdud[놌]="shT"
+gksdud[농]="shd"
+gksdud[놎]="shw"
+gksdud[놏]="shc"
+gksdud[놐]="shz"
+gksdud[놑]="shx"
+gksdud[높]="shv"
+gksdud[놓]="shg"
+gksdud[놔]="shk"
+gksdud[놕]="shkr"
+gksdud[놖]="shkR"
+gksdud[놗]="shkrt"
+gksdud[놘]="shks"
+gksdud[놙]="shksw"
+gksdud[놚]="shksg"
+gksdud[놛]="shke"
+gksdud[놜]="shkf"
+gksdud[놝]="shkfr"
+gksdud[놞]="shkfa"
+gksdud[놟]="shkfq"
+gksdud[놠]="shkft"
+gksdud[놡]="shkfx"
+gksdud[놢]="shkfv"
+gksdud[놣]="shkfg"
+gksdud[놤]="shka"
+gksdud[놥]="shkq"
+gksdud[놦]="shkqt"
+gksdud[놧]="shkt"
+gksdud[놨]="shkT"
+gksdud[놩]="shkd"
+gksdud[놪]="shkw"
+gksdud[놫]="shkc"
+gksdud[놬]="shkz"
+gksdud[놭]="shkx"
+gksdud[놮]="shkv"
+gksdud[놯]="shkg"
+gksdud[놰]="sho"
+gksdud[놱]="shor"
+gksdud[놲]="shoR"
+gksdud[놳]="short"
+gksdud[놴]="shos"
+gksdud[놵]="shosw"
+gksdud[놶]="shosg"
+gksdud[놷]="shoe"
+gksdud[놸]="shof"
+gksdud[놹]="shofr"
+gksdud[놺]="shofa"
+gksdud[놻]="shofq"
+gksdud[놼]="shoft"
+gksdud[놽]="shofx"
+gksdud[놾]="shofv"
+gksdud[놿]="shofg"
+gksdud[뇀]="shoa"
+gksdud[뇁]="shoq"
+gksdud[뇂]="shoqt"
+gksdud[뇃]="shot"
+gksdud[뇄]="shoT"
+gksdud[뇅]="shod"
+gksdud[뇆]="show"
+gksdud[뇇]="shoc"
+gksdud[뇈]="shoz"
+gksdud[뇉]="shox"
+gksdud[뇊]="shov"
+gksdud[뇋]="shog"
+gksdud[뇌]="shl"
+gksdud[뇍]="shlr"
+gksdud[뇎]="shlR"
+gksdud[뇏]="shlrt"
+gksdud[뇐]="shls"
+gksdud[뇑]="shlsw"
+gksdud[뇒]="shlsg"
+gksdud[뇓]="shle"
+gksdud[뇔]="shlf"
+gksdud[뇕]="shlfr"
+gksdud[뇖]="shlfa"
+gksdud[뇗]="shlfq"
+gksdud[뇘]="shlft"
+gksdud[뇙]="shlfx"
+gksdud[뇚]="shlfv"
+gksdud[뇛]="shlfg"
+gksdud[뇜]="shla"
+gksdud[뇝]="shlq"
+gksdud[뇞]="shlqt"
+gksdud[뇟]="shlt"
+gksdud[뇠]="shlT"
+gksdud[뇡]="shld"
+gksdud[뇢]="shlw"
+gksdud[뇣]="shlc"
+gksdud[뇤]="shlz"
+gksdud[뇥]="shlx"
+gksdud[뇦]="shlv"
+gksdud[뇧]="shlg"
+gksdud[뇨]="sy"
+gksdud[뇩]="syr"
+gksdud[뇪]="syR"
+gksdud[뇫]="syrt"
+gksdud[뇬]="sys"
+gksdud[뇭]="sysw"
+gksdud[뇮]="sysg"
+gksdud[뇯]="sye"
+gksdud[뇰]="syf"
+gksdud[뇱]="syfr"
+gksdud[뇲]="syfa"
+gksdud[뇳]="syfq"
+gksdud[뇴]="syft"
+gksdud[뇵]="syfx"
+gksdud[뇶]="syfv"
+gksdud[뇷]="syfg"
+gksdud[뇸]="sya"
+gksdud[뇹]="syq"
+gksdud[뇺]="syqt"
+gksdud[뇻]="syt"
+gksdud[뇼]="syT"
+gksdud[뇽]="syd"
+gksdud[뇾]="syw"
+gksdud[뇿]="syc"
+gksdud[눀]="syz"
+gksdud[눁]="syx"
+gksdud[눂]="syv"
+gksdud[눃]="syg"
+gksdud[누]="sn"
+gksdud[눅]="snr"
+gksdud[눆]="snR"
+gksdud[눇]="snrt"
+gksdud[눈]="sns"
+gksdud[눉]="snsw"
+gksdud[눊]="snsg"
+gksdud[눋]="sne"
+gksdud[눌]="snf"
+gksdud[눍]="snfr"
+gksdud[눎]="snfa"
+gksdud[눏]="snfq"
+gksdud[눐]="snft"
+gksdud[눑]="snfx"
+gksdud[눒]="snfv"
+gksdud[눓]="snfg"
+gksdud[눔]="sna"
+gksdud[눕]="snq"
+gksdud[눖]="snqt"
+gksdud[눗]="snt"
+gksdud[눘]="snT"
+gksdud[눙]="snd"
+gksdud[눚]="snw"
+gksdud[눛]="snc"
+gksdud[눜]="snz"
+gksdud[눝]="snx"
+gksdud[눞]="snv"
+gksdud[눟]="sng"
+gksdud[눠]="snj"
+gksdud[눡]="snjr"
+gksdud[눢]="snjR"
+gksdud[눣]="snjrt"
+gksdud[눤]="snjs"
+gksdud[눥]="snjsw"
+gksdud[눦]="snjsg"
+gksdud[눧]="snje"
+gksdud[눨]="snjf"
+gksdud[눩]="snjfr"
+gksdud[눪]="snjfa"
+gksdud[눫]="snjfq"
+gksdud[눬]="snjft"
+gksdud[눭]="snjfx"
+gksdud[눮]="snjfv"
+gksdud[눯]="snjfg"
+gksdud[눰]="snja"
+gksdud[눱]="snjq"
+gksdud[눲]="snjqt"
+gksdud[눳]="snjt"
+gksdud[눴]="snjT"
+gksdud[눵]="snjd"
+gksdud[눶]="snjw"
+gksdud[눷]="snjc"
+gksdud[눸]="snjz"
+gksdud[눹]="snjx"
+gksdud[눺]="snjv"
+gksdud[눻]="snjg"
+gksdud[눼]="snp"
+gksdud[눽]="snpr"
+gksdud[눾]="snpR"
+gksdud[눿]="snprt"
+gksdud[뉀]="snps"
+gksdud[뉁]="snpsw"
+gksdud[뉂]="snpsg"
+gksdud[뉃]="snpe"
+gksdud[뉄]="snpf"
+gksdud[뉅]="snpfr"
+gksdud[뉆]="snpfa"
+gksdud[뉇]="snpfq"
+gksdud[뉈]="snpft"
+gksdud[뉉]="snpfx"
+gksdud[뉊]="snpfv"
+gksdud[뉋]="snpfg"
+gksdud[뉌]="snpa"
+gksdud[뉍]="snpq"
+gksdud[뉎]="snpqt"
+gksdud[뉏]="snpt"
+gksdud[뉐]="snpT"
+gksdud[뉑]="snpd"
+gksdud[뉒]="snpw"
+gksdud[뉓]="snpc"
+gksdud[뉔]="snpz"
+gksdud[뉕]="snpx"
+gksdud[뉖]="snpv"
+gksdud[뉗]="snpg"
+gksdud[뉘]="snl"
+gksdud[뉙]="snlr"
+gksdud[뉚]="snlR"
+gksdud[뉛]="snlrt"
+gksdud[뉜]="snls"
+gksdud[뉝]="snlsw"
+gksdud[뉞]="snlsg"
+gksdud[뉟]="snle"
+gksdud[뉠]="snlf"
+gksdud[뉡]="snlfr"
+gksdud[뉢]="snlfa"
+gksdud[뉣]="snlfq"
+gksdud[뉤]="snlft"
+gksdud[뉥]="snlfx"
+gksdud[뉦]="snlfv"
+gksdud[뉧]="snlfg"
+gksdud[뉨]="snla"
+gksdud[뉩]="snlq"
+gksdud[뉪]="snlqt"
+gksdud[뉫]="snlt"
+gksdud[뉬]="snlT"
+gksdud[뉭]="snld"
+gksdud[뉮]="snlw"
+gksdud[뉯]="snlc"
+gksdud[뉰]="snlz"
+gksdud[뉱]="snlx"
+gksdud[뉲]="snlv"
+gksdud[뉳]="snlg"
+gksdud[뉴]="sb"
+gksdud[뉵]="sbr"
+gksdud[뉶]="sbR"
+gksdud[뉷]="sbrt"
+gksdud[뉸]="sbs"
+gksdud[뉹]="sbsw"
+gksdud[뉺]="sbsg"
+gksdud[뉻]="sbe"
+gksdud[뉼]="sbf"
+gksdud[뉽]="sbfr"
+gksdud[뉾]="sbfa"
+gksdud[뉿]="sbfq"
+gksdud[늀]="sbft"
+gksdud[늁]="sbfx"
+gksdud[늂]="sbfv"
+gksdud[늃]="sbfg"
+gksdud[늄]="sba"
+gksdud[늅]="sbq"
+gksdud[늆]="sbqt"
+gksdud[늇]="sbt"
+gksdud[늈]="sbT"
+gksdud[늉]="sbd"
+gksdud[늊]="sbw"
+gksdud[늋]="sbc"
+gksdud[늌]="sbz"
+gksdud[늍]="sbx"
+gksdud[늎]="sbv"
+gksdud[늏]="sbg"
+gksdud[느]="sm"
+gksdud[늑]="smr"
+gksdud[늒]="smR"
+gksdud[늓]="smrt"
+gksdud[는]="sms"
+gksdud[늕]="smsw"
+gksdud[늖]="smsg"
+gksdud[늗]="sme"
+gksdud[늘]="smf"
+gksdud[늙]="smfr"
+gksdud[늚]="smfa"
+gksdud[늛]="smfq"
+gksdud[늜]="smft"
+gksdud[늝]="smfx"
+gksdud[늞]="smfv"
+gksdud[늟]="smfg"
+gksdud[늠]="sma"
+gksdud[늡]="smq"
+gksdud[늢]="smqt"
+gksdud[늣]="smt"
+gksdud[늤]="smT"
+gksdud[능]="smd"
+gksdud[늦]="smw"
+gksdud[늧]="smc"
+gksdud[늨]="smz"
+gksdud[늩]="smx"
+gksdud[늪]="smv"
+gksdud[늫]="smg"
+gksdud[늬]="sml"
+gksdud[늭]="smlr"
+gksdud[늮]="smlR"
+gksdud[늯]="smlrt"
+gksdud[늰]="smls"
+gksdud[늱]="smlsw"
+gksdud[늲]="smlsg"
+gksdud[늳]="smle"
+gksdud[늴]="smlf"
+gksdud[늵]="smlfr"
+gksdud[늶]="smlfa"
+gksdud[늷]="smlfq"
+gksdud[늸]="smlft"
+gksdud[늹]="smlfx"
+gksdud[늺]="smlfv"
+gksdud[늻]="smlfg"
+gksdud[늼]="smla"
+gksdud[늽]="smlq"
+gksdud[늾]="smlqt"
+gksdud[늿]="smlt"
+gksdud[닀]="smlT"
+gksdud[닁]="smld"
+gksdud[닂]="smlw"
+gksdud[닃]="smlc"
+gksdud[닄]="smlz"
+gksdud[닅]="smlx"
+gksdud[닆]="smlv"
+gksdud[닇]="smlg"
+gksdud[니]="sl"
+gksdud[닉]="slr"
+gksdud[닊]="slR"
+gksdud[닋]="slrt"
+gksdud[닌]="sls"
+gksdud[닍]="slsw"
+gksdud[닎]="slsg"
+gksdud[닏]="sle"
+gksdud[닐]="slf"
+gksdud[닑]="slfr"
+gksdud[닒]="slfa"
+gksdud[닓]="slfq"
+gksdud[닔]="slft"
+gksdud[닕]="slfx"
+gksdud[닖]="slfv"
+gksdud[닗]="slfg"
+gksdud[님]="sla"
+gksdud[닙]="slq"
+gksdud[닚]="slqt"
+gksdud[닛]="slt"
+gksdud[닜]="slT"
+gksdud[닝]="sld"
+gksdud[닞]="slw"
+gksdud[닟]="slc"
+gksdud[닠]="slz"
+gksdud[닡]="slx"
+gksdud[닢]="slv"
+gksdud[닣]="slg"
+gksdud[다]="ek"
+gksdud[닥]="ekr"
+gksdud[닦]="ekR"
+gksdud[닧]="ekrt"
+gksdud[단]="eks"
+gksdud[닩]="eksw"
+gksdud[닪]="eksg"
+gksdud[닫]="eke"
+gksdud[달]="ekf"
+gksdud[닭]="ekfr"
+gksdud[닮]="ekfa"
+gksdud[닯]="ekfq"
+gksdud[닰]="ekft"
+gksdud[닱]="ekfx"
+gksdud[닲]="ekfv"
+gksdud[닳]="ekfg"
+gksdud[담]="eka"
+gksdud[답]="ekq"
+gksdud[닶]="ekqt"
+gksdud[닷]="ekt"
+gksdud[닸]="ekT"
+gksdud[당]="ekd"
+gksdud[닺]="ekw"
+gksdud[닻]="ekc"
+gksdud[닼]="ekz"
+gksdud[닽]="ekx"
+gksdud[닾]="ekv"
+gksdud[닿]="ekg"
+gksdud[대]="eo"
+gksdud[댁]="eor"
+gksdud[댂]="eoR"
+gksdud[댃]="eort"
+gksdud[댄]="eos"
+gksdud[댅]="eosw"
+gksdud[댆]="eosg"
+gksdud[댇]="eoe"
+gksdud[댈]="eof"
+gksdud[댉]="eofr"
+gksdud[댊]="eofa"
+gksdud[댋]="eofq"
+gksdud[댌]="eoft"
+gksdud[댍]="eofx"
+gksdud[댎]="eofv"
+gksdud[댏]="eofg"
+gksdud[댐]="eoa"
+gksdud[댑]="eoq"
+gksdud[댒]="eoqt"
+gksdud[댓]="eot"
+gksdud[댔]="eoT"
+gksdud[댕]="eod"
+gksdud[댖]="eow"
+gksdud[댗]="eoc"
+gksdud[댘]="eoz"
+gksdud[댙]="eox"
+gksdud[댚]="eov"
+gksdud[댛]="eog"
+gksdud[댜]="ei"
+gksdud[댝]="eir"
+gksdud[댞]="eiR"
+gksdud[댟]="eirt"
+gksdud[댠]="eis"
+gksdud[댡]="eisw"
+gksdud[댢]="eisg"
+gksdud[댣]="eie"
+gksdud[댤]="eif"
+gksdud[댥]="eifr"
+gksdud[댦]="eifa"
+gksdud[댧]="eifq"
+gksdud[댨]="eift"
+gksdud[댩]="eifx"
+gksdud[댪]="eifv"
+gksdud[댫]="eifg"
+gksdud[댬]="eia"
+gksdud[댭]="eiq"
+gksdud[댮]="eiqt"
+gksdud[댯]="eit"
+gksdud[댰]="eiT"
+gksdud[댱]="eid"
+gksdud[댲]="eiw"
+gksdud[댳]="eic"
+gksdud[댴]="eiz"
+gksdud[댵]="eix"
+gksdud[댶]="eiv"
+gksdud[댷]="eig"
+gksdud[댸]="eO"
+gksdud[댹]="eOr"
+gksdud[댺]="eOR"
+gksdud[댻]="eOrt"
+gksdud[댼]="eOs"
+gksdud[댽]="eOsw"
+gksdud[댾]="eOsg"
+gksdud[댿]="eOe"
+gksdud[덀]="eOf"
+gksdud[덁]="eOfr"
+gksdud[덂]="eOfa"
+gksdud[덃]="eOfq"
+gksdud[덄]="eOft"
+gksdud[덅]="eOfx"
+gksdud[덆]="eOfv"
+gksdud[덇]="eOfg"
+gksdud[덈]="eOa"
+gksdud[덉]="eOq"
+gksdud[덊]="eOqt"
+gksdud[덋]="eOt"
+gksdud[덌]="eOT"
+gksdud[덍]="eOd"
+gksdud[덎]="eOw"
+gksdud[덏]="eOc"
+gksdud[덐]="eOz"
+gksdud[덑]="eOx"
+gksdud[덒]="eOv"
+gksdud[덓]="eOg"
+gksdud[더]="ej"
+gksdud[덕]="ejr"
+gksdud[덖]="ejR"
+gksdud[덗]="ejrt"
+gksdud[던]="ejs"
+gksdud[덙]="ejsw"
+gksdud[덚]="ejsg"
+gksdud[덛]="eje"
+gksdud[덜]="ejf"
+gksdud[덝]="ejfr"
+gksdud[덞]="ejfa"
+gksdud[덟]="ejfq"
+gksdud[덠]="ejft"
+gksdud[덡]="ejfx"
+gksdud[덢]="ejfv"
+gksdud[덣]="ejfg"
+gksdud[덤]="eja"
+gksdud[덥]="ejq"
+gksdud[덦]="ejqt"
+gksdud[덧]="ejt"
+gksdud[덨]="ejT"
+gksdud[덩]="ejd"
+gksdud[덪]="ejw"
+gksdud[덫]="ejc"
+gksdud[덬]="ejz"
+gksdud[덭]="ejx"
+gksdud[덮]="ejv"
+gksdud[덯]="ejg"
+gksdud[데]="ep"
+gksdud[덱]="epr"
+gksdud[덲]="epR"
+gksdud[덳]="eprt"
+gksdud[덴]="eps"
+gksdud[덵]="epsw"
+gksdud[덶]="epsg"
+gksdud[덷]="epe"
+gksdud[델]="epf"
+gksdud[덹]="epfr"
+gksdud[덺]="epfa"
+gksdud[덻]="epfq"
+gksdud[덼]="epft"
+gksdud[덽]="epfx"
+gksdud[덾]="epfv"
+gksdud[덿]="epfg"
+gksdud[뎀]="epa"
+gksdud[뎁]="epq"
+gksdud[뎂]="epqt"
+gksdud[뎃]="ept"
+gksdud[뎄]="epT"
+gksdud[뎅]="epd"
+gksdud[뎆]="epw"
+gksdud[뎇]="epc"
+gksdud[뎈]="epz"
+gksdud[뎉]="epx"
+gksdud[뎊]="epv"
+gksdud[뎋]="epg"
+gksdud[뎌]="eu"
+gksdud[뎍]="eur"
+gksdud[뎎]="euR"
+gksdud[뎏]="eurt"
+gksdud[뎐]="eus"
+gksdud[뎑]="eusw"
+gksdud[뎒]="eusg"
+gksdud[뎓]="eue"
+gksdud[뎔]="euf"
+gksdud[뎕]="eufr"
+gksdud[뎖]="eufa"
+gksdud[뎗]="eufq"
+gksdud[뎘]="euft"
+gksdud[뎙]="eufx"
+gksdud[뎚]="eufv"
+gksdud[뎛]="eufg"
+gksdud[뎜]="eua"
+gksdud[뎝]="euq"
+gksdud[뎞]="euqt"
+gksdud[뎟]="eut"
+gksdud[뎠]="euT"
+gksdud[뎡]="eud"
+gksdud[뎢]="euw"
+gksdud[뎣]="euc"
+gksdud[뎤]="euz"
+gksdud[뎥]="eux"
+gksdud[뎦]="euv"
+gksdud[뎧]="eug"
+gksdud[뎨]="eP"
+gksdud[뎩]="ePr"
+gksdud[뎪]="ePR"
+gksdud[뎫]="ePrt"
+gksdud[뎬]="ePs"
+gksdud[뎭]="ePsw"
+gksdud[뎮]="ePsg"
+gksdud[뎯]="ePe"
+gksdud[뎰]="ePf"
+gksdud[뎱]="ePfr"
+gksdud[뎲]="ePfa"
+gksdud[뎳]="ePfq"
+gksdud[뎴]="ePft"
+gksdud[뎵]="ePfx"
+gksdud[뎶]="ePfv"
+gksdud[뎷]="ePfg"
+gksdud[뎸]="ePa"
+gksdud[뎹]="ePq"
+gksdud[뎺]="ePqt"
+gksdud[뎻]="ePt"
+gksdud[뎼]="ePT"
+gksdud[뎽]="ePd"
+gksdud[뎾]="ePw"
+gksdud[뎿]="ePc"
+gksdud[돀]="ePz"
+gksdud[돁]="ePx"
+gksdud[돂]="ePv"
+gksdud[돃]="ePg"
+gksdud[도]="eh"
+gksdud[독]="ehr"
+gksdud[돆]="ehR"
+gksdud[돇]="ehrt"
+gksdud[돈]="ehs"
+gksdud[돉]="ehsw"
+gksdud[돊]="ehsg"
+gksdud[돋]="ehe"
+gksdud[돌]="ehf"
+gksdud[돍]="ehfr"
+gksdud[돎]="ehfa"
+gksdud[돏]="ehfq"
+gksdud[돐]="ehft"
+gksdud[돑]="ehfx"
+gksdud[돒]="ehfv"
+gksdud[돓]="ehfg"
+gksdud[돔]="eha"
+gksdud[돕]="ehq"
+gksdud[돖]="ehqt"
+gksdud[돗]="eht"
+gksdud[돘]="ehT"
+gksdud[동]="ehd"
+gksdud[돚]="ehw"
+gksdud[돛]="ehc"
+gksdud[돜]="ehz"
+gksdud[돝]="ehx"
+gksdud[돞]="ehv"
+gksdud[돟]="ehg"
+gksdud[돠]="ehk"
+gksdud[돡]="ehkr"
+gksdud[돢]="ehkR"
+gksdud[돣]="ehkrt"
+gksdud[돤]="ehks"
+gksdud[돥]="ehksw"
+gksdud[돦]="ehksg"
+gksdud[돧]="ehke"
+gksdud[돨]="ehkf"
+gksdud[돩]="ehkfr"
+gksdud[돪]="ehkfa"
+gksdud[돫]="ehkfq"
+gksdud[돬]="ehkft"
+gksdud[돭]="ehkfx"
+gksdud[돮]="ehkfv"
+gksdud[돯]="ehkfg"
+gksdud[돰]="ehka"
+gksdud[돱]="ehkq"
+gksdud[돲]="ehkqt"
+gksdud[돳]="ehkt"
+gksdud[돴]="ehkT"
+gksdud[돵]="ehkd"
+gksdud[돶]="ehkw"
+gksdud[돷]="ehkc"
+gksdud[돸]="ehkz"
+gksdud[돹]="ehkx"
+gksdud[돺]="ehkv"
+gksdud[돻]="ehkg"
+gksdud[돼]="eho"
+gksdud[돽]="ehor"
+gksdud[돾]="ehoR"
+gksdud[돿]="ehort"
+gksdud[됀]="ehos"
+gksdud[됁]="ehosw"
+gksdud[됂]="ehosg"
+gksdud[됃]="ehoe"
+gksdud[됄]="ehof"
+gksdud[됅]="ehofr"
+gksdud[됆]="ehofa"
+gksdud[됇]="ehofq"
+gksdud[됈]="ehoft"
+gksdud[됉]="ehofx"
+gksdud[됊]="ehofv"
+gksdud[됋]="ehofg"
+gksdud[됌]="ehoa"
+gksdud[됍]="ehoq"
+gksdud[됎]="ehoqt"
+gksdud[됏]="ehot"
+gksdud[됐]="ehoT"
+gksdud[됑]="ehod"
+gksdud[됒]="ehow"
+gksdud[됓]="ehoc"
+gksdud[됔]="ehoz"
+gksdud[됕]="ehox"
+gksdud[됖]="ehov"
+gksdud[됗]="ehog"
+gksdud[되]="ehl"
+gksdud[됙]="ehlr"
+gksdud[됚]="ehlR"
+gksdud[됛]="ehlrt"
+gksdud[된]="ehls"
+gksdud[됝]="ehlsw"
+gksdud[됞]="ehlsg"
+gksdud[됟]="ehle"
+gksdud[될]="ehlf"
+gksdud[됡]="ehlfr"
+gksdud[됢]="ehlfa"
+gksdud[됣]="ehlfq"
+gksdud[됤]="ehlft"
+gksdud[됥]="ehlfx"
+gksdud[됦]="ehlfv"
+gksdud[됧]="ehlfg"
+gksdud[됨]="ehla"
+gksdud[됩]="ehlq"
+gksdud[됪]="ehlqt"
+gksdud[됫]="ehlt"
+gksdud[됬]="ehlT"
+gksdud[됭]="ehld"
+gksdud[됮]="ehlw"
+gksdud[됯]="ehlc"
+gksdud[됰]="ehlz"
+gksdud[됱]="ehlx"
+gksdud[됲]="ehlv"
+gksdud[됳]="ehlg"
+gksdud[됴]="ey"
+gksdud[됵]="eyr"
+gksdud[됶]="eyR"
+gksdud[됷]="eyrt"
+gksdud[됸]="eys"
+gksdud[됹]="eysw"
+gksdud[됺]="eysg"
+gksdud[됻]="eye"
+gksdud[됼]="eyf"
+gksdud[됽]="eyfr"
+gksdud[됾]="eyfa"
+gksdud[됿]="eyfq"
+gksdud[둀]="eyft"
+gksdud[둁]="eyfx"
+gksdud[둂]="eyfv"
+gksdud[둃]="eyfg"
+gksdud[둄]="eya"
+gksdud[둅]="eyq"
+gksdud[둆]="eyqt"
+gksdud[둇]="eyt"
+gksdud[둈]="eyT"
+gksdud[둉]="eyd"
+gksdud[둊]="eyw"
+gksdud[둋]="eyc"
+gksdud[둌]="eyz"
+gksdud[둍]="eyx"
+gksdud[둎]="eyv"
+gksdud[둏]="eyg"
+gksdud[두]="en"
+gksdud[둑]="enr"
+gksdud[둒]="enR"
+gksdud[둓]="enrt"
+gksdud[둔]="ens"
+gksdud[둕]="ensw"
+gksdud[둖]="ensg"
+gksdud[둗]="ene"
+gksdud[둘]="enf"
+gksdud[둙]="enfr"
+gksdud[둚]="enfa"
+gksdud[둛]="enfq"
+gksdud[둜]="enft"
+gksdud[둝]="enfx"
+gksdud[둞]="enfv"
+gksdud[둟]="enfg"
+gksdud[둠]="ena"
+gksdud[둡]="enq"
+gksdud[둢]="enqt"
+gksdud[둣]="ent"
+gksdud[둤]="enT"
+gksdud[둥]="end"
+gksdud[둦]="enw"
+gksdud[둧]="enc"
+gksdud[둨]="enz"
+gksdud[둩]="enx"
+gksdud[둪]="env"
+gksdud[둫]="eng"
+gksdud[둬]="enj"
+gksdud[둭]="enjr"
+gksdud[둮]="enjR"
+gksdud[둯]="enjrt"
+gksdud[둰]="enjs"
+gksdud[둱]="enjsw"
+gksdud[둲]="enjsg"
+gksdud[둳]="enje"
+gksdud[둴]="enjf"
+gksdud[둵]="enjfr"
+gksdud[둶]="enjfa"
+gksdud[둷]="enjfq"
+gksdud[둸]="enjft"
+gksdud[둹]="enjfx"
+gksdud[둺]="enjfv"
+gksdud[둻]="enjfg"
+gksdud[둼]="enja"
+gksdud[둽]="enjq"
+gksdud[둾]="enjqt"
+gksdud[둿]="enjt"
+gksdud[뒀]="enjT"
+gksdud[뒁]="enjd"
+gksdud[뒂]="enjw"
+gksdud[뒃]="enjc"
+gksdud[뒄]="enjz"
+gksdud[뒅]="enjx"
+gksdud[뒆]="enjv"
+gksdud[뒇]="enjg"
+gksdud[뒈]="enp"
+gksdud[뒉]="enpr"
+gksdud[뒊]="enpR"
+gksdud[뒋]="enprt"
+gksdud[뒌]="enps"
+gksdud[뒍]="enpsw"
+gksdud[뒎]="enpsg"
+gksdud[뒏]="enpe"
+gksdud[뒐]="enpf"
+gksdud[뒑]="enpfr"
+gksdud[뒒]="enpfa"
+gksdud[뒓]="enpfq"
+gksdud[뒔]="enpft"
+gksdud[뒕]="enpfx"
+gksdud[뒖]="enpfv"
+gksdud[뒗]="enpfg"
+gksdud[뒘]="enpa"
+gksdud[뒙]="enpq"
+gksdud[뒚]="enpqt"
+gksdud[뒛]="enpt"
+gksdud[뒜]="enpT"
+gksdud[뒝]="enpd"
+gksdud[뒞]="enpw"
+gksdud[뒟]="enpc"
+gksdud[뒠]="enpz"
+gksdud[뒡]="enpx"
+gksdud[뒢]="enpv"
+gksdud[뒣]="enpg"
+gksdud[뒤]="enl"
+gksdud[뒥]="enlr"
+gksdud[뒦]="enlR"
+gksdud[뒧]="enlrt"
+gksdud[뒨]="enls"
+gksdud[뒩]="enlsw"
+gksdud[뒪]="enlsg"
+gksdud[뒫]="enle"
+gksdud[뒬]="enlf"
+gksdud[뒭]="enlfr"
+gksdud[뒮]="enlfa"
+gksdud[뒯]="enlfq"
+gksdud[뒰]="enlft"
+gksdud[뒱]="enlfx"
+gksdud[뒲]="enlfv"
+gksdud[뒳]="enlfg"
+gksdud[뒴]="enla"
+gksdud[뒵]="enlq"
+gksdud[뒶]="enlqt"
+gksdud[뒷]="enlt"
+gksdud[뒸]="enlT"
+gksdud[뒹]="enld"
+gksdud[뒺]="enlw"
+gksdud[뒻]="enlc"
+gksdud[뒼]="enlz"
+gksdud[뒽]="enlx"
+gksdud[뒾]="enlv"
+gksdud[뒿]="enlg"
+gksdud[듀]="eb"
+gksdud[듁]="ebr"
+gksdud[듂]="ebR"
+gksdud[듃]="ebrt"
+gksdud[듄]="ebs"
+gksdud[듅]="ebsw"
+gksdud[듆]="ebsg"
+gksdud[듇]="ebe"
+gksdud[듈]="ebf"
+gksdud[듉]="ebfr"
+gksdud[듊]="ebfa"
+gksdud[듋]="ebfq"
+gksdud[듌]="ebft"
+gksdud[듍]="ebfx"
+gksdud[듎]="ebfv"
+gksdud[듏]="ebfg"
+gksdud[듐]="eba"
+gksdud[듑]="ebq"
+gksdud[듒]="ebqt"
+gksdud[듓]="ebt"
+gksdud[듔]="ebT"
+gksdud[듕]="ebd"
+gksdud[듖]="ebw"
+gksdud[듗]="ebc"
+gksdud[듘]="ebz"
+gksdud[듙]="ebx"
+gksdud[듚]="ebv"
+gksdud[듛]="ebg"
+gksdud[드]="em"
+gksdud[득]="emr"
+gksdud[듞]="emR"
+gksdud[듟]="emrt"
+gksdud[든]="ems"
+gksdud[듡]="emsw"
+gksdud[듢]="emsg"
+gksdud[듣]="eme"
+gksdud[들]="emf"
+gksdud[듥]="emfr"
+gksdud[듦]="emfa"
+gksdud[듧]="emfq"
+gksdud[듨]="emft"
+gksdud[듩]="emfx"
+gksdud[듪]="emfv"
+gksdud[듫]="emfg"
+gksdud[듬]="ema"
+gksdud[듭]="emq"
+gksdud[듮]="emqt"
+gksdud[듯]="emt"
+gksdud[듰]="emT"
+gksdud[등]="emd"
+gksdud[듲]="emw"
+gksdud[듳]="emc"
+gksdud[듴]="emz"
+gksdud[듵]="emx"
+gksdud[듶]="emv"
+gksdud[듷]="emg"
+gksdud[듸]="eml"
+gksdud[듹]="emlr"
+gksdud[듺]="emlR"
+gksdud[듻]="emlrt"
+gksdud[듼]="emls"
+gksdud[듽]="emlsw"
+gksdud[듾]="emlsg"
+gksdud[듿]="emle"
+gksdud[딀]="emlf"
+gksdud[딁]="emlfr"
+gksdud[딂]="emlfa"
+gksdud[딃]="emlfq"
+gksdud[딄]="emlft"
+gksdud[딅]="emlfx"
+gksdud[딆]="emlfv"
+gksdud[딇]="emlfg"
+gksdud[딈]="emla"
+gksdud[딉]="emlq"
+gksdud[딊]="emlqt"
+gksdud[딋]="emlt"
+gksdud[딌]="emlT"
+gksdud[딍]="emld"
+gksdud[딎]="emlw"
+gksdud[딏]="emlc"
+gksdud[딐]="emlz"
+gksdud[딑]="emlx"
+gksdud[딒]="emlv"
+gksdud[딓]="emlg"
+gksdud[디]="el"
+gksdud[딕]="elr"
+gksdud[딖]="elR"
+gksdud[딗]="elrt"
+gksdud[딘]="els"
+gksdud[딙]="elsw"
+gksdud[딚]="elsg"
+gksdud[딛]="ele"
+gksdud[딜]="elf"
+gksdud[딝]="elfr"
+gksdud[딞]="elfa"
+gksdud[딟]="elfq"
+gksdud[딠]="elft"
+gksdud[딡]="elfx"
+gksdud[딢]="elfv"
+gksdud[딣]="elfg"
+gksdud[딤]="ela"
+gksdud[딥]="elq"
+gksdud[딦]="elqt"
+gksdud[딧]="elt"
+gksdud[딨]="elT"
+gksdud[딩]="eld"
+gksdud[딪]="elw"
+gksdud[딫]="elc"
+gksdud[딬]="elz"
+gksdud[딭]="elx"
+gksdud[딮]="elv"
+gksdud[딯]="elg"
+gksdud[따]="Ek"
+gksdud[딱]="Ekr"
+gksdud[딲]="EkR"
+gksdud[딳]="Ekrt"
+gksdud[딴]="Eks"
+gksdud[딵]="Eksw"
+gksdud[딶]="Eksg"
+gksdud[딷]="Eke"
+gksdud[딸]="Ekf"
+gksdud[딹]="Ekfr"
+gksdud[딺]="Ekfa"
+gksdud[딻]="Ekfq"
+gksdud[딼]="Ekft"
+gksdud[딽]="Ekfx"
+gksdud[딾]="Ekfv"
+gksdud[딿]="Ekfg"
+gksdud[땀]="Eka"
+gksdud[땁]="Ekq"
+gksdud[땂]="Ekqt"
+gksdud[땃]="Ekt"
+gksdud[땄]="EkT"
+gksdud[땅]="Ekd"
+gksdud[땆]="Ekw"
+gksdud[땇]="Ekc"
+gksdud[땈]="Ekz"
+gksdud[땉]="Ekx"
+gksdud[땊]="Ekv"
+gksdud[땋]="Ekg"
+gksdud[때]="Eo"
+gksdud[땍]="Eor"
+gksdud[땎]="EoR"
+gksdud[땏]="Eort"
+gksdud[땐]="Eos"
+gksdud[땑]="Eosw"
+gksdud[땒]="Eosg"
+gksdud[땓]="Eoe"
+gksdud[땔]="Eof"
+gksdud[땕]="Eofr"
+gksdud[땖]="Eofa"
+gksdud[땗]="Eofq"
+gksdud[땘]="Eoft"
+gksdud[땙]="Eofx"
+gksdud[땚]="Eofv"
+gksdud[땛]="Eofg"
+gksdud[땜]="Eoa"
+gksdud[땝]="Eoq"
+gksdud[땞]="Eoqt"
+gksdud[땟]="Eot"
+gksdud[땠]="EoT"
+gksdud[땡]="Eod"
+gksdud[땢]="Eow"
+gksdud[땣]="Eoc"
+gksdud[땤]="Eoz"
+gksdud[땥]="Eox"
+gksdud[땦]="Eov"
+gksdud[땧]="Eog"
+gksdud[땨]="Ei"
+gksdud[땩]="Eir"
+gksdud[땪]="EiR"
+gksdud[땫]="Eirt"
+gksdud[땬]="Eis"
+gksdud[땭]="Eisw"
+gksdud[땮]="Eisg"
+gksdud[땯]="Eie"
+gksdud[땰]="Eif"
+gksdud[땱]="Eifr"
+gksdud[땲]="Eifa"
+gksdud[땳]="Eifq"
+gksdud[땴]="Eift"
+gksdud[땵]="Eifx"
+gksdud[땶]="Eifv"
+gksdud[땷]="Eifg"
+gksdud[땸]="Eia"
+gksdud[땹]="Eiq"
+gksdud[땺]="Eiqt"
+gksdud[땻]="Eit"
+gksdud[땼]="EiT"
+gksdud[땽]="Eid"
+gksdud[땾]="Eiw"
+gksdud[땿]="Eic"
+gksdud[떀]="Eiz"
+gksdud[떁]="Eix"
+gksdud[떂]="Eiv"
+gksdud[떃]="Eig"
+gksdud[떄]="EO"
+gksdud[떅]="EOr"
+gksdud[떆]="EOR"
+gksdud[떇]="EOrt"
+gksdud[떈]="EOs"
+gksdud[떉]="EOsw"
+gksdud[떊]="EOsg"
+gksdud[떋]="EOe"
+gksdud[떌]="EOf"
+gksdud[떍]="EOfr"
+gksdud[떎]="EOfa"
+gksdud[떏]="EOfq"
+gksdud[떐]="EOft"
+gksdud[떑]="EOfx"
+gksdud[떒]="EOfv"
+gksdud[떓]="EOfg"
+gksdud[떔]="EOa"
+gksdud[떕]="EOq"
+gksdud[떖]="EOqt"
+gksdud[떗]="EOt"
+gksdud[떘]="EOT"
+gksdud[떙]="EOd"
+gksdud[떚]="EOw"
+gksdud[떛]="EOc"
+gksdud[떜]="EOz"
+gksdud[떝]="EOx"
+gksdud[떞]="EOv"
+gksdud[떟]="EOg"
+gksdud[떠]="Ej"
+gksdud[떡]="Ejr"
+gksdud[떢]="EjR"
+gksdud[떣]="Ejrt"
+gksdud[떤]="Ejs"
+gksdud[떥]="Ejsw"
+gksdud[떦]="Ejsg"
+gksdud[떧]="Eje"
+gksdud[떨]="Ejf"
+gksdud[떩]="Ejfr"
+gksdud[떪]="Ejfa"
+gksdud[떫]="Ejfq"
+gksdud[떬]="Ejft"
+gksdud[떭]="Ejfx"
+gksdud[떮]="Ejfv"
+gksdud[떯]="Ejfg"
+gksdud[떰]="Eja"
+gksdud[떱]="Ejq"
+gksdud[떲]="Ejqt"
+gksdud[떳]="Ejt"
+gksdud[떴]="EjT"
+gksdud[떵]="Ejd"
+gksdud[떶]="Ejw"
+gksdud[떷]="Ejc"
+gksdud[떸]="Ejz"
+gksdud[떹]="Ejx"
+gksdud[떺]="Ejv"
+gksdud[떻]="Ejg"
+gksdud[떼]="Ep"
+gksdud[떽]="Epr"
+gksdud[떾]="EpR"
+gksdud[떿]="Eprt"
+gksdud[뗀]="Eps"
+gksdud[뗁]="Epsw"
+gksdud[뗂]="Epsg"
+gksdud[뗃]="Epe"
+gksdud[뗄]="Epf"
+gksdud[뗅]="Epfr"
+gksdud[뗆]="Epfa"
+gksdud[뗇]="Epfq"
+gksdud[뗈]="Epft"
+gksdud[뗉]="Epfx"
+gksdud[뗊]="Epfv"
+gksdud[뗋]="Epfg"
+gksdud[뗌]="Epa"
+gksdud[뗍]="Epq"
+gksdud[뗎]="Epqt"
+gksdud[뗏]="Ept"
+gksdud[뗐]="EpT"
+gksdud[뗑]="Epd"
+gksdud[뗒]="Epw"
+gksdud[뗓]="Epc"
+gksdud[뗔]="Epz"
+gksdud[뗕]="Epx"
+gksdud[뗖]="Epv"
+gksdud[뗗]="Epg"
+gksdud[뗘]="Eu"
+gksdud[뗙]="Eur"
+gksdud[뗚]="EuR"
+gksdud[뗛]="Eurt"
+gksdud[뗜]="Eus"
+gksdud[뗝]="Eusw"
+gksdud[뗞]="Eusg"
+gksdud[뗟]="Eue"
+gksdud[뗠]="Euf"
+gksdud[뗡]="Eufr"
+gksdud[뗢]="Eufa"
+gksdud[뗣]="Eufq"
+gksdud[뗤]="Euft"
+gksdud[뗥]="Eufx"
+gksdud[뗦]="Eufv"
+gksdud[뗧]="Eufg"
+gksdud[뗨]="Eua"
+gksdud[뗩]="Euq"
+gksdud[뗪]="Euqt"
+gksdud[뗫]="Eut"
+gksdud[뗬]="EuT"
+gksdud[뗭]="Eud"
+gksdud[뗮]="Euw"
+gksdud[뗯]="Euc"
+gksdud[뗰]="Euz"
+gksdud[뗱]="Eux"
+gksdud[뗲]="Euv"
+gksdud[뗳]="Eug"
+gksdud[뗴]="EP"
+gksdud[뗵]="EPr"
+gksdud[뗶]="EPR"
+gksdud[뗷]="EPrt"
+gksdud[뗸]="EPs"
+gksdud[뗹]="EPsw"
+gksdud[뗺]="EPsg"
+gksdud[뗻]="EPe"
+gksdud[뗼]="EPf"
+gksdud[뗽]="EPfr"
+gksdud[뗾]="EPfa"
+gksdud[뗿]="EPfq"
+gksdud[똀]="EPft"
+gksdud[똁]="EPfx"
+gksdud[똂]="EPfv"
+gksdud[똃]="EPfg"
+gksdud[똄]="EPa"
+gksdud[똅]="EPq"
+gksdud[똆]="EPqt"
+gksdud[똇]="EPt"
+gksdud[똈]="EPT"
+gksdud[똉]="EPd"
+gksdud[똊]="EPw"
+gksdud[똋]="EPc"
+gksdud[똌]="EPz"
+gksdud[똍]="EPx"
+gksdud[똎]="EPv"
+gksdud[똏]="EPg"
+gksdud[또]="Eh"
+gksdud[똑]="Ehr"
+gksdud[똒]="EhR"
+gksdud[똓]="Ehrt"
+gksdud[똔]="Ehs"
+gksdud[똕]="Ehsw"
+gksdud[똖]="Ehsg"
+gksdud[똗]="Ehe"
+gksdud[똘]="Ehf"
+gksdud[똙]="Ehfr"
+gksdud[똚]="Ehfa"
+gksdud[똛]="Ehfq"
+gksdud[똜]="Ehft"
+gksdud[똝]="Ehfx"
+gksdud[똞]="Ehfv"
+gksdud[똟]="Ehfg"
+gksdud[똠]="Eha"
+gksdud[똡]="Ehq"
+gksdud[똢]="Ehqt"
+gksdud[똣]="Eht"
+gksdud[똤]="EhT"
+gksdud[똥]="Ehd"
+gksdud[똦]="Ehw"
+gksdud[똧]="Ehc"
+gksdud[똨]="Ehz"
+gksdud[똩]="Ehx"
+gksdud[똪]="Ehv"
+gksdud[똫]="Ehg"
+gksdud[똬]="Ehk"
+gksdud[똭]="Ehkr"
+gksdud[똮]="EhkR"
+gksdud[똯]="Ehkrt"
+gksdud[똰]="Ehks"
+gksdud[똱]="Ehksw"
+gksdud[똲]="Ehksg"
+gksdud[똳]="Ehke"
+gksdud[똴]="Ehkf"
+gksdud[똵]="Ehkfr"
+gksdud[똶]="Ehkfa"
+gksdud[똷]="Ehkfq"
+gksdud[똸]="Ehkft"
+gksdud[똹]="Ehkfx"
+gksdud[똺]="Ehkfv"
+gksdud[똻]="Ehkfg"
+gksdud[똼]="Ehka"
+gksdud[똽]="Ehkq"
+gksdud[똾]="Ehkqt"
+gksdud[똿]="Ehkt"
+gksdud[뙀]="EhkT"
+gksdud[뙁]="Ehkd"
+gksdud[뙂]="Ehkw"
+gksdud[뙃]="Ehkc"
+gksdud[뙄]="Ehkz"
+gksdud[뙅]="Ehkx"
+gksdud[뙆]="Ehkv"
+gksdud[뙇]="Ehkg"
+gksdud[뙈]="Eho"
+gksdud[뙉]="Ehor"
+gksdud[뙊]="EhoR"
+gksdud[뙋]="Ehort"
+gksdud[뙌]="Ehos"
+gksdud[뙍]="Ehosw"
+gksdud[뙎]="Ehosg"
+gksdud[뙏]="Ehoe"
+gksdud[뙐]="Ehof"
+gksdud[뙑]="Ehofr"
+gksdud[뙒]="Ehofa"
+gksdud[뙓]="Ehofq"
+gksdud[뙔]="Ehoft"
+gksdud[뙕]="Ehofx"
+gksdud[뙖]="Ehofv"
+gksdud[뙗]="Ehofg"
+gksdud[뙘]="Ehoa"
+gksdud[뙙]="Ehoq"
+gksdud[뙚]="Ehoqt"
+gksdud[뙛]="Ehot"
+gksdud[뙜]="EhoT"
+gksdud[뙝]="Ehod"
+gksdud[뙞]="Ehow"
+gksdud[뙟]="Ehoc"
+gksdud[뙠]="Ehoz"
+gksdud[뙡]="Ehox"
+gksdud[뙢]="Ehov"
+gksdud[뙣]="Ehog"
+gksdud[뙤]="Ehl"
+gksdud[뙥]="Ehlr"
+gksdud[뙦]="EhlR"
+gksdud[뙧]="Ehlrt"
+gksdud[뙨]="Ehls"
+gksdud[뙩]="Ehlsw"
+gksdud[뙪]="Ehlsg"
+gksdud[뙫]="Ehle"
+gksdud[뙬]="Ehlf"
+gksdud[뙭]="Ehlfr"
+gksdud[뙮]="Ehlfa"
+gksdud[뙯]="Ehlfq"
+gksdud[뙰]="Ehlft"
+gksdud[뙱]="Ehlfx"
+gksdud[뙲]="Ehlfv"
+gksdud[뙳]="Ehlfg"
+gksdud[뙴]="Ehla"
+gksdud[뙵]="Ehlq"
+gksdud[뙶]="Ehlqt"
+gksdud[뙷]="Ehlt"
+gksdud[뙸]="EhlT"
+gksdud[뙹]="Ehld"
+gksdud[뙺]="Ehlw"
+gksdud[뙻]="Ehlc"
+gksdud[뙼]="Ehlz"
+gksdud[뙽]="Ehlx"
+gksdud[뙾]="Ehlv"
+gksdud[뙿]="Ehlg"
+gksdud[뚀]="Ey"
+gksdud[뚁]="Eyr"
+gksdud[뚂]="EyR"
+gksdud[뚃]="Eyrt"
+gksdud[뚄]="Eys"
+gksdud[뚅]="Eysw"
+gksdud[뚆]="Eysg"
+gksdud[뚇]="Eye"
+gksdud[뚈]="Eyf"
+gksdud[뚉]="Eyfr"
+gksdud[뚊]="Eyfa"
+gksdud[뚋]="Eyfq"
+gksdud[뚌]="Eyft"
+gksdud[뚍]="Eyfx"
+gksdud[뚎]="Eyfv"
+gksdud[뚏]="Eyfg"
+gksdud[뚐]="Eya"
+gksdud[뚑]="Eyq"
+gksdud[뚒]="Eyqt"
+gksdud[뚓]="Eyt"
+gksdud[뚔]="EyT"
+gksdud[뚕]="Eyd"
+gksdud[뚖]="Eyw"
+gksdud[뚗]="Eyc"
+gksdud[뚘]="Eyz"
+gksdud[뚙]="Eyx"
+gksdud[뚚]="Eyv"
+gksdud[뚛]="Eyg"
+gksdud[뚜]="En"
+gksdud[뚝]="Enr"
+gksdud[뚞]="EnR"
+gksdud[뚟]="Enrt"
+gksdud[뚠]="Ens"
+gksdud[뚡]="Ensw"
+gksdud[뚢]="Ensg"
+gksdud[뚣]="Ene"
+gksdud[뚤]="Enf"
+gksdud[뚥]="Enfr"
+gksdud[뚦]="Enfa"
+gksdud[뚧]="Enfq"
+gksdud[뚨]="Enft"
+gksdud[뚩]="Enfx"
+gksdud[뚪]="Enfv"
+gksdud[뚫]="Enfg"
+gksdud[뚬]="Ena"
+gksdud[뚭]="Enq"
+gksdud[뚮]="Enqt"
+gksdud[뚯]="Ent"
+gksdud[뚰]="EnT"
+gksdud[뚱]="End"
+gksdud[뚲]="Enw"
+gksdud[뚳]="Enc"
+gksdud[뚴]="Enz"
+gksdud[뚵]="Enx"
+gksdud[뚶]="Env"
+gksdud[뚷]="Eng"
+gksdud[뚸]="Enj"
+gksdud[뚹]="Enjr"
+gksdud[뚺]="EnjR"
+gksdud[뚻]="Enjrt"
+gksdud[뚼]="Enjs"
+gksdud[뚽]="Enjsw"
+gksdud[뚾]="Enjsg"
+gksdud[뚿]="Enje"
+gksdud[뛀]="Enjf"
+gksdud[뛁]="Enjfr"
+gksdud[뛂]="Enjfa"
+gksdud[뛃]="Enjfq"
+gksdud[뛄]="Enjft"
+gksdud[뛅]="Enjfx"
+gksdud[뛆]="Enjfv"
+gksdud[뛇]="Enjfg"
+gksdud[뛈]="Enja"
+gksdud[뛉]="Enjq"
+gksdud[뛊]="Enjqt"
+gksdud[뛋]="Enjt"
+gksdud[뛌]="EnjT"
+gksdud[뛍]="Enjd"
+gksdud[뛎]="Enjw"
+gksdud[뛏]="Enjc"
+gksdud[뛐]="Enjz"
+gksdud[뛑]="Enjx"
+gksdud[뛒]="Enjv"
+gksdud[뛓]="Enjg"
+gksdud[뛔]="Enp"
+gksdud[뛕]="Enpr"
+gksdud[뛖]="EnpR"
+gksdud[뛗]="Enprt"
+gksdud[뛘]="Enps"
+gksdud[뛙]="Enpsw"
+gksdud[뛚]="Enpsg"
+gksdud[뛛]="Enpe"
+gksdud[뛜]="Enpf"
+gksdud[뛝]="Enpfr"
+gksdud[뛞]="Enpfa"
+gksdud[뛟]="Enpfq"
+gksdud[뛠]="Enpft"
+gksdud[뛡]="Enpfx"
+gksdud[뛢]="Enpfv"
+gksdud[뛣]="Enpfg"
+gksdud[뛤]="Enpa"
+gksdud[뛥]="Enpq"
+gksdud[뛦]="Enpqt"
+gksdud[뛧]="Enpt"
+gksdud[뛨]="EnpT"
+gksdud[뛩]="Enpd"
+gksdud[뛪]="Enpw"
+gksdud[뛫]="Enpc"
+gksdud[뛬]="Enpz"
+gksdud[뛭]="Enpx"
+gksdud[뛮]="Enpv"
+gksdud[뛯]="Enpg"
+gksdud[뛰]="Enl"
+gksdud[뛱]="Enlr"
+gksdud[뛲]="EnlR"
+gksdud[뛳]="Enlrt"
+gksdud[뛴]="Enls"
+gksdud[뛵]="Enlsw"
+gksdud[뛶]="Enlsg"
+gksdud[뛷]="Enle"
+gksdud[뛸]="Enlf"
+gksdud[뛹]="Enlfr"
+gksdud[뛺]="Enlfa"
+gksdud[뛻]="Enlfq"
+gksdud[뛼]="Enlft"
+gksdud[뛽]="Enlfx"
+gksdud[뛾]="Enlfv"
+gksdud[뛿]="Enlfg"
+gksdud[뜀]="Enla"
+gksdud[뜁]="Enlq"
+gksdud[뜂]="Enlqt"
+gksdud[뜃]="Enlt"
+gksdud[뜄]="EnlT"
+gksdud[뜅]="Enld"
+gksdud[뜆]="Enlw"
+gksdud[뜇]="Enlc"
+gksdud[뜈]="Enlz"
+gksdud[뜉]="Enlx"
+gksdud[뜊]="Enlv"
+gksdud[뜋]="Enlg"
+gksdud[뜌]="Eb"
+gksdud[뜍]="Ebr"
+gksdud[뜎]="EbR"
+gksdud[뜏]="Ebrt"
+gksdud[뜐]="Ebs"
+gksdud[뜑]="Ebsw"
+gksdud[뜒]="Ebsg"
+gksdud[뜓]="Ebe"
+gksdud[뜔]="Ebf"
+gksdud[뜕]="Ebfr"
+gksdud[뜖]="Ebfa"
+gksdud[뜗]="Ebfq"
+gksdud[뜘]="Ebft"
+gksdud[뜙]="Ebfx"
+gksdud[뜚]="Ebfv"
+gksdud[뜛]="Ebfg"
+gksdud[뜜]="Eba"
+gksdud[뜝]="Ebq"
+gksdud[뜞]="Ebqt"
+gksdud[뜟]="Ebt"
+gksdud[뜠]="EbT"
+gksdud[뜡]="Ebd"
+gksdud[뜢]="Ebw"
+gksdud[뜣]="Ebc"
+gksdud[뜤]="Ebz"
+gksdud[뜥]="Ebx"
+gksdud[뜦]="Ebv"
+gksdud[뜧]="Ebg"
+gksdud[뜨]="Em"
+gksdud[뜩]="Emr"
+gksdud[뜪]="EmR"
+gksdud[뜫]="Emrt"
+gksdud[뜬]="Ems"
+gksdud[뜭]="Emsw"
+gksdud[뜮]="Emsg"
+gksdud[뜯]="Eme"
+gksdud[뜰]="Emf"
+gksdud[뜱]="Emfr"
+gksdud[뜲]="Emfa"
+gksdud[뜳]="Emfq"
+gksdud[뜴]="Emft"
+gksdud[뜵]="Emfx"
+gksdud[뜶]="Emfv"
+gksdud[뜷]="Emfg"
+gksdud[뜸]="Ema"
+gksdud[뜹]="Emq"
+gksdud[뜺]="Emqt"
+gksdud[뜻]="Emt"
+gksdud[뜼]="EmT"
+gksdud[뜽]="Emd"
+gksdud[뜾]="Emw"
+gksdud[뜿]="Emc"
+gksdud[띀]="Emz"
+gksdud[띁]="Emx"
+gksdud[띂]="Emv"
+gksdud[띃]="Emg"
+gksdud[띄]="Eml"
+gksdud[띅]="Emlr"
+gksdud[띆]="EmlR"
+gksdud[띇]="Emlrt"
+gksdud[띈]="Emls"
+gksdud[띉]="Emlsw"
+gksdud[띊]="Emlsg"
+gksdud[띋]="Emle"
+gksdud[띌]="Emlf"
+gksdud[띍]="Emlfr"
+gksdud[띎]="Emlfa"
+gksdud[띏]="Emlfq"
+gksdud[띐]="Emlft"
+gksdud[띑]="Emlfx"
+gksdud[띒]="Emlfv"
+gksdud[띓]="Emlfg"
+gksdud[띔]="Emla"
+gksdud[띕]="Emlq"
+gksdud[띖]="Emlqt"
+gksdud[띗]="Emlt"
+gksdud[띘]="EmlT"
+gksdud[띙]="Emld"
+gksdud[띚]="Emlw"
+gksdud[띛]="Emlc"
+gksdud[띜]="Emlz"
+gksdud[띝]="Emlx"
+gksdud[띞]="Emlv"
+gksdud[띟]="Emlg"
+gksdud[띠]="El"
+gksdud[띡]="Elr"
+gksdud[띢]="ElR"
+gksdud[띣]="Elrt"
+gksdud[띤]="Els"
+gksdud[띥]="Elsw"
+gksdud[띦]="Elsg"
+gksdud[띧]="Ele"
+gksdud[띨]="Elf"
+gksdud[띩]="Elfr"
+gksdud[띪]="Elfa"
+gksdud[띫]="Elfq"
+gksdud[띬]="Elft"
+gksdud[띭]="Elfx"
+gksdud[띮]="Elfv"
+gksdud[띯]="Elfg"
+gksdud[띰]="Ela"
+gksdud[띱]="Elq"
+gksdud[띲]="Elqt"
+gksdud[띳]="Elt"
+gksdud[띴]="ElT"
+gksdud[띵]="Eld"
+gksdud[띶]="Elw"
+gksdud[띷]="Elc"
+gksdud[띸]="Elz"
+gksdud[띹]="Elx"
+gksdud[띺]="Elv"
+gksdud[띻]="Elg"
+gksdud[라]="fk"
+gksdud[락]="fkr"
+gksdud[띾]="fkR"
+gksdud[띿]="fkrt"
+gksdud[란]="fks"
+gksdud[랁]="fksw"
+gksdud[랂]="fksg"
+gksdud[랃]="fke"
+gksdud[랄]="fkf"
+gksdud[랅]="fkfr"
+gksdud[랆]="fkfa"
+gksdud[랇]="fkfq"
+gksdud[랈]="fkft"
+gksdud[랉]="fkfx"
+gksdud[랊]="fkfv"
+gksdud[랋]="fkfg"
+gksdud[람]="fka"
+gksdud[랍]="fkq"
+gksdud[랎]="fkqt"
+gksdud[랏]="fkt"
+gksdud[랐]="fkT"
+gksdud[랑]="fkd"
+gksdud[랒]="fkw"
+gksdud[랓]="fkc"
+gksdud[랔]="fkz"
+gksdud[랕]="fkx"
+gksdud[랖]="fkv"
+gksdud[랗]="fkg"
+gksdud[래]="fo"
+gksdud[랙]="for"
+gksdud[랚]="foR"
+gksdud[랛]="fort"
+gksdud[랜]="fos"
+gksdud[랝]="fosw"
+gksdud[랞]="fosg"
+gksdud[랟]="foe"
+gksdud[랠]="fof"
+gksdud[랡]="fofr"
+gksdud[랢]="fofa"
+gksdud[랣]="fofq"
+gksdud[랤]="foft"
+gksdud[랥]="fofx"
+gksdud[랦]="fofv"
+gksdud[랧]="fofg"
+gksdud[램]="foa"
+gksdud[랩]="foq"
+gksdud[랪]="foqt"
+gksdud[랫]="fot"
+gksdud[랬]="foT"
+gksdud[랭]="fod"
+gksdud[랮]="fow"
+gksdud[랯]="foc"
+gksdud[랰]="foz"
+gksdud[랱]="fox"
+gksdud[랲]="fov"
+gksdud[랳]="fog"
+gksdud[랴]="fi"
+gksdud[략]="fir"
+gksdud[랶]="fiR"
+gksdud[랷]="firt"
+gksdud[랸]="fis"
+gksdud[랹]="fisw"
+gksdud[랺]="fisg"
+gksdud[랻]="fie"
+gksdud[랼]="fif"
+gksdud[랽]="fifr"
+gksdud[랾]="fifa"
+gksdud[랿]="fifq"
+gksdud[럀]="fift"
+gksdud[럁]="fifx"
+gksdud[럂]="fifv"
+gksdud[럃]="fifg"
+gksdud[럄]="fia"
+gksdud[럅]="fiq"
+gksdud[럆]="fiqt"
+gksdud[럇]="fit"
+gksdud[럈]="fiT"
+gksdud[량]="fid"
+gksdud[럊]="fiw"
+gksdud[럋]="fic"
+gksdud[럌]="fiz"
+gksdud[럍]="fix"
+gksdud[럎]="fiv"
+gksdud[럏]="fig"
+gksdud[럐]="fO"
+gksdud[럑]="fOr"
+gksdud[럒]="fOR"
+gksdud[럓]="fOrt"
+gksdud[럔]="fOs"
+gksdud[럕]="fOsw"
+gksdud[럖]="fOsg"
+gksdud[럗]="fOe"
+gksdud[럘]="fOf"
+gksdud[럙]="fOfr"
+gksdud[럚]="fOfa"
+gksdud[럛]="fOfq"
+gksdud[럜]="fOft"
+gksdud[럝]="fOfx"
+gksdud[럞]="fOfv"
+gksdud[럟]="fOfg"
+gksdud[럠]="fOa"
+gksdud[럡]="fOq"
+gksdud[럢]="fOqt"
+gksdud[럣]="fOt"
+gksdud[럤]="fOT"
+gksdud[럥]="fOd"
+gksdud[럦]="fOw"
+gksdud[럧]="fOc"
+gksdud[럨]="fOz"
+gksdud[럩]="fOx"
+gksdud[럪]="fOv"
+gksdud[럫]="fOg"
+gksdud[러]="fj"
+gksdud[럭]="fjr"
+gksdud[럮]="fjR"
+gksdud[럯]="fjrt"
+gksdud[런]="fjs"
+gksdud[럱]="fjsw"
+gksdud[럲]="fjsg"
+gksdud[럳]="fje"
+gksdud[럴]="fjf"
+gksdud[럵]="fjfr"
+gksdud[럶]="fjfa"
+gksdud[럷]="fjfq"
+gksdud[럸]="fjft"
+gksdud[럹]="fjfx"
+gksdud[럺]="fjfv"
+gksdud[럻]="fjfg"
+gksdud[럼]="fja"
+gksdud[럽]="fjq"
+gksdud[럾]="fjqt"
+gksdud[럿]="fjt"
+gksdud[렀]="fjT"
+gksdud[렁]="fjd"
+gksdud[렂]="fjw"
+gksdud[렃]="fjc"
+gksdud[렄]="fjz"
+gksdud[렅]="fjx"
+gksdud[렆]="fjv"
+gksdud[렇]="fjg"
+gksdud[레]="fp"
+gksdud[렉]="fpr"
+gksdud[렊]="fpR"
+gksdud[렋]="fprt"
+gksdud[렌]="fps"
+gksdud[렍]="fpsw"
+gksdud[렎]="fpsg"
+gksdud[렏]="fpe"
+gksdud[렐]="fpf"
+gksdud[렑]="fpfr"
+gksdud[렒]="fpfa"
+gksdud[렓]="fpfq"
+gksdud[렔]="fpft"
+gksdud[렕]="fpfx"
+gksdud[렖]="fpfv"
+gksdud[렗]="fpfg"
+gksdud[렘]="fpa"
+gksdud[렙]="fpq"
+gksdud[렚]="fpqt"
+gksdud[렛]="fpt"
+gksdud[렜]="fpT"
+gksdud[렝]="fpd"
+gksdud[렞]="fpw"
+gksdud[렟]="fpc"
+gksdud[렠]="fpz"
+gksdud[렡]="fpx"
+gksdud[렢]="fpv"
+gksdud[렣]="fpg"
+gksdud[려]="fu"
+gksdud[력]="fur"
+gksdud[렦]="fuR"
+gksdud[렧]="furt"
+gksdud[련]="fus"
+gksdud[렩]="fusw"
+gksdud[렪]="fusg"
+gksdud[렫]="fue"
+gksdud[렬]="fuf"
+gksdud[렭]="fufr"
+gksdud[렮]="fufa"
+gksdud[렯]="fufq"
+gksdud[렰]="fuft"
+gksdud[렱]="fufx"
+gksdud[렲]="fufv"
+gksdud[렳]="fufg"
+gksdud[렴]="fua"
+gksdud[렵]="fuq"
+gksdud[렶]="fuqt"
+gksdud[렷]="fut"
+gksdud[렸]="fuT"
+gksdud[령]="fud"
+gksdud[렺]="fuw"
+gksdud[렻]="fuc"
+gksdud[렼]="fuz"
+gksdud[렽]="fux"
+gksdud[렾]="fuv"
+gksdud[렿]="fug"
+gksdud[례]="fP"
+gksdud[롁]="fPr"
+gksdud[롂]="fPR"
+gksdud[롃]="fPrt"
+gksdud[롄]="fPs"
+gksdud[롅]="fPsw"
+gksdud[롆]="fPsg"
+gksdud[롇]="fPe"
+gksdud[롈]="fPf"
+gksdud[롉]="fPfr"
+gksdud[롊]="fPfa"
+gksdud[롋]="fPfq"
+gksdud[롌]="fPft"
+gksdud[롍]="fPfx"
+gksdud[롎]="fPfv"
+gksdud[롏]="fPfg"
+gksdud[롐]="fPa"
+gksdud[롑]="fPq"
+gksdud[롒]="fPqt"
+gksdud[롓]="fPt"
+gksdud[롔]="fPT"
+gksdud[롕]="fPd"
+gksdud[롖]="fPw"
+gksdud[롗]="fPc"
+gksdud[롘]="fPz"
+gksdud[롙]="fPx"
+gksdud[롚]="fPv"
+gksdud[롛]="fPg"
+gksdud[로]="fh"
+gksdud[록]="fhr"
+gksdud[롞]="fhR"
+gksdud[롟]="fhrt"
+gksdud[론]="fhs"
+gksdud[롡]="fhsw"
+gksdud[롢]="fhsg"
+gksdud[롣]="fhe"
+gksdud[롤]="fhf"
+gksdud[롥]="fhfr"
+gksdud[롦]="fhfa"
+gksdud[롧]="fhfq"
+gksdud[롨]="fhft"
+gksdud[롩]="fhfx"
+gksdud[롪]="fhfv"
+gksdud[롫]="fhfg"
+gksdud[롬]="fha"
+gksdud[롭]="fhq"
+gksdud[롮]="fhqt"
+gksdud[롯]="fht"
+gksdud[롰]="fhT"
+gksdud[롱]="fhd"
+gksdud[롲]="fhw"
+gksdud[롳]="fhc"
+gksdud[롴]="fhz"
+gksdud[롵]="fhx"
+gksdud[롶]="fhv"
+gksdud[롷]="fhg"
+gksdud[롸]="fhk"
+gksdud[롹]="fhkr"
+gksdud[롺]="fhkR"
+gksdud[롻]="fhkrt"
+gksdud[롼]="fhks"
+gksdud[롽]="fhksw"
+gksdud[롾]="fhksg"
+gksdud[롿]="fhke"
+gksdud[뢀]="fhkf"
+gksdud[뢁]="fhkfr"
+gksdud[뢂]="fhkfa"
+gksdud[뢃]="fhkfq"
+gksdud[뢄]="fhkft"
+gksdud[뢅]="fhkfx"
+gksdud[뢆]="fhkfv"
+gksdud[뢇]="fhkfg"
+gksdud[뢈]="fhka"
+gksdud[뢉]="fhkq"
+gksdud[뢊]="fhkqt"
+gksdud[뢋]="fhkt"
+gksdud[뢌]="fhkT"
+gksdud[뢍]="fhkd"
+gksdud[뢎]="fhkw"
+gksdud[뢏]="fhkc"
+gksdud[뢐]="fhkz"
+gksdud[뢑]="fhkx"
+gksdud[뢒]="fhkv"
+gksdud[뢓]="fhkg"
+gksdud[뢔]="fho"
+gksdud[뢕]="fhor"
+gksdud[뢖]="fhoR"
+gksdud[뢗]="fhort"
+gksdud[뢘]="fhos"
+gksdud[뢙]="fhosw"
+gksdud[뢚]="fhosg"
+gksdud[뢛]="fhoe"
+gksdud[뢜]="fhof"
+gksdud[뢝]="fhofr"
+gksdud[뢞]="fhofa"
+gksdud[뢟]="fhofq"
+gksdud[뢠]="fhoft"
+gksdud[뢡]="fhofx"
+gksdud[뢢]="fhofv"
+gksdud[뢣]="fhofg"
+gksdud[뢤]="fhoa"
+gksdud[뢥]="fhoq"
+gksdud[뢦]="fhoqt"
+gksdud[뢧]="fhot"
+gksdud[뢨]="fhoT"
+gksdud[뢩]="fhod"
+gksdud[뢪]="fhow"
+gksdud[뢫]="fhoc"
+gksdud[뢬]="fhoz"
+gksdud[뢭]="fhox"
+gksdud[뢮]="fhov"
+gksdud[뢯]="fhog"
+gksdud[뢰]="fhl"
+gksdud[뢱]="fhlr"
+gksdud[뢲]="fhlR"
+gksdud[뢳]="fhlrt"
+gksdud[뢴]="fhls"
+gksdud[뢵]="fhlsw"
+gksdud[뢶]="fhlsg"
+gksdud[뢷]="fhle"
+gksdud[뢸]="fhlf"
+gksdud[뢹]="fhlfr"
+gksdud[뢺]="fhlfa"
+gksdud[뢻]="fhlfq"
+gksdud[뢼]="fhlft"
+gksdud[뢽]="fhlfx"
+gksdud[뢾]="fhlfv"
+gksdud[뢿]="fhlfg"
+gksdud[룀]="fhla"
+gksdud[룁]="fhlq"
+gksdud[룂]="fhlqt"
+gksdud[룃]="fhlt"
+gksdud[룄]="fhlT"
+gksdud[룅]="fhld"
+gksdud[룆]="fhlw"
+gksdud[룇]="fhlc"
+gksdud[룈]="fhlz"
+gksdud[룉]="fhlx"
+gksdud[룊]="fhlv"
+gksdud[룋]="fhlg"
+gksdud[료]="fy"
+gksdud[룍]="fyr"
+gksdud[룎]="fyR"
+gksdud[룏]="fyrt"
+gksdud[룐]="fys"
+gksdud[룑]="fysw"
+gksdud[룒]="fysg"
+gksdud[룓]="fye"
+gksdud[룔]="fyf"
+gksdud[룕]="fyfr"
+gksdud[룖]="fyfa"
+gksdud[룗]="fyfq"
+gksdud[룘]="fyft"
+gksdud[룙]="fyfx"
+gksdud[룚]="fyfv"
+gksdud[룛]="fyfg"
+gksdud[룜]="fya"
+gksdud[룝]="fyq"
+gksdud[룞]="fyqt"
+gksdud[룟]="fyt"
+gksdud[룠]="fyT"
+gksdud[룡]="fyd"
+gksdud[룢]="fyw"
+gksdud[룣]="fyc"
+gksdud[룤]="fyz"
+gksdud[룥]="fyx"
+gksdud[룦]="fyv"
+gksdud[룧]="fyg"
+gksdud[루]="fn"
+gksdud[룩]="fnr"
+gksdud[룪]="fnR"
+gksdud[룫]="fnrt"
+gksdud[룬]="fns"
+gksdud[룭]="fnsw"
+gksdud[룮]="fnsg"
+gksdud[룯]="fne"
+gksdud[룰]="fnf"
+gksdud[룱]="fnfr"
+gksdud[룲]="fnfa"
+gksdud[룳]="fnfq"
+gksdud[룴]="fnft"
+gksdud[룵]="fnfx"
+gksdud[룶]="fnfv"
+gksdud[룷]="fnfg"
+gksdud[룸]="fna"
+gksdud[룹]="fnq"
+gksdud[룺]="fnqt"
+gksdud[룻]="fnt"
+gksdud[룼]="fnT"
+gksdud[룽]="fnd"
+gksdud[룾]="fnw"
+gksdud[룿]="fnc"
+gksdud[뤀]="fnz"
+gksdud[뤁]="fnx"
+gksdud[뤂]="fnv"
+gksdud[뤃]="fng"
+gksdud[뤄]="fnj"
+gksdud[뤅]="fnjr"
+gksdud[뤆]="fnjR"
+gksdud[뤇]="fnjrt"
+gksdud[뤈]="fnjs"
+gksdud[뤉]="fnjsw"
+gksdud[뤊]="fnjsg"
+gksdud[뤋]="fnje"
+gksdud[뤌]="fnjf"
+gksdud[뤍]="fnjfr"
+gksdud[뤎]="fnjfa"
+gksdud[뤏]="fnjfq"
+gksdud[뤐]="fnjft"
+gksdud[뤑]="fnjfx"
+gksdud[뤒]="fnjfv"
+gksdud[뤓]="fnjfg"
+gksdud[뤔]="fnja"
+gksdud[뤕]="fnjq"
+gksdud[뤖]="fnjqt"
+gksdud[뤗]="fnjt"
+gksdud[뤘]="fnjT"
+gksdud[뤙]="fnjd"
+gksdud[뤚]="fnjw"
+gksdud[뤛]="fnjc"
+gksdud[뤜]="fnjz"
+gksdud[뤝]="fnjx"
+gksdud[뤞]="fnjv"
+gksdud[뤟]="fnjg"
+gksdud[뤠]="fnp"
+gksdud[뤡]="fnpr"
+gksdud[뤢]="fnpR"
+gksdud[뤣]="fnprt"
+gksdud[뤤]="fnps"
+gksdud[뤥]="fnpsw"
+gksdud[뤦]="fnpsg"
+gksdud[뤧]="fnpe"
+gksdud[뤨]="fnpf"
+gksdud[뤩]="fnpfr"
+gksdud[뤪]="fnpfa"
+gksdud[뤫]="fnpfq"
+gksdud[뤬]="fnpft"
+gksdud[뤭]="fnpfx"
+gksdud[뤮]="fnpfv"
+gksdud[뤯]="fnpfg"
+gksdud[뤰]="fnpa"
+gksdud[뤱]="fnpq"
+gksdud[뤲]="fnpqt"
+gksdud[뤳]="fnpt"
+gksdud[뤴]="fnpT"
+gksdud[뤵]="fnpd"
+gksdud[뤶]="fnpw"
+gksdud[뤷]="fnpc"
+gksdud[뤸]="fnpz"
+gksdud[뤹]="fnpx"
+gksdud[뤺]="fnpv"
+gksdud[뤻]="fnpg"
+gksdud[뤼]="fnl"
+gksdud[뤽]="fnlr"
+gksdud[뤾]="fnlR"
+gksdud[뤿]="fnlrt"
+gksdud[륀]="fnls"
+gksdud[륁]="fnlsw"
+gksdud[륂]="fnlsg"
+gksdud[륃]="fnle"
+gksdud[륄]="fnlf"
+gksdud[륅]="fnlfr"
+gksdud[륆]="fnlfa"
+gksdud[륇]="fnlfq"
+gksdud[륈]="fnlft"
+gksdud[륉]="fnlfx"
+gksdud[륊]="fnlfv"
+gksdud[륋]="fnlfg"
+gksdud[륌]="fnla"
+gksdud[륍]="fnlq"
+gksdud[륎]="fnlqt"
+gksdud[륏]="fnlt"
+gksdud[륐]="fnlT"
+gksdud[륑]="fnld"
+gksdud[륒]="fnlw"
+gksdud[륓]="fnlc"
+gksdud[륔]="fnlz"
+gksdud[륕]="fnlx"
+gksdud[륖]="fnlv"
+gksdud[륗]="fnlg"
+gksdud[류]="fb"
+gksdud[륙]="fbr"
+gksdud[륚]="fbR"
+gksdud[륛]="fbrt"
+gksdud[륜]="fbs"
+gksdud[륝]="fbsw"
+gksdud[륞]="fbsg"
+gksdud[륟]="fbe"
+gksdud[률]="fbf"
+gksdud[륡]="fbfr"
+gksdud[륢]="fbfa"
+gksdud[륣]="fbfq"
+gksdud[륤]="fbft"
+gksdud[륥]="fbfx"
+gksdud[륦]="fbfv"
+gksdud[륧]="fbfg"
+gksdud[륨]="fba"
+gksdud[륩]="fbq"
+gksdud[륪]="fbqt"
+gksdud[륫]="fbt"
+gksdud[륬]="fbT"
+gksdud[륭]="fbd"
+gksdud[륮]="fbw"
+gksdud[륯]="fbc"
+gksdud[륰]="fbz"
+gksdud[륱]="fbx"
+gksdud[륲]="fbv"
+gksdud[륳]="fbg"
+gksdud[르]="fm"
+gksdud[륵]="fmr"
+gksdud[륶]="fmR"
+gksdud[륷]="fmrt"
+gksdud[른]="fms"
+gksdud[륹]="fmsw"
+gksdud[륺]="fmsg"
+gksdud[륻]="fme"
+gksdud[를]="fmf"
+gksdud[륽]="fmfr"
+gksdud[륾]="fmfa"
+gksdud[륿]="fmfq"
+gksdud[릀]="fmft"
+gksdud[릁]="fmfx"
+gksdud[릂]="fmfv"
+gksdud[릃]="fmfg"
+gksdud[름]="fma"
+gksdud[릅]="fmq"
+gksdud[릆]="fmqt"
+gksdud[릇]="fmt"
+gksdud[릈]="fmT"
+gksdud[릉]="fmd"
+gksdud[릊]="fmw"
+gksdud[릋]="fmc"
+gksdud[릌]="fmz"
+gksdud[릍]="fmx"
+gksdud[릎]="fmv"
+gksdud[릏]="fmg"
+gksdud[릐]="fml"
+gksdud[릑]="fmlr"
+gksdud[릒]="fmlR"
+gksdud[릓]="fmlrt"
+gksdud[릔]="fmls"
+gksdud[릕]="fmlsw"
+gksdud[릖]="fmlsg"
+gksdud[릗]="fmle"
+gksdud[릘]="fmlf"
+gksdud[릙]="fmlfr"
+gksdud[릚]="fmlfa"
+gksdud[릛]="fmlfq"
+gksdud[릜]="fmlft"
+gksdud[릝]="fmlfx"
+gksdud[릞]="fmlfv"
+gksdud[릟]="fmlfg"
+gksdud[릠]="fmla"
+gksdud[릡]="fmlq"
+gksdud[릢]="fmlqt"
+gksdud[릣]="fmlt"
+gksdud[릤]="fmlT"
+gksdud[릥]="fmld"
+gksdud[릦]="fmlw"
+gksdud[릧]="fmlc"
+gksdud[릨]="fmlz"
+gksdud[릩]="fmlx"
+gksdud[릪]="fmlv"
+gksdud[릫]="fmlg"
+gksdud[리]="fl"
+gksdud[릭]="flr"
+gksdud[릮]="flR"
+gksdud[릯]="flrt"
+gksdud[린]="fls"
+gksdud[릱]="flsw"
+gksdud[릲]="flsg"
+gksdud[릳]="fle"
+gksdud[릴]="flf"
+gksdud[릵]="flfr"
+gksdud[릶]="flfa"
+gksdud[릷]="flfq"
+gksdud[릸]="flft"
+gksdud[릹]="flfx"
+gksdud[릺]="flfv"
+gksdud[릻]="flfg"
+gksdud[림]="fla"
+gksdud[립]="flq"
+gksdud[릾]="flqt"
+gksdud[릿]="flt"
+gksdud[맀]="flT"
+gksdud[링]="fld"
+gksdud[맂]="flw"
+gksdud[맃]="flc"
+gksdud[맄]="flz"
+gksdud[맅]="flx"
+gksdud[맆]="flv"
+gksdud[맇]="flg"
+gksdud[마]="ak"
+gksdud[막]="akr"
+gksdud[맊]="akR"
+gksdud[맋]="akrt"
+gksdud[만]="aks"
+gksdud[맍]="aksw"
+gksdud[많]="aksg"
+gksdud[맏]="ake"
+gksdud[말]="akf"
+gksdud[맑]="akfr"
+gksdud[맒]="akfa"
+gksdud[맓]="akfq"
+gksdud[맔]="akft"
+gksdud[맕]="akfx"
+gksdud[맖]="akfv"
+gksdud[맗]="akfg"
+gksdud[맘]="aka"
+gksdud[맙]="akq"
+gksdud[맚]="akqt"
+gksdud[맛]="akt"
+gksdud[맜]="akT"
+gksdud[망]="akd"
+gksdud[맞]="akw"
+gksdud[맟]="akc"
+gksdud[맠]="akz"
+gksdud[맡]="akx"
+gksdud[맢]="akv"
+gksdud[맣]="akg"
+gksdud[매]="ao"
+gksdud[맥]="aor"
+gksdud[맦]="aoR"
+gksdud[맧]="aort"
+gksdud[맨]="aos"
+gksdud[맩]="aosw"
+gksdud[맪]="aosg"
+gksdud[맫]="aoe"
+gksdud[맬]="aof"
+gksdud[맭]="aofr"
+gksdud[맮]="aofa"
+gksdud[맯]="aofq"
+gksdud[맰]="aoft"
+gksdud[맱]="aofx"
+gksdud[맲]="aofv"
+gksdud[맳]="aofg"
+gksdud[맴]="aoa"
+gksdud[맵]="aoq"
+gksdud[맶]="aoqt"
+gksdud[맷]="aot"
+gksdud[맸]="aoT"
+gksdud[맹]="aod"
+gksdud[맺]="aow"
+gksdud[맻]="aoc"
+gksdud[맼]="aoz"
+gksdud[맽]="aox"
+gksdud[맾]="aov"
+gksdud[맿]="aog"
+gksdud[먀]="ai"
+gksdud[먁]="air"
+gksdud[먂]="aiR"
+gksdud[먃]="airt"
+gksdud[먄]="ais"
+gksdud[먅]="aisw"
+gksdud[먆]="aisg"
+gksdud[먇]="aie"
+gksdud[먈]="aif"
+gksdud[먉]="aifr"
+gksdud[먊]="aifa"
+gksdud[먋]="aifq"
+gksdud[먌]="aift"
+gksdud[먍]="aifx"
+gksdud[먎]="aifv"
+gksdud[먏]="aifg"
+gksdud[먐]="aia"
+gksdud[먑]="aiq"
+gksdud[먒]="aiqt"
+gksdud[먓]="ait"
+gksdud[먔]="aiT"
+gksdud[먕]="aid"
+gksdud[먖]="aiw"
+gksdud[먗]="aic"
+gksdud[먘]="aiz"
+gksdud[먙]="aix"
+gksdud[먚]="aiv"
+gksdud[먛]="aig"
+gksdud[먜]="aO"
+gksdud[먝]="aOr"
+gksdud[먞]="aOR"
+gksdud[먟]="aOrt"
+gksdud[먠]="aOs"
+gksdud[먡]="aOsw"
+gksdud[먢]="aOsg"
+gksdud[먣]="aOe"
+gksdud[먤]="aOf"
+gksdud[먥]="aOfr"
+gksdud[먦]="aOfa"
+gksdud[먧]="aOfq"
+gksdud[먨]="aOft"
+gksdud[먩]="aOfx"
+gksdud[먪]="aOfv"
+gksdud[먫]="aOfg"
+gksdud[먬]="aOa"
+gksdud[먭]="aOq"
+gksdud[먮]="aOqt"
+gksdud[먯]="aOt"
+gksdud[먰]="aOT"
+gksdud[먱]="aOd"
+gksdud[먲]="aOw"
+gksdud[먳]="aOc"
+gksdud[먴]="aOz"
+gksdud[먵]="aOx"
+gksdud[먶]="aOv"
+gksdud[먷]="aOg"
+gksdud[머]="aj"
+gksdud[먹]="ajr"
+gksdud[먺]="ajR"
+gksdud[먻]="ajrt"
+gksdud[먼]="ajs"
+gksdud[먽]="ajsw"
+gksdud[먾]="ajsg"
+gksdud[먿]="aje"
+gksdud[멀]="ajf"
+gksdud[멁]="ajfr"
+gksdud[멂]="ajfa"
+gksdud[멃]="ajfq"
+gksdud[멄]="ajft"
+gksdud[멅]="ajfx"
+gksdud[멆]="ajfv"
+gksdud[멇]="ajfg"
+gksdud[멈]="aja"
+gksdud[멉]="ajq"
+gksdud[멊]="ajqt"
+gksdud[멋]="ajt"
+gksdud[멌]="ajT"
+gksdud[멍]="ajd"
+gksdud[멎]="ajw"
+gksdud[멏]="ajc"
+gksdud[멐]="ajz"
+gksdud[멑]="ajx"
+gksdud[멒]="ajv"
+gksdud[멓]="ajg"
+gksdud[메]="ap"
+gksdud[멕]="apr"
+gksdud[멖]="apR"
+gksdud[멗]="aprt"
+gksdud[멘]="aps"
+gksdud[멙]="apsw"
+gksdud[멚]="apsg"
+gksdud[멛]="ape"
+gksdud[멜]="apf"
+gksdud[멝]="apfr"
+gksdud[멞]="apfa"
+gksdud[멟]="apfq"
+gksdud[멠]="apft"
+gksdud[멡]="apfx"
+gksdud[멢]="apfv"
+gksdud[멣]="apfg"
+gksdud[멤]="apa"
+gksdud[멥]="apq"
+gksdud[멦]="apqt"
+gksdud[멧]="apt"
+gksdud[멨]="apT"
+gksdud[멩]="apd"
+gksdud[멪]="apw"
+gksdud[멫]="apc"
+gksdud[멬]="apz"
+gksdud[멭]="apx"
+gksdud[멮]="apv"
+gksdud[멯]="apg"
+gksdud[며]="au"
+gksdud[멱]="aur"
+gksdud[멲]="auR"
+gksdud[멳]="aurt"
+gksdud[면]="aus"
+gksdud[멵]="ausw"
+gksdud[멶]="ausg"
+gksdud[멷]="aue"
+gksdud[멸]="auf"
+gksdud[멹]="aufr"
+gksdud[멺]="aufa"
+gksdud[멻]="aufq"
+gksdud[멼]="auft"
+gksdud[멽]="aufx"
+gksdud[멾]="aufv"
+gksdud[멿]="aufg"
+gksdud[몀]="aua"
+gksdud[몁]="auq"
+gksdud[몂]="auqt"
+gksdud[몃]="aut"
+gksdud[몄]="auT"
+gksdud[명]="aud"
+gksdud[몆]="auw"
+gksdud[몇]="auc"
+gksdud[몈]="auz"
+gksdud[몉]="aux"
+gksdud[몊]="auv"
+gksdud[몋]="aug"
+gksdud[몌]="aP"
+gksdud[몍]="aPr"
+gksdud[몎]="aPR"
+gksdud[몏]="aPrt"
+gksdud[몐]="aPs"
+gksdud[몑]="aPsw"
+gksdud[몒]="aPsg"
+gksdud[몓]="aPe"
+gksdud[몔]="aPf"
+gksdud[몕]="aPfr"
+gksdud[몖]="aPfa"
+gksdud[몗]="aPfq"
+gksdud[몘]="aPft"
+gksdud[몙]="aPfx"
+gksdud[몚]="aPfv"
+gksdud[몛]="aPfg"
+gksdud[몜]="aPa"
+gksdud[몝]="aPq"
+gksdud[몞]="aPqt"
+gksdud[몟]="aPt"
+gksdud[몠]="aPT"
+gksdud[몡]="aPd"
+gksdud[몢]="aPw"
+gksdud[몣]="aPc"
+gksdud[몤]="aPz"
+gksdud[몥]="aPx"
+gksdud[몦]="aPv"
+gksdud[몧]="aPg"
+gksdud[모]="ah"
+gksdud[목]="ahr"
+gksdud[몪]="ahR"
+gksdud[몫]="ahrt"
+gksdud[몬]="ahs"
+gksdud[몭]="ahsw"
+gksdud[몮]="ahsg"
+gksdud[몯]="ahe"
+gksdud[몰]="ahf"
+gksdud[몱]="ahfr"
+gksdud[몲]="ahfa"
+gksdud[몳]="ahfq"
+gksdud[몴]="ahft"
+gksdud[몵]="ahfx"
+gksdud[몶]="ahfv"
+gksdud[몷]="ahfg"
+gksdud[몸]="aha"
+gksdud[몹]="ahq"
+gksdud[몺]="ahqt"
+gksdud[못]="aht"
+gksdud[몼]="ahT"
+gksdud[몽]="ahd"
+gksdud[몾]="ahw"
+gksdud[몿]="ahc"
+gksdud[뫀]="ahz"
+gksdud[뫁]="ahx"
+gksdud[뫂]="ahv"
+gksdud[뫃]="ahg"
+gksdud[뫄]="ahk"
+gksdud[뫅]="ahkr"
+gksdud[뫆]="ahkR"
+gksdud[뫇]="ahkrt"
+gksdud[뫈]="ahks"
+gksdud[뫉]="ahksw"
+gksdud[뫊]="ahksg"
+gksdud[뫋]="ahke"
+gksdud[뫌]="ahkf"
+gksdud[뫍]="ahkfr"
+gksdud[뫎]="ahkfa"
+gksdud[뫏]="ahkfq"
+gksdud[뫐]="ahkft"
+gksdud[뫑]="ahkfx"
+gksdud[뫒]="ahkfv"
+gksdud[뫓]="ahkfg"
+gksdud[뫔]="ahka"
+gksdud[뫕]="ahkq"
+gksdud[뫖]="ahkqt"
+gksdud[뫗]="ahkt"
+gksdud[뫘]="ahkT"
+gksdud[뫙]="ahkd"
+gksdud[뫚]="ahkw"
+gksdud[뫛]="ahkc"
+gksdud[뫜]="ahkz"
+gksdud[뫝]="ahkx"
+gksdud[뫞]="ahkv"
+gksdud[뫟]="ahkg"
+gksdud[뫠]="aho"
+gksdud[뫡]="ahor"
+gksdud[뫢]="ahoR"
+gksdud[뫣]="ahort"
+gksdud[뫤]="ahos"
+gksdud[뫥]="ahosw"
+gksdud[뫦]="ahosg"
+gksdud[뫧]="ahoe"
+gksdud[뫨]="ahof"
+gksdud[뫩]="ahofr"
+gksdud[뫪]="ahofa"
+gksdud[뫫]="ahofq"
+gksdud[뫬]="ahoft"
+gksdud[뫭]="ahofx"
+gksdud[뫮]="ahofv"
+gksdud[뫯]="ahofg"
+gksdud[뫰]="ahoa"
+gksdud[뫱]="ahoq"
+gksdud[뫲]="ahoqt"
+gksdud[뫳]="ahot"
+gksdud[뫴]="ahoT"
+gksdud[뫵]="ahod"
+gksdud[뫶]="ahow"
+gksdud[뫷]="ahoc"
+gksdud[뫸]="ahoz"
+gksdud[뫹]="ahox"
+gksdud[뫺]="ahov"
+gksdud[뫻]="ahog"
+gksdud[뫼]="ahl"
+gksdud[뫽]="ahlr"
+gksdud[뫾]="ahlR"
+gksdud[뫿]="ahlrt"
+gksdud[묀]="ahls"
+gksdud[묁]="ahlsw"
+gksdud[묂]="ahlsg"
+gksdud[묃]="ahle"
+gksdud[묄]="ahlf"
+gksdud[묅]="ahlfr"
+gksdud[묆]="ahlfa"
+gksdud[묇]="ahlfq"
+gksdud[묈]="ahlft"
+gksdud[묉]="ahlfx"
+gksdud[묊]="ahlfv"
+gksdud[묋]="ahlfg"
+gksdud[묌]="ahla"
+gksdud[묍]="ahlq"
+gksdud[묎]="ahlqt"
+gksdud[묏]="ahlt"
+gksdud[묐]="ahlT"
+gksdud[묑]="ahld"
+gksdud[묒]="ahlw"
+gksdud[묓]="ahlc"
+gksdud[묔]="ahlz"
+gksdud[묕]="ahlx"
+gksdud[묖]="ahlv"
+gksdud[묗]="ahlg"
+gksdud[묘]="ay"
+gksdud[묙]="ayr"
+gksdud[묚]="ayR"
+gksdud[묛]="ayrt"
+gksdud[묜]="ays"
+gksdud[묝]="aysw"
+gksdud[묞]="aysg"
+gksdud[묟]="aye"
+gksdud[묠]="ayf"
+gksdud[묡]="ayfr"
+gksdud[묢]="ayfa"
+gksdud[묣]="ayfq"
+gksdud[묤]="ayft"
+gksdud[묥]="ayfx"
+gksdud[묦]="ayfv"
+gksdud[묧]="ayfg"
+gksdud[묨]="aya"
+gksdud[묩]="ayq"
+gksdud[묪]="ayqt"
+gksdud[묫]="ayt"
+gksdud[묬]="ayT"
+gksdud[묭]="ayd"
+gksdud[묮]="ayw"
+gksdud[묯]="ayc"
+gksdud[묰]="ayz"
+gksdud[묱]="ayx"
+gksdud[묲]="ayv"
+gksdud[묳]="ayg"
+gksdud[무]="an"
+gksdud[묵]="anr"
+gksdud[묶]="anR"
+gksdud[묷]="anrt"
+gksdud[문]="ans"
+gksdud[묹]="answ"
+gksdud[묺]="ansg"
+gksdud[묻]="ane"
+gksdud[물]="anf"
+gksdud[묽]="anfr"
+gksdud[묾]="anfa"
+gksdud[묿]="anfq"
+gksdud[뭀]="anft"
+gksdud[뭁]="anfx"
+gksdud[뭂]="anfv"
+gksdud[뭃]="anfg"
+gksdud[뭄]="ana"
+gksdud[뭅]="anq"
+gksdud[뭆]="anqt"
+gksdud[뭇]="ant"
+gksdud[뭈]="anT"
+gksdud[뭉]="and"
+gksdud[뭊]="anw"
+gksdud[뭋]="anc"
+gksdud[뭌]="anz"
+gksdud[뭍]="anx"
+gksdud[뭎]="anv"
+gksdud[뭏]="ang"
+gksdud[뭐]="anj"
+gksdud[뭑]="anjr"
+gksdud[뭒]="anjR"
+gksdud[뭓]="anjrt"
+gksdud[뭔]="anjs"
+gksdud[뭕]="anjsw"
+gksdud[뭖]="anjsg"
+gksdud[뭗]="anje"
+gksdud[뭘]="anjf"
+gksdud[뭙]="anjfr"
+gksdud[뭚]="anjfa"
+gksdud[뭛]="anjfq"
+gksdud[뭜]="anjft"
+gksdud[뭝]="anjfx"
+gksdud[뭞]="anjfv"
+gksdud[뭟]="anjfg"
+gksdud[뭠]="anja"
+gksdud[뭡]="anjq"
+gksdud[뭢]="anjqt"
+gksdud[뭣]="anjt"
+gksdud[뭤]="anjT"
+gksdud[뭥]="anjd"
+gksdud[뭦]="anjw"
+gksdud[뭧]="anjc"
+gksdud[뭨]="anjz"
+gksdud[뭩]="anjx"
+gksdud[뭪]="anjv"
+gksdud[뭫]="anjg"
+gksdud[뭬]="anp"
+gksdud[뭭]="anpr"
+gksdud[뭮]="anpR"
+gksdud[뭯]="anprt"
+gksdud[뭰]="anps"
+gksdud[뭱]="anpsw"
+gksdud[뭲]="anpsg"
+gksdud[뭳]="anpe"
+gksdud[뭴]="anpf"
+gksdud[뭵]="anpfr"
+gksdud[뭶]="anpfa"
+gksdud[뭷]="anpfq"
+gksdud[뭸]="anpft"
+gksdud[뭹]="anpfx"
+gksdud[뭺]="anpfv"
+gksdud[뭻]="anpfg"
+gksdud[뭼]="anpa"
+gksdud[뭽]="anpq"
+gksdud[뭾]="anpqt"
+gksdud[뭿]="anpt"
+gksdud[뮀]="anpT"
+gksdud[뮁]="anpd"
+gksdud[뮂]="anpw"
+gksdud[뮃]="anpc"
+gksdud[뮄]="anpz"
+gksdud[뮅]="anpx"
+gksdud[뮆]="anpv"
+gksdud[뮇]="anpg"
+gksdud[뮈]="anl"
+gksdud[뮉]="anlr"
+gksdud[뮊]="anlR"
+gksdud[뮋]="anlrt"
+gksdud[뮌]="anls"
+gksdud[뮍]="anlsw"
+gksdud[뮎]="anlsg"
+gksdud[뮏]="anle"
+gksdud[뮐]="anlf"
+gksdud[뮑]="anlfr"
+gksdud[뮒]="anlfa"
+gksdud[뮓]="anlfq"
+gksdud[뮔]="anlft"
+gksdud[뮕]="anlfx"
+gksdud[뮖]="anlfv"
+gksdud[뮗]="anlfg"
+gksdud[뮘]="anla"
+gksdud[뮙]="anlq"
+gksdud[뮚]="anlqt"
+gksdud[뮛]="anlt"
+gksdud[뮜]="anlT"
+gksdud[뮝]="anld"
+gksdud[뮞]="anlw"
+gksdud[뮟]="anlc"
+gksdud[뮠]="anlz"
+gksdud[뮡]="anlx"
+gksdud[뮢]="anlv"
+gksdud[뮣]="anlg"
+gksdud[뮤]="ab"
+gksdud[뮥]="abr"
+gksdud[뮦]="abR"
+gksdud[뮧]="abrt"
+gksdud[뮨]="abs"
+gksdud[뮩]="absw"
+gksdud[뮪]="absg"
+gksdud[뮫]="abe"
+gksdud[뮬]="abf"
+gksdud[뮭]="abfr"
+gksdud[뮮]="abfa"
+gksdud[뮯]="abfq"
+gksdud[뮰]="abft"
+gksdud[뮱]="abfx"
+gksdud[뮲]="abfv"
+gksdud[뮳]="abfg"
+gksdud[뮴]="aba"
+gksdud[뮵]="abq"
+gksdud[뮶]="abqt"
+gksdud[뮷]="abt"
+gksdud[뮸]="abT"
+gksdud[뮹]="abd"
+gksdud[뮺]="abw"
+gksdud[뮻]="abc"
+gksdud[뮼]="abz"
+gksdud[뮽]="abx"
+gksdud[뮾]="abv"
+gksdud[뮿]="abg"
+gksdud[므]="am"
+gksdud[믁]="amr"
+gksdud[믂]="amR"
+gksdud[믃]="amrt"
+gksdud[믄]="ams"
+gksdud[믅]="amsw"
+gksdud[믆]="amsg"
+gksdud[믇]="ame"
+gksdud[믈]="amf"
+gksdud[믉]="amfr"
+gksdud[믊]="amfa"
+gksdud[믋]="amfq"
+gksdud[믌]="amft"
+gksdud[믍]="amfx"
+gksdud[믎]="amfv"
+gksdud[믏]="amfg"
+gksdud[믐]="ama"
+gksdud[믑]="amq"
+gksdud[믒]="amqt"
+gksdud[믓]="amt"
+gksdud[믔]="amT"
+gksdud[믕]="amd"
+gksdud[믖]="amw"
+gksdud[믗]="amc"
+gksdud[믘]="amz"
+gksdud[믙]="amx"
+gksdud[믚]="amv"
+gksdud[믛]="amg"
+gksdud[믜]="aml"
+gksdud[믝]="amlr"
+gksdud[믞]="amlR"
+gksdud[믟]="amlrt"
+gksdud[믠]="amls"
+gksdud[믡]="amlsw"
+gksdud[믢]="amlsg"
+gksdud[믣]="amle"
+gksdud[믤]="amlf"
+gksdud[믥]="amlfr"
+gksdud[믦]="amlfa"
+gksdud[믧]="amlfq"
+gksdud[믨]="amlft"
+gksdud[믩]="amlfx"
+gksdud[믪]="amlfv"
+gksdud[믫]="amlfg"
+gksdud[믬]="amla"
+gksdud[믭]="amlq"
+gksdud[믮]="amlqt"
+gksdud[믯]="amlt"
+gksdud[믰]="amlT"
+gksdud[믱]="amld"
+gksdud[믲]="amlw"
+gksdud[믳]="amlc"
+gksdud[믴]="amlz"
+gksdud[믵]="amlx"
+gksdud[믶]="amlv"
+gksdud[믷]="amlg"
+gksdud[미]="al"
+gksdud[믹]="alr"
+gksdud[믺]="alR"
+gksdud[믻]="alrt"
+gksdud[민]="als"
+gksdud[믽]="alsw"
+gksdud[믾]="alsg"
+gksdud[믿]="ale"
+gksdud[밀]="alf"
+gksdud[밁]="alfr"
+gksdud[밂]="alfa"
+gksdud[밃]="alfq"
+gksdud[밄]="alft"
+gksdud[밅]="alfx"
+gksdud[밆]="alfv"
+gksdud[밇]="alfg"
+gksdud[밈]="ala"
+gksdud[밉]="alq"
+gksdud[밊]="alqt"
+gksdud[밋]="alt"
+gksdud[밌]="alT"
+gksdud[밍]="ald"
+gksdud[밎]="alw"
+gksdud[및]="alc"
+gksdud[밐]="alz"
+gksdud[밑]="alx"
+gksdud[밒]="alv"
+gksdud[밓]="alg"
+gksdud[바]="qk"
+gksdud[박]="qkr"
+gksdud[밖]="qkR"
+gksdud[밗]="qkrt"
+gksdud[반]="qks"
+gksdud[밙]="qksw"
+gksdud[밚]="qksg"
+gksdud[받]="qke"
+gksdud[발]="qkf"
+gksdud[밝]="qkfr"
+gksdud[밞]="qkfa"
+gksdud[밟]="qkfq"
+gksdud[밠]="qkft"
+gksdud[밡]="qkfx"
+gksdud[밢]="qkfv"
+gksdud[밣]="qkfg"
+gksdud[밤]="qka"
+gksdud[밥]="qkq"
+gksdud[밦]="qkqt"
+gksdud[밧]="qkt"
+gksdud[밨]="qkT"
+gksdud[방]="qkd"
+gksdud[밪]="qkw"
+gksdud[밫]="qkc"
+gksdud[밬]="qkz"
+gksdud[밭]="qkx"
+gksdud[밮]="qkv"
+gksdud[밯]="qkg"
+gksdud[배]="qo"
+gksdud[백]="qor"
+gksdud[밲]="qoR"
+gksdud[밳]="qort"
+gksdud[밴]="qos"
+gksdud[밵]="qosw"
+gksdud[밶]="qosg"
+gksdud[밷]="qoe"
+gksdud[밸]="qof"
+gksdud[밹]="qofr"
+gksdud[밺]="qofa"
+gksdud[밻]="qofq"
+gksdud[밼]="qoft"
+gksdud[밽]="qofx"
+gksdud[밾]="qofv"
+gksdud[밿]="qofg"
+gksdud[뱀]="qoa"
+gksdud[뱁]="qoq"
+gksdud[뱂]="qoqt"
+gksdud[뱃]="qot"
+gksdud[뱄]="qoT"
+gksdud[뱅]="qod"
+gksdud[뱆]="qow"
+gksdud[뱇]="qoc"
+gksdud[뱈]="qoz"
+gksdud[뱉]="qox"
+gksdud[뱊]="qov"
+gksdud[뱋]="qog"
+gksdud[뱌]="qi"
+gksdud[뱍]="qir"
+gksdud[뱎]="qiR"
+gksdud[뱏]="qirt"
+gksdud[뱐]="qis"
+gksdud[뱑]="qisw"
+gksdud[뱒]="qisg"
+gksdud[뱓]="qie"
+gksdud[뱔]="qif"
+gksdud[뱕]="qifr"
+gksdud[뱖]="qifa"
+gksdud[뱗]="qifq"
+gksdud[뱘]="qift"
+gksdud[뱙]="qifx"
+gksdud[뱚]="qifv"
+gksdud[뱛]="qifg"
+gksdud[뱜]="qia"
+gksdud[뱝]="qiq"
+gksdud[뱞]="qiqt"
+gksdud[뱟]="qit"
+gksdud[뱠]="qiT"
+gksdud[뱡]="qid"
+gksdud[뱢]="qiw"
+gksdud[뱣]="qic"
+gksdud[뱤]="qiz"
+gksdud[뱥]="qix"
+gksdud[뱦]="qiv"
+gksdud[뱧]="qig"
+gksdud[뱨]="qO"
+gksdud[뱩]="qOr"
+gksdud[뱪]="qOR"
+gksdud[뱫]="qOrt"
+gksdud[뱬]="qOs"
+gksdud[뱭]="qOsw"
+gksdud[뱮]="qOsg"
+gksdud[뱯]="qOe"
+gksdud[뱰]="qOf"
+gksdud[뱱]="qOfr"
+gksdud[뱲]="qOfa"
+gksdud[뱳]="qOfq"
+gksdud[뱴]="qOft"
+gksdud[뱵]="qOfx"
+gksdud[뱶]="qOfv"
+gksdud[뱷]="qOfg"
+gksdud[뱸]="qOa"
+gksdud[뱹]="qOq"
+gksdud[뱺]="qOqt"
+gksdud[뱻]="qOt"
+gksdud[뱼]="qOT"
+gksdud[뱽]="qOd"
+gksdud[뱾]="qOw"
+gksdud[뱿]="qOc"
+gksdud[벀]="qOz"
+gksdud[벁]="qOx"
+gksdud[벂]="qOv"
+gksdud[벃]="qOg"
+gksdud[버]="qj"
+gksdud[벅]="qjr"
+gksdud[벆]="qjR"
+gksdud[벇]="qjrt"
+gksdud[번]="qjs"
+gksdud[벉]="qjsw"
+gksdud[벊]="qjsg"
+gksdud[벋]="qje"
+gksdud[벌]="qjf"
+gksdud[벍]="qjfr"
+gksdud[벎]="qjfa"
+gksdud[벏]="qjfq"
+gksdud[벐]="qjft"
+gksdud[벑]="qjfx"
+gksdud[벒]="qjfv"
+gksdud[벓]="qjfg"
+gksdud[범]="qja"
+gksdud[법]="qjq"
+gksdud[벖]="qjqt"
+gksdud[벗]="qjt"
+gksdud[벘]="qjT"
+gksdud[벙]="qjd"
+gksdud[벚]="qjw"
+gksdud[벛]="qjc"
+gksdud[벜]="qjz"
+gksdud[벝]="qjx"
+gksdud[벞]="qjv"
+gksdud[벟]="qjg"
+gksdud[베]="qp"
+gksdud[벡]="qpr"
+gksdud[벢]="qpR"
+gksdud[벣]="qprt"
+gksdud[벤]="qps"
+gksdud[벥]="qpsw"
+gksdud[벦]="qpsg"
+gksdud[벧]="qpe"
+gksdud[벨]="qpf"
+gksdud[벩]="qpfr"
+gksdud[벪]="qpfa"
+gksdud[벫]="qpfq"
+gksdud[벬]="qpft"
+gksdud[벭]="qpfx"
+gksdud[벮]="qpfv"
+gksdud[벯]="qpfg"
+gksdud[벰]="qpa"
+gksdud[벱]="qpq"
+gksdud[벲]="qpqt"
+gksdud[벳]="qpt"
+gksdud[벴]="qpT"
+gksdud[벵]="qpd"
+gksdud[벶]="qpw"
+gksdud[벷]="qpc"
+gksdud[벸]="qpz"
+gksdud[벹]="qpx"
+gksdud[벺]="qpv"
+gksdud[벻]="qpg"
+gksdud[벼]="qu"
+gksdud[벽]="qur"
+gksdud[벾]="quR"
+gksdud[벿]="qurt"
+gksdud[변]="qus"
+gksdud[볁]="qusw"
+gksdud[볂]="qusg"
+gksdud[볃]="que"
+gksdud[별]="quf"
+gksdud[볅]="qufr"
+gksdud[볆]="qufa"
+gksdud[볇]="qufq"
+gksdud[볈]="quft"
+gksdud[볉]="qufx"
+gksdud[볊]="qufv"
+gksdud[볋]="qufg"
+gksdud[볌]="qua"
+gksdud[볍]="quq"
+gksdud[볎]="quqt"
+gksdud[볏]="qut"
+gksdud[볐]="quT"
+gksdud[병]="qud"
+gksdud[볒]="quw"
+gksdud[볓]="quc"
+gksdud[볔]="quz"
+gksdud[볕]="qux"
+gksdud[볖]="quv"
+gksdud[볗]="qug"
+gksdud[볘]="qP"
+gksdud[볙]="qPr"
+gksdud[볚]="qPR"
+gksdud[볛]="qPrt"
+gksdud[볜]="qPs"
+gksdud[볝]="qPsw"
+gksdud[볞]="qPsg"
+gksdud[볟]="qPe"
+gksdud[볠]="qPf"
+gksdud[볡]="qPfr"
+gksdud[볢]="qPfa"
+gksdud[볣]="qPfq"
+gksdud[볤]="qPft"
+gksdud[볥]="qPfx"
+gksdud[볦]="qPfv"
+gksdud[볧]="qPfg"
+gksdud[볨]="qPa"
+gksdud[볩]="qPq"
+gksdud[볪]="qPqt"
+gksdud[볫]="qPt"
+gksdud[볬]="qPT"
+gksdud[볭]="qPd"
+gksdud[볮]="qPw"
+gksdud[볯]="qPc"
+gksdud[볰]="qPz"
+gksdud[볱]="qPx"
+gksdud[볲]="qPv"
+gksdud[볳]="qPg"
+gksdud[보]="qh"
+gksdud[복]="qhr"
+gksdud[볶]="qhR"
+gksdud[볷]="qhrt"
+gksdud[본]="qhs"
+gksdud[볹]="qhsw"
+gksdud[볺]="qhsg"
+gksdud[볻]="qhe"
+gksdud[볼]="qhf"
+gksdud[볽]="qhfr"
+gksdud[볾]="qhfa"
+gksdud[볿]="qhfq"
+gksdud[봀]="qhft"
+gksdud[봁]="qhfx"
+gksdud[봂]="qhfv"
+gksdud[봃]="qhfg"
+gksdud[봄]="qha"
+gksdud[봅]="qhq"
+gksdud[봆]="qhqt"
+gksdud[봇]="qht"
+gksdud[봈]="qhT"
+gksdud[봉]="qhd"
+gksdud[봊]="qhw"
+gksdud[봋]="qhc"
+gksdud[봌]="qhz"
+gksdud[봍]="qhx"
+gksdud[봎]="qhv"
+gksdud[봏]="qhg"
+gksdud[봐]="qhk"
+gksdud[봑]="qhkr"
+gksdud[봒]="qhkR"
+gksdud[봓]="qhkrt"
+gksdud[봔]="qhks"
+gksdud[봕]="qhksw"
+gksdud[봖]="qhksg"
+gksdud[봗]="qhke"
+gksdud[봘]="qhkf"
+gksdud[봙]="qhkfr"
+gksdud[봚]="qhkfa"
+gksdud[봛]="qhkfq"
+gksdud[봜]="qhkft"
+gksdud[봝]="qhkfx"
+gksdud[봞]="qhkfv"
+gksdud[봟]="qhkfg"
+gksdud[봠]="qhka"
+gksdud[봡]="qhkq"
+gksdud[봢]="qhkqt"
+gksdud[봣]="qhkt"
+gksdud[봤]="qhkT"
+gksdud[봥]="qhkd"
+gksdud[봦]="qhkw"
+gksdud[봧]="qhkc"
+gksdud[봨]="qhkz"
+gksdud[봩]="qhkx"
+gksdud[봪]="qhkv"
+gksdud[봫]="qhkg"
+gksdud[봬]="qho"
+gksdud[봭]="qhor"
+gksdud[봮]="qhoR"
+gksdud[봯]="qhort"
+gksdud[봰]="qhos"
+gksdud[봱]="qhosw"
+gksdud[봲]="qhosg"
+gksdud[봳]="qhoe"
+gksdud[봴]="qhof"
+gksdud[봵]="qhofr"
+gksdud[봶]="qhofa"
+gksdud[봷]="qhofq"
+gksdud[봸]="qhoft"
+gksdud[봹]="qhofx"
+gksdud[봺]="qhofv"
+gksdud[봻]="qhofg"
+gksdud[봼]="qhoa"
+gksdud[봽]="qhoq"
+gksdud[봾]="qhoqt"
+gksdud[봿]="qhot"
+gksdud[뵀]="qhoT"
+gksdud[뵁]="qhod"
+gksdud[뵂]="qhow"
+gksdud[뵃]="qhoc"
+gksdud[뵄]="qhoz"
+gksdud[뵅]="qhox"
+gksdud[뵆]="qhov"
+gksdud[뵇]="qhog"
+gksdud[뵈]="qhl"
+gksdud[뵉]="qhlr"
+gksdud[뵊]="qhlR"
+gksdud[뵋]="qhlrt"
+gksdud[뵌]="qhls"
+gksdud[뵍]="qhlsw"
+gksdud[뵎]="qhlsg"
+gksdud[뵏]="qhle"
+gksdud[뵐]="qhlf"
+gksdud[뵑]="qhlfr"
+gksdud[뵒]="qhlfa"
+gksdud[뵓]="qhlfq"
+gksdud[뵔]="qhlft"
+gksdud[뵕]="qhlfx"
+gksdud[뵖]="qhlfv"
+gksdud[뵗]="qhlfg"
+gksdud[뵘]="qhla"
+gksdud[뵙]="qhlq"
+gksdud[뵚]="qhlqt"
+gksdud[뵛]="qhlt"
+gksdud[뵜]="qhlT"
+gksdud[뵝]="qhld"
+gksdud[뵞]="qhlw"
+gksdud[뵟]="qhlc"
+gksdud[뵠]="qhlz"
+gksdud[뵡]="qhlx"
+gksdud[뵢]="qhlv"
+gksdud[뵣]="qhlg"
+gksdud[뵤]="qy"
+gksdud[뵥]="qyr"
+gksdud[뵦]="qyR"
+gksdud[뵧]="qyrt"
+gksdud[뵨]="qys"
+gksdud[뵩]="qysw"
+gksdud[뵪]="qysg"
+gksdud[뵫]="qye"
+gksdud[뵬]="qyf"
+gksdud[뵭]="qyfr"
+gksdud[뵮]="qyfa"
+gksdud[뵯]="qyfq"
+gksdud[뵰]="qyft"
+gksdud[뵱]="qyfx"
+gksdud[뵲]="qyfv"
+gksdud[뵳]="qyfg"
+gksdud[뵴]="qya"
+gksdud[뵵]="qyq"
+gksdud[뵶]="qyqt"
+gksdud[뵷]="qyt"
+gksdud[뵸]="qyT"
+gksdud[뵹]="qyd"
+gksdud[뵺]="qyw"
+gksdud[뵻]="qyc"
+gksdud[뵼]="qyz"
+gksdud[뵽]="qyx"
+gksdud[뵾]="qyv"
+gksdud[뵿]="qyg"
+gksdud[부]="qn"
+gksdud[북]="qnr"
+gksdud[붂]="qnR"
+gksdud[붃]="qnrt"
+gksdud[분]="qns"
+gksdud[붅]="qnsw"
+gksdud[붆]="qnsg"
+gksdud[붇]="qne"
+gksdud[불]="qnf"
+gksdud[붉]="qnfr"
+gksdud[붊]="qnfa"
+gksdud[붋]="qnfq"
+gksdud[붌]="qnft"
+gksdud[붍]="qnfx"
+gksdud[붎]="qnfv"
+gksdud[붏]="qnfg"
+gksdud[붐]="qna"
+gksdud[붑]="qnq"
+gksdud[붒]="qnqt"
+gksdud[붓]="qnt"
+gksdud[붔]="qnT"
+gksdud[붕]="qnd"
+gksdud[붖]="qnw"
+gksdud[붗]="qnc"
+gksdud[붘]="qnz"
+gksdud[붙]="qnx"
+gksdud[붚]="qnv"
+gksdud[붛]="qng"
+gksdud[붜]="qnj"
+gksdud[붝]="qnjr"
+gksdud[붞]="qnjR"
+gksdud[붟]="qnjrt"
+gksdud[붠]="qnjs"
+gksdud[붡]="qnjsw"
+gksdud[붢]="qnjsg"
+gksdud[붣]="qnje"
+gksdud[붤]="qnjf"
+gksdud[붥]="qnjfr"
+gksdud[붦]="qnjfa"
+gksdud[붧]="qnjfq"
+gksdud[붨]="qnjft"
+gksdud[붩]="qnjfx"
+gksdud[붪]="qnjfv"
+gksdud[붫]="qnjfg"
+gksdud[붬]="qnja"
+gksdud[붭]="qnjq"
+gksdud[붮]="qnjqt"
+gksdud[붯]="qnjt"
+gksdud[붰]="qnjT"
+gksdud[붱]="qnjd"
+gksdud[붲]="qnjw"
+gksdud[붳]="qnjc"
+gksdud[붴]="qnjz"
+gksdud[붵]="qnjx"
+gksdud[붶]="qnjv"
+gksdud[붷]="qnjg"
+gksdud[붸]="qnp"
+gksdud[붹]="qnpr"
+gksdud[붺]="qnpR"
+gksdud[붻]="qnprt"
+gksdud[붼]="qnps"
+gksdud[붽]="qnpsw"
+gksdud[붾]="qnpsg"
+gksdud[붿]="qnpe"
+gksdud[뷀]="qnpf"
+gksdud[뷁]="qnpfr"
+gksdud[뷂]="qnpfa"
+gksdud[뷃]="qnpfq"
+gksdud[뷄]="qnpft"
+gksdud[뷅]="qnpfx"
+gksdud[뷆]="qnpfv"
+gksdud[뷇]="qnpfg"
+gksdud[뷈]="qnpa"
+gksdud[뷉]="qnpq"
+gksdud[뷊]="qnpqt"
+gksdud[뷋]="qnpt"
+gksdud[뷌]="qnpT"
+gksdud[뷍]="qnpd"
+gksdud[뷎]="qnpw"
+gksdud[뷏]="qnpc"
+gksdud[뷐]="qnpz"
+gksdud[뷑]="qnpx"
+gksdud[뷒]="qnpv"
+gksdud[뷓]="qnpg"
+gksdud[뷔]="qnl"
+gksdud[뷕]="qnlr"
+gksdud[뷖]="qnlR"
+gksdud[뷗]="qnlrt"
+gksdud[뷘]="qnls"
+gksdud[뷙]="qnlsw"
+gksdud[뷚]="qnlsg"
+gksdud[뷛]="qnle"
+gksdud[뷜]="qnlf"
+gksdud[뷝]="qnlfr"
+gksdud[뷞]="qnlfa"
+gksdud[뷟]="qnlfq"
+gksdud[뷠]="qnlft"
+gksdud[뷡]="qnlfx"
+gksdud[뷢]="qnlfv"
+gksdud[뷣]="qnlfg"
+gksdud[뷤]="qnla"
+gksdud[뷥]="qnlq"
+gksdud[뷦]="qnlqt"
+gksdud[뷧]="qnlt"
+gksdud[뷨]="qnlT"
+gksdud[뷩]="qnld"
+gksdud[뷪]="qnlw"
+gksdud[뷫]="qnlc"
+gksdud[뷬]="qnlz"
+gksdud[뷭]="qnlx"
+gksdud[뷮]="qnlv"
+gksdud[뷯]="qnlg"
+gksdud[뷰]="qb"
+gksdud[뷱]="qbr"
+gksdud[뷲]="qbR"
+gksdud[뷳]="qbrt"
+gksdud[뷴]="qbs"
+gksdud[뷵]="qbsw"
+gksdud[뷶]="qbsg"
+gksdud[뷷]="qbe"
+gksdud[뷸]="qbf"
+gksdud[뷹]="qbfr"
+gksdud[뷺]="qbfa"
+gksdud[뷻]="qbfq"
+gksdud[뷼]="qbft"
+gksdud[뷽]="qbfx"
+gksdud[뷾]="qbfv"
+gksdud[뷿]="qbfg"
+gksdud[븀]="qba"
+gksdud[븁]="qbq"
+gksdud[븂]="qbqt"
+gksdud[븃]="qbt"
+gksdud[븄]="qbT"
+gksdud[븅]="qbd"
+gksdud[븆]="qbw"
+gksdud[븇]="qbc"
+gksdud[븈]="qbz"
+gksdud[븉]="qbx"
+gksdud[븊]="qbv"
+gksdud[븋]="qbg"
+gksdud[브]="qm"
+gksdud[븍]="qmr"
+gksdud[븎]="qmR"
+gksdud[븏]="qmrt"
+gksdud[븐]="qms"
+gksdud[븑]="qmsw"
+gksdud[븒]="qmsg"
+gksdud[븓]="qme"
+gksdud[블]="qmf"
+gksdud[븕]="qmfr"
+gksdud[븖]="qmfa"
+gksdud[븗]="qmfq"
+gksdud[븘]="qmft"
+gksdud[븙]="qmfx"
+gksdud[븚]="qmfv"
+gksdud[븛]="qmfg"
+gksdud[븜]="qma"
+gksdud[븝]="qmq"
+gksdud[븞]="qmqt"
+gksdud[븟]="qmt"
+gksdud[븠]="qmT"
+gksdud[븡]="qmd"
+gksdud[븢]="qmw"
+gksdud[븣]="qmc"
+gksdud[븤]="qmz"
+gksdud[븥]="qmx"
+gksdud[븦]="qmv"
+gksdud[븧]="qmg"
+gksdud[븨]="qml"
+gksdud[븩]="qmlr"
+gksdud[븪]="qmlR"
+gksdud[븫]="qmlrt"
+gksdud[븬]="qmls"
+gksdud[븭]="qmlsw"
+gksdud[븮]="qmlsg"
+gksdud[븯]="qmle"
+gksdud[븰]="qmlf"
+gksdud[븱]="qmlfr"
+gksdud[븲]="qmlfa"
+gksdud[븳]="qmlfq"
+gksdud[븴]="qmlft"
+gksdud[븵]="qmlfx"
+gksdud[븶]="qmlfv"
+gksdud[븷]="qmlfg"
+gksdud[븸]="qmla"
+gksdud[븹]="qmlq"
+gksdud[븺]="qmlqt"
+gksdud[븻]="qmlt"
+gksdud[븼]="qmlT"
+gksdud[븽]="qmld"
+gksdud[븾]="qmlw"
+gksdud[븿]="qmlc"
+gksdud[빀]="qmlz"
+gksdud[빁]="qmlx"
+gksdud[빂]="qmlv"
+gksdud[빃]="qmlg"
+gksdud[비]="ql"
+gksdud[빅]="qlr"
+gksdud[빆]="qlR"
+gksdud[빇]="qlrt"
+gksdud[빈]="qls"
+gksdud[빉]="qlsw"
+gksdud[빊]="qlsg"
+gksdud[빋]="qle"
+gksdud[빌]="qlf"
+gksdud[빍]="qlfr"
+gksdud[빎]="qlfa"
+gksdud[빏]="qlfq"
+gksdud[빐]="qlft"
+gksdud[빑]="qlfx"
+gksdud[빒]="qlfv"
+gksdud[빓]="qlfg"
+gksdud[빔]="qla"
+gksdud[빕]="qlq"
+gksdud[빖]="qlqt"
+gksdud[빗]="qlt"
+gksdud[빘]="qlT"
+gksdud[빙]="qld"
+gksdud[빚]="qlw"
+gksdud[빛]="qlc"
+gksdud[빜]="qlz"
+gksdud[빝]="qlx"
+gksdud[빞]="qlv"
+gksdud[빟]="qlg"
+gksdud[빠]="Qk"
+gksdud[빡]="Qkr"
+gksdud[빢]="QkR"
+gksdud[빣]="Qkrt"
+gksdud[빤]="Qks"
+gksdud[빥]="Qksw"
+gksdud[빦]="Qksg"
+gksdud[빧]="Qke"
+gksdud[빨]="Qkf"
+gksdud[빩]="Qkfr"
+gksdud[빪]="Qkfa"
+gksdud[빫]="Qkfq"
+gksdud[빬]="Qkft"
+gksdud[빭]="Qkfx"
+gksdud[빮]="Qkfv"
+gksdud[빯]="Qkfg"
+gksdud[빰]="Qka"
+gksdud[빱]="Qkq"
+gksdud[빲]="Qkqt"
+gksdud[빳]="Qkt"
+gksdud[빴]="QkT"
+gksdud[빵]="Qkd"
+gksdud[빶]="Qkw"
+gksdud[빷]="Qkc"
+gksdud[빸]="Qkz"
+gksdud[빹]="Qkx"
+gksdud[빺]="Qkv"
+gksdud[빻]="Qkg"
+gksdud[빼]="Qo"
+gksdud[빽]="Qor"
+gksdud[빾]="QoR"
+gksdud[빿]="Qort"
+gksdud[뺀]="Qos"
+gksdud[뺁]="Qosw"
+gksdud[뺂]="Qosg"
+gksdud[뺃]="Qoe"
+gksdud[뺄]="Qof"
+gksdud[뺅]="Qofr"
+gksdud[뺆]="Qofa"
+gksdud[뺇]="Qofq"
+gksdud[뺈]="Qoft"
+gksdud[뺉]="Qofx"
+gksdud[뺊]="Qofv"
+gksdud[뺋]="Qofg"
+gksdud[뺌]="Qoa"
+gksdud[뺍]="Qoq"
+gksdud[뺎]="Qoqt"
+gksdud[뺏]="Qot"
+gksdud[뺐]="QoT"
+gksdud[뺑]="Qod"
+gksdud[뺒]="Qow"
+gksdud[뺓]="Qoc"
+gksdud[뺔]="Qoz"
+gksdud[뺕]="Qox"
+gksdud[뺖]="Qov"
+gksdud[뺗]="Qog"
+gksdud[뺘]="Qi"
+gksdud[뺙]="Qir"
+gksdud[뺚]="QiR"
+gksdud[뺛]="Qirt"
+gksdud[뺜]="Qis"
+gksdud[뺝]="Qisw"
+gksdud[뺞]="Qisg"
+gksdud[뺟]="Qie"
+gksdud[뺠]="Qif"
+gksdud[뺡]="Qifr"
+gksdud[뺢]="Qifa"
+gksdud[뺣]="Qifq"
+gksdud[뺤]="Qift"
+gksdud[뺥]="Qifx"
+gksdud[뺦]="Qifv"
+gksdud[뺧]="Qifg"
+gksdud[뺨]="Qia"
+gksdud[뺩]="Qiq"
+gksdud[뺪]="Qiqt"
+gksdud[뺫]="Qit"
+gksdud[뺬]="QiT"
+gksdud[뺭]="Qid"
+gksdud[뺮]="Qiw"
+gksdud[뺯]="Qic"
+gksdud[뺰]="Qiz"
+gksdud[뺱]="Qix"
+gksdud[뺲]="Qiv"
+gksdud[뺳]="Qig"
+gksdud[뺴]="QO"
+gksdud[뺵]="QOr"
+gksdud[뺶]="QOR"
+gksdud[뺷]="QOrt"
+gksdud[뺸]="QOs"
+gksdud[뺹]="QOsw"
+gksdud[뺺]="QOsg"
+gksdud[뺻]="QOe"
+gksdud[뺼]="QOf"
+gksdud[뺽]="QOfr"
+gksdud[뺾]="QOfa"
+gksdud[뺿]="QOfq"
+gksdud[뻀]="QOft"
+gksdud[뻁]="QOfx"
+gksdud[뻂]="QOfv"
+gksdud[뻃]="QOfg"
+gksdud[뻄]="QOa"
+gksdud[뻅]="QOq"
+gksdud[뻆]="QOqt"
+gksdud[뻇]="QOt"
+gksdud[뻈]="QOT"
+gksdud[뻉]="QOd"
+gksdud[뻊]="QOw"
+gksdud[뻋]="QOc"
+gksdud[뻌]="QOz"
+gksdud[뻍]="QOx"
+gksdud[뻎]="QOv"
+gksdud[뻏]="QOg"
+gksdud[뻐]="Qj"
+gksdud[뻑]="Qjr"
+gksdud[뻒]="QjR"
+gksdud[뻓]="Qjrt"
+gksdud[뻔]="Qjs"
+gksdud[뻕]="Qjsw"
+gksdud[뻖]="Qjsg"
+gksdud[뻗]="Qje"
+gksdud[뻘]="Qjf"
+gksdud[뻙]="Qjfr"
+gksdud[뻚]="Qjfa"
+gksdud[뻛]="Qjfq"
+gksdud[뻜]="Qjft"
+gksdud[뻝]="Qjfx"
+gksdud[뻞]="Qjfv"
+gksdud[뻟]="Qjfg"
+gksdud[뻠]="Qja"
+gksdud[뻡]="Qjq"
+gksdud[뻢]="Qjqt"
+gksdud[뻣]="Qjt"
+gksdud[뻤]="QjT"
+gksdud[뻥]="Qjd"
+gksdud[뻦]="Qjw"
+gksdud[뻧]="Qjc"
+gksdud[뻨]="Qjz"
+gksdud[뻩]="Qjx"
+gksdud[뻪]="Qjv"
+gksdud[뻫]="Qjg"
+gksdud[뻬]="Qp"
+gksdud[뻭]="Qpr"
+gksdud[뻮]="QpR"
+gksdud[뻯]="Qprt"
+gksdud[뻰]="Qps"
+gksdud[뻱]="Qpsw"
+gksdud[뻲]="Qpsg"
+gksdud[뻳]="Qpe"
+gksdud[뻴]="Qpf"
+gksdud[뻵]="Qpfr"
+gksdud[뻶]="Qpfa"
+gksdud[뻷]="Qpfq"
+gksdud[뻸]="Qpft"
+gksdud[뻹]="Qpfx"
+gksdud[뻺]="Qpfv"
+gksdud[뻻]="Qpfg"
+gksdud[뻼]="Qpa"
+gksdud[뻽]="Qpq"
+gksdud[뻾]="Qpqt"
+gksdud[뻿]="Qpt"
+gksdud[뼀]="QpT"
+gksdud[뼁]="Qpd"
+gksdud[뼂]="Qpw"
+gksdud[뼃]="Qpc"
+gksdud[뼄]="Qpz"
+gksdud[뼅]="Qpx"
+gksdud[뼆]="Qpv"
+gksdud[뼇]="Qpg"
+gksdud[뼈]="Qu"
+gksdud[뼉]="Qur"
+gksdud[뼊]="QuR"
+gksdud[뼋]="Qurt"
+gksdud[뼌]="Qus"
+gksdud[뼍]="Qusw"
+gksdud[뼎]="Qusg"
+gksdud[뼏]="Que"
+gksdud[뼐]="Quf"
+gksdud[뼑]="Qufr"
+gksdud[뼒]="Qufa"
+gksdud[뼓]="Qufq"
+gksdud[뼔]="Quft"
+gksdud[뼕]="Qufx"
+gksdud[뼖]="Qufv"
+gksdud[뼗]="Qufg"
+gksdud[뼘]="Qua"
+gksdud[뼙]="Quq"
+gksdud[뼚]="Quqt"
+gksdud[뼛]="Qut"
+gksdud[뼜]="QuT"
+gksdud[뼝]="Qud"
+gksdud[뼞]="Quw"
+gksdud[뼟]="Quc"
+gksdud[뼠]="Quz"
+gksdud[뼡]="Qux"
+gksdud[뼢]="Quv"
+gksdud[뼣]="Qug"
+gksdud[뼤]="QP"
+gksdud[뼥]="QPr"
+gksdud[뼦]="QPR"
+gksdud[뼧]="QPrt"
+gksdud[뼨]="QPs"
+gksdud[뼩]="QPsw"
+gksdud[뼪]="QPsg"
+gksdud[뼫]="QPe"
+gksdud[뼬]="QPf"
+gksdud[뼭]="QPfr"
+gksdud[뼮]="QPfa"
+gksdud[뼯]="QPfq"
+gksdud[뼰]="QPft"
+gksdud[뼱]="QPfx"
+gksdud[뼲]="QPfv"
+gksdud[뼳]="QPfg"
+gksdud[뼴]="QPa"
+gksdud[뼵]="QPq"
+gksdud[뼶]="QPqt"
+gksdud[뼷]="QPt"
+gksdud[뼸]="QPT"
+gksdud[뼹]="QPd"
+gksdud[뼺]="QPw"
+gksdud[뼻]="QPc"
+gksdud[뼼]="QPz"
+gksdud[뼽]="QPx"
+gksdud[뼾]="QPv"
+gksdud[뼿]="QPg"
+gksdud[뽀]="Qh"
+gksdud[뽁]="Qhr"
+gksdud[뽂]="QhR"
+gksdud[뽃]="Qhrt"
+gksdud[뽄]="Qhs"
+gksdud[뽅]="Qhsw"
+gksdud[뽆]="Qhsg"
+gksdud[뽇]="Qhe"
+gksdud[뽈]="Qhf"
+gksdud[뽉]="Qhfr"
+gksdud[뽊]="Qhfa"
+gksdud[뽋]="Qhfq"
+gksdud[뽌]="Qhft"
+gksdud[뽍]="Qhfx"
+gksdud[뽎]="Qhfv"
+gksdud[뽏]="Qhfg"
+gksdud[뽐]="Qha"
+gksdud[뽑]="Qhq"
+gksdud[뽒]="Qhqt"
+gksdud[뽓]="Qht"
+gksdud[뽔]="QhT"
+gksdud[뽕]="Qhd"
+gksdud[뽖]="Qhw"
+gksdud[뽗]="Qhc"
+gksdud[뽘]="Qhz"
+gksdud[뽙]="Qhx"
+gksdud[뽚]="Qhv"
+gksdud[뽛]="Qhg"
+gksdud[뽜]="Qhk"
+gksdud[뽝]="Qhkr"
+gksdud[뽞]="QhkR"
+gksdud[뽟]="Qhkrt"
+gksdud[뽠]="Qhks"
+gksdud[뽡]="Qhksw"
+gksdud[뽢]="Qhksg"
+gksdud[뽣]="Qhke"
+gksdud[뽤]="Qhkf"
+gksdud[뽥]="Qhkfr"
+gksdud[뽦]="Qhkfa"
+gksdud[뽧]="Qhkfq"
+gksdud[뽨]="Qhkft"
+gksdud[뽩]="Qhkfx"
+gksdud[뽪]="Qhkfv"
+gksdud[뽫]="Qhkfg"
+gksdud[뽬]="Qhka"
+gksdud[뽭]="Qhkq"
+gksdud[뽮]="Qhkqt"
+gksdud[뽯]="Qhkt"
+gksdud[뽰]="QhkT"
+gksdud[뽱]="Qhkd"
+gksdud[뽲]="Qhkw"
+gksdud[뽳]="Qhkc"
+gksdud[뽴]="Qhkz"
+gksdud[뽵]="Qhkx"
+gksdud[뽶]="Qhkv"
+gksdud[뽷]="Qhkg"
+gksdud[뽸]="Qho"
+gksdud[뽹]="Qhor"
+gksdud[뽺]="QhoR"
+gksdud[뽻]="Qhort"
+gksdud[뽼]="Qhos"
+gksdud[뽽]="Qhosw"
+gksdud[뽾]="Qhosg"
+gksdud[뽿]="Qhoe"
+gksdud[뾀]="Qhof"
+gksdud[뾁]="Qhofr"
+gksdud[뾂]="Qhofa"
+gksdud[뾃]="Qhofq"
+gksdud[뾄]="Qhoft"
+gksdud[뾅]="Qhofx"
+gksdud[뾆]="Qhofv"
+gksdud[뾇]="Qhofg"
+gksdud[뾈]="Qhoa"
+gksdud[뾉]="Qhoq"
+gksdud[뾊]="Qhoqt"
+gksdud[뾋]="Qhot"
+gksdud[뾌]="QhoT"
+gksdud[뾍]="Qhod"
+gksdud[뾎]="Qhow"
+gksdud[뾏]="Qhoc"
+gksdud[뾐]="Qhoz"
+gksdud[뾑]="Qhox"
+gksdud[뾒]="Qhov"
+gksdud[뾓]="Qhog"
+gksdud[뾔]="Qhl"
+gksdud[뾕]="Qhlr"
+gksdud[뾖]="QhlR"
+gksdud[뾗]="Qhlrt"
+gksdud[뾘]="Qhls"
+gksdud[뾙]="Qhlsw"
+gksdud[뾚]="Qhlsg"
+gksdud[뾛]="Qhle"
+gksdud[뾜]="Qhlf"
+gksdud[뾝]="Qhlfr"
+gksdud[뾞]="Qhlfa"
+gksdud[뾟]="Qhlfq"
+gksdud[뾠]="Qhlft"
+gksdud[뾡]="Qhlfx"
+gksdud[뾢]="Qhlfv"
+gksdud[뾣]="Qhlfg"
+gksdud[뾤]="Qhla"
+gksdud[뾥]="Qhlq"
+gksdud[뾦]="Qhlqt"
+gksdud[뾧]="Qhlt"
+gksdud[뾨]="QhlT"
+gksdud[뾩]="Qhld"
+gksdud[뾪]="Qhlw"
+gksdud[뾫]="Qhlc"
+gksdud[뾬]="Qhlz"
+gksdud[뾭]="Qhlx"
+gksdud[뾮]="Qhlv"
+gksdud[뾯]="Qhlg"
+gksdud[뾰]="Qy"
+gksdud[뾱]="Qyr"
+gksdud[뾲]="QyR"
+gksdud[뾳]="Qyrt"
+gksdud[뾴]="Qys"
+gksdud[뾵]="Qysw"
+gksdud[뾶]="Qysg"
+gksdud[뾷]="Qye"
+gksdud[뾸]="Qyf"
+gksdud[뾹]="Qyfr"
+gksdud[뾺]="Qyfa"
+gksdud[뾻]="Qyfq"
+gksdud[뾼]="Qyft"
+gksdud[뾽]="Qyfx"
+gksdud[뾾]="Qyfv"
+gksdud[뾿]="Qyfg"
+gksdud[뿀]="Qya"
+gksdud[뿁]="Qyq"
+gksdud[뿂]="Qyqt"
+gksdud[뿃]="Qyt"
+gksdud[뿄]="QyT"
+gksdud[뿅]="Qyd"
+gksdud[뿆]="Qyw"
+gksdud[뿇]="Qyc"
+gksdud[뿈]="Qyz"
+gksdud[뿉]="Qyx"
+gksdud[뿊]="Qyv"
+gksdud[뿋]="Qyg"
+gksdud[뿌]="Qn"
+gksdud[뿍]="Qnr"
+gksdud[뿎]="QnR"
+gksdud[뿏]="Qnrt"
+gksdud[뿐]="Qns"
+gksdud[뿑]="Qnsw"
+gksdud[뿒]="Qnsg"
+gksdud[뿓]="Qne"
+gksdud[뿔]="Qnf"
+gksdud[뿕]="Qnfr"
+gksdud[뿖]="Qnfa"
+gksdud[뿗]="Qnfq"
+gksdud[뿘]="Qnft"
+gksdud[뿙]="Qnfx"
+gksdud[뿚]="Qnfv"
+gksdud[뿛]="Qnfg"
+gksdud[뿜]="Qna"
+gksdud[뿝]="Qnq"
+gksdud[뿞]="Qnqt"
+gksdud[뿟]="Qnt"
+gksdud[뿠]="QnT"
+gksdud[뿡]="Qnd"
+gksdud[뿢]="Qnw"
+gksdud[뿣]="Qnc"
+gksdud[뿤]="Qnz"
+gksdud[뿥]="Qnx"
+gksdud[뿦]="Qnv"
+gksdud[뿧]="Qng"
+gksdud[뿨]="Qnj"
+gksdud[뿩]="Qnjr"
+gksdud[뿪]="QnjR"
+gksdud[뿫]="Qnjrt"
+gksdud[뿬]="Qnjs"
+gksdud[뿭]="Qnjsw"
+gksdud[뿮]="Qnjsg"
+gksdud[뿯]="Qnje"
+gksdud[뿰]="Qnjf"
+gksdud[뿱]="Qnjfr"
+gksdud[뿲]="Qnjfa"
+gksdud[뿳]="Qnjfq"
+gksdud[뿴]="Qnjft"
+gksdud[뿵]="Qnjfx"
+gksdud[뿶]="Qnjfv"
+gksdud[뿷]="Qnjfg"
+gksdud[뿸]="Qnja"
+gksdud[뿹]="Qnjq"
+gksdud[뿺]="Qnjqt"
+gksdud[뿻]="Qnjt"
+gksdud[뿼]="QnjT"
+gksdud[뿽]="Qnjd"
+gksdud[뿾]="Qnjw"
+gksdud[뿿]="Qnjc"
+gksdud[쀀]="Qnjz"
+gksdud[쀁]="Qnjx"
+gksdud[쀂]="Qnjv"
+gksdud[쀃]="Qnjg"
+gksdud[쀄]="Qnp"
+gksdud[쀅]="Qnpr"
+gksdud[쀆]="QnpR"
+gksdud[쀇]="Qnprt"
+gksdud[쀈]="Qnps"
+gksdud[쀉]="Qnpsw"
+gksdud[쀊]="Qnpsg"
+gksdud[쀋]="Qnpe"
+gksdud[쀌]="Qnpf"
+gksdud[쀍]="Qnpfr"
+gksdud[쀎]="Qnpfa"
+gksdud[쀏]="Qnpfq"
+gksdud[쀐]="Qnpft"
+gksdud[쀑]="Qnpfx"
+gksdud[쀒]="Qnpfv"
+gksdud[쀓]="Qnpfg"
+gksdud[쀔]="Qnpa"
+gksdud[쀕]="Qnpq"
+gksdud[쀖]="Qnpqt"
+gksdud[쀗]="Qnpt"
+gksdud[쀘]="QnpT"
+gksdud[쀙]="Qnpd"
+gksdud[쀚]="Qnpw"
+gksdud[쀛]="Qnpc"
+gksdud[쀜]="Qnpz"
+gksdud[쀝]="Qnpx"
+gksdud[쀞]="Qnpv"
+gksdud[쀟]="Qnpg"
+gksdud[쀠]="Qnl"
+gksdud[쀡]="Qnlr"
+gksdud[쀢]="QnlR"
+gksdud[쀣]="Qnlrt"
+gksdud[쀤]="Qnls"
+gksdud[쀥]="Qnlsw"
+gksdud[쀦]="Qnlsg"
+gksdud[쀧]="Qnle"
+gksdud[쀨]="Qnlf"
+gksdud[쀩]="Qnlfr"
+gksdud[쀪]="Qnlfa"
+gksdud[쀫]="Qnlfq"
+gksdud[쀬]="Qnlft"
+gksdud[쀭]="Qnlfx"
+gksdud[쀮]="Qnlfv"
+gksdud[쀯]="Qnlfg"
+gksdud[쀰]="Qnla"
+gksdud[쀱]="Qnlq"
+gksdud[쀲]="Qnlqt"
+gksdud[쀳]="Qnlt"
+gksdud[쀴]="QnlT"
+gksdud[쀵]="Qnld"
+gksdud[쀶]="Qnlw"
+gksdud[쀷]="Qnlc"
+gksdud[쀸]="Qnlz"
+gksdud[쀹]="Qnlx"
+gksdud[쀺]="Qnlv"
+gksdud[쀻]="Qnlg"
+gksdud[쀼]="Qb"
+gksdud[쀽]="Qbr"
+gksdud[쀾]="QbR"
+gksdud[쀿]="Qbrt"
+gksdud[쁀]="Qbs"
+gksdud[쁁]="Qbsw"
+gksdud[쁂]="Qbsg"
+gksdud[쁃]="Qbe"
+gksdud[쁄]="Qbf"
+gksdud[쁅]="Qbfr"
+gksdud[쁆]="Qbfa"
+gksdud[쁇]="Qbfq"
+gksdud[쁈]="Qbft"
+gksdud[쁉]="Qbfx"
+gksdud[쁊]="Qbfv"
+gksdud[쁋]="Qbfg"
+gksdud[쁌]="Qba"
+gksdud[쁍]="Qbq"
+gksdud[쁎]="Qbqt"
+gksdud[쁏]="Qbt"
+gksdud[쁐]="QbT"
+gksdud[쁑]="Qbd"
+gksdud[쁒]="Qbw"
+gksdud[쁓]="Qbc"
+gksdud[쁔]="Qbz"
+gksdud[쁕]="Qbx"
+gksdud[쁖]="Qbv"
+gksdud[쁗]="Qbg"
+gksdud[쁘]="Qm"
+gksdud[쁙]="Qmr"
+gksdud[쁚]="QmR"
+gksdud[쁛]="Qmrt"
+gksdud[쁜]="Qms"
+gksdud[쁝]="Qmsw"
+gksdud[쁞]="Qmsg"
+gksdud[쁟]="Qme"
+gksdud[쁠]="Qmf"
+gksdud[쁡]="Qmfr"
+gksdud[쁢]="Qmfa"
+gksdud[쁣]="Qmfq"
+gksdud[쁤]="Qmft"
+gksdud[쁥]="Qmfx"
+gksdud[쁦]="Qmfv"
+gksdud[쁧]="Qmfg"
+gksdud[쁨]="Qma"
+gksdud[쁩]="Qmq"
+gksdud[쁪]="Qmqt"
+gksdud[쁫]="Qmt"
+gksdud[쁬]="QmT"
+gksdud[쁭]="Qmd"
+gksdud[쁮]="Qmw"
+gksdud[쁯]="Qmc"
+gksdud[쁰]="Qmz"
+gksdud[쁱]="Qmx"
+gksdud[쁲]="Qmv"
+gksdud[쁳]="Qmg"
+gksdud[쁴]="Qml"
+gksdud[쁵]="Qmlr"
+gksdud[쁶]="QmlR"
+gksdud[쁷]="Qmlrt"
+gksdud[쁸]="Qmls"
+gksdud[쁹]="Qmlsw"
+gksdud[쁺]="Qmlsg"
+gksdud[쁻]="Qmle"
+gksdud[쁼]="Qmlf"
+gksdud[쁽]="Qmlfr"
+gksdud[쁾]="Qmlfa"
+gksdud[쁿]="Qmlfq"
+gksdud[삀]="Qmlft"
+gksdud[삁]="Qmlfx"
+gksdud[삂]="Qmlfv"
+gksdud[삃]="Qmlfg"
+gksdud[삄]="Qmla"
+gksdud[삅]="Qmlq"
+gksdud[삆]="Qmlqt"
+gksdud[삇]="Qmlt"
+gksdud[삈]="QmlT"
+gksdud[삉]="Qmld"
+gksdud[삊]="Qmlw"
+gksdud[삋]="Qmlc"
+gksdud[삌]="Qmlz"
+gksdud[삍]="Qmlx"
+gksdud[삎]="Qmlv"
+gksdud[삏]="Qmlg"
+gksdud[삐]="Ql"
+gksdud[삑]="Qlr"
+gksdud[삒]="QlR"
+gksdud[삓]="Qlrt"
+gksdud[삔]="Qls"
+gksdud[삕]="Qlsw"
+gksdud[삖]="Qlsg"
+gksdud[삗]="Qle"
+gksdud[삘]="Qlf"
+gksdud[삙]="Qlfr"
+gksdud[삚]="Qlfa"
+gksdud[삛]="Qlfq"
+gksdud[삜]="Qlft"
+gksdud[삝]="Qlfx"
+gksdud[삞]="Qlfv"
+gksdud[삟]="Qlfg"
+gksdud[삠]="Qla"
+gksdud[삡]="Qlq"
+gksdud[삢]="Qlqt"
+gksdud[삣]="Qlt"
+gksdud[삤]="QlT"
+gksdud[삥]="Qld"
+gksdud[삦]="Qlw"
+gksdud[삧]="Qlc"
+gksdud[삨]="Qlz"
+gksdud[삩]="Qlx"
+gksdud[삪]="Qlv"
+gksdud[삫]="Qlg"
+gksdud[사]="tk"
+gksdud[삭]="tkr"
+gksdud[삮]="tkR"
+gksdud[삯]="tkrt"
+gksdud[산]="tks"
+gksdud[삱]="tksw"
+gksdud[삲]="tksg"
+gksdud[삳]="tke"
+gksdud[살]="tkf"
+gksdud[삵]="tkfr"
+gksdud[삶]="tkfa"
+gksdud[삷]="tkfq"
+gksdud[삸]="tkft"
+gksdud[삹]="tkfx"
+gksdud[삺]="tkfv"
+gksdud[삻]="tkfg"
+gksdud[삼]="tka"
+gksdud[삽]="tkq"
+gksdud[삾]="tkqt"
+gksdud[삿]="tkt"
+gksdud[샀]="tkT"
+gksdud[상]="tkd"
+gksdud[샂]="tkw"
+gksdud[샃]="tkc"
+gksdud[샄]="tkz"
+gksdud[샅]="tkx"
+gksdud[샆]="tkv"
+gksdud[샇]="tkg"
+gksdud[새]="to"
+gksdud[색]="tor"
+gksdud[샊]="toR"
+gksdud[샋]="tort"
+gksdud[샌]="tos"
+gksdud[샍]="tosw"
+gksdud[샎]="tosg"
+gksdud[샏]="toe"
+gksdud[샐]="tof"
+gksdud[샑]="tofr"
+gksdud[샒]="tofa"
+gksdud[샓]="tofq"
+gksdud[샔]="toft"
+gksdud[샕]="tofx"
+gksdud[샖]="tofv"
+gksdud[샗]="tofg"
+gksdud[샘]="toa"
+gksdud[샙]="toq"
+gksdud[샚]="toqt"
+gksdud[샛]="tot"
+gksdud[샜]="toT"
+gksdud[생]="tod"
+gksdud[샞]="tow"
+gksdud[샟]="toc"
+gksdud[샠]="toz"
+gksdud[샡]="tox"
+gksdud[샢]="tov"
+gksdud[샣]="tog"
+gksdud[샤]="ti"
+gksdud[샥]="tir"
+gksdud[샦]="tiR"
+gksdud[샧]="tirt"
+gksdud[샨]="tis"
+gksdud[샩]="tisw"
+gksdud[샪]="tisg"
+gksdud[샫]="tie"
+gksdud[샬]="tif"
+gksdud[샭]="tifr"
+gksdud[샮]="tifa"
+gksdud[샯]="tifq"
+gksdud[샰]="tift"
+gksdud[샱]="tifx"
+gksdud[샲]="tifv"
+gksdud[샳]="tifg"
+gksdud[샴]="tia"
+gksdud[샵]="tiq"
+gksdud[샶]="tiqt"
+gksdud[샷]="tit"
+gksdud[샸]="tiT"
+gksdud[샹]="tid"
+gksdud[샺]="tiw"
+gksdud[샻]="tic"
+gksdud[샼]="tiz"
+gksdud[샽]="tix"
+gksdud[샾]="tiv"
+gksdud[샿]="tig"
+gksdud[섀]="tO"
+gksdud[섁]="tOr"
+gksdud[섂]="tOR"
+gksdud[섃]="tOrt"
+gksdud[섄]="tOs"
+gksdud[섅]="tOsw"
+gksdud[섆]="tOsg"
+gksdud[섇]="tOe"
+gksdud[섈]="tOf"
+gksdud[섉]="tOfr"
+gksdud[섊]="tOfa"
+gksdud[섋]="tOfq"
+gksdud[섌]="tOft"
+gksdud[섍]="tOfx"
+gksdud[섎]="tOfv"
+gksdud[섏]="tOfg"
+gksdud[섐]="tOa"
+gksdud[섑]="tOq"
+gksdud[섒]="tOqt"
+gksdud[섓]="tOt"
+gksdud[섔]="tOT"
+gksdud[섕]="tOd"
+gksdud[섖]="tOw"
+gksdud[섗]="tOc"
+gksdud[섘]="tOz"
+gksdud[섙]="tOx"
+gksdud[섚]="tOv"
+gksdud[섛]="tOg"
+gksdud[서]="tj"
+gksdud[석]="tjr"
+gksdud[섞]="tjR"
+gksdud[섟]="tjrt"
+gksdud[선]="tjs"
+gksdud[섡]="tjsw"
+gksdud[섢]="tjsg"
+gksdud[섣]="tje"
+gksdud[설]="tjf"
+gksdud[섥]="tjfr"
+gksdud[섦]="tjfa"
+gksdud[섧]="tjfq"
+gksdud[섨]="tjft"
+gksdud[섩]="tjfx"
+gksdud[섪]="tjfv"
+gksdud[섫]="tjfg"
+gksdud[섬]="tja"
+gksdud[섭]="tjq"
+gksdud[섮]="tjqt"
+gksdud[섯]="tjt"
+gksdud[섰]="tjT"
+gksdud[성]="tjd"
+gksdud[섲]="tjw"
+gksdud[섳]="tjc"
+gksdud[섴]="tjz"
+gksdud[섵]="tjx"
+gksdud[섶]="tjv"
+gksdud[섷]="tjg"
+gksdud[세]="tp"
+gksdud[섹]="tpr"
+gksdud[섺]="tpR"
+gksdud[섻]="tprt"
+gksdud[센]="tps"
+gksdud[섽]="tpsw"
+gksdud[섾]="tpsg"
+gksdud[섿]="tpe"
+gksdud[셀]="tpf"
+gksdud[셁]="tpfr"
+gksdud[셂]="tpfa"
+gksdud[셃]="tpfq"
+gksdud[셄]="tpft"
+gksdud[셅]="tpfx"
+gksdud[셆]="tpfv"
+gksdud[셇]="tpfg"
+gksdud[셈]="tpa"
+gksdud[셉]="tpq"
+gksdud[셊]="tpqt"
+gksdud[셋]="tpt"
+gksdud[셌]="tpT"
+gksdud[셍]="tpd"
+gksdud[셎]="tpw"
+gksdud[셏]="tpc"
+gksdud[셐]="tpz"
+gksdud[셑]="tpx"
+gksdud[셒]="tpv"
+gksdud[셓]="tpg"
+gksdud[셔]="tu"
+gksdud[셕]="tur"
+gksdud[셖]="tuR"
+gksdud[셗]="turt"
+gksdud[션]="tus"
+gksdud[셙]="tusw"
+gksdud[셚]="tusg"
+gksdud[셛]="tue"
+gksdud[셜]="tuf"
+gksdud[셝]="tufr"
+gksdud[셞]="tufa"
+gksdud[셟]="tufq"
+gksdud[셠]="tuft"
+gksdud[셡]="tufx"
+gksdud[셢]="tufv"
+gksdud[셣]="tufg"
+gksdud[셤]="tua"
+gksdud[셥]="tuq"
+gksdud[셦]="tuqt"
+gksdud[셧]="tut"
+gksdud[셨]="tuT"
+gksdud[셩]="tud"
+gksdud[셪]="tuw"
+gksdud[셫]="tuc"
+gksdud[셬]="tuz"
+gksdud[셭]="tux"
+gksdud[셮]="tuv"
+gksdud[셯]="tug"
+gksdud[셰]="tP"
+gksdud[셱]="tPr"
+gksdud[셲]="tPR"
+gksdud[셳]="tPrt"
+gksdud[셴]="tPs"
+gksdud[셵]="tPsw"
+gksdud[셶]="tPsg"
+gksdud[셷]="tPe"
+gksdud[셸]="tPf"
+gksdud[셹]="tPfr"
+gksdud[셺]="tPfa"
+gksdud[셻]="tPfq"
+gksdud[셼]="tPft"
+gksdud[셽]="tPfx"
+gksdud[셾]="tPfv"
+gksdud[셿]="tPfg"
+gksdud[솀]="tPa"
+gksdud[솁]="tPq"
+gksdud[솂]="tPqt"
+gksdud[솃]="tPt"
+gksdud[솄]="tPT"
+gksdud[솅]="tPd"
+gksdud[솆]="tPw"
+gksdud[솇]="tPc"
+gksdud[솈]="tPz"
+gksdud[솉]="tPx"
+gksdud[솊]="tPv"
+gksdud[솋]="tPg"
+gksdud[소]="th"
+gksdud[속]="thr"
+gksdud[솎]="thR"
+gksdud[솏]="thrt"
+gksdud[손]="ths"
+gksdud[솑]="thsw"
+gksdud[솒]="thsg"
+gksdud[솓]="the"
+gksdud[솔]="thf"
+gksdud[솕]="thfr"
+gksdud[솖]="thfa"
+gksdud[솗]="thfq"
+gksdud[솘]="thft"
+gksdud[솙]="thfx"
+gksdud[솚]="thfv"
+gksdud[솛]="thfg"
+gksdud[솜]="tha"
+gksdud[솝]="thq"
+gksdud[솞]="thqt"
+gksdud[솟]="tht"
+gksdud[솠]="thT"
+gksdud[송]="thd"
+gksdud[솢]="thw"
+gksdud[솣]="thc"
+gksdud[솤]="thz"
+gksdud[솥]="thx"
+gksdud[솦]="thv"
+gksdud[솧]="thg"
+gksdud[솨]="thk"
+gksdud[솩]="thkr"
+gksdud[솪]="thkR"
+gksdud[솫]="thkrt"
+gksdud[솬]="thks"
+gksdud[솭]="thksw"
+gksdud[솮]="thksg"
+gksdud[솯]="thke"
+gksdud[솰]="thkf"
+gksdud[솱]="thkfr"
+gksdud[솲]="thkfa"
+gksdud[솳]="thkfq"
+gksdud[솴]="thkft"
+gksdud[솵]="thkfx"
+gksdud[솶]="thkfv"
+gksdud[솷]="thkfg"
+gksdud[솸]="thka"
+gksdud[솹]="thkq"
+gksdud[솺]="thkqt"
+gksdud[솻]="thkt"
+gksdud[솼]="thkT"
+gksdud[솽]="thkd"
+gksdud[솾]="thkw"
+gksdud[솿]="thkc"
+gksdud[쇀]="thkz"
+gksdud[쇁]="thkx"
+gksdud[쇂]="thkv"
+gksdud[쇃]="thkg"
+gksdud[쇄]="tho"
+gksdud[쇅]="thor"
+gksdud[쇆]="thoR"
+gksdud[쇇]="thort"
+gksdud[쇈]="thos"
+gksdud[쇉]="thosw"
+gksdud[쇊]="thosg"
+gksdud[쇋]="thoe"
+gksdud[쇌]="thof"
+gksdud[쇍]="thofr"
+gksdud[쇎]="thofa"
+gksdud[쇏]="thofq"
+gksdud[쇐]="thoft"
+gksdud[쇑]="thofx"
+gksdud[쇒]="thofv"
+gksdud[쇓]="thofg"
+gksdud[쇔]="thoa"
+gksdud[쇕]="thoq"
+gksdud[쇖]="thoqt"
+gksdud[쇗]="thot"
+gksdud[쇘]="thoT"
+gksdud[쇙]="thod"
+gksdud[쇚]="thow"
+gksdud[쇛]="thoc"
+gksdud[쇜]="thoz"
+gksdud[쇝]="thox"
+gksdud[쇞]="thov"
+gksdud[쇟]="thog"
+gksdud[쇠]="thl"
+gksdud[쇡]="thlr"
+gksdud[쇢]="thlR"
+gksdud[쇣]="thlrt"
+gksdud[쇤]="thls"
+gksdud[쇥]="thlsw"
+gksdud[쇦]="thlsg"
+gksdud[쇧]="thle"
+gksdud[쇨]="thlf"
+gksdud[쇩]="thlfr"
+gksdud[쇪]="thlfa"
+gksdud[쇫]="thlfq"
+gksdud[쇬]="thlft"
+gksdud[쇭]="thlfx"
+gksdud[쇮]="thlfv"
+gksdud[쇯]="thlfg"
+gksdud[쇰]="thla"
+gksdud[쇱]="thlq"
+gksdud[쇲]="thlqt"
+gksdud[쇳]="thlt"
+gksdud[쇴]="thlT"
+gksdud[쇵]="thld"
+gksdud[쇶]="thlw"
+gksdud[쇷]="thlc"
+gksdud[쇸]="thlz"
+gksdud[쇹]="thlx"
+gksdud[쇺]="thlv"
+gksdud[쇻]="thlg"
+gksdud[쇼]="ty"
+gksdud[쇽]="tyr"
+gksdud[쇾]="tyR"
+gksdud[쇿]="tyrt"
+gksdud[숀]="tys"
+gksdud[숁]="tysw"
+gksdud[숂]="tysg"
+gksdud[숃]="tye"
+gksdud[숄]="tyf"
+gksdud[숅]="tyfr"
+gksdud[숆]="tyfa"
+gksdud[숇]="tyfq"
+gksdud[숈]="tyft"
+gksdud[숉]="tyfx"
+gksdud[숊]="tyfv"
+gksdud[숋]="tyfg"
+gksdud[숌]="tya"
+gksdud[숍]="tyq"
+gksdud[숎]="tyqt"
+gksdud[숏]="tyt"
+gksdud[숐]="tyT"
+gksdud[숑]="tyd"
+gksdud[숒]="tyw"
+gksdud[숓]="tyc"
+gksdud[숔]="tyz"
+gksdud[숕]="tyx"
+gksdud[숖]="tyv"
+gksdud[숗]="tyg"
+gksdud[수]="tn"
+gksdud[숙]="tnr"
+gksdud[숚]="tnR"
+gksdud[숛]="tnrt"
+gksdud[순]="tns"
+gksdud[숝]="tnsw"
+gksdud[숞]="tnsg"
+gksdud[숟]="tne"
+gksdud[술]="tnf"
+gksdud[숡]="tnfr"
+gksdud[숢]="tnfa"
+gksdud[숣]="tnfq"
+gksdud[숤]="tnft"
+gksdud[숥]="tnfx"
+gksdud[숦]="tnfv"
+gksdud[숧]="tnfg"
+gksdud[숨]="tna"
+gksdud[숩]="tnq"
+gksdud[숪]="tnqt"
+gksdud[숫]="tnt"
+gksdud[숬]="tnT"
+gksdud[숭]="tnd"
+gksdud[숮]="tnw"
+gksdud[숯]="tnc"
+gksdud[숰]="tnz"
+gksdud[숱]="tnx"
+gksdud[숲]="tnv"
+gksdud[숳]="tng"
+gksdud[숴]="tnj"
+gksdud[숵]="tnjr"
+gksdud[숶]="tnjR"
+gksdud[숷]="tnjrt"
+gksdud[숸]="tnjs"
+gksdud[숹]="tnjsw"
+gksdud[숺]="tnjsg"
+gksdud[숻]="tnje"
+gksdud[숼]="tnjf"
+gksdud[숽]="tnjfr"
+gksdud[숾]="tnjfa"
+gksdud[숿]="tnjfq"
+gksdud[쉀]="tnjft"
+gksdud[쉁]="tnjfx"
+gksdud[쉂]="tnjfv"
+gksdud[쉃]="tnjfg"
+gksdud[쉄]="tnja"
+gksdud[쉅]="tnjq"
+gksdud[쉆]="tnjqt"
+gksdud[쉇]="tnjt"
+gksdud[쉈]="tnjT"
+gksdud[쉉]="tnjd"
+gksdud[쉊]="tnjw"
+gksdud[쉋]="tnjc"
+gksdud[쉌]="tnjz"
+gksdud[쉍]="tnjx"
+gksdud[쉎]="tnjv"
+gksdud[쉏]="tnjg"
+gksdud[쉐]="tnp"
+gksdud[쉑]="tnpr"
+gksdud[쉒]="tnpR"
+gksdud[쉓]="tnprt"
+gksdud[쉔]="tnps"
+gksdud[쉕]="tnpsw"
+gksdud[쉖]="tnpsg"
+gksdud[쉗]="tnpe"
+gksdud[쉘]="tnpf"
+gksdud[쉙]="tnpfr"
+gksdud[쉚]="tnpfa"
+gksdud[쉛]="tnpfq"
+gksdud[쉜]="tnpft"
+gksdud[쉝]="tnpfx"
+gksdud[쉞]="tnpfv"
+gksdud[쉟]="tnpfg"
+gksdud[쉠]="tnpa"
+gksdud[쉡]="tnpq"
+gksdud[쉢]="tnpqt"
+gksdud[쉣]="tnpt"
+gksdud[쉤]="tnpT"
+gksdud[쉥]="tnpd"
+gksdud[쉦]="tnpw"
+gksdud[쉧]="tnpc"
+gksdud[쉨]="tnpz"
+gksdud[쉩]="tnpx"
+gksdud[쉪]="tnpv"
+gksdud[쉫]="tnpg"
+gksdud[쉬]="tnl"
+gksdud[쉭]="tnlr"
+gksdud[쉮]="tnlR"
+gksdud[쉯]="tnlrt"
+gksdud[쉰]="tnls"
+gksdud[쉱]="tnlsw"
+gksdud[쉲]="tnlsg"
+gksdud[쉳]="tnle"
+gksdud[쉴]="tnlf"
+gksdud[쉵]="tnlfr"
+gksdud[쉶]="tnlfa"
+gksdud[쉷]="tnlfq"
+gksdud[쉸]="tnlft"
+gksdud[쉹]="tnlfx"
+gksdud[쉺]="tnlfv"
+gksdud[쉻]="tnlfg"
+gksdud[쉼]="tnla"
+gksdud[쉽]="tnlq"
+gksdud[쉾]="tnlqt"
+gksdud[쉿]="tnlt"
+gksdud[슀]="tnlT"
+gksdud[슁]="tnld"
+gksdud[슂]="tnlw"
+gksdud[슃]="tnlc"
+gksdud[슄]="tnlz"
+gksdud[슅]="tnlx"
+gksdud[슆]="tnlv"
+gksdud[슇]="tnlg"
+gksdud[슈]="tb"
+gksdud[슉]="tbr"
+gksdud[슊]="tbR"
+gksdud[슋]="tbrt"
+gksdud[슌]="tbs"
+gksdud[슍]="tbsw"
+gksdud[슎]="tbsg"
+gksdud[슏]="tbe"
+gksdud[슐]="tbf"
+gksdud[슑]="tbfr"
+gksdud[슒]="tbfa"
+gksdud[슓]="tbfq"
+gksdud[슔]="tbft"
+gksdud[슕]="tbfx"
+gksdud[슖]="tbfv"
+gksdud[슗]="tbfg"
+gksdud[슘]="tba"
+gksdud[슙]="tbq"
+gksdud[슚]="tbqt"
+gksdud[슛]="tbt"
+gksdud[슜]="tbT"
+gksdud[슝]="tbd"
+gksdud[슞]="tbw"
+gksdud[슟]="tbc"
+gksdud[슠]="tbz"
+gksdud[슡]="tbx"
+gksdud[슢]="tbv"
+gksdud[슣]="tbg"
+gksdud[스]="tm"
+gksdud[슥]="tmr"
+gksdud[슦]="tmR"
+gksdud[슧]="tmrt"
+gksdud[슨]="tms"
+gksdud[슩]="tmsw"
+gksdud[슪]="tmsg"
+gksdud[슫]="tme"
+gksdud[슬]="tmf"
+gksdud[슭]="tmfr"
+gksdud[슮]="tmfa"
+gksdud[슯]="tmfq"
+gksdud[슰]="tmft"
+gksdud[슱]="tmfx"
+gksdud[슲]="tmfv"
+gksdud[슳]="tmfg"
+gksdud[슴]="tma"
+gksdud[습]="tmq"
+gksdud[슶]="tmqt"
+gksdud[슷]="tmt"
+gksdud[슸]="tmT"
+gksdud[승]="tmd"
+gksdud[슺]="tmw"
+gksdud[슻]="tmc"
+gksdud[슼]="tmz"
+gksdud[슽]="tmx"
+gksdud[슾]="tmv"
+gksdud[슿]="tmg"
+gksdud[싀]="tml"
+gksdud[싁]="tmlr"
+gksdud[싂]="tmlR"
+gksdud[싃]="tmlrt"
+gksdud[싄]="tmls"
+gksdud[싅]="tmlsw"
+gksdud[싆]="tmlsg"
+gksdud[싇]="tmle"
+gksdud[싈]="tmlf"
+gksdud[싉]="tmlfr"
+gksdud[싊]="tmlfa"
+gksdud[싋]="tmlfq"
+gksdud[싌]="tmlft"
+gksdud[싍]="tmlfx"
+gksdud[싎]="tmlfv"
+gksdud[싏]="tmlfg"
+gksdud[싐]="tmla"
+gksdud[싑]="tmlq"
+gksdud[싒]="tmlqt"
+gksdud[싓]="tmlt"
+gksdud[싔]="tmlT"
+gksdud[싕]="tmld"
+gksdud[싖]="tmlw"
+gksdud[싗]="tmlc"
+gksdud[싘]="tmlz"
+gksdud[싙]="tmlx"
+gksdud[싚]="tmlv"
+gksdud[싛]="tmlg"
+gksdud[시]="tl"
+gksdud[식]="tlr"
+gksdud[싞]="tlR"
+gksdud[싟]="tlrt"
+gksdud[신]="tls"
+gksdud[싡]="tlsw"
+gksdud[싢]="tlsg"
+gksdud[싣]="tle"
+gksdud[실]="tlf"
+gksdud[싥]="tlfr"
+gksdud[싦]="tlfa"
+gksdud[싧]="tlfq"
+gksdud[싨]="tlft"
+gksdud[싩]="tlfx"
+gksdud[싪]="tlfv"
+gksdud[싫]="tlfg"
+gksdud[심]="tla"
+gksdud[십]="tlq"
+gksdud[싮]="tlqt"
+gksdud[싯]="tlt"
+gksdud[싰]="tlT"
+gksdud[싱]="tld"
+gksdud[싲]="tlw"
+gksdud[싳]="tlc"
+gksdud[싴]="tlz"
+gksdud[싵]="tlx"
+gksdud[싶]="tlv"
+gksdud[싷]="tlg"
+gksdud[싸]="Tk"
+gksdud[싹]="Tkr"
+gksdud[싺]="TkR"
+gksdud[싻]="Tkrt"
+gksdud[싼]="Tks"
+gksdud[싽]="Tksw"
+gksdud[싾]="Tksg"
+gksdud[싿]="Tke"
+gksdud[쌀]="Tkf"
+gksdud[쌁]="Tkfr"
+gksdud[쌂]="Tkfa"
+gksdud[쌃]="Tkfq"
+gksdud[쌄]="Tkft"
+gksdud[쌅]="Tkfx"
+gksdud[쌆]="Tkfv"
+gksdud[쌇]="Tkfg"
+gksdud[쌈]="Tka"
+gksdud[쌉]="Tkq"
+gksdud[쌊]="Tkqt"
+gksdud[쌋]="Tkt"
+gksdud[쌌]="TkT"
+gksdud[쌍]="Tkd"
+gksdud[쌎]="Tkw"
+gksdud[쌏]="Tkc"
+gksdud[쌐]="Tkz"
+gksdud[쌑]="Tkx"
+gksdud[쌒]="Tkv"
+gksdud[쌓]="Tkg"
+gksdud[쌔]="To"
+gksdud[쌕]="Tor"
+gksdud[쌖]="ToR"
+gksdud[쌗]="Tort"
+gksdud[쌘]="Tos"
+gksdud[쌙]="Tosw"
+gksdud[쌚]="Tosg"
+gksdud[쌛]="Toe"
+gksdud[쌜]="Tof"
+gksdud[쌝]="Tofr"
+gksdud[쌞]="Tofa"
+gksdud[쌟]="Tofq"
+gksdud[쌠]="Toft"
+gksdud[쌡]="Tofx"
+gksdud[쌢]="Tofv"
+gksdud[쌣]="Tofg"
+gksdud[쌤]="Toa"
+gksdud[쌥]="Toq"
+gksdud[쌦]="Toqt"
+gksdud[쌧]="Tot"
+gksdud[쌨]="ToT"
+gksdud[쌩]="Tod"
+gksdud[쌪]="Tow"
+gksdud[쌫]="Toc"
+gksdud[쌬]="Toz"
+gksdud[쌭]="Tox"
+gksdud[쌮]="Tov"
+gksdud[쌯]="Tog"
+gksdud[쌰]="Ti"
+gksdud[쌱]="Tir"
+gksdud[쌲]="TiR"
+gksdud[쌳]="Tirt"
+gksdud[쌴]="Tis"
+gksdud[쌵]="Tisw"
+gksdud[쌶]="Tisg"
+gksdud[쌷]="Tie"
+gksdud[쌸]="Tif"
+gksdud[쌹]="Tifr"
+gksdud[쌺]="Tifa"
+gksdud[쌻]="Tifq"
+gksdud[쌼]="Tift"
+gksdud[쌽]="Tifx"
+gksdud[쌾]="Tifv"
+gksdud[쌿]="Tifg"
+gksdud[썀]="Tia"
+gksdud[썁]="Tiq"
+gksdud[썂]="Tiqt"
+gksdud[썃]="Tit"
+gksdud[썄]="TiT"
+gksdud[썅]="Tid"
+gksdud[썆]="Tiw"
+gksdud[썇]="Tic"
+gksdud[썈]="Tiz"
+gksdud[썉]="Tix"
+gksdud[썊]="Tiv"
+gksdud[썋]="Tig"
+gksdud[썌]="TO"
+gksdud[썍]="TOr"
+gksdud[썎]="TOR"
+gksdud[썏]="TOrt"
+gksdud[썐]="TOs"
+gksdud[썑]="TOsw"
+gksdud[썒]="TOsg"
+gksdud[썓]="TOe"
+gksdud[썔]="TOf"
+gksdud[썕]="TOfr"
+gksdud[썖]="TOfa"
+gksdud[썗]="TOfq"
+gksdud[썘]="TOft"
+gksdud[썙]="TOfx"
+gksdud[썚]="TOfv"
+gksdud[썛]="TOfg"
+gksdud[썜]="TOa"
+gksdud[썝]="TOq"
+gksdud[썞]="TOqt"
+gksdud[썟]="TOt"
+gksdud[썠]="TOT"
+gksdud[썡]="TOd"
+gksdud[썢]="TOw"
+gksdud[썣]="TOc"
+gksdud[썤]="TOz"
+gksdud[썥]="TOx"
+gksdud[썦]="TOv"
+gksdud[썧]="TOg"
+gksdud[써]="Tj"
+gksdud[썩]="Tjr"
+gksdud[썪]="TjR"
+gksdud[썫]="Tjrt"
+gksdud[썬]="Tjs"
+gksdud[썭]="Tjsw"
+gksdud[썮]="Tjsg"
+gksdud[썯]="Tje"
+gksdud[썰]="Tjf"
+gksdud[썱]="Tjfr"
+gksdud[썲]="Tjfa"
+gksdud[썳]="Tjfq"
+gksdud[썴]="Tjft"
+gksdud[썵]="Tjfx"
+gksdud[썶]="Tjfv"
+gksdud[썷]="Tjfg"
+gksdud[썸]="Tja"
+gksdud[썹]="Tjq"
+gksdud[썺]="Tjqt"
+gksdud[썻]="Tjt"
+gksdud[썼]="TjT"
+gksdud[썽]="Tjd"
+gksdud[썾]="Tjw"
+gksdud[썿]="Tjc"
+gksdud[쎀]="Tjz"
+gksdud[쎁]="Tjx"
+gksdud[쎂]="Tjv"
+gksdud[쎃]="Tjg"
+gksdud[쎄]="Tp"
+gksdud[쎅]="Tpr"
+gksdud[쎆]="TpR"
+gksdud[쎇]="Tprt"
+gksdud[쎈]="Tps"
+gksdud[쎉]="Tpsw"
+gksdud[쎊]="Tpsg"
+gksdud[쎋]="Tpe"
+gksdud[쎌]="Tpf"
+gksdud[쎍]="Tpfr"
+gksdud[쎎]="Tpfa"
+gksdud[쎏]="Tpfq"
+gksdud[쎐]="Tpft"
+gksdud[쎑]="Tpfx"
+gksdud[쎒]="Tpfv"
+gksdud[쎓]="Tpfg"
+gksdud[쎔]="Tpa"
+gksdud[쎕]="Tpq"
+gksdud[쎖]="Tpqt"
+gksdud[쎗]="Tpt"
+gksdud[쎘]="TpT"
+gksdud[쎙]="Tpd"
+gksdud[쎚]="Tpw"
+gksdud[쎛]="Tpc"
+gksdud[쎜]="Tpz"
+gksdud[쎝]="Tpx"
+gksdud[쎞]="Tpv"
+gksdud[쎟]="Tpg"
+gksdud[쎠]="Tu"
+gksdud[쎡]="Tur"
+gksdud[쎢]="TuR"
+gksdud[쎣]="Turt"
+gksdud[쎤]="Tus"
+gksdud[쎥]="Tusw"
+gksdud[쎦]="Tusg"
+gksdud[쎧]="Tue"
+gksdud[쎨]="Tuf"
+gksdud[쎩]="Tufr"
+gksdud[쎪]="Tufa"
+gksdud[쎫]="Tufq"
+gksdud[쎬]="Tuft"
+gksdud[쎭]="Tufx"
+gksdud[쎮]="Tufv"
+gksdud[쎯]="Tufg"
+gksdud[쎰]="Tua"
+gksdud[쎱]="Tuq"
+gksdud[쎲]="Tuqt"
+gksdud[쎳]="Tut"
+gksdud[쎴]="TuT"
+gksdud[쎵]="Tud"
+gksdud[쎶]="Tuw"
+gksdud[쎷]="Tuc"
+gksdud[쎸]="Tuz"
+gksdud[쎹]="Tux"
+gksdud[쎺]="Tuv"
+gksdud[쎻]="Tug"
+gksdud[쎼]="TP"
+gksdud[쎽]="TPr"
+gksdud[쎾]="TPR"
+gksdud[쎿]="TPrt"
+gksdud[쏀]="TPs"
+gksdud[쏁]="TPsw"
+gksdud[쏂]="TPsg"
+gksdud[쏃]="TPe"
+gksdud[쏄]="TPf"
+gksdud[쏅]="TPfr"
+gksdud[쏆]="TPfa"
+gksdud[쏇]="TPfq"
+gksdud[쏈]="TPft"
+gksdud[쏉]="TPfx"
+gksdud[쏊]="TPfv"
+gksdud[쏋]="TPfg"
+gksdud[쏌]="TPa"
+gksdud[쏍]="TPq"
+gksdud[쏎]="TPqt"
+gksdud[쏏]="TPt"
+gksdud[쏐]="TPT"
+gksdud[쏑]="TPd"
+gksdud[쏒]="TPw"
+gksdud[쏓]="TPc"
+gksdud[쏔]="TPz"
+gksdud[쏕]="TPx"
+gksdud[쏖]="TPv"
+gksdud[쏗]="TPg"
+gksdud[쏘]="Th"
+gksdud[쏙]="Thr"
+gksdud[쏚]="ThR"
+gksdud[쏛]="Thrt"
+gksdud[쏜]="Ths"
+gksdud[쏝]="Thsw"
+gksdud[쏞]="Thsg"
+gksdud[쏟]="The"
+gksdud[쏠]="Thf"
+gksdud[쏡]="Thfr"
+gksdud[쏢]="Thfa"
+gksdud[쏣]="Thfq"
+gksdud[쏤]="Thft"
+gksdud[쏥]="Thfx"
+gksdud[쏦]="Thfv"
+gksdud[쏧]="Thfg"
+gksdud[쏨]="Tha"
+gksdud[쏩]="Thq"
+gksdud[쏪]="Thqt"
+gksdud[쏫]="Tht"
+gksdud[쏬]="ThT"
+gksdud[쏭]="Thd"
+gksdud[쏮]="Thw"
+gksdud[쏯]="Thc"
+gksdud[쏰]="Thz"
+gksdud[쏱]="Thx"
+gksdud[쏲]="Thv"
+gksdud[쏳]="Thg"
+gksdud[쏴]="Thk"
+gksdud[쏵]="Thkr"
+gksdud[쏶]="ThkR"
+gksdud[쏷]="Thkrt"
+gksdud[쏸]="Thks"
+gksdud[쏹]="Thksw"
+gksdud[쏺]="Thksg"
+gksdud[쏻]="Thke"
+gksdud[쏼]="Thkf"
+gksdud[쏽]="Thkfr"
+gksdud[쏾]="Thkfa"
+gksdud[쏿]="Thkfq"
+gksdud[쐀]="Thkft"
+gksdud[쐁]="Thkfx"
+gksdud[쐂]="Thkfv"
+gksdud[쐃]="Thkfg"
+gksdud[쐄]="Thka"
+gksdud[쐅]="Thkq"
+gksdud[쐆]="Thkqt"
+gksdud[쐇]="Thkt"
+gksdud[쐈]="ThkT"
+gksdud[쐉]="Thkd"
+gksdud[쐊]="Thkw"
+gksdud[쐋]="Thkc"
+gksdud[쐌]="Thkz"
+gksdud[쐍]="Thkx"
+gksdud[쐎]="Thkv"
+gksdud[쐏]="Thkg"
+gksdud[쐐]="Tho"
+gksdud[쐑]="Thor"
+gksdud[쐒]="ThoR"
+gksdud[쐓]="Thort"
+gksdud[쐔]="Thos"
+gksdud[쐕]="Thosw"
+gksdud[쐖]="Thosg"
+gksdud[쐗]="Thoe"
+gksdud[쐘]="Thof"
+gksdud[쐙]="Thofr"
+gksdud[쐚]="Thofa"
+gksdud[쐛]="Thofq"
+gksdud[쐜]="Thoft"
+gksdud[쐝]="Thofx"
+gksdud[쐞]="Thofv"
+gksdud[쐟]="Thofg"
+gksdud[쐠]="Thoa"
+gksdud[쐡]="Thoq"
+gksdud[쐢]="Thoqt"
+gksdud[쐣]="Thot"
+gksdud[쐤]="ThoT"
+gksdud[쐥]="Thod"
+gksdud[쐦]="Thow"
+gksdud[쐧]="Thoc"
+gksdud[쐨]="Thoz"
+gksdud[쐩]="Thox"
+gksdud[쐪]="Thov"
+gksdud[쐫]="Thog"
+gksdud[쐬]="Thl"
+gksdud[쐭]="Thlr"
+gksdud[쐮]="ThlR"
+gksdud[쐯]="Thlrt"
+gksdud[쐰]="Thls"
+gksdud[쐱]="Thlsw"
+gksdud[쐲]="Thlsg"
+gksdud[쐳]="Thle"
+gksdud[쐴]="Thlf"
+gksdud[쐵]="Thlfr"
+gksdud[쐶]="Thlfa"
+gksdud[쐷]="Thlfq"
+gksdud[쐸]="Thlft"
+gksdud[쐹]="Thlfx"
+gksdud[쐺]="Thlfv"
+gksdud[쐻]="Thlfg"
+gksdud[쐼]="Thla"
+gksdud[쐽]="Thlq"
+gksdud[쐾]="Thlqt"
+gksdud[쐿]="Thlt"
+gksdud[쑀]="ThlT"
+gksdud[쑁]="Thld"
+gksdud[쑂]="Thlw"
+gksdud[쑃]="Thlc"
+gksdud[쑄]="Thlz"
+gksdud[쑅]="Thlx"
+gksdud[쑆]="Thlv"
+gksdud[쑇]="Thlg"
+gksdud[쑈]="Ty"
+gksdud[쑉]="Tyr"
+gksdud[쑊]="TyR"
+gksdud[쑋]="Tyrt"
+gksdud[쑌]="Tys"
+gksdud[쑍]="Tysw"
+gksdud[쑎]="Tysg"
+gksdud[쑏]="Tye"
+gksdud[쑐]="Tyf"
+gksdud[쑑]="Tyfr"
+gksdud[쑒]="Tyfa"
+gksdud[쑓]="Tyfq"
+gksdud[쑔]="Tyft"
+gksdud[쑕]="Tyfx"
+gksdud[쑖]="Tyfv"
+gksdud[쑗]="Tyfg"
+gksdud[쑘]="Tya"
+gksdud[쑙]="Tyq"
+gksdud[쑚]="Tyqt"
+gksdud[쑛]="Tyt"
+gksdud[쑜]="TyT"
+gksdud[쑝]="Tyd"
+gksdud[쑞]="Tyw"
+gksdud[쑟]="Tyc"
+gksdud[쑠]="Tyz"
+gksdud[쑡]="Tyx"
+gksdud[쑢]="Tyv"
+gksdud[쑣]="Tyg"
+gksdud[쑤]="Tn"
+gksdud[쑥]="Tnr"
+gksdud[쑦]="TnR"
+gksdud[쑧]="Tnrt"
+gksdud[쑨]="Tns"
+gksdud[쑩]="Tnsw"
+gksdud[쑪]="Tnsg"
+gksdud[쑫]="Tne"
+gksdud[쑬]="Tnf"
+gksdud[쑭]="Tnfr"
+gksdud[쑮]="Tnfa"
+gksdud[쑯]="Tnfq"
+gksdud[쑰]="Tnft"
+gksdud[쑱]="Tnfx"
+gksdud[쑲]="Tnfv"
+gksdud[쑳]="Tnfg"
+gksdud[쑴]="Tna"
+gksdud[쑵]="Tnq"
+gksdud[쑶]="Tnqt"
+gksdud[쑷]="Tnt"
+gksdud[쑸]="TnT"
+gksdud[쑹]="Tnd"
+gksdud[쑺]="Tnw"
+gksdud[쑻]="Tnc"
+gksdud[쑼]="Tnz"
+gksdud[쑽]="Tnx"
+gksdud[쑾]="Tnv"
+gksdud[쑿]="Tng"
+gksdud[쒀]="Tnj"
+gksdud[쒁]="Tnjr"
+gksdud[쒂]="TnjR"
+gksdud[쒃]="Tnjrt"
+gksdud[쒄]="Tnjs"
+gksdud[쒅]="Tnjsw"
+gksdud[쒆]="Tnjsg"
+gksdud[쒇]="Tnje"
+gksdud[쒈]="Tnjf"
+gksdud[쒉]="Tnjfr"
+gksdud[쒊]="Tnjfa"
+gksdud[쒋]="Tnjfq"
+gksdud[쒌]="Tnjft"
+gksdud[쒍]="Tnjfx"
+gksdud[쒎]="Tnjfv"
+gksdud[쒏]="Tnjfg"
+gksdud[쒐]="Tnja"
+gksdud[쒑]="Tnjq"
+gksdud[쒒]="Tnjqt"
+gksdud[쒓]="Tnjt"
+gksdud[쒔]="TnjT"
+gksdud[쒕]="Tnjd"
+gksdud[쒖]="Tnjw"
+gksdud[쒗]="Tnjc"
+gksdud[쒘]="Tnjz"
+gksdud[쒙]="Tnjx"
+gksdud[쒚]="Tnjv"
+gksdud[쒛]="Tnjg"
+gksdud[쒜]="Tnp"
+gksdud[쒝]="Tnpr"
+gksdud[쒞]="TnpR"
+gksdud[쒟]="Tnprt"
+gksdud[쒠]="Tnps"
+gksdud[쒡]="Tnpsw"
+gksdud[쒢]="Tnpsg"
+gksdud[쒣]="Tnpe"
+gksdud[쒤]="Tnpf"
+gksdud[쒥]="Tnpfr"
+gksdud[쒦]="Tnpfa"
+gksdud[쒧]="Tnpfq"
+gksdud[쒨]="Tnpft"
+gksdud[쒩]="Tnpfx"
+gksdud[쒪]="Tnpfv"
+gksdud[쒫]="Tnpfg"
+gksdud[쒬]="Tnpa"
+gksdud[쒭]="Tnpq"
+gksdud[쒮]="Tnpqt"
+gksdud[쒯]="Tnpt"
+gksdud[쒰]="TnpT"
+gksdud[쒱]="Tnpd"
+gksdud[쒲]="Tnpw"
+gksdud[쒳]="Tnpc"
+gksdud[쒴]="Tnpz"
+gksdud[쒵]="Tnpx"
+gksdud[쒶]="Tnpv"
+gksdud[쒷]="Tnpg"
+gksdud[쒸]="Tnl"
+gksdud[쒹]="Tnlr"
+gksdud[쒺]="TnlR"
+gksdud[쒻]="Tnlrt"
+gksdud[쒼]="Tnls"
+gksdud[쒽]="Tnlsw"
+gksdud[쒾]="Tnlsg"
+gksdud[쒿]="Tnle"
+gksdud[쓀]="Tnlf"
+gksdud[쓁]="Tnlfr"
+gksdud[쓂]="Tnlfa"
+gksdud[쓃]="Tnlfq"
+gksdud[쓄]="Tnlft"
+gksdud[쓅]="Tnlfx"
+gksdud[쓆]="Tnlfv"
+gksdud[쓇]="Tnlfg"
+gksdud[쓈]="Tnla"
+gksdud[쓉]="Tnlq"
+gksdud[쓊]="Tnlqt"
+gksdud[쓋]="Tnlt"
+gksdud[쓌]="TnlT"
+gksdud[쓍]="Tnld"
+gksdud[쓎]="Tnlw"
+gksdud[쓏]="Tnlc"
+gksdud[쓐]="Tnlz"
+gksdud[쓑]="Tnlx"
+gksdud[쓒]="Tnlv"
+gksdud[쓓]="Tnlg"
+gksdud[쓔]="Tb"
+gksdud[쓕]="Tbr"
+gksdud[쓖]="TbR"
+gksdud[쓗]="Tbrt"
+gksdud[쓘]="Tbs"
+gksdud[쓙]="Tbsw"
+gksdud[쓚]="Tbsg"
+gksdud[쓛]="Tbe"
+gksdud[쓜]="Tbf"
+gksdud[쓝]="Tbfr"
+gksdud[쓞]="Tbfa"
+gksdud[쓟]="Tbfq"
+gksdud[쓠]="Tbft"
+gksdud[쓡]="Tbfx"
+gksdud[쓢]="Tbfv"
+gksdud[쓣]="Tbfg"
+gksdud[쓤]="Tba"
+gksdud[쓥]="Tbq"
+gksdud[쓦]="Tbqt"
+gksdud[쓧]="Tbt"
+gksdud[쓨]="TbT"
+gksdud[쓩]="Tbd"
+gksdud[쓪]="Tbw"
+gksdud[쓫]="Tbc"
+gksdud[쓬]="Tbz"
+gksdud[쓭]="Tbx"
+gksdud[쓮]="Tbv"
+gksdud[쓯]="Tbg"
+gksdud[쓰]="Tm"
+gksdud[쓱]="Tmr"
+gksdud[쓲]="TmR"
+gksdud[쓳]="Tmrt"
+gksdud[쓴]="Tms"
+gksdud[쓵]="Tmsw"
+gksdud[쓶]="Tmsg"
+gksdud[쓷]="Tme"
+gksdud[쓸]="Tmf"
+gksdud[쓹]="Tmfr"
+gksdud[쓺]="Tmfa"
+gksdud[쓻]="Tmfq"
+gksdud[쓼]="Tmft"
+gksdud[쓽]="Tmfx"
+gksdud[쓾]="Tmfv"
+gksdud[쓿]="Tmfg"
+gksdud[씀]="Tma"
+gksdud[씁]="Tmq"
+gksdud[씂]="Tmqt"
+gksdud[씃]="Tmt"
+gksdud[씄]="TmT"
+gksdud[씅]="Tmd"
+gksdud[씆]="Tmw"
+gksdud[씇]="Tmc"
+gksdud[씈]="Tmz"
+gksdud[씉]="Tmx"
+gksdud[씊]="Tmv"
+gksdud[씋]="Tmg"
+gksdud[씌]="Tml"
+gksdud[씍]="Tmlr"
+gksdud[씎]="TmlR"
+gksdud[씏]="Tmlrt"
+gksdud[씐]="Tmls"
+gksdud[씑]="Tmlsw"
+gksdud[씒]="Tmlsg"
+gksdud[씓]="Tmle"
+gksdud[씔]="Tmlf"
+gksdud[씕]="Tmlfr"
+gksdud[씖]="Tmlfa"
+gksdud[씗]="Tmlfq"
+gksdud[씘]="Tmlft"
+gksdud[씙]="Tmlfx"
+gksdud[씚]="Tmlfv"
+gksdud[씛]="Tmlfg"
+gksdud[씜]="Tmla"
+gksdud[씝]="Tmlq"
+gksdud[씞]="Tmlqt"
+gksdud[씟]="Tmlt"
+gksdud[씠]="TmlT"
+gksdud[씡]="Tmld"
+gksdud[씢]="Tmlw"
+gksdud[씣]="Tmlc"
+gksdud[씤]="Tmlz"
+gksdud[씥]="Tmlx"
+gksdud[씦]="Tmlv"
+gksdud[씧]="Tmlg"
+gksdud[씨]="Tl"
+gksdud[씩]="Tlr"
+gksdud[씪]="TlR"
+gksdud[씫]="Tlrt"
+gksdud[씬]="Tls"
+gksdud[씭]="Tlsw"
+gksdud[씮]="Tlsg"
+gksdud[씯]="Tle"
+gksdud[씰]="Tlf"
+gksdud[씱]="Tlfr"
+gksdud[씲]="Tlfa"
+gksdud[씳]="Tlfq"
+gksdud[씴]="Tlft"
+gksdud[씵]="Tlfx"
+gksdud[씶]="Tlfv"
+gksdud[씷]="Tlfg"
+gksdud[씸]="Tla"
+gksdud[씹]="Tlq"
+gksdud[씺]="Tlqt"
+gksdud[씻]="Tlt"
+gksdud[씼]="TlT"
+gksdud[씽]="Tld"
+gksdud[씾]="Tlw"
+gksdud[씿]="Tlc"
+gksdud[앀]="Tlz"
+gksdud[앁]="Tlx"
+gksdud[앂]="Tlv"
+gksdud[앃]="Tlg"
+gksdud[아]="dk"
+gksdud[악]="dkr"
+gksdud[앆]="dkR"
+gksdud[앇]="dkrt"
+gksdud[안]="dks"
+gksdud[앉]="dksw"
+gksdud[않]="dksg"
+gksdud[앋]="dke"
+gksdud[알]="dkf"
+gksdud[앍]="dkfr"
+gksdud[앎]="dkfa"
+gksdud[앏]="dkfq"
+gksdud[앐]="dkft"
+gksdud[앑]="dkfx"
+gksdud[앒]="dkfv"
+gksdud[앓]="dkfg"
+gksdud[암]="dka"
+gksdud[압]="dkq"
+gksdud[앖]="dkqt"
+gksdud[앗]="dkt"
+gksdud[았]="dkT"
+gksdud[앙]="dkd"
+gksdud[앚]="dkw"
+gksdud[앛]="dkc"
+gksdud[앜]="dkz"
+gksdud[앝]="dkx"
+gksdud[앞]="dkv"
+gksdud[앟]="dkg"
+gksdud[애]="do"
+gksdud[액]="dor"
+gksdud[앢]="doR"
+gksdud[앣]="dort"
+gksdud[앤]="dos"
+gksdud[앥]="dosw"
+gksdud[앦]="dosg"
+gksdud[앧]="doe"
+gksdud[앨]="dof"
+gksdud[앩]="dofr"
+gksdud[앪]="dofa"
+gksdud[앫]="dofq"
+gksdud[앬]="doft"
+gksdud[앭]="dofx"
+gksdud[앮]="dofv"
+gksdud[앯]="dofg"
+gksdud[앰]="doa"
+gksdud[앱]="doq"
+gksdud[앲]="doqt"
+gksdud[앳]="dot"
+gksdud[앴]="doT"
+gksdud[앵]="dod"
+gksdud[앶]="dow"
+gksdud[앷]="doc"
+gksdud[앸]="doz"
+gksdud[앹]="dox"
+gksdud[앺]="dov"
+gksdud[앻]="dog"
+gksdud[야]="di"
+gksdud[약]="dir"
+gksdud[앾]="diR"
+gksdud[앿]="dirt"
+gksdud[얀]="dis"
+gksdud[얁]="disw"
+gksdud[얂]="disg"
+gksdud[얃]="die"
+gksdud[얄]="dif"
+gksdud[얅]="difr"
+gksdud[얆]="difa"
+gksdud[얇]="difq"
+gksdud[얈]="dift"
+gksdud[얉]="difx"
+gksdud[얊]="difv"
+gksdud[얋]="difg"
+gksdud[얌]="dia"
+gksdud[얍]="diq"
+gksdud[얎]="diqt"
+gksdud[얏]="dit"
+gksdud[얐]="diT"
+gksdud[양]="did"
+gksdud[얒]="diw"
+gksdud[얓]="dic"
+gksdud[얔]="diz"
+gksdud[얕]="dix"
+gksdud[얖]="div"
+gksdud[얗]="dig"
+gksdud[얘]="dO"
+gksdud[얙]="dOr"
+gksdud[얚]="dOR"
+gksdud[얛]="dOrt"
+gksdud[얜]="dOs"
+gksdud[얝]="dOsw"
+gksdud[얞]="dOsg"
+gksdud[얟]="dOe"
+gksdud[얠]="dOf"
+gksdud[얡]="dOfr"
+gksdud[얢]="dOfa"
+gksdud[얣]="dOfq"
+gksdud[얤]="dOft"
+gksdud[얥]="dOfx"
+gksdud[얦]="dOfv"
+gksdud[얧]="dOfg"
+gksdud[얨]="dOa"
+gksdud[얩]="dOq"
+gksdud[얪]="dOqt"
+gksdud[얫]="dOt"
+gksdud[얬]="dOT"
+gksdud[얭]="dOd"
+gksdud[얮]="dOw"
+gksdud[얯]="dOc"
+gksdud[얰]="dOz"
+gksdud[얱]="dOx"
+gksdud[얲]="dOv"
+gksdud[얳]="dOg"
+gksdud[어]="dj"
+gksdud[억]="djr"
+gksdud[얶]="djR"
+gksdud[얷]="djrt"
+gksdud[언]="djs"
+gksdud[얹]="djsw"
+gksdud[얺]="djsg"
+gksdud[얻]="dje"
+gksdud[얼]="djf"
+gksdud[얽]="djfr"
+gksdud[얾]="djfa"
+gksdud[얿]="djfq"
+gksdud[엀]="djft"
+gksdud[엁]="djfx"
+gksdud[엂]="djfv"
+gksdud[엃]="djfg"
+gksdud[엄]="dja"
+gksdud[업]="djq"
+gksdud[없]="djqt"
+gksdud[엇]="djt"
+gksdud[었]="djT"
+gksdud[엉]="djd"
+gksdud[엊]="djw"
+gksdud[엋]="djc"
+gksdud[엌]="djz"
+gksdud[엍]="djx"
+gksdud[엎]="djv"
+gksdud[엏]="djg"
+gksdud[에]="dp"
+gksdud[엑]="dpr"
+gksdud[엒]="dpR"
+gksdud[엓]="dprt"
+gksdud[엔]="dps"
+gksdud[엕]="dpsw"
+gksdud[엖]="dpsg"
+gksdud[엗]="dpe"
+gksdud[엘]="dpf"
+gksdud[엙]="dpfr"
+gksdud[엚]="dpfa"
+gksdud[엛]="dpfq"
+gksdud[엜]="dpft"
+gksdud[엝]="dpfx"
+gksdud[엞]="dpfv"
+gksdud[엟]="dpfg"
+gksdud[엠]="dpa"
+gksdud[엡]="dpq"
+gksdud[엢]="dpqt"
+gksdud[엣]="dpt"
+gksdud[엤]="dpT"
+gksdud[엥]="dpd"
+gksdud[엦]="dpw"
+gksdud[엧]="dpc"
+gksdud[엨]="dpz"
+gksdud[엩]="dpx"
+gksdud[엪]="dpv"
+gksdud[엫]="dpg"
+gksdud[여]="du"
+gksdud[역]="dur"
+gksdud[엮]="duR"
+gksdud[엯]="durt"
+gksdud[연]="dus"
+gksdud[엱]="dusw"
+gksdud[엲]="dusg"
+gksdud[엳]="due"
+gksdud[열]="duf"
+gksdud[엵]="dufr"
+gksdud[엶]="dufa"
+gksdud[엷]="dufq"
+gksdud[엸]="duft"
+gksdud[엹]="dufx"
+gksdud[엺]="dufv"
+gksdud[엻]="dufg"
+gksdud[염]="dua"
+gksdud[엽]="duq"
+gksdud[엾]="duqt"
+gksdud[엿]="dut"
+gksdud[였]="duT"
+gksdud[영]="dud"
+gksdud[옂]="duw"
+gksdud[옃]="duc"
+gksdud[옄]="duz"
+gksdud[옅]="dux"
+gksdud[옆]="duv"
+gksdud[옇]="dug"
+gksdud[예]="dP"
+gksdud[옉]="dPr"
+gksdud[옊]="dPR"
+gksdud[옋]="dPrt"
+gksdud[옌]="dPs"
+gksdud[옍]="dPsw"
+gksdud[옎]="dPsg"
+gksdud[옏]="dPe"
+gksdud[옐]="dPf"
+gksdud[옑]="dPfr"
+gksdud[옒]="dPfa"
+gksdud[옓]="dPfq"
+gksdud[옔]="dPft"
+gksdud[옕]="dPfx"
+gksdud[옖]="dPfv"
+gksdud[옗]="dPfg"
+gksdud[옘]="dPa"
+gksdud[옙]="dPq"
+gksdud[옚]="dPqt"
+gksdud[옛]="dPt"
+gksdud[옜]="dPT"
+gksdud[옝]="dPd"
+gksdud[옞]="dPw"
+gksdud[옟]="dPc"
+gksdud[옠]="dPz"
+gksdud[옡]="dPx"
+gksdud[옢]="dPv"
+gksdud[옣]="dPg"
+gksdud[오]="dh"
+gksdud[옥]="dhr"
+gksdud[옦]="dhR"
+gksdud[옧]="dhrt"
+gksdud[온]="dhs"
+gksdud[옩]="dhsw"
+gksdud[옪]="dhsg"
+gksdud[옫]="dhe"
+gksdud[올]="dhf"
+gksdud[옭]="dhfr"
+gksdud[옮]="dhfa"
+gksdud[옯]="dhfq"
+gksdud[옰]="dhft"
+gksdud[옱]="dhfx"
+gksdud[옲]="dhfv"
+gksdud[옳]="dhfg"
+gksdud[옴]="dha"
+gksdud[옵]="dhq"
+gksdud[옶]="dhqt"
+gksdud[옷]="dht"
+gksdud[옸]="dhT"
+gksdud[옹]="dhd"
+gksdud[옺]="dhw"
+gksdud[옻]="dhc"
+gksdud[옼]="dhz"
+gksdud[옽]="dhx"
+gksdud[옾]="dhv"
+gksdud[옿]="dhg"
+gksdud[와]="dhk"
+gksdud[왁]="dhkr"
+gksdud[왂]="dhkR"
+gksdud[왃]="dhkrt"
+gksdud[완]="dhks"
+gksdud[왅]="dhksw"
+gksdud[왆]="dhksg"
+gksdud[왇]="dhke"
+gksdud[왈]="dhkf"
+gksdud[왉]="dhkfr"
+gksdud[왊]="dhkfa"
+gksdud[왋]="dhkfq"
+gksdud[왌]="dhkft"
+gksdud[왍]="dhkfx"
+gksdud[왎]="dhkfv"
+gksdud[왏]="dhkfg"
+gksdud[왐]="dhka"
+gksdud[왑]="dhkq"
+gksdud[왒]="dhkqt"
+gksdud[왓]="dhkt"
+gksdud[왔]="dhkT"
+gksdud[왕]="dhkd"
+gksdud[왖]="dhkw"
+gksdud[왗]="dhkc"
+gksdud[왘]="dhkz"
+gksdud[왙]="dhkx"
+gksdud[왚]="dhkv"
+gksdud[왛]="dhkg"
+gksdud[왜]="dho"
+gksdud[왝]="dhor"
+gksdud[왞]="dhoR"
+gksdud[왟]="dhort"
+gksdud[왠]="dhos"
+gksdud[왡]="dhosw"
+gksdud[왢]="dhosg"
+gksdud[왣]="dhoe"
+gksdud[왤]="dhof"
+gksdud[왥]="dhofr"
+gksdud[왦]="dhofa"
+gksdud[왧]="dhofq"
+gksdud[왨]="dhoft"
+gksdud[왩]="dhofx"
+gksdud[왪]="dhofv"
+gksdud[왫]="dhofg"
+gksdud[왬]="dhoa"
+gksdud[왭]="dhoq"
+gksdud[왮]="dhoqt"
+gksdud[왯]="dhot"
+gksdud[왰]="dhoT"
+gksdud[왱]="dhod"
+gksdud[왲]="dhow"
+gksdud[왳]="dhoc"
+gksdud[왴]="dhoz"
+gksdud[왵]="dhox"
+gksdud[왶]="dhov"
+gksdud[왷]="dhog"
+gksdud[외]="dhl"
+gksdud[왹]="dhlr"
+gksdud[왺]="dhlR"
+gksdud[왻]="dhlrt"
+gksdud[왼]="dhls"
+gksdud[왽]="dhlsw"
+gksdud[왾]="dhlsg"
+gksdud[왿]="dhle"
+gksdud[욀]="dhlf"
+gksdud[욁]="dhlfr"
+gksdud[욂]="dhlfa"
+gksdud[욃]="dhlfq"
+gksdud[욄]="dhlft"
+gksdud[욅]="dhlfx"
+gksdud[욆]="dhlfv"
+gksdud[욇]="dhlfg"
+gksdud[욈]="dhla"
+gksdud[욉]="dhlq"
+gksdud[욊]="dhlqt"
+gksdud[욋]="dhlt"
+gksdud[욌]="dhlT"
+gksdud[욍]="dhld"
+gksdud[욎]="dhlw"
+gksdud[욏]="dhlc"
+gksdud[욐]="dhlz"
+gksdud[욑]="dhlx"
+gksdud[욒]="dhlv"
+gksdud[욓]="dhlg"
+gksdud[요]="dy"
+gksdud[욕]="dyr"
+gksdud[욖]="dyR"
+gksdud[욗]="dyrt"
+gksdud[욘]="dys"
+gksdud[욙]="dysw"
+gksdud[욚]="dysg"
+gksdud[욛]="dye"
+gksdud[욜]="dyf"
+gksdud[욝]="dyfr"
+gksdud[욞]="dyfa"
+gksdud[욟]="dyfq"
+gksdud[욠]="dyft"
+gksdud[욡]="dyfx"
+gksdud[욢]="dyfv"
+gksdud[욣]="dyfg"
+gksdud[욤]="dya"
+gksdud[욥]="dyq"
+gksdud[욦]="dyqt"
+gksdud[욧]="dyt"
+gksdud[욨]="dyT"
+gksdud[용]="dyd"
+gksdud[욪]="dyw"
+gksdud[욫]="dyc"
+gksdud[욬]="dyz"
+gksdud[욭]="dyx"
+gksdud[욮]="dyv"
+gksdud[욯]="dyg"
+gksdud[우]="dn"
+gksdud[욱]="dnr"
+gksdud[욲]="dnR"
+gksdud[욳]="dnrt"
+gksdud[운]="dns"
+gksdud[욵]="dnsw"
+gksdud[욶]="dnsg"
+gksdud[욷]="dne"
+gksdud[울]="dnf"
+gksdud[욹]="dnfr"
+gksdud[욺]="dnfa"
+gksdud[욻]="dnfq"
+gksdud[욼]="dnft"
+gksdud[욽]="dnfx"
+gksdud[욾]="dnfv"
+gksdud[욿]="dnfg"
+gksdud[움]="dna"
+gksdud[웁]="dnq"
+gksdud[웂]="dnqt"
+gksdud[웃]="dnt"
+gksdud[웄]="dnT"
+gksdud[웅]="dnd"
+gksdud[웆]="dnw"
+gksdud[웇]="dnc"
+gksdud[웈]="dnz"
+gksdud[웉]="dnx"
+gksdud[웊]="dnv"
+gksdud[웋]="dng"
+gksdud[워]="dnj"
+gksdud[웍]="dnjr"
+gksdud[웎]="dnjR"
+gksdud[웏]="dnjrt"
+gksdud[원]="dnjs"
+gksdud[웑]="dnjsw"
+gksdud[웒]="dnjsg"
+gksdud[웓]="dnje"
+gksdud[월]="dnjf"
+gksdud[웕]="dnjfr"
+gksdud[웖]="dnjfa"
+gksdud[웗]="dnjfq"
+gksdud[웘]="dnjft"
+gksdud[웙]="dnjfx"
+gksdud[웚]="dnjfv"
+gksdud[웛]="dnjfg"
+gksdud[웜]="dnja"
+gksdud[웝]="dnjq"
+gksdud[웞]="dnjqt"
+gksdud[웟]="dnjt"
+gksdud[웠]="dnjT"
+gksdud[웡]="dnjd"
+gksdud[웢]="dnjw"
+gksdud[웣]="dnjc"
+gksdud[웤]="dnjz"
+gksdud[웥]="dnjx"
+gksdud[웦]="dnjv"
+gksdud[웧]="dnjg"
+gksdud[웨]="dnp"
+gksdud[웩]="dnpr"
+gksdud[웪]="dnpR"
+gksdud[웫]="dnprt"
+gksdud[웬]="dnps"
+gksdud[웭]="dnpsw"
+gksdud[웮]="dnpsg"
+gksdud[웯]="dnpe"
+gksdud[웰]="dnpf"
+gksdud[웱]="dnpfr"
+gksdud[웲]="dnpfa"
+gksdud[웳]="dnpfq"
+gksdud[웴]="dnpft"
+gksdud[웵]="dnpfx"
+gksdud[웶]="dnpfv"
+gksdud[웷]="dnpfg"
+gksdud[웸]="dnpa"
+gksdud[웹]="dnpq"
+gksdud[웺]="dnpqt"
+gksdud[웻]="dnpt"
+gksdud[웼]="dnpT"
+gksdud[웽]="dnpd"
+gksdud[웾]="dnpw"
+gksdud[웿]="dnpc"
+gksdud[윀]="dnpz"
+gksdud[윁]="dnpx"
+gksdud[윂]="dnpv"
+gksdud[윃]="dnpg"
+gksdud[위]="dnl"
+gksdud[윅]="dnlr"
+gksdud[윆]="dnlR"
+gksdud[윇]="dnlrt"
+gksdud[윈]="dnls"
+gksdud[윉]="dnlsw"
+gksdud[윊]="dnlsg"
+gksdud[윋]="dnle"
+gksdud[윌]="dnlf"
+gksdud[윍]="dnlfr"
+gksdud[윎]="dnlfa"
+gksdud[윏]="dnlfq"
+gksdud[윐]="dnlft"
+gksdud[윑]="dnlfx"
+gksdud[윒]="dnlfv"
+gksdud[윓]="dnlfg"
+gksdud[윔]="dnla"
+gksdud[윕]="dnlq"
+gksdud[윖]="dnlqt"
+gksdud[윗]="dnlt"
+gksdud[윘]="dnlT"
+gksdud[윙]="dnld"
+gksdud[윚]="dnlw"
+gksdud[윛]="dnlc"
+gksdud[윜]="dnlz"
+gksdud[윝]="dnlx"
+gksdud[윞]="dnlv"
+gksdud[윟]="dnlg"
+gksdud[유]="db"
+gksdud[육]="dbr"
+gksdud[윢]="dbR"
+gksdud[윣]="dbrt"
+gksdud[윤]="dbs"
+gksdud[윥]="dbsw"
+gksdud[윦]="dbsg"
+gksdud[윧]="dbe"
+gksdud[율]="dbf"
+gksdud[윩]="dbfr"
+gksdud[윪]="dbfa"
+gksdud[윫]="dbfq"
+gksdud[윬]="dbft"
+gksdud[윭]="dbfx"
+gksdud[윮]="dbfv"
+gksdud[윯]="dbfg"
+gksdud[윰]="dba"
+gksdud[윱]="dbq"
+gksdud[윲]="dbqt"
+gksdud[윳]="dbt"
+gksdud[윴]="dbT"
+gksdud[융]="dbd"
+gksdud[윶]="dbw"
+gksdud[윷]="dbc"
+gksdud[윸]="dbz"
+gksdud[윹]="dbx"
+gksdud[윺]="dbv"
+gksdud[윻]="dbg"
+gksdud[으]="dm"
+gksdud[윽]="dmr"
+gksdud[윾]="dmR"
+gksdud[윿]="dmrt"
+gksdud[은]="dms"
+gksdud[읁]="dmsw"
+gksdud[읂]="dmsg"
+gksdud[읃]="dme"
+gksdud[을]="dmf"
+gksdud[읅]="dmfr"
+gksdud[읆]="dmfa"
+gksdud[읇]="dmfq"
+gksdud[읈]="dmft"
+gksdud[읉]="dmfx"
+gksdud[읊]="dmfv"
+gksdud[읋]="dmfg"
+gksdud[음]="dma"
+gksdud[읍]="dmq"
+gksdud[읎]="dmqt"
+gksdud[읏]="dmt"
+gksdud[읐]="dmT"
+gksdud[응]="dmd"
+gksdud[읒]="dmw"
+gksdud[읓]="dmc"
+gksdud[읔]="dmz"
+gksdud[읕]="dmx"
+gksdud[읖]="dmv"
+gksdud[읗]="dmg"
+gksdud[의]="dml"
+gksdud[읙]="dmlr"
+gksdud[읚]="dmlR"
+gksdud[읛]="dmlrt"
+gksdud[읜]="dmls"
+gksdud[읝]="dmlsw"
+gksdud[읞]="dmlsg"
+gksdud[읟]="dmle"
+gksdud[읠]="dmlf"
+gksdud[읡]="dmlfr"
+gksdud[읢]="dmlfa"
+gksdud[읣]="dmlfq"
+gksdud[읤]="dmlft"
+gksdud[읥]="dmlfx"
+gksdud[읦]="dmlfv"
+gksdud[읧]="dmlfg"
+gksdud[읨]="dmla"
+gksdud[읩]="dmlq"
+gksdud[읪]="dmlqt"
+gksdud[읫]="dmlt"
+gksdud[읬]="dmlT"
+gksdud[읭]="dmld"
+gksdud[읮]="dmlw"
+gksdud[읯]="dmlc"
+gksdud[읰]="dmlz"
+gksdud[읱]="dmlx"
+gksdud[읲]="dmlv"
+gksdud[읳]="dmlg"
+gksdud[이]="dl"
+gksdud[익]="dlr"
+gksdud[읶]="dlR"
+gksdud[읷]="dlrt"
+gksdud[인]="dls"
+gksdud[읹]="dlsw"
+gksdud[읺]="dlsg"
+gksdud[읻]="dle"
+gksdud[일]="dlf"
+gksdud[읽]="dlfr"
+gksdud[읾]="dlfa"
+gksdud[읿]="dlfq"
+gksdud[잀]="dlft"
+gksdud[잁]="dlfx"
+gksdud[잂]="dlfv"
+gksdud[잃]="dlfg"
+gksdud[임]="dla"
+gksdud[입]="dlq"
+gksdud[잆]="dlqt"
+gksdud[잇]="dlt"
+gksdud[있]="dlT"
+gksdud[잉]="dld"
+gksdud[잊]="dlw"
+gksdud[잋]="dlc"
+gksdud[잌]="dlz"
+gksdud[잍]="dlx"
+gksdud[잎]="dlv"
+gksdud[잏]="dlg"
+gksdud[자]="wk"
+gksdud[작]="wkr"
+gksdud[잒]="wkR"
+gksdud[잓]="wkrt"
+gksdud[잔]="wks"
+gksdud[잕]="wksw"
+gksdud[잖]="wksg"
+gksdud[잗]="wke"
+gksdud[잘]="wkf"
+gksdud[잙]="wkfr"
+gksdud[잚]="wkfa"
+gksdud[잛]="wkfq"
+gksdud[잜]="wkft"
+gksdud[잝]="wkfx"
+gksdud[잞]="wkfv"
+gksdud[잟]="wkfg"
+gksdud[잠]="wka"
+gksdud[잡]="wkq"
+gksdud[잢]="wkqt"
+gksdud[잣]="wkt"
+gksdud[잤]="wkT"
+gksdud[장]="wkd"
+gksdud[잦]="wkw"
+gksdud[잧]="wkc"
+gksdud[잨]="wkz"
+gksdud[잩]="wkx"
+gksdud[잪]="wkv"
+gksdud[잫]="wkg"
+gksdud[재]="wo"
+gksdud[잭]="wor"
+gksdud[잮]="woR"
+gksdud[잯]="wort"
+gksdud[잰]="wos"
+gksdud[잱]="wosw"
+gksdud[잲]="wosg"
+gksdud[잳]="woe"
+gksdud[잴]="wof"
+gksdud[잵]="wofr"
+gksdud[잶]="wofa"
+gksdud[잷]="wofq"
+gksdud[잸]="woft"
+gksdud[잹]="wofx"
+gksdud[잺]="wofv"
+gksdud[잻]="wofg"
+gksdud[잼]="woa"
+gksdud[잽]="woq"
+gksdud[잾]="woqt"
+gksdud[잿]="wot"
+gksdud[쟀]="woT"
+gksdud[쟁]="wod"
+gksdud[쟂]="wow"
+gksdud[쟃]="woc"
+gksdud[쟄]="woz"
+gksdud[쟅]="wox"
+gksdud[쟆]="wov"
+gksdud[쟇]="wog"
+gksdud[쟈]="wi"
+gksdud[쟉]="wir"
+gksdud[쟊]="wiR"
+gksdud[쟋]="wirt"
+gksdud[쟌]="wis"
+gksdud[쟍]="wisw"
+gksdud[쟎]="wisg"
+gksdud[쟏]="wie"
+gksdud[쟐]="wif"
+gksdud[쟑]="wifr"
+gksdud[쟒]="wifa"
+gksdud[쟓]="wifq"
+gksdud[쟔]="wift"
+gksdud[쟕]="wifx"
+gksdud[쟖]="wifv"
+gksdud[쟗]="wifg"
+gksdud[쟘]="wia"
+gksdud[쟙]="wiq"
+gksdud[쟚]="wiqt"
+gksdud[쟛]="wit"
+gksdud[쟜]="wiT"
+gksdud[쟝]="wid"
+gksdud[쟞]="wiw"
+gksdud[쟟]="wic"
+gksdud[쟠]="wiz"
+gksdud[쟡]="wix"
+gksdud[쟢]="wiv"
+gksdud[쟣]="wig"
+gksdud[쟤]="wO"
+gksdud[쟥]="wOr"
+gksdud[쟦]="wOR"
+gksdud[쟧]="wOrt"
+gksdud[쟨]="wOs"
+gksdud[쟩]="wOsw"
+gksdud[쟪]="wOsg"
+gksdud[쟫]="wOe"
+gksdud[쟬]="wOf"
+gksdud[쟭]="wOfr"
+gksdud[쟮]="wOfa"
+gksdud[쟯]="wOfq"
+gksdud[쟰]="wOft"
+gksdud[쟱]="wOfx"
+gksdud[쟲]="wOfv"
+gksdud[쟳]="wOfg"
+gksdud[쟴]="wOa"
+gksdud[쟵]="wOq"
+gksdud[쟶]="wOqt"
+gksdud[쟷]="wOt"
+gksdud[쟸]="wOT"
+gksdud[쟹]="wOd"
+gksdud[쟺]="wOw"
+gksdud[쟻]="wOc"
+gksdud[쟼]="wOz"
+gksdud[쟽]="wOx"
+gksdud[쟾]="wOv"
+gksdud[쟿]="wOg"
+gksdud[저]="wj"
+gksdud[적]="wjr"
+gksdud[젂]="wjR"
+gksdud[젃]="wjrt"
+gksdud[전]="wjs"
+gksdud[젅]="wjsw"
+gksdud[젆]="wjsg"
+gksdud[젇]="wje"
+gksdud[절]="wjf"
+gksdud[젉]="wjfr"
+gksdud[젊]="wjfa"
+gksdud[젋]="wjfq"
+gksdud[젌]="wjft"
+gksdud[젍]="wjfx"
+gksdud[젎]="wjfv"
+gksdud[젏]="wjfg"
+gksdud[점]="wja"
+gksdud[접]="wjq"
+gksdud[젒]="wjqt"
+gksdud[젓]="wjt"
+gksdud[젔]="wjT"
+gksdud[정]="wjd"
+gksdud[젖]="wjw"
+gksdud[젗]="wjc"
+gksdud[젘]="wjz"
+gksdud[젙]="wjx"
+gksdud[젚]="wjv"
+gksdud[젛]="wjg"
+gksdud[제]="wp"
+gksdud[젝]="wpr"
+gksdud[젞]="wpR"
+gksdud[젟]="wprt"
+gksdud[젠]="wps"
+gksdud[젡]="wpsw"
+gksdud[젢]="wpsg"
+gksdud[젣]="wpe"
+gksdud[젤]="wpf"
+gksdud[젥]="wpfr"
+gksdud[젦]="wpfa"
+gksdud[젧]="wpfq"
+gksdud[젨]="wpft"
+gksdud[젩]="wpfx"
+gksdud[젪]="wpfv"
+gksdud[젫]="wpfg"
+gksdud[젬]="wpa"
+gksdud[젭]="wpq"
+gksdud[젮]="wpqt"
+gksdud[젯]="wpt"
+gksdud[젰]="wpT"
+gksdud[젱]="wpd"
+gksdud[젲]="wpw"
+gksdud[젳]="wpc"
+gksdud[젴]="wpz"
+gksdud[젵]="wpx"
+gksdud[젶]="wpv"
+gksdud[젷]="wpg"
+gksdud[져]="wu"
+gksdud[젹]="wur"
+gksdud[젺]="wuR"
+gksdud[젻]="wurt"
+gksdud[젼]="wus"
+gksdud[젽]="wusw"
+gksdud[젾]="wusg"
+gksdud[젿]="wue"
+gksdud[졀]="wuf"
+gksdud[졁]="wufr"
+gksdud[졂]="wufa"
+gksdud[졃]="wufq"
+gksdud[졄]="wuft"
+gksdud[졅]="wufx"
+gksdud[졆]="wufv"
+gksdud[졇]="wufg"
+gksdud[졈]="wua"
+gksdud[졉]="wuq"
+gksdud[졊]="wuqt"
+gksdud[졋]="wut"
+gksdud[졌]="wuT"
+gksdud[졍]="wud"
+gksdud[졎]="wuw"
+gksdud[졏]="wuc"
+gksdud[졐]="wuz"
+gksdud[졑]="wux"
+gksdud[졒]="wuv"
+gksdud[졓]="wug"
+gksdud[졔]="wP"
+gksdud[졕]="wPr"
+gksdud[졖]="wPR"
+gksdud[졗]="wPrt"
+gksdud[졘]="wPs"
+gksdud[졙]="wPsw"
+gksdud[졚]="wPsg"
+gksdud[졛]="wPe"
+gksdud[졜]="wPf"
+gksdud[졝]="wPfr"
+gksdud[졞]="wPfa"
+gksdud[졟]="wPfq"
+gksdud[졠]="wPft"
+gksdud[졡]="wPfx"
+gksdud[졢]="wPfv"
+gksdud[졣]="wPfg"
+gksdud[졤]="wPa"
+gksdud[졥]="wPq"
+gksdud[졦]="wPqt"
+gksdud[졧]="wPt"
+gksdud[졨]="wPT"
+gksdud[졩]="wPd"
+gksdud[졪]="wPw"
+gksdud[졫]="wPc"
+gksdud[졬]="wPz"
+gksdud[졭]="wPx"
+gksdud[졮]="wPv"
+gksdud[졯]="wPg"
+gksdud[조]="wh"
+gksdud[족]="whr"
+gksdud[졲]="whR"
+gksdud[졳]="whrt"
+gksdud[존]="whs"
+gksdud[졵]="whsw"
+gksdud[졶]="whsg"
+gksdud[졷]="whe"
+gksdud[졸]="whf"
+gksdud[졹]="whfr"
+gksdud[졺]="whfa"
+gksdud[졻]="whfq"
+gksdud[졼]="whft"
+gksdud[졽]="whfx"
+gksdud[졾]="whfv"
+gksdud[졿]="whfg"
+gksdud[좀]="wha"
+gksdud[좁]="whq"
+gksdud[좂]="whqt"
+gksdud[좃]="wht"
+gksdud[좄]="whT"
+gksdud[종]="whd"
+gksdud[좆]="whw"
+gksdud[좇]="whc"
+gksdud[좈]="whz"
+gksdud[좉]="whx"
+gksdud[좊]="whv"
+gksdud[좋]="whg"
+gksdud[좌]="whk"
+gksdud[좍]="whkr"
+gksdud[좎]="whkR"
+gksdud[좏]="whkrt"
+gksdud[좐]="whks"
+gksdud[좑]="whksw"
+gksdud[좒]="whksg"
+gksdud[좓]="whke"
+gksdud[좔]="whkf"
+gksdud[좕]="whkfr"
+gksdud[좖]="whkfa"
+gksdud[좗]="whkfq"
+gksdud[좘]="whkft"
+gksdud[좙]="whkfx"
+gksdud[좚]="whkfv"
+gksdud[좛]="whkfg"
+gksdud[좜]="whka"
+gksdud[좝]="whkq"
+gksdud[좞]="whkqt"
+gksdud[좟]="whkt"
+gksdud[좠]="whkT"
+gksdud[좡]="whkd"
+gksdud[좢]="whkw"
+gksdud[좣]="whkc"
+gksdud[좤]="whkz"
+gksdud[좥]="whkx"
+gksdud[좦]="whkv"
+gksdud[좧]="whkg"
+gksdud[좨]="who"
+gksdud[좩]="whor"
+gksdud[좪]="whoR"
+gksdud[좫]="whort"
+gksdud[좬]="whos"
+gksdud[좭]="whosw"
+gksdud[좮]="whosg"
+gksdud[좯]="whoe"
+gksdud[좰]="whof"
+gksdud[좱]="whofr"
+gksdud[좲]="whofa"
+gksdud[좳]="whofq"
+gksdud[좴]="whoft"
+gksdud[좵]="whofx"
+gksdud[좶]="whofv"
+gksdud[좷]="whofg"
+gksdud[좸]="whoa"
+gksdud[좹]="whoq"
+gksdud[좺]="whoqt"
+gksdud[좻]="whot"
+gksdud[좼]="whoT"
+gksdud[좽]="whod"
+gksdud[좾]="whow"
+gksdud[좿]="whoc"
+gksdud[죀]="whoz"
+gksdud[죁]="whox"
+gksdud[죂]="whov"
+gksdud[죃]="whog"
+gksdud[죄]="whl"
+gksdud[죅]="whlr"
+gksdud[죆]="whlR"
+gksdud[죇]="whlrt"
+gksdud[죈]="whls"
+gksdud[죉]="whlsw"
+gksdud[죊]="whlsg"
+gksdud[죋]="whle"
+gksdud[죌]="whlf"
+gksdud[죍]="whlfr"
+gksdud[죎]="whlfa"
+gksdud[죏]="whlfq"
+gksdud[죐]="whlft"
+gksdud[죑]="whlfx"
+gksdud[죒]="whlfv"
+gksdud[죓]="whlfg"
+gksdud[죔]="whla"
+gksdud[죕]="whlq"
+gksdud[죖]="whlqt"
+gksdud[죗]="whlt"
+gksdud[죘]="whlT"
+gksdud[죙]="whld"
+gksdud[죚]="whlw"
+gksdud[죛]="whlc"
+gksdud[죜]="whlz"
+gksdud[죝]="whlx"
+gksdud[죞]="whlv"
+gksdud[죟]="whlg"
+gksdud[죠]="wy"
+gksdud[죡]="wyr"
+gksdud[죢]="wyR"
+gksdud[죣]="wyrt"
+gksdud[죤]="wys"
+gksdud[죥]="wysw"
+gksdud[죦]="wysg"
+gksdud[죧]="wye"
+gksdud[죨]="wyf"
+gksdud[죩]="wyfr"
+gksdud[죪]="wyfa"
+gksdud[죫]="wyfq"
+gksdud[죬]="wyft"
+gksdud[죭]="wyfx"
+gksdud[죮]="wyfv"
+gksdud[죯]="wyfg"
+gksdud[죰]="wya"
+gksdud[죱]="wyq"
+gksdud[죲]="wyqt"
+gksdud[죳]="wyt"
+gksdud[죴]="wyT"
+gksdud[죵]="wyd"
+gksdud[죶]="wyw"
+gksdud[죷]="wyc"
+gksdud[죸]="wyz"
+gksdud[죹]="wyx"
+gksdud[죺]="wyv"
+gksdud[죻]="wyg"
+gksdud[주]="wn"
+gksdud[죽]="wnr"
+gksdud[죾]="wnR"
+gksdud[죿]="wnrt"
+gksdud[준]="wns"
+gksdud[줁]="wnsw"
+gksdud[줂]="wnsg"
+gksdud[줃]="wne"
+gksdud[줄]="wnf"
+gksdud[줅]="wnfr"
+gksdud[줆]="wnfa"
+gksdud[줇]="wnfq"
+gksdud[줈]="wnft"
+gksdud[줉]="wnfx"
+gksdud[줊]="wnfv"
+gksdud[줋]="wnfg"
+gksdud[줌]="wna"
+gksdud[줍]="wnq"
+gksdud[줎]="wnqt"
+gksdud[줏]="wnt"
+gksdud[줐]="wnT"
+gksdud[중]="wnd"
+gksdud[줒]="wnw"
+gksdud[줓]="wnc"
+gksdud[줔]="wnz"
+gksdud[줕]="wnx"
+gksdud[줖]="wnv"
+gksdud[줗]="wng"
+gksdud[줘]="wnj"
+gksdud[줙]="wnjr"
+gksdud[줚]="wnjR"
+gksdud[줛]="wnjrt"
+gksdud[줜]="wnjs"
+gksdud[줝]="wnjsw"
+gksdud[줞]="wnjsg"
+gksdud[줟]="wnje"
+gksdud[줠]="wnjf"
+gksdud[줡]="wnjfr"
+gksdud[줢]="wnjfa"
+gksdud[줣]="wnjfq"
+gksdud[줤]="wnjft"
+gksdud[줥]="wnjfx"
+gksdud[줦]="wnjfv"
+gksdud[줧]="wnjfg"
+gksdud[줨]="wnja"
+gksdud[줩]="wnjq"
+gksdud[줪]="wnjqt"
+gksdud[줫]="wnjt"
+gksdud[줬]="wnjT"
+gksdud[줭]="wnjd"
+gksdud[줮]="wnjw"
+gksdud[줯]="wnjc"
+gksdud[줰]="wnjz"
+gksdud[줱]="wnjx"
+gksdud[줲]="wnjv"
+gksdud[줳]="wnjg"
+gksdud[줴]="wnp"
+gksdud[줵]="wnpr"
+gksdud[줶]="wnpR"
+gksdud[줷]="wnprt"
+gksdud[줸]="wnps"
+gksdud[줹]="wnpsw"
+gksdud[줺]="wnpsg"
+gksdud[줻]="wnpe"
+gksdud[줼]="wnpf"
+gksdud[줽]="wnpfr"
+gksdud[줾]="wnpfa"
+gksdud[줿]="wnpfq"
+gksdud[쥀]="wnpft"
+gksdud[쥁]="wnpfx"
+gksdud[쥂]="wnpfv"
+gksdud[쥃]="wnpfg"
+gksdud[쥄]="wnpa"
+gksdud[쥅]="wnpq"
+gksdud[쥆]="wnpqt"
+gksdud[쥇]="wnpt"
+gksdud[쥈]="wnpT"
+gksdud[쥉]="wnpd"
+gksdud[쥊]="wnpw"
+gksdud[쥋]="wnpc"
+gksdud[쥌]="wnpz"
+gksdud[쥍]="wnpx"
+gksdud[쥎]="wnpv"
+gksdud[쥏]="wnpg"
+gksdud[쥐]="wnl"
+gksdud[쥑]="wnlr"
+gksdud[쥒]="wnlR"
+gksdud[쥓]="wnlrt"
+gksdud[쥔]="wnls"
+gksdud[쥕]="wnlsw"
+gksdud[쥖]="wnlsg"
+gksdud[쥗]="wnle"
+gksdud[쥘]="wnlf"
+gksdud[쥙]="wnlfr"
+gksdud[쥚]="wnlfa"
+gksdud[쥛]="wnlfq"
+gksdud[쥜]="wnlft"
+gksdud[쥝]="wnlfx"
+gksdud[쥞]="wnlfv"
+gksdud[쥟]="wnlfg"
+gksdud[쥠]="wnla"
+gksdud[쥡]="wnlq"
+gksdud[쥢]="wnlqt"
+gksdud[쥣]="wnlt"
+gksdud[쥤]="wnlT"
+gksdud[쥥]="wnld"
+gksdud[쥦]="wnlw"
+gksdud[쥧]="wnlc"
+gksdud[쥨]="wnlz"
+gksdud[쥩]="wnlx"
+gksdud[쥪]="wnlv"
+gksdud[쥫]="wnlg"
+gksdud[쥬]="wb"
+gksdud[쥭]="wbr"
+gksdud[쥮]="wbR"
+gksdud[쥯]="wbrt"
+gksdud[쥰]="wbs"
+gksdud[쥱]="wbsw"
+gksdud[쥲]="wbsg"
+gksdud[쥳]="wbe"
+gksdud[쥴]="wbf"
+gksdud[쥵]="wbfr"
+gksdud[쥶]="wbfa"
+gksdud[쥷]="wbfq"
+gksdud[쥸]="wbft"
+gksdud[쥹]="wbfx"
+gksdud[쥺]="wbfv"
+gksdud[쥻]="wbfg"
+gksdud[쥼]="wba"
+gksdud[쥽]="wbq"
+gksdud[쥾]="wbqt"
+gksdud[쥿]="wbt"
+gksdud[즀]="wbT"
+gksdud[즁]="wbd"
+gksdud[즂]="wbw"
+gksdud[즃]="wbc"
+gksdud[즄]="wbz"
+gksdud[즅]="wbx"
+gksdud[즆]="wbv"
+gksdud[즇]="wbg"
+gksdud[즈]="wm"
+gksdud[즉]="wmr"
+gksdud[즊]="wmR"
+gksdud[즋]="wmrt"
+gksdud[즌]="wms"
+gksdud[즍]="wmsw"
+gksdud[즎]="wmsg"
+gksdud[즏]="wme"
+gksdud[즐]="wmf"
+gksdud[즑]="wmfr"
+gksdud[즒]="wmfa"
+gksdud[즓]="wmfq"
+gksdud[즔]="wmft"
+gksdud[즕]="wmfx"
+gksdud[즖]="wmfv"
+gksdud[즗]="wmfg"
+gksdud[즘]="wma"
+gksdud[즙]="wmq"
+gksdud[즚]="wmqt"
+gksdud[즛]="wmt"
+gksdud[즜]="wmT"
+gksdud[증]="wmd"
+gksdud[즞]="wmw"
+gksdud[즟]="wmc"
+gksdud[즠]="wmz"
+gksdud[즡]="wmx"
+gksdud[즢]="wmv"
+gksdud[즣]="wmg"
+gksdud[즤]="wml"
+gksdud[즥]="wmlr"
+gksdud[즦]="wmlR"
+gksdud[즧]="wmlrt"
+gksdud[즨]="wmls"
+gksdud[즩]="wmlsw"
+gksdud[즪]="wmlsg"
+gksdud[즫]="wmle"
+gksdud[즬]="wmlf"
+gksdud[즭]="wmlfr"
+gksdud[즮]="wmlfa"
+gksdud[즯]="wmlfq"
+gksdud[즰]="wmlft"
+gksdud[즱]="wmlfx"
+gksdud[즲]="wmlfv"
+gksdud[즳]="wmlfg"
+gksdud[즴]="wmla"
+gksdud[즵]="wmlq"
+gksdud[즶]="wmlqt"
+gksdud[즷]="wmlt"
+gksdud[즸]="wmlT"
+gksdud[즹]="wmld"
+gksdud[즺]="wmlw"
+gksdud[즻]="wmlc"
+gksdud[즼]="wmlz"
+gksdud[즽]="wmlx"
+gksdud[즾]="wmlv"
+gksdud[즿]="wmlg"
+gksdud[지]="wl"
+gksdud[직]="wlr"
+gksdud[짂]="wlR"
+gksdud[짃]="wlrt"
+gksdud[진]="wls"
+gksdud[짅]="wlsw"
+gksdud[짆]="wlsg"
+gksdud[짇]="wle"
+gksdud[질]="wlf"
+gksdud[짉]="wlfr"
+gksdud[짊]="wlfa"
+gksdud[짋]="wlfq"
+gksdud[짌]="wlft"
+gksdud[짍]="wlfx"
+gksdud[짎]="wlfv"
+gksdud[짏]="wlfg"
+gksdud[짐]="wla"
+gksdud[집]="wlq"
+gksdud[짒]="wlqt"
+gksdud[짓]="wlt"
+gksdud[짔]="wlT"
+gksdud[징]="wld"
+gksdud[짖]="wlw"
+gksdud[짗]="wlc"
+gksdud[짘]="wlz"
+gksdud[짙]="wlx"
+gksdud[짚]="wlv"
+gksdud[짛]="wlg"
+gksdud[짜]="Wk"
+gksdud[짝]="Wkr"
+gksdud[짞]="WkR"
+gksdud[짟]="Wkrt"
+gksdud[짠]="Wks"
+gksdud[짡]="Wksw"
+gksdud[짢]="Wksg"
+gksdud[짣]="Wke"
+gksdud[짤]="Wkf"
+gksdud[짥]="Wkfr"
+gksdud[짦]="Wkfa"
+gksdud[짧]="Wkfq"
+gksdud[짨]="Wkft"
+gksdud[짩]="Wkfx"
+gksdud[짪]="Wkfv"
+gksdud[짫]="Wkfg"
+gksdud[짬]="Wka"
+gksdud[짭]="Wkq"
+gksdud[짮]="Wkqt"
+gksdud[짯]="Wkt"
+gksdud[짰]="WkT"
+gksdud[짱]="Wkd"
+gksdud[짲]="Wkw"
+gksdud[짳]="Wkc"
+gksdud[짴]="Wkz"
+gksdud[짵]="Wkx"
+gksdud[짶]="Wkv"
+gksdud[짷]="Wkg"
+gksdud[째]="Wo"
+gksdud[짹]="Wor"
+gksdud[짺]="WoR"
+gksdud[짻]="Wort"
+gksdud[짼]="Wos"
+gksdud[짽]="Wosw"
+gksdud[짾]="Wosg"
+gksdud[짿]="Woe"
+gksdud[쨀]="Wof"
+gksdud[쨁]="Wofr"
+gksdud[쨂]="Wofa"
+gksdud[쨃]="Wofq"
+gksdud[쨄]="Woft"
+gksdud[쨅]="Wofx"
+gksdud[쨆]="Wofv"
+gksdud[쨇]="Wofg"
+gksdud[쨈]="Woa"
+gksdud[쨉]="Woq"
+gksdud[쨊]="Woqt"
+gksdud[쨋]="Wot"
+gksdud[쨌]="WoT"
+gksdud[쨍]="Wod"
+gksdud[쨎]="Wow"
+gksdud[쨏]="Woc"
+gksdud[쨐]="Woz"
+gksdud[쨑]="Wox"
+gksdud[쨒]="Wov"
+gksdud[쨓]="Wog"
+gksdud[쨔]="Wi"
+gksdud[쨕]="Wir"
+gksdud[쨖]="WiR"
+gksdud[쨗]="Wirt"
+gksdud[쨘]="Wis"
+gksdud[쨙]="Wisw"
+gksdud[쨚]="Wisg"
+gksdud[쨛]="Wie"
+gksdud[쨜]="Wif"
+gksdud[쨝]="Wifr"
+gksdud[쨞]="Wifa"
+gksdud[쨟]="Wifq"
+gksdud[쨠]="Wift"
+gksdud[쨡]="Wifx"
+gksdud[쨢]="Wifv"
+gksdud[쨣]="Wifg"
+gksdud[쨤]="Wia"
+gksdud[쨥]="Wiq"
+gksdud[쨦]="Wiqt"
+gksdud[쨧]="Wit"
+gksdud[쨨]="WiT"
+gksdud[쨩]="Wid"
+gksdud[쨪]="Wiw"
+gksdud[쨫]="Wic"
+gksdud[쨬]="Wiz"
+gksdud[쨭]="Wix"
+gksdud[쨮]="Wiv"
+gksdud[쨯]="Wig"
+gksdud[쨰]="WO"
+gksdud[쨱]="WOr"
+gksdud[쨲]="WOR"
+gksdud[쨳]="WOrt"
+gksdud[쨴]="WOs"
+gksdud[쨵]="WOsw"
+gksdud[쨶]="WOsg"
+gksdud[쨷]="WOe"
+gksdud[쨸]="WOf"
+gksdud[쨹]="WOfr"
+gksdud[쨺]="WOfa"
+gksdud[쨻]="WOfq"
+gksdud[쨼]="WOft"
+gksdud[쨽]="WOfx"
+gksdud[쨾]="WOfv"
+gksdud[쨿]="WOfg"
+gksdud[쩀]="WOa"
+gksdud[쩁]="WOq"
+gksdud[쩂]="WOqt"
+gksdud[쩃]="WOt"
+gksdud[쩄]="WOT"
+gksdud[쩅]="WOd"
+gksdud[쩆]="WOw"
+gksdud[쩇]="WOc"
+gksdud[쩈]="WOz"
+gksdud[쩉]="WOx"
+gksdud[쩊]="WOv"
+gksdud[쩋]="WOg"
+gksdud[쩌]="Wj"
+gksdud[쩍]="Wjr"
+gksdud[쩎]="WjR"
+gksdud[쩏]="Wjrt"
+gksdud[쩐]="Wjs"
+gksdud[쩑]="Wjsw"
+gksdud[쩒]="Wjsg"
+gksdud[쩓]="Wje"
+gksdud[쩔]="Wjf"
+gksdud[쩕]="Wjfr"
+gksdud[쩖]="Wjfa"
+gksdud[쩗]="Wjfq"
+gksdud[쩘]="Wjft"
+gksdud[쩙]="Wjfx"
+gksdud[쩚]="Wjfv"
+gksdud[쩛]="Wjfg"
+gksdud[쩜]="Wja"
+gksdud[쩝]="Wjq"
+gksdud[쩞]="Wjqt"
+gksdud[쩟]="Wjt"
+gksdud[쩠]="WjT"
+gksdud[쩡]="Wjd"
+gksdud[쩢]="Wjw"
+gksdud[쩣]="Wjc"
+gksdud[쩤]="Wjz"
+gksdud[쩥]="Wjx"
+gksdud[쩦]="Wjv"
+gksdud[쩧]="Wjg"
+gksdud[쩨]="Wp"
+gksdud[쩩]="Wpr"
+gksdud[쩪]="WpR"
+gksdud[쩫]="Wprt"
+gksdud[쩬]="Wps"
+gksdud[쩭]="Wpsw"
+gksdud[쩮]="Wpsg"
+gksdud[쩯]="Wpe"
+gksdud[쩰]="Wpf"
+gksdud[쩱]="Wpfr"
+gksdud[쩲]="Wpfa"
+gksdud[쩳]="Wpfq"
+gksdud[쩴]="Wpft"
+gksdud[쩵]="Wpfx"
+gksdud[쩶]="Wpfv"
+gksdud[쩷]="Wpfg"
+gksdud[쩸]="Wpa"
+gksdud[쩹]="Wpq"
+gksdud[쩺]="Wpqt"
+gksdud[쩻]="Wpt"
+gksdud[쩼]="WpT"
+gksdud[쩽]="Wpd"
+gksdud[쩾]="Wpw"
+gksdud[쩿]="Wpc"
+gksdud[쪀]="Wpz"
+gksdud[쪁]="Wpx"
+gksdud[쪂]="Wpv"
+gksdud[쪃]="Wpg"
+gksdud[쪄]="Wu"
+gksdud[쪅]="Wur"
+gksdud[쪆]="WuR"
+gksdud[쪇]="Wurt"
+gksdud[쪈]="Wus"
+gksdud[쪉]="Wusw"
+gksdud[쪊]="Wusg"
+gksdud[쪋]="Wue"
+gksdud[쪌]="Wuf"
+gksdud[쪍]="Wufr"
+gksdud[쪎]="Wufa"
+gksdud[쪏]="Wufq"
+gksdud[쪐]="Wuft"
+gksdud[쪑]="Wufx"
+gksdud[쪒]="Wufv"
+gksdud[쪓]="Wufg"
+gksdud[쪔]="Wua"
+gksdud[쪕]="Wuq"
+gksdud[쪖]="Wuqt"
+gksdud[쪗]="Wut"
+gksdud[쪘]="WuT"
+gksdud[쪙]="Wud"
+gksdud[쪚]="Wuw"
+gksdud[쪛]="Wuc"
+gksdud[쪜]="Wuz"
+gksdud[쪝]="Wux"
+gksdud[쪞]="Wuv"
+gksdud[쪟]="Wug"
+gksdud[쪠]="WP"
+gksdud[쪡]="WPr"
+gksdud[쪢]="WPR"
+gksdud[쪣]="WPrt"
+gksdud[쪤]="WPs"
+gksdud[쪥]="WPsw"
+gksdud[쪦]="WPsg"
+gksdud[쪧]="WPe"
+gksdud[쪨]="WPf"
+gksdud[쪩]="WPfr"
+gksdud[쪪]="WPfa"
+gksdud[쪫]="WPfq"
+gksdud[쪬]="WPft"
+gksdud[쪭]="WPfx"
+gksdud[쪮]="WPfv"
+gksdud[쪯]="WPfg"
+gksdud[쪰]="WPa"
+gksdud[쪱]="WPq"
+gksdud[쪲]="WPqt"
+gksdud[쪳]="WPt"
+gksdud[쪴]="WPT"
+gksdud[쪵]="WPd"
+gksdud[쪶]="WPw"
+gksdud[쪷]="WPc"
+gksdud[쪸]="WPz"
+gksdud[쪹]="WPx"
+gksdud[쪺]="WPv"
+gksdud[쪻]="WPg"
+gksdud[쪼]="Wh"
+gksdud[쪽]="Whr"
+gksdud[쪾]="WhR"
+gksdud[쪿]="Whrt"
+gksdud[쫀]="Whs"
+gksdud[쫁]="Whsw"
+gksdud[쫂]="Whsg"
+gksdud[쫃]="Whe"
+gksdud[쫄]="Whf"
+gksdud[쫅]="Whfr"
+gksdud[쫆]="Whfa"
+gksdud[쫇]="Whfq"
+gksdud[쫈]="Whft"
+gksdud[쫉]="Whfx"
+gksdud[쫊]="Whfv"
+gksdud[쫋]="Whfg"
+gksdud[쫌]="Wha"
+gksdud[쫍]="Whq"
+gksdud[쫎]="Whqt"
+gksdud[쫏]="Wht"
+gksdud[쫐]="WhT"
+gksdud[쫑]="Whd"
+gksdud[쫒]="Whw"
+gksdud[쫓]="Whc"
+gksdud[쫔]="Whz"
+gksdud[쫕]="Whx"
+gksdud[쫖]="Whv"
+gksdud[쫗]="Whg"
+gksdud[쫘]="Whk"
+gksdud[쫙]="Whkr"
+gksdud[쫚]="WhkR"
+gksdud[쫛]="Whkrt"
+gksdud[쫜]="Whks"
+gksdud[쫝]="Whksw"
+gksdud[쫞]="Whksg"
+gksdud[쫟]="Whke"
+gksdud[쫠]="Whkf"
+gksdud[쫡]="Whkfr"
+gksdud[쫢]="Whkfa"
+gksdud[쫣]="Whkfq"
+gksdud[쫤]="Whkft"
+gksdud[쫥]="Whkfx"
+gksdud[쫦]="Whkfv"
+gksdud[쫧]="Whkfg"
+gksdud[쫨]="Whka"
+gksdud[쫩]="Whkq"
+gksdud[쫪]="Whkqt"
+gksdud[쫫]="Whkt"
+gksdud[쫬]="WhkT"
+gksdud[쫭]="Whkd"
+gksdud[쫮]="Whkw"
+gksdud[쫯]="Whkc"
+gksdud[쫰]="Whkz"
+gksdud[쫱]="Whkx"
+gksdud[쫲]="Whkv"
+gksdud[쫳]="Whkg"
+gksdud[쫴]="Who"
+gksdud[쫵]="Whor"
+gksdud[쫶]="WhoR"
+gksdud[쫷]="Whort"
+gksdud[쫸]="Whos"
+gksdud[쫹]="Whosw"
+gksdud[쫺]="Whosg"
+gksdud[쫻]="Whoe"
+gksdud[쫼]="Whof"
+gksdud[쫽]="Whofr"
+gksdud[쫾]="Whofa"
+gksdud[쫿]="Whofq"
+gksdud[쬀]="Whoft"
+gksdud[쬁]="Whofx"
+gksdud[쬂]="Whofv"
+gksdud[쬃]="Whofg"
+gksdud[쬄]="Whoa"
+gksdud[쬅]="Whoq"
+gksdud[쬆]="Whoqt"
+gksdud[쬇]="Whot"
+gksdud[쬈]="WhoT"
+gksdud[쬉]="Whod"
+gksdud[쬊]="Whow"
+gksdud[쬋]="Whoc"
+gksdud[쬌]="Whoz"
+gksdud[쬍]="Whox"
+gksdud[쬎]="Whov"
+gksdud[쬏]="Whog"
+gksdud[쬐]="Whl"
+gksdud[쬑]="Whlr"
+gksdud[쬒]="WhlR"
+gksdud[쬓]="Whlrt"
+gksdud[쬔]="Whls"
+gksdud[쬕]="Whlsw"
+gksdud[쬖]="Whlsg"
+gksdud[쬗]="Whle"
+gksdud[쬘]="Whlf"
+gksdud[쬙]="Whlfr"
+gksdud[쬚]="Whlfa"
+gksdud[쬛]="Whlfq"
+gksdud[쬜]="Whlft"
+gksdud[쬝]="Whlfx"
+gksdud[쬞]="Whlfv"
+gksdud[쬟]="Whlfg"
+gksdud[쬠]="Whla"
+gksdud[쬡]="Whlq"
+gksdud[쬢]="Whlqt"
+gksdud[쬣]="Whlt"
+gksdud[쬤]="WhlT"
+gksdud[쬥]="Whld"
+gksdud[쬦]="Whlw"
+gksdud[쬧]="Whlc"
+gksdud[쬨]="Whlz"
+gksdud[쬩]="Whlx"
+gksdud[쬪]="Whlv"
+gksdud[쬫]="Whlg"
+gksdud[쬬]="Wy"
+gksdud[쬭]="Wyr"
+gksdud[쬮]="WyR"
+gksdud[쬯]="Wyrt"
+gksdud[쬰]="Wys"
+gksdud[쬱]="Wysw"
+gksdud[쬲]="Wysg"
+gksdud[쬳]="Wye"
+gksdud[쬴]="Wyf"
+gksdud[쬵]="Wyfr"
+gksdud[쬶]="Wyfa"
+gksdud[쬷]="Wyfq"
+gksdud[쬸]="Wyft"
+gksdud[쬹]="Wyfx"
+gksdud[쬺]="Wyfv"
+gksdud[쬻]="Wyfg"
+gksdud[쬼]="Wya"
+gksdud[쬽]="Wyq"
+gksdud[쬾]="Wyqt"
+gksdud[쬿]="Wyt"
+gksdud[쭀]="WyT"
+gksdud[쭁]="Wyd"
+gksdud[쭂]="Wyw"
+gksdud[쭃]="Wyc"
+gksdud[쭄]="Wyz"
+gksdud[쭅]="Wyx"
+gksdud[쭆]="Wyv"
+gksdud[쭇]="Wyg"
+gksdud[쭈]="Wn"
+gksdud[쭉]="Wnr"
+gksdud[쭊]="WnR"
+gksdud[쭋]="Wnrt"
+gksdud[쭌]="Wns"
+gksdud[쭍]="Wnsw"
+gksdud[쭎]="Wnsg"
+gksdud[쭏]="Wne"
+gksdud[쭐]="Wnf"
+gksdud[쭑]="Wnfr"
+gksdud[쭒]="Wnfa"
+gksdud[쭓]="Wnfq"
+gksdud[쭔]="Wnft"
+gksdud[쭕]="Wnfx"
+gksdud[쭖]="Wnfv"
+gksdud[쭗]="Wnfg"
+gksdud[쭘]="Wna"
+gksdud[쭙]="Wnq"
+gksdud[쭚]="Wnqt"
+gksdud[쭛]="Wnt"
+gksdud[쭜]="WnT"
+gksdud[쭝]="Wnd"
+gksdud[쭞]="Wnw"
+gksdud[쭟]="Wnc"
+gksdud[쭠]="Wnz"
+gksdud[쭡]="Wnx"
+gksdud[쭢]="Wnv"
+gksdud[쭣]="Wng"
+gksdud[쭤]="Wnj"
+gksdud[쭥]="Wnjr"
+gksdud[쭦]="WnjR"
+gksdud[쭧]="Wnjrt"
+gksdud[쭨]="Wnjs"
+gksdud[쭩]="Wnjsw"
+gksdud[쭪]="Wnjsg"
+gksdud[쭫]="Wnje"
+gksdud[쭬]="Wnjf"
+gksdud[쭭]="Wnjfr"
+gksdud[쭮]="Wnjfa"
+gksdud[쭯]="Wnjfq"
+gksdud[쭰]="Wnjft"
+gksdud[쭱]="Wnjfx"
+gksdud[쭲]="Wnjfv"
+gksdud[쭳]="Wnjfg"
+gksdud[쭴]="Wnja"
+gksdud[쭵]="Wnjq"
+gksdud[쭶]="Wnjqt"
+gksdud[쭷]="Wnjt"
+gksdud[쭸]="WnjT"
+gksdud[쭹]="Wnjd"
+gksdud[쭺]="Wnjw"
+gksdud[쭻]="Wnjc"
+gksdud[쭼]="Wnjz"
+gksdud[쭽]="Wnjx"
+gksdud[쭾]="Wnjv"
+gksdud[쭿]="Wnjg"
+gksdud[쮀]="Wnp"
+gksdud[쮁]="Wnpr"
+gksdud[쮂]="WnpR"
+gksdud[쮃]="Wnprt"
+gksdud[쮄]="Wnps"
+gksdud[쮅]="Wnpsw"
+gksdud[쮆]="Wnpsg"
+gksdud[쮇]="Wnpe"
+gksdud[쮈]="Wnpf"
+gksdud[쮉]="Wnpfr"
+gksdud[쮊]="Wnpfa"
+gksdud[쮋]="Wnpfq"
+gksdud[쮌]="Wnpft"
+gksdud[쮍]="Wnpfx"
+gksdud[쮎]="Wnpfv"
+gksdud[쮏]="Wnpfg"
+gksdud[쮐]="Wnpa"
+gksdud[쮑]="Wnpq"
+gksdud[쮒]="Wnpqt"
+gksdud[쮓]="Wnpt"
+gksdud[쮔]="WnpT"
+gksdud[쮕]="Wnpd"
+gksdud[쮖]="Wnpw"
+gksdud[쮗]="Wnpc"
+gksdud[쮘]="Wnpz"
+gksdud[쮙]="Wnpx"
+gksdud[쮚]="Wnpv"
+gksdud[쮛]="Wnpg"
+gksdud[쮜]="Wnl"
+gksdud[쮝]="Wnlr"
+gksdud[쮞]="WnlR"
+gksdud[쮟]="Wnlrt"
+gksdud[쮠]="Wnls"
+gksdud[쮡]="Wnlsw"
+gksdud[쮢]="Wnlsg"
+gksdud[쮣]="Wnle"
+gksdud[쮤]="Wnlf"
+gksdud[쮥]="Wnlfr"
+gksdud[쮦]="Wnlfa"
+gksdud[쮧]="Wnlfq"
+gksdud[쮨]="Wnlft"
+gksdud[쮩]="Wnlfx"
+gksdud[쮪]="Wnlfv"
+gksdud[쮫]="Wnlfg"
+gksdud[쮬]="Wnla"
+gksdud[쮭]="Wnlq"
+gksdud[쮮]="Wnlqt"
+gksdud[쮯]="Wnlt"
+gksdud[쮰]="WnlT"
+gksdud[쮱]="Wnld"
+gksdud[쮲]="Wnlw"
+gksdud[쮳]="Wnlc"
+gksdud[쮴]="Wnlz"
+gksdud[쮵]="Wnlx"
+gksdud[쮶]="Wnlv"
+gksdud[쮷]="Wnlg"
+gksdud[쮸]="Wb"
+gksdud[쮹]="Wbr"
+gksdud[쮺]="WbR"
+gksdud[쮻]="Wbrt"
+gksdud[쮼]="Wbs"
+gksdud[쮽]="Wbsw"
+gksdud[쮾]="Wbsg"
+gksdud[쮿]="Wbe"
+gksdud[쯀]="Wbf"
+gksdud[쯁]="Wbfr"
+gksdud[쯂]="Wbfa"
+gksdud[쯃]="Wbfq"
+gksdud[쯄]="Wbft"
+gksdud[쯅]="Wbfx"
+gksdud[쯆]="Wbfv"
+gksdud[쯇]="Wbfg"
+gksdud[쯈]="Wba"
+gksdud[쯉]="Wbq"
+gksdud[쯊]="Wbqt"
+gksdud[쯋]="Wbt"
+gksdud[쯌]="WbT"
+gksdud[쯍]="Wbd"
+gksdud[쯎]="Wbw"
+gksdud[쯏]="Wbc"
+gksdud[쯐]="Wbz"
+gksdud[쯑]="Wbx"
+gksdud[쯒]="Wbv"
+gksdud[쯓]="Wbg"
+gksdud[쯔]="Wm"
+gksdud[쯕]="Wmr"
+gksdud[쯖]="WmR"
+gksdud[쯗]="Wmrt"
+gksdud[쯘]="Wms"
+gksdud[쯙]="Wmsw"
+gksdud[쯚]="Wmsg"
+gksdud[쯛]="Wme"
+gksdud[쯜]="Wmf"
+gksdud[쯝]="Wmfr"
+gksdud[쯞]="Wmfa"
+gksdud[쯟]="Wmfq"
+gksdud[쯠]="Wmft"
+gksdud[쯡]="Wmfx"
+gksdud[쯢]="Wmfv"
+gksdud[쯣]="Wmfg"
+gksdud[쯤]="Wma"
+gksdud[쯥]="Wmq"
+gksdud[쯦]="Wmqt"
+gksdud[쯧]="Wmt"
+gksdud[쯨]="WmT"
+gksdud[쯩]="Wmd"
+gksdud[쯪]="Wmw"
+gksdud[쯫]="Wmc"
+gksdud[쯬]="Wmz"
+gksdud[쯭]="Wmx"
+gksdud[쯮]="Wmv"
+gksdud[쯯]="Wmg"
+gksdud[쯰]="Wml"
+gksdud[쯱]="Wmlr"
+gksdud[쯲]="WmlR"
+gksdud[쯳]="Wmlrt"
+gksdud[쯴]="Wmls"
+gksdud[쯵]="Wmlsw"
+gksdud[쯶]="Wmlsg"
+gksdud[쯷]="Wmle"
+gksdud[쯸]="Wmlf"
+gksdud[쯹]="Wmlfr"
+gksdud[쯺]="Wmlfa"
+gksdud[쯻]="Wmlfq"
+gksdud[쯼]="Wmlft"
+gksdud[쯽]="Wmlfx"
+gksdud[쯾]="Wmlfv"
+gksdud[쯿]="Wmlfg"
+gksdud[찀]="Wmla"
+gksdud[찁]="Wmlq"
+gksdud[찂]="Wmlqt"
+gksdud[찃]="Wmlt"
+gksdud[찄]="WmlT"
+gksdud[찅]="Wmld"
+gksdud[찆]="Wmlw"
+gksdud[찇]="Wmlc"
+gksdud[찈]="Wmlz"
+gksdud[찉]="Wmlx"
+gksdud[찊]="Wmlv"
+gksdud[찋]="Wmlg"
+gksdud[찌]="Wl"
+gksdud[찍]="Wlr"
+gksdud[찎]="WlR"
+gksdud[찏]="Wlrt"
+gksdud[찐]="Wls"
+gksdud[찑]="Wlsw"
+gksdud[찒]="Wlsg"
+gksdud[찓]="Wle"
+gksdud[찔]="Wlf"
+gksdud[찕]="Wlfr"
+gksdud[찖]="Wlfa"
+gksdud[찗]="Wlfq"
+gksdud[찘]="Wlft"
+gksdud[찙]="Wlfx"
+gksdud[찚]="Wlfv"
+gksdud[찛]="Wlfg"
+gksdud[찜]="Wla"
+gksdud[찝]="Wlq"
+gksdud[찞]="Wlqt"
+gksdud[찟]="Wlt"
+gksdud[찠]="WlT"
+gksdud[찡]="Wld"
+gksdud[찢]="Wlw"
+gksdud[찣]="Wlc"
+gksdud[찤]="Wlz"
+gksdud[찥]="Wlx"
+gksdud[찦]="Wlv"
+gksdud[찧]="Wlg"
+gksdud[차]="ck"
+gksdud[착]="ckr"
+gksdud[찪]="ckR"
+gksdud[찫]="ckrt"
+gksdud[찬]="cks"
+gksdud[찭]="cksw"
+gksdud[찮]="cksg"
+gksdud[찯]="cke"
+gksdud[찰]="ckf"
+gksdud[찱]="ckfr"
+gksdud[찲]="ckfa"
+gksdud[찳]="ckfq"
+gksdud[찴]="ckft"
+gksdud[찵]="ckfx"
+gksdud[찶]="ckfv"
+gksdud[찷]="ckfg"
+gksdud[참]="cka"
+gksdud[찹]="ckq"
+gksdud[찺]="ckqt"
+gksdud[찻]="ckt"
+gksdud[찼]="ckT"
+gksdud[창]="ckd"
+gksdud[찾]="ckw"
+gksdud[찿]="ckc"
+gksdud[챀]="ckz"
+gksdud[챁]="ckx"
+gksdud[챂]="ckv"
+gksdud[챃]="ckg"
+gksdud[채]="co"
+gksdud[책]="cor"
+gksdud[챆]="coR"
+gksdud[챇]="cort"
+gksdud[챈]="cos"
+gksdud[챉]="cosw"
+gksdud[챊]="cosg"
+gksdud[챋]="coe"
+gksdud[챌]="cof"
+gksdud[챍]="cofr"
+gksdud[챎]="cofa"
+gksdud[챏]="cofq"
+gksdud[챐]="coft"
+gksdud[챑]="cofx"
+gksdud[챒]="cofv"
+gksdud[챓]="cofg"
+gksdud[챔]="coa"
+gksdud[챕]="coq"
+gksdud[챖]="coqt"
+gksdud[챗]="cot"
+gksdud[챘]="coT"
+gksdud[챙]="cod"
+gksdud[챚]="cow"
+gksdud[챛]="coc"
+gksdud[챜]="coz"
+gksdud[챝]="cox"
+gksdud[챞]="cov"
+gksdud[챟]="cog"
+gksdud[챠]="ci"
+gksdud[챡]="cir"
+gksdud[챢]="ciR"
+gksdud[챣]="cirt"
+gksdud[챤]="cis"
+gksdud[챥]="cisw"
+gksdud[챦]="cisg"
+gksdud[챧]="cie"
+gksdud[챨]="cif"
+gksdud[챩]="cifr"
+gksdud[챪]="cifa"
+gksdud[챫]="cifq"
+gksdud[챬]="cift"
+gksdud[챭]="cifx"
+gksdud[챮]="cifv"
+gksdud[챯]="cifg"
+gksdud[챰]="cia"
+gksdud[챱]="ciq"
+gksdud[챲]="ciqt"
+gksdud[챳]="cit"
+gksdud[챴]="ciT"
+gksdud[챵]="cid"
+gksdud[챶]="ciw"
+gksdud[챷]="cic"
+gksdud[챸]="ciz"
+gksdud[챹]="cix"
+gksdud[챺]="civ"
+gksdud[챻]="cig"
+gksdud[챼]="cO"
+gksdud[챽]="cOr"
+gksdud[챾]="cOR"
+gksdud[챿]="cOrt"
+gksdud[첀]="cOs"
+gksdud[첁]="cOsw"
+gksdud[첂]="cOsg"
+gksdud[첃]="cOe"
+gksdud[첄]="cOf"
+gksdud[첅]="cOfr"
+gksdud[첆]="cOfa"
+gksdud[첇]="cOfq"
+gksdud[첈]="cOft"
+gksdud[첉]="cOfx"
+gksdud[첊]="cOfv"
+gksdud[첋]="cOfg"
+gksdud[첌]="cOa"
+gksdud[첍]="cOq"
+gksdud[첎]="cOqt"
+gksdud[첏]="cOt"
+gksdud[첐]="cOT"
+gksdud[첑]="cOd"
+gksdud[첒]="cOw"
+gksdud[첓]="cOc"
+gksdud[첔]="cOz"
+gksdud[첕]="cOx"
+gksdud[첖]="cOv"
+gksdud[첗]="cOg"
+gksdud[처]="cj"
+gksdud[척]="cjr"
+gksdud[첚]="cjR"
+gksdud[첛]="cjrt"
+gksdud[천]="cjs"
+gksdud[첝]="cjsw"
+gksdud[첞]="cjsg"
+gksdud[첟]="cje"
+gksdud[철]="cjf"
+gksdud[첡]="cjfr"
+gksdud[첢]="cjfa"
+gksdud[첣]="cjfq"
+gksdud[첤]="cjft"
+gksdud[첥]="cjfx"
+gksdud[첦]="cjfv"
+gksdud[첧]="cjfg"
+gksdud[첨]="cja"
+gksdud[첩]="cjq"
+gksdud[첪]="cjqt"
+gksdud[첫]="cjt"
+gksdud[첬]="cjT"
+gksdud[청]="cjd"
+gksdud[첮]="cjw"
+gksdud[첯]="cjc"
+gksdud[첰]="cjz"
+gksdud[첱]="cjx"
+gksdud[첲]="cjv"
+gksdud[첳]="cjg"
+gksdud[체]="cp"
+gksdud[첵]="cpr"
+gksdud[첶]="cpR"
+gksdud[첷]="cprt"
+gksdud[첸]="cps"
+gksdud[첹]="cpsw"
+gksdud[첺]="cpsg"
+gksdud[첻]="cpe"
+gksdud[첼]="cpf"
+gksdud[첽]="cpfr"
+gksdud[첾]="cpfa"
+gksdud[첿]="cpfq"
+gksdud[쳀]="cpft"
+gksdud[쳁]="cpfx"
+gksdud[쳂]="cpfv"
+gksdud[쳃]="cpfg"
+gksdud[쳄]="cpa"
+gksdud[쳅]="cpq"
+gksdud[쳆]="cpqt"
+gksdud[쳇]="cpt"
+gksdud[쳈]="cpT"
+gksdud[쳉]="cpd"
+gksdud[쳊]="cpw"
+gksdud[쳋]="cpc"
+gksdud[쳌]="cpz"
+gksdud[쳍]="cpx"
+gksdud[쳎]="cpv"
+gksdud[쳏]="cpg"
+gksdud[쳐]="cu"
+gksdud[쳑]="cur"
+gksdud[쳒]="cuR"
+gksdud[쳓]="curt"
+gksdud[쳔]="cus"
+gksdud[쳕]="cusw"
+gksdud[쳖]="cusg"
+gksdud[쳗]="cue"
+gksdud[쳘]="cuf"
+gksdud[쳙]="cufr"
+gksdud[쳚]="cufa"
+gksdud[쳛]="cufq"
+gksdud[쳜]="cuft"
+gksdud[쳝]="cufx"
+gksdud[쳞]="cufv"
+gksdud[쳟]="cufg"
+gksdud[쳠]="cua"
+gksdud[쳡]="cuq"
+gksdud[쳢]="cuqt"
+gksdud[쳣]="cut"
+gksdud[쳤]="cuT"
+gksdud[쳥]="cud"
+gksdud[쳦]="cuw"
+gksdud[쳧]="cuc"
+gksdud[쳨]="cuz"
+gksdud[쳩]="cux"
+gksdud[쳪]="cuv"
+gksdud[쳫]="cug"
+gksdud[쳬]="cP"
+gksdud[쳭]="cPr"
+gksdud[쳮]="cPR"
+gksdud[쳯]="cPrt"
+gksdud[쳰]="cPs"
+gksdud[쳱]="cPsw"
+gksdud[쳲]="cPsg"
+gksdud[쳳]="cPe"
+gksdud[쳴]="cPf"
+gksdud[쳵]="cPfr"
+gksdud[쳶]="cPfa"
+gksdud[쳷]="cPfq"
+gksdud[쳸]="cPft"
+gksdud[쳹]="cPfx"
+gksdud[쳺]="cPfv"
+gksdud[쳻]="cPfg"
+gksdud[쳼]="cPa"
+gksdud[쳽]="cPq"
+gksdud[쳾]="cPqt"
+gksdud[쳿]="cPt"
+gksdud[촀]="cPT"
+gksdud[촁]="cPd"
+gksdud[촂]="cPw"
+gksdud[촃]="cPc"
+gksdud[촄]="cPz"
+gksdud[촅]="cPx"
+gksdud[촆]="cPv"
+gksdud[촇]="cPg"
+gksdud[초]="ch"
+gksdud[촉]="chr"
+gksdud[촊]="chR"
+gksdud[촋]="chrt"
+gksdud[촌]="chs"
+gksdud[촍]="chsw"
+gksdud[촎]="chsg"
+gksdud[촏]="che"
+gksdud[촐]="chf"
+gksdud[촑]="chfr"
+gksdud[촒]="chfa"
+gksdud[촓]="chfq"
+gksdud[촔]="chft"
+gksdud[촕]="chfx"
+gksdud[촖]="chfv"
+gksdud[촗]="chfg"
+gksdud[촘]="cha"
+gksdud[촙]="chq"
+gksdud[촚]="chqt"
+gksdud[촛]="cht"
+gksdud[촜]="chT"
+gksdud[총]="chd"
+gksdud[촞]="chw"
+gksdud[촟]="chc"
+gksdud[촠]="chz"
+gksdud[촡]="chx"
+gksdud[촢]="chv"
+gksdud[촣]="chg"
+gksdud[촤]="chk"
+gksdud[촥]="chkr"
+gksdud[촦]="chkR"
+gksdud[촧]="chkrt"
+gksdud[촨]="chks"
+gksdud[촩]="chksw"
+gksdud[촪]="chksg"
+gksdud[촫]="chke"
+gksdud[촬]="chkf"
+gksdud[촭]="chkfr"
+gksdud[촮]="chkfa"
+gksdud[촯]="chkfq"
+gksdud[촰]="chkft"
+gksdud[촱]="chkfx"
+gksdud[촲]="chkfv"
+gksdud[촳]="chkfg"
+gksdud[촴]="chka"
+gksdud[촵]="chkq"
+gksdud[촶]="chkqt"
+gksdud[촷]="chkt"
+gksdud[촸]="chkT"
+gksdud[촹]="chkd"
+gksdud[촺]="chkw"
+gksdud[촻]="chkc"
+gksdud[촼]="chkz"
+gksdud[촽]="chkx"
+gksdud[촾]="chkv"
+gksdud[촿]="chkg"
+gksdud[쵀]="cho"
+gksdud[쵁]="chor"
+gksdud[쵂]="choR"
+gksdud[쵃]="chort"
+gksdud[쵄]="chos"
+gksdud[쵅]="chosw"
+gksdud[쵆]="chosg"
+gksdud[쵇]="choe"
+gksdud[쵈]="chof"
+gksdud[쵉]="chofr"
+gksdud[쵊]="chofa"
+gksdud[쵋]="chofq"
+gksdud[쵌]="choft"
+gksdud[쵍]="chofx"
+gksdud[쵎]="chofv"
+gksdud[쵏]="chofg"
+gksdud[쵐]="choa"
+gksdud[쵑]="choq"
+gksdud[쵒]="choqt"
+gksdud[쵓]="chot"
+gksdud[쵔]="choT"
+gksdud[쵕]="chod"
+gksdud[쵖]="chow"
+gksdud[쵗]="choc"
+gksdud[쵘]="choz"
+gksdud[쵙]="chox"
+gksdud[쵚]="chov"
+gksdud[쵛]="chog"
+gksdud[최]="chl"
+gksdud[쵝]="chlr"
+gksdud[쵞]="chlR"
+gksdud[쵟]="chlrt"
+gksdud[쵠]="chls"
+gksdud[쵡]="chlsw"
+gksdud[쵢]="chlsg"
+gksdud[쵣]="chle"
+gksdud[쵤]="chlf"
+gksdud[쵥]="chlfr"
+gksdud[쵦]="chlfa"
+gksdud[쵧]="chlfq"
+gksdud[쵨]="chlft"
+gksdud[쵩]="chlfx"
+gksdud[쵪]="chlfv"
+gksdud[쵫]="chlfg"
+gksdud[쵬]="chla"
+gksdud[쵭]="chlq"
+gksdud[쵮]="chlqt"
+gksdud[쵯]="chlt"
+gksdud[쵰]="chlT"
+gksdud[쵱]="chld"
+gksdud[쵲]="chlw"
+gksdud[쵳]="chlc"
+gksdud[쵴]="chlz"
+gksdud[쵵]="chlx"
+gksdud[쵶]="chlv"
+gksdud[쵷]="chlg"
+gksdud[쵸]="cy"
+gksdud[쵹]="cyr"
+gksdud[쵺]="cyR"
+gksdud[쵻]="cyrt"
+gksdud[쵼]="cys"
+gksdud[쵽]="cysw"
+gksdud[쵾]="cysg"
+gksdud[쵿]="cye"
+gksdud[춀]="cyf"
+gksdud[춁]="cyfr"
+gksdud[춂]="cyfa"
+gksdud[춃]="cyfq"
+gksdud[춄]="cyft"
+gksdud[춅]="cyfx"
+gksdud[춆]="cyfv"
+gksdud[춇]="cyfg"
+gksdud[춈]="cya"
+gksdud[춉]="cyq"
+gksdud[춊]="cyqt"
+gksdud[춋]="cyt"
+gksdud[춌]="cyT"
+gksdud[춍]="cyd"
+gksdud[춎]="cyw"
+gksdud[춏]="cyc"
+gksdud[춐]="cyz"
+gksdud[춑]="cyx"
+gksdud[춒]="cyv"
+gksdud[춓]="cyg"
+gksdud[추]="cn"
+gksdud[축]="cnr"
+gksdud[춖]="cnR"
+gksdud[춗]="cnrt"
+gksdud[춘]="cns"
+gksdud[춙]="cnsw"
+gksdud[춚]="cnsg"
+gksdud[춛]="cne"
+gksdud[출]="cnf"
+gksdud[춝]="cnfr"
+gksdud[춞]="cnfa"
+gksdud[춟]="cnfq"
+gksdud[춠]="cnft"
+gksdud[춡]="cnfx"
+gksdud[춢]="cnfv"
+gksdud[춣]="cnfg"
+gksdud[춤]="cna"
+gksdud[춥]="cnq"
+gksdud[춦]="cnqt"
+gksdud[춧]="cnt"
+gksdud[춨]="cnT"
+gksdud[충]="cnd"
+gksdud[춪]="cnw"
+gksdud[춫]="cnc"
+gksdud[춬]="cnz"
+gksdud[춭]="cnx"
+gksdud[춮]="cnv"
+gksdud[춯]="cng"
+gksdud[춰]="cnj"
+gksdud[춱]="cnjr"
+gksdud[춲]="cnjR"
+gksdud[춳]="cnjrt"
+gksdud[춴]="cnjs"
+gksdud[춵]="cnjsw"
+gksdud[춶]="cnjsg"
+gksdud[춷]="cnje"
+gksdud[춸]="cnjf"
+gksdud[춹]="cnjfr"
+gksdud[춺]="cnjfa"
+gksdud[춻]="cnjfq"
+gksdud[춼]="cnjft"
+gksdud[춽]="cnjfx"
+gksdud[춾]="cnjfv"
+gksdud[춿]="cnjfg"
+gksdud[췀]="cnja"
+gksdud[췁]="cnjq"
+gksdud[췂]="cnjqt"
+gksdud[췃]="cnjt"
+gksdud[췄]="cnjT"
+gksdud[췅]="cnjd"
+gksdud[췆]="cnjw"
+gksdud[췇]="cnjc"
+gksdud[췈]="cnjz"
+gksdud[췉]="cnjx"
+gksdud[췊]="cnjv"
+gksdud[췋]="cnjg"
+gksdud[췌]="cnp"
+gksdud[췍]="cnpr"
+gksdud[췎]="cnpR"
+gksdud[췏]="cnprt"
+gksdud[췐]="cnps"
+gksdud[췑]="cnpsw"
+gksdud[췒]="cnpsg"
+gksdud[췓]="cnpe"
+gksdud[췔]="cnpf"
+gksdud[췕]="cnpfr"
+gksdud[췖]="cnpfa"
+gksdud[췗]="cnpfq"
+gksdud[췘]="cnpft"
+gksdud[췙]="cnpfx"
+gksdud[췚]="cnpfv"
+gksdud[췛]="cnpfg"
+gksdud[췜]="cnpa"
+gksdud[췝]="cnpq"
+gksdud[췞]="cnpqt"
+gksdud[췟]="cnpt"
+gksdud[췠]="cnpT"
+gksdud[췡]="cnpd"
+gksdud[췢]="cnpw"
+gksdud[췣]="cnpc"
+gksdud[췤]="cnpz"
+gksdud[췥]="cnpx"
+gksdud[췦]="cnpv"
+gksdud[췧]="cnpg"
+gksdud[취]="cnl"
+gksdud[췩]="cnlr"
+gksdud[췪]="cnlR"
+gksdud[췫]="cnlrt"
+gksdud[췬]="cnls"
+gksdud[췭]="cnlsw"
+gksdud[췮]="cnlsg"
+gksdud[췯]="cnle"
+gksdud[췰]="cnlf"
+gksdud[췱]="cnlfr"
+gksdud[췲]="cnlfa"
+gksdud[췳]="cnlfq"
+gksdud[췴]="cnlft"
+gksdud[췵]="cnlfx"
+gksdud[췶]="cnlfv"
+gksdud[췷]="cnlfg"
+gksdud[췸]="cnla"
+gksdud[췹]="cnlq"
+gksdud[췺]="cnlqt"
+gksdud[췻]="cnlt"
+gksdud[췼]="cnlT"
+gksdud[췽]="cnld"
+gksdud[췾]="cnlw"
+gksdud[췿]="cnlc"
+gksdud[츀]="cnlz"
+gksdud[츁]="cnlx"
+gksdud[츂]="cnlv"
+gksdud[츃]="cnlg"
+gksdud[츄]="cb"
+gksdud[츅]="cbr"
+gksdud[츆]="cbR"
+gksdud[츇]="cbrt"
+gksdud[츈]="cbs"
+gksdud[츉]="cbsw"
+gksdud[츊]="cbsg"
+gksdud[츋]="cbe"
+gksdud[츌]="cbf"
+gksdud[츍]="cbfr"
+gksdud[츎]="cbfa"
+gksdud[츏]="cbfq"
+gksdud[츐]="cbft"
+gksdud[츑]="cbfx"
+gksdud[츒]="cbfv"
+gksdud[츓]="cbfg"
+gksdud[츔]="cba"
+gksdud[츕]="cbq"
+gksdud[츖]="cbqt"
+gksdud[츗]="cbt"
+gksdud[츘]="cbT"
+gksdud[츙]="cbd"
+gksdud[츚]="cbw"
+gksdud[츛]="cbc"
+gksdud[츜]="cbz"
+gksdud[츝]="cbx"
+gksdud[츞]="cbv"
+gksdud[츟]="cbg"
+gksdud[츠]="cm"
+gksdud[측]="cmr"
+gksdud[츢]="cmR"
+gksdud[츣]="cmrt"
+gksdud[츤]="cms"
+gksdud[츥]="cmsw"
+gksdud[츦]="cmsg"
+gksdud[츧]="cme"
+gksdud[츨]="cmf"
+gksdud[츩]="cmfr"
+gksdud[츪]="cmfa"
+gksdud[츫]="cmfq"
+gksdud[츬]="cmft"
+gksdud[츭]="cmfx"
+gksdud[츮]="cmfv"
+gksdud[츯]="cmfg"
+gksdud[츰]="cma"
+gksdud[츱]="cmq"
+gksdud[츲]="cmqt"
+gksdud[츳]="cmt"
+gksdud[츴]="cmT"
+gksdud[층]="cmd"
+gksdud[츶]="cmw"
+gksdud[츷]="cmc"
+gksdud[츸]="cmz"
+gksdud[츹]="cmx"
+gksdud[츺]="cmv"
+gksdud[츻]="cmg"
+gksdud[츼]="cml"
+gksdud[츽]="cmlr"
+gksdud[츾]="cmlR"
+gksdud[츿]="cmlrt"
+gksdud[칀]="cmls"
+gksdud[칁]="cmlsw"
+gksdud[칂]="cmlsg"
+gksdud[칃]="cmle"
+gksdud[칄]="cmlf"
+gksdud[칅]="cmlfr"
+gksdud[칆]="cmlfa"
+gksdud[칇]="cmlfq"
+gksdud[칈]="cmlft"
+gksdud[칉]="cmlfx"
+gksdud[칊]="cmlfv"
+gksdud[칋]="cmlfg"
+gksdud[칌]="cmla"
+gksdud[칍]="cmlq"
+gksdud[칎]="cmlqt"
+gksdud[칏]="cmlt"
+gksdud[칐]="cmlT"
+gksdud[칑]="cmld"
+gksdud[칒]="cmlw"
+gksdud[칓]="cmlc"
+gksdud[칔]="cmlz"
+gksdud[칕]="cmlx"
+gksdud[칖]="cmlv"
+gksdud[칗]="cmlg"
+gksdud[치]="cl"
+gksdud[칙]="clr"
+gksdud[칚]="clR"
+gksdud[칛]="clrt"
+gksdud[친]="cls"
+gksdud[칝]="clsw"
+gksdud[칞]="clsg"
+gksdud[칟]="cle"
+gksdud[칠]="clf"
+gksdud[칡]="clfr"
+gksdud[칢]="clfa"
+gksdud[칣]="clfq"
+gksdud[칤]="clft"
+gksdud[칥]="clfx"
+gksdud[칦]="clfv"
+gksdud[칧]="clfg"
+gksdud[침]="cla"
+gksdud[칩]="clq"
+gksdud[칪]="clqt"
+gksdud[칫]="clt"
+gksdud[칬]="clT"
+gksdud[칭]="cld"
+gksdud[칮]="clw"
+gksdud[칯]="clc"
+gksdud[칰]="clz"
+gksdud[칱]="clx"
+gksdud[칲]="clv"
+gksdud[칳]="clg"
+gksdud[카]="zk"
+gksdud[칵]="zkr"
+gksdud[칶]="zkR"
+gksdud[칷]="zkrt"
+gksdud[칸]="zks"
+gksdud[칹]="zksw"
+gksdud[칺]="zksg"
+gksdud[칻]="zke"
+gksdud[칼]="zkf"
+gksdud[칽]="zkfr"
+gksdud[칾]="zkfa"
+gksdud[칿]="zkfq"
+gksdud[캀]="zkft"
+gksdud[캁]="zkfx"
+gksdud[캂]="zkfv"
+gksdud[캃]="zkfg"
+gksdud[캄]="zka"
+gksdud[캅]="zkq"
+gksdud[캆]="zkqt"
+gksdud[캇]="zkt"
+gksdud[캈]="zkT"
+gksdud[캉]="zkd"
+gksdud[캊]="zkw"
+gksdud[캋]="zkc"
+gksdud[캌]="zkz"
+gksdud[캍]="zkx"
+gksdud[캎]="zkv"
+gksdud[캏]="zkg"
+gksdud[캐]="zo"
+gksdud[캑]="zor"
+gksdud[캒]="zoR"
+gksdud[캓]="zort"
+gksdud[캔]="zos"
+gksdud[캕]="zosw"
+gksdud[캖]="zosg"
+gksdud[캗]="zoe"
+gksdud[캘]="zof"
+gksdud[캙]="zofr"
+gksdud[캚]="zofa"
+gksdud[캛]="zofq"
+gksdud[캜]="zoft"
+gksdud[캝]="zofx"
+gksdud[캞]="zofv"
+gksdud[캟]="zofg"
+gksdud[캠]="zoa"
+gksdud[캡]="zoq"
+gksdud[캢]="zoqt"
+gksdud[캣]="zot"
+gksdud[캤]="zoT"
+gksdud[캥]="zod"
+gksdud[캦]="zow"
+gksdud[캧]="zoc"
+gksdud[캨]="zoz"
+gksdud[캩]="zox"
+gksdud[캪]="zov"
+gksdud[캫]="zog"
+gksdud[캬]="zi"
+gksdud[캭]="zir"
+gksdud[캮]="ziR"
+gksdud[캯]="zirt"
+gksdud[캰]="zis"
+gksdud[캱]="zisw"
+gksdud[캲]="zisg"
+gksdud[캳]="zie"
+gksdud[캴]="zif"
+gksdud[캵]="zifr"
+gksdud[캶]="zifa"
+gksdud[캷]="zifq"
+gksdud[캸]="zift"
+gksdud[캹]="zifx"
+gksdud[캺]="zifv"
+gksdud[캻]="zifg"
+gksdud[캼]="zia"
+gksdud[캽]="ziq"
+gksdud[캾]="ziqt"
+gksdud[캿]="zit"
+gksdud[컀]="ziT"
+gksdud[컁]="zid"
+gksdud[컂]="ziw"
+gksdud[컃]="zic"
+gksdud[컄]="ziz"
+gksdud[컅]="zix"
+gksdud[컆]="ziv"
+gksdud[컇]="zig"
+gksdud[컈]="zO"
+gksdud[컉]="zOr"
+gksdud[컊]="zOR"
+gksdud[컋]="zOrt"
+gksdud[컌]="zOs"
+gksdud[컍]="zOsw"
+gksdud[컎]="zOsg"
+gksdud[컏]="zOe"
+gksdud[컐]="zOf"
+gksdud[컑]="zOfr"
+gksdud[컒]="zOfa"
+gksdud[컓]="zOfq"
+gksdud[컔]="zOft"
+gksdud[컕]="zOfx"
+gksdud[컖]="zOfv"
+gksdud[컗]="zOfg"
+gksdud[컘]="zOa"
+gksdud[컙]="zOq"
+gksdud[컚]="zOqt"
+gksdud[컛]="zOt"
+gksdud[컜]="zOT"
+gksdud[컝]="zOd"
+gksdud[컞]="zOw"
+gksdud[컟]="zOc"
+gksdud[컠]="zOz"
+gksdud[컡]="zOx"
+gksdud[컢]="zOv"
+gksdud[컣]="zOg"
+gksdud[커]="zj"
+gksdud[컥]="zjr"
+gksdud[컦]="zjR"
+gksdud[컧]="zjrt"
+gksdud[컨]="zjs"
+gksdud[컩]="zjsw"
+gksdud[컪]="zjsg"
+gksdud[컫]="zje"
+gksdud[컬]="zjf"
+gksdud[컭]="zjfr"
+gksdud[컮]="zjfa"
+gksdud[컯]="zjfq"
+gksdud[컰]="zjft"
+gksdud[컱]="zjfx"
+gksdud[컲]="zjfv"
+gksdud[컳]="zjfg"
+gksdud[컴]="zja"
+gksdud[컵]="zjq"
+gksdud[컶]="zjqt"
+gksdud[컷]="zjt"
+gksdud[컸]="zjT"
+gksdud[컹]="zjd"
+gksdud[컺]="zjw"
+gksdud[컻]="zjc"
+gksdud[컼]="zjz"
+gksdud[컽]="zjx"
+gksdud[컾]="zjv"
+gksdud[컿]="zjg"
+gksdud[케]="zp"
+gksdud[켁]="zpr"
+gksdud[켂]="zpR"
+gksdud[켃]="zprt"
+gksdud[켄]="zps"
+gksdud[켅]="zpsw"
+gksdud[켆]="zpsg"
+gksdud[켇]="zpe"
+gksdud[켈]="zpf"
+gksdud[켉]="zpfr"
+gksdud[켊]="zpfa"
+gksdud[켋]="zpfq"
+gksdud[켌]="zpft"
+gksdud[켍]="zpfx"
+gksdud[켎]="zpfv"
+gksdud[켏]="zpfg"
+gksdud[켐]="zpa"
+gksdud[켑]="zpq"
+gksdud[켒]="zpqt"
+gksdud[켓]="zpt"
+gksdud[켔]="zpT"
+gksdud[켕]="zpd"
+gksdud[켖]="zpw"
+gksdud[켗]="zpc"
+gksdud[켘]="zpz"
+gksdud[켙]="zpx"
+gksdud[켚]="zpv"
+gksdud[켛]="zpg"
+gksdud[켜]="zu"
+gksdud[켝]="zur"
+gksdud[켞]="zuR"
+gksdud[켟]="zurt"
+gksdud[켠]="zus"
+gksdud[켡]="zusw"
+gksdud[켢]="zusg"
+gksdud[켣]="zue"
+gksdud[켤]="zuf"
+gksdud[켥]="zufr"
+gksdud[켦]="zufa"
+gksdud[켧]="zufq"
+gksdud[켨]="zuft"
+gksdud[켩]="zufx"
+gksdud[켪]="zufv"
+gksdud[켫]="zufg"
+gksdud[켬]="zua"
+gksdud[켭]="zuq"
+gksdud[켮]="zuqt"
+gksdud[켯]="zut"
+gksdud[켰]="zuT"
+gksdud[켱]="zud"
+gksdud[켲]="zuw"
+gksdud[켳]="zuc"
+gksdud[켴]="zuz"
+gksdud[켵]="zux"
+gksdud[켶]="zuv"
+gksdud[켷]="zug"
+gksdud[켸]="zP"
+gksdud[켹]="zPr"
+gksdud[켺]="zPR"
+gksdud[켻]="zPrt"
+gksdud[켼]="zPs"
+gksdud[켽]="zPsw"
+gksdud[켾]="zPsg"
+gksdud[켿]="zPe"
+gksdud[콀]="zPf"
+gksdud[콁]="zPfr"
+gksdud[콂]="zPfa"
+gksdud[콃]="zPfq"
+gksdud[콄]="zPft"
+gksdud[콅]="zPfx"
+gksdud[콆]="zPfv"
+gksdud[콇]="zPfg"
+gksdud[콈]="zPa"
+gksdud[콉]="zPq"
+gksdud[콊]="zPqt"
+gksdud[콋]="zPt"
+gksdud[콌]="zPT"
+gksdud[콍]="zPd"
+gksdud[콎]="zPw"
+gksdud[콏]="zPc"
+gksdud[콐]="zPz"
+gksdud[콑]="zPx"
+gksdud[콒]="zPv"
+gksdud[콓]="zPg"
+gksdud[코]="zh"
+gksdud[콕]="zhr"
+gksdud[콖]="zhR"
+gksdud[콗]="zhrt"
+gksdud[콘]="zhs"
+gksdud[콙]="zhsw"
+gksdud[콚]="zhsg"
+gksdud[콛]="zhe"
+gksdud[콜]="zhf"
+gksdud[콝]="zhfr"
+gksdud[콞]="zhfa"
+gksdud[콟]="zhfq"
+gksdud[콠]="zhft"
+gksdud[콡]="zhfx"
+gksdud[콢]="zhfv"
+gksdud[콣]="zhfg"
+gksdud[콤]="zha"
+gksdud[콥]="zhq"
+gksdud[콦]="zhqt"
+gksdud[콧]="zht"
+gksdud[콨]="zhT"
+gksdud[콩]="zhd"
+gksdud[콪]="zhw"
+gksdud[콫]="zhc"
+gksdud[콬]="zhz"
+gksdud[콭]="zhx"
+gksdud[콮]="zhv"
+gksdud[콯]="zhg"
+gksdud[콰]="zhk"
+gksdud[콱]="zhkr"
+gksdud[콲]="zhkR"
+gksdud[콳]="zhkrt"
+gksdud[콴]="zhks"
+gksdud[콵]="zhksw"
+gksdud[콶]="zhksg"
+gksdud[콷]="zhke"
+gksdud[콸]="zhkf"
+gksdud[콹]="zhkfr"
+gksdud[콺]="zhkfa"
+gksdud[콻]="zhkfq"
+gksdud[콼]="zhkft"
+gksdud[콽]="zhkfx"
+gksdud[콾]="zhkfv"
+gksdud[콿]="zhkfg"
+gksdud[쾀]="zhka"
+gksdud[쾁]="zhkq"
+gksdud[쾂]="zhkqt"
+gksdud[쾃]="zhkt"
+gksdud[쾄]="zhkT"
+gksdud[쾅]="zhkd"
+gksdud[쾆]="zhkw"
+gksdud[쾇]="zhkc"
+gksdud[쾈]="zhkz"
+gksdud[쾉]="zhkx"
+gksdud[쾊]="zhkv"
+gksdud[쾋]="zhkg"
+gksdud[쾌]="zho"
+gksdud[쾍]="zhor"
+gksdud[쾎]="zhoR"
+gksdud[쾏]="zhort"
+gksdud[쾐]="zhos"
+gksdud[쾑]="zhosw"
+gksdud[쾒]="zhosg"
+gksdud[쾓]="zhoe"
+gksdud[쾔]="zhof"
+gksdud[쾕]="zhofr"
+gksdud[쾖]="zhofa"
+gksdud[쾗]="zhofq"
+gksdud[쾘]="zhoft"
+gksdud[쾙]="zhofx"
+gksdud[쾚]="zhofv"
+gksdud[쾛]="zhofg"
+gksdud[쾜]="zhoa"
+gksdud[쾝]="zhoq"
+gksdud[쾞]="zhoqt"
+gksdud[쾟]="zhot"
+gksdud[쾠]="zhoT"
+gksdud[쾡]="zhod"
+gksdud[쾢]="zhow"
+gksdud[쾣]="zhoc"
+gksdud[쾤]="zhoz"
+gksdud[쾥]="zhox"
+gksdud[쾦]="zhov"
+gksdud[쾧]="zhog"
+gksdud[쾨]="zhl"
+gksdud[쾩]="zhlr"
+gksdud[쾪]="zhlR"
+gksdud[쾫]="zhlrt"
+gksdud[쾬]="zhls"
+gksdud[쾭]="zhlsw"
+gksdud[쾮]="zhlsg"
+gksdud[쾯]="zhle"
+gksdud[쾰]="zhlf"
+gksdud[쾱]="zhlfr"
+gksdud[쾲]="zhlfa"
+gksdud[쾳]="zhlfq"
+gksdud[쾴]="zhlft"
+gksdud[쾵]="zhlfx"
+gksdud[쾶]="zhlfv"
+gksdud[쾷]="zhlfg"
+gksdud[쾸]="zhla"
+gksdud[쾹]="zhlq"
+gksdud[쾺]="zhlqt"
+gksdud[쾻]="zhlt"
+gksdud[쾼]="zhlT"
+gksdud[쾽]="zhld"
+gksdud[쾾]="zhlw"
+gksdud[쾿]="zhlc"
+gksdud[쿀]="zhlz"
+gksdud[쿁]="zhlx"
+gksdud[쿂]="zhlv"
+gksdud[쿃]="zhlg"
+gksdud[쿄]="zy"
+gksdud[쿅]="zyr"
+gksdud[쿆]="zyR"
+gksdud[쿇]="zyrt"
+gksdud[쿈]="zys"
+gksdud[쿉]="zysw"
+gksdud[쿊]="zysg"
+gksdud[쿋]="zye"
+gksdud[쿌]="zyf"
+gksdud[쿍]="zyfr"
+gksdud[쿎]="zyfa"
+gksdud[쿏]="zyfq"
+gksdud[쿐]="zyft"
+gksdud[쿑]="zyfx"
+gksdud[쿒]="zyfv"
+gksdud[쿓]="zyfg"
+gksdud[쿔]="zya"
+gksdud[쿕]="zyq"
+gksdud[쿖]="zyqt"
+gksdud[쿗]="zyt"
+gksdud[쿘]="zyT"
+gksdud[쿙]="zyd"
+gksdud[쿚]="zyw"
+gksdud[쿛]="zyc"
+gksdud[쿜]="zyz"
+gksdud[쿝]="zyx"
+gksdud[쿞]="zyv"
+gksdud[쿟]="zyg"
+gksdud[쿠]="zn"
+gksdud[쿡]="znr"
+gksdud[쿢]="znR"
+gksdud[쿣]="znrt"
+gksdud[쿤]="zns"
+gksdud[쿥]="znsw"
+gksdud[쿦]="znsg"
+gksdud[쿧]="zne"
+gksdud[쿨]="znf"
+gksdud[쿩]="znfr"
+gksdud[쿪]="znfa"
+gksdud[쿫]="znfq"
+gksdud[쿬]="znft"
+gksdud[쿭]="znfx"
+gksdud[쿮]="znfv"
+gksdud[쿯]="znfg"
+gksdud[쿰]="zna"
+gksdud[쿱]="znq"
+gksdud[쿲]="znqt"
+gksdud[쿳]="znt"
+gksdud[쿴]="znT"
+gksdud[쿵]="znd"
+gksdud[쿶]="znw"
+gksdud[쿷]="znc"
+gksdud[쿸]="znz"
+gksdud[쿹]="znx"
+gksdud[쿺]="znv"
+gksdud[쿻]="zng"
+gksdud[쿼]="znj"
+gksdud[쿽]="znjr"
+gksdud[쿾]="znjR"
+gksdud[쿿]="znjrt"
+gksdud[퀀]="znjs"
+gksdud[퀁]="znjsw"
+gksdud[퀂]="znjsg"
+gksdud[퀃]="znje"
+gksdud[퀄]="znjf"
+gksdud[퀅]="znjfr"
+gksdud[퀆]="znjfa"
+gksdud[퀇]="znjfq"
+gksdud[퀈]="znjft"
+gksdud[퀉]="znjfx"
+gksdud[퀊]="znjfv"
+gksdud[퀋]="znjfg"
+gksdud[퀌]="znja"
+gksdud[퀍]="znjq"
+gksdud[퀎]="znjqt"
+gksdud[퀏]="znjt"
+gksdud[퀐]="znjT"
+gksdud[퀑]="znjd"
+gksdud[퀒]="znjw"
+gksdud[퀓]="znjc"
+gksdud[퀔]="znjz"
+gksdud[퀕]="znjx"
+gksdud[퀖]="znjv"
+gksdud[퀗]="znjg"
+gksdud[퀘]="znp"
+gksdud[퀙]="znpr"
+gksdud[퀚]="znpR"
+gksdud[퀛]="znprt"
+gksdud[퀜]="znps"
+gksdud[퀝]="znpsw"
+gksdud[퀞]="znpsg"
+gksdud[퀟]="znpe"
+gksdud[퀠]="znpf"
+gksdud[퀡]="znpfr"
+gksdud[퀢]="znpfa"
+gksdud[퀣]="znpfq"
+gksdud[퀤]="znpft"
+gksdud[퀥]="znpfx"
+gksdud[퀦]="znpfv"
+gksdud[퀧]="znpfg"
+gksdud[퀨]="znpa"
+gksdud[퀩]="znpq"
+gksdud[퀪]="znpqt"
+gksdud[퀫]="znpt"
+gksdud[퀬]="znpT"
+gksdud[퀭]="znpd"
+gksdud[퀮]="znpw"
+gksdud[퀯]="znpc"
+gksdud[퀰]="znpz"
+gksdud[퀱]="znpx"
+gksdud[퀲]="znpv"
+gksdud[퀳]="znpg"
+gksdud[퀴]="znl"
+gksdud[퀵]="znlr"
+gksdud[퀶]="znlR"
+gksdud[퀷]="znlrt"
+gksdud[퀸]="znls"
+gksdud[퀹]="znlsw"
+gksdud[퀺]="znlsg"
+gksdud[퀻]="znle"
+gksdud[퀼]="znlf"
+gksdud[퀽]="znlfr"
+gksdud[퀾]="znlfa"
+gksdud[퀿]="znlfq"
+gksdud[큀]="znlft"
+gksdud[큁]="znlfx"
+gksdud[큂]="znlfv"
+gksdud[큃]="znlfg"
+gksdud[큄]="znla"
+gksdud[큅]="znlq"
+gksdud[큆]="znlqt"
+gksdud[큇]="znlt"
+gksdud[큈]="znlT"
+gksdud[큉]="znld"
+gksdud[큊]="znlw"
+gksdud[큋]="znlc"
+gksdud[큌]="znlz"
+gksdud[큍]="znlx"
+gksdud[큎]="znlv"
+gksdud[큏]="znlg"
+gksdud[큐]="zb"
+gksdud[큑]="zbr"
+gksdud[큒]="zbR"
+gksdud[큓]="zbrt"
+gksdud[큔]="zbs"
+gksdud[큕]="zbsw"
+gksdud[큖]="zbsg"
+gksdud[큗]="zbe"
+gksdud[큘]="zbf"
+gksdud[큙]="zbfr"
+gksdud[큚]="zbfa"
+gksdud[큛]="zbfq"
+gksdud[큜]="zbft"
+gksdud[큝]="zbfx"
+gksdud[큞]="zbfv"
+gksdud[큟]="zbfg"
+gksdud[큠]="zba"
+gksdud[큡]="zbq"
+gksdud[큢]="zbqt"
+gksdud[큣]="zbt"
+gksdud[큤]="zbT"
+gksdud[큥]="zbd"
+gksdud[큦]="zbw"
+gksdud[큧]="zbc"
+gksdud[큨]="zbz"
+gksdud[큩]="zbx"
+gksdud[큪]="zbv"
+gksdud[큫]="zbg"
+gksdud[크]="zm"
+gksdud[큭]="zmr"
+gksdud[큮]="zmR"
+gksdud[큯]="zmrt"
+gksdud[큰]="zms"
+gksdud[큱]="zmsw"
+gksdud[큲]="zmsg"
+gksdud[큳]="zme"
+gksdud[클]="zmf"
+gksdud[큵]="zmfr"
+gksdud[큶]="zmfa"
+gksdud[큷]="zmfq"
+gksdud[큸]="zmft"
+gksdud[큹]="zmfx"
+gksdud[큺]="zmfv"
+gksdud[큻]="zmfg"
+gksdud[큼]="zma"
+gksdud[큽]="zmq"
+gksdud[큾]="zmqt"
+gksdud[큿]="zmt"
+gksdud[킀]="zmT"
+gksdud[킁]="zmd"
+gksdud[킂]="zmw"
+gksdud[킃]="zmc"
+gksdud[킄]="zmz"
+gksdud[킅]="zmx"
+gksdud[킆]="zmv"
+gksdud[킇]="zmg"
+gksdud[킈]="zml"
+gksdud[킉]="zmlr"
+gksdud[킊]="zmlR"
+gksdud[킋]="zmlrt"
+gksdud[킌]="zmls"
+gksdud[킍]="zmlsw"
+gksdud[킎]="zmlsg"
+gksdud[킏]="zmle"
+gksdud[킐]="zmlf"
+gksdud[킑]="zmlfr"
+gksdud[킒]="zmlfa"
+gksdud[킓]="zmlfq"
+gksdud[킔]="zmlft"
+gksdud[킕]="zmlfx"
+gksdud[킖]="zmlfv"
+gksdud[킗]="zmlfg"
+gksdud[킘]="zmla"
+gksdud[킙]="zmlq"
+gksdud[킚]="zmlqt"
+gksdud[킛]="zmlt"
+gksdud[킜]="zmlT"
+gksdud[킝]="zmld"
+gksdud[킞]="zmlw"
+gksdud[킟]="zmlc"
+gksdud[킠]="zmlz"
+gksdud[킡]="zmlx"
+gksdud[킢]="zmlv"
+gksdud[킣]="zmlg"
+gksdud[키]="zl"
+gksdud[킥]="zlr"
+gksdud[킦]="zlR"
+gksdud[킧]="zlrt"
+gksdud[킨]="zls"
+gksdud[킩]="zlsw"
+gksdud[킪]="zlsg"
+gksdud[킫]="zle"
+gksdud[킬]="zlf"
+gksdud[킭]="zlfr"
+gksdud[킮]="zlfa"
+gksdud[킯]="zlfq"
+gksdud[킰]="zlft"
+gksdud[킱]="zlfx"
+gksdud[킲]="zlfv"
+gksdud[킳]="zlfg"
+gksdud[킴]="zla"
+gksdud[킵]="zlq"
+gksdud[킶]="zlqt"
+gksdud[킷]="zlt"
+gksdud[킸]="zlT"
+gksdud[킹]="zld"
+gksdud[킺]="zlw"
+gksdud[킻]="zlc"
+gksdud[킼]="zlz"
+gksdud[킽]="zlx"
+gksdud[킾]="zlv"
+gksdud[킿]="zlg"
+gksdud[타]="xk"
+gksdud[탁]="xkr"
+gksdud[탂]="xkR"
+gksdud[탃]="xkrt"
+gksdud[탄]="xks"
+gksdud[탅]="xksw"
+gksdud[탆]="xksg"
+gksdud[탇]="xke"
+gksdud[탈]="xkf"
+gksdud[탉]="xkfr"
+gksdud[탊]="xkfa"
+gksdud[탋]="xkfq"
+gksdud[탌]="xkft"
+gksdud[탍]="xkfx"
+gksdud[탎]="xkfv"
+gksdud[탏]="xkfg"
+gksdud[탐]="xka"
+gksdud[탑]="xkq"
+gksdud[탒]="xkqt"
+gksdud[탓]="xkt"
+gksdud[탔]="xkT"
+gksdud[탕]="xkd"
+gksdud[탖]="xkw"
+gksdud[탗]="xkc"
+gksdud[탘]="xkz"
+gksdud[탙]="xkx"
+gksdud[탚]="xkv"
+gksdud[탛]="xkg"
+gksdud[태]="xo"
+gksdud[택]="xor"
+gksdud[탞]="xoR"
+gksdud[탟]="xort"
+gksdud[탠]="xos"
+gksdud[탡]="xosw"
+gksdud[탢]="xosg"
+gksdud[탣]="xoe"
+gksdud[탤]="xof"
+gksdud[탥]="xofr"
+gksdud[탦]="xofa"
+gksdud[탧]="xofq"
+gksdud[탨]="xoft"
+gksdud[탩]="xofx"
+gksdud[탪]="xofv"
+gksdud[탫]="xofg"
+gksdud[탬]="xoa"
+gksdud[탭]="xoq"
+gksdud[탮]="xoqt"
+gksdud[탯]="xot"
+gksdud[탰]="xoT"
+gksdud[탱]="xod"
+gksdud[탲]="xow"
+gksdud[탳]="xoc"
+gksdud[탴]="xoz"
+gksdud[탵]="xox"
+gksdud[탶]="xov"
+gksdud[탷]="xog"
+gksdud[탸]="xi"
+gksdud[탹]="xir"
+gksdud[탺]="xiR"
+gksdud[탻]="xirt"
+gksdud[탼]="xis"
+gksdud[탽]="xisw"
+gksdud[탾]="xisg"
+gksdud[탿]="xie"
+gksdud[턀]="xif"
+gksdud[턁]="xifr"
+gksdud[턂]="xifa"
+gksdud[턃]="xifq"
+gksdud[턄]="xift"
+gksdud[턅]="xifx"
+gksdud[턆]="xifv"
+gksdud[턇]="xifg"
+gksdud[턈]="xia"
+gksdud[턉]="xiq"
+gksdud[턊]="xiqt"
+gksdud[턋]="xit"
+gksdud[턌]="xiT"
+gksdud[턍]="xid"
+gksdud[턎]="xiw"
+gksdud[턏]="xic"
+gksdud[턐]="xiz"
+gksdud[턑]="xix"
+gksdud[턒]="xiv"
+gksdud[턓]="xig"
+gksdud[턔]="xO"
+gksdud[턕]="xOr"
+gksdud[턖]="xOR"
+gksdud[턗]="xOrt"
+gksdud[턘]="xOs"
+gksdud[턙]="xOsw"
+gksdud[턚]="xOsg"
+gksdud[턛]="xOe"
+gksdud[턜]="xOf"
+gksdud[턝]="xOfr"
+gksdud[턞]="xOfa"
+gksdud[턟]="xOfq"
+gksdud[턠]="xOft"
+gksdud[턡]="xOfx"
+gksdud[턢]="xOfv"
+gksdud[턣]="xOfg"
+gksdud[턤]="xOa"
+gksdud[턥]="xOq"
+gksdud[턦]="xOqt"
+gksdud[턧]="xOt"
+gksdud[턨]="xOT"
+gksdud[턩]="xOd"
+gksdud[턪]="xOw"
+gksdud[턫]="xOc"
+gksdud[턬]="xOz"
+gksdud[턭]="xOx"
+gksdud[턮]="xOv"
+gksdud[턯]="xOg"
+gksdud[터]="xj"
+gksdud[턱]="xjr"
+gksdud[턲]="xjR"
+gksdud[턳]="xjrt"
+gksdud[턴]="xjs"
+gksdud[턵]="xjsw"
+gksdud[턶]="xjsg"
+gksdud[턷]="xje"
+gksdud[털]="xjf"
+gksdud[턹]="xjfr"
+gksdud[턺]="xjfa"
+gksdud[턻]="xjfq"
+gksdud[턼]="xjft"
+gksdud[턽]="xjfx"
+gksdud[턾]="xjfv"
+gksdud[턿]="xjfg"
+gksdud[텀]="xja"
+gksdud[텁]="xjq"
+gksdud[텂]="xjqt"
+gksdud[텃]="xjt"
+gksdud[텄]="xjT"
+gksdud[텅]="xjd"
+gksdud[텆]="xjw"
+gksdud[텇]="xjc"
+gksdud[텈]="xjz"
+gksdud[텉]="xjx"
+gksdud[텊]="xjv"
+gksdud[텋]="xjg"
+gksdud[테]="xp"
+gksdud[텍]="xpr"
+gksdud[텎]="xpR"
+gksdud[텏]="xprt"
+gksdud[텐]="xps"
+gksdud[텑]="xpsw"
+gksdud[텒]="xpsg"
+gksdud[텓]="xpe"
+gksdud[텔]="xpf"
+gksdud[텕]="xpfr"
+gksdud[텖]="xpfa"
+gksdud[텗]="xpfq"
+gksdud[텘]="xpft"
+gksdud[텙]="xpfx"
+gksdud[텚]="xpfv"
+gksdud[텛]="xpfg"
+gksdud[템]="xpa"
+gksdud[텝]="xpq"
+gksdud[텞]="xpqt"
+gksdud[텟]="xpt"
+gksdud[텠]="xpT"
+gksdud[텡]="xpd"
+gksdud[텢]="xpw"
+gksdud[텣]="xpc"
+gksdud[텤]="xpz"
+gksdud[텥]="xpx"
+gksdud[텦]="xpv"
+gksdud[텧]="xpg"
+gksdud[텨]="xu"
+gksdud[텩]="xur"
+gksdud[텪]="xuR"
+gksdud[텫]="xurt"
+gksdud[텬]="xus"
+gksdud[텭]="xusw"
+gksdud[텮]="xusg"
+gksdud[텯]="xue"
+gksdud[텰]="xuf"
+gksdud[텱]="xufr"
+gksdud[텲]="xufa"
+gksdud[텳]="xufq"
+gksdud[텴]="xuft"
+gksdud[텵]="xufx"
+gksdud[텶]="xufv"
+gksdud[텷]="xufg"
+gksdud[텸]="xua"
+gksdud[텹]="xuq"
+gksdud[텺]="xuqt"
+gksdud[텻]="xut"
+gksdud[텼]="xuT"
+gksdud[텽]="xud"
+gksdud[텾]="xuw"
+gksdud[텿]="xuc"
+gksdud[톀]="xuz"
+gksdud[톁]="xux"
+gksdud[톂]="xuv"
+gksdud[톃]="xug"
+gksdud[톄]="xP"
+gksdud[톅]="xPr"
+gksdud[톆]="xPR"
+gksdud[톇]="xPrt"
+gksdud[톈]="xPs"
+gksdud[톉]="xPsw"
+gksdud[톊]="xPsg"
+gksdud[톋]="xPe"
+gksdud[톌]="xPf"
+gksdud[톍]="xPfr"
+gksdud[톎]="xPfa"
+gksdud[톏]="xPfq"
+gksdud[톐]="xPft"
+gksdud[톑]="xPfx"
+gksdud[톒]="xPfv"
+gksdud[톓]="xPfg"
+gksdud[톔]="xPa"
+gksdud[톕]="xPq"
+gksdud[톖]="xPqt"
+gksdud[톗]="xPt"
+gksdud[톘]="xPT"
+gksdud[톙]="xPd"
+gksdud[톚]="xPw"
+gksdud[톛]="xPc"
+gksdud[톜]="xPz"
+gksdud[톝]="xPx"
+gksdud[톞]="xPv"
+gksdud[톟]="xPg"
+gksdud[토]="xh"
+gksdud[톡]="xhr"
+gksdud[톢]="xhR"
+gksdud[톣]="xhrt"
+gksdud[톤]="xhs"
+gksdud[톥]="xhsw"
+gksdud[톦]="xhsg"
+gksdud[톧]="xhe"
+gksdud[톨]="xhf"
+gksdud[톩]="xhfr"
+gksdud[톪]="xhfa"
+gksdud[톫]="xhfq"
+gksdud[톬]="xhft"
+gksdud[톭]="xhfx"
+gksdud[톮]="xhfv"
+gksdud[톯]="xhfg"
+gksdud[톰]="xha"
+gksdud[톱]="xhq"
+gksdud[톲]="xhqt"
+gksdud[톳]="xht"
+gksdud[톴]="xhT"
+gksdud[통]="xhd"
+gksdud[톶]="xhw"
+gksdud[톷]="xhc"
+gksdud[톸]="xhz"
+gksdud[톹]="xhx"
+gksdud[톺]="xhv"
+gksdud[톻]="xhg"
+gksdud[톼]="xhk"
+gksdud[톽]="xhkr"
+gksdud[톾]="xhkR"
+gksdud[톿]="xhkrt"
+gksdud[퇀]="xhks"
+gksdud[퇁]="xhksw"
+gksdud[퇂]="xhksg"
+gksdud[퇃]="xhke"
+gksdud[퇄]="xhkf"
+gksdud[퇅]="xhkfr"
+gksdud[퇆]="xhkfa"
+gksdud[퇇]="xhkfq"
+gksdud[퇈]="xhkft"
+gksdud[퇉]="xhkfx"
+gksdud[퇊]="xhkfv"
+gksdud[퇋]="xhkfg"
+gksdud[퇌]="xhka"
+gksdud[퇍]="xhkq"
+gksdud[퇎]="xhkqt"
+gksdud[퇏]="xhkt"
+gksdud[퇐]="xhkT"
+gksdud[퇑]="xhkd"
+gksdud[퇒]="xhkw"
+gksdud[퇓]="xhkc"
+gksdud[퇔]="xhkz"
+gksdud[퇕]="xhkx"
+gksdud[퇖]="xhkv"
+gksdud[퇗]="xhkg"
+gksdud[퇘]="xho"
+gksdud[퇙]="xhor"
+gksdud[퇚]="xhoR"
+gksdud[퇛]="xhort"
+gksdud[퇜]="xhos"
+gksdud[퇝]="xhosw"
+gksdud[퇞]="xhosg"
+gksdud[퇟]="xhoe"
+gksdud[퇠]="xhof"
+gksdud[퇡]="xhofr"
+gksdud[퇢]="xhofa"
+gksdud[퇣]="xhofq"
+gksdud[퇤]="xhoft"
+gksdud[퇥]="xhofx"
+gksdud[퇦]="xhofv"
+gksdud[퇧]="xhofg"
+gksdud[퇨]="xhoa"
+gksdud[퇩]="xhoq"
+gksdud[퇪]="xhoqt"
+gksdud[퇫]="xhot"
+gksdud[퇬]="xhoT"
+gksdud[퇭]="xhod"
+gksdud[퇮]="xhow"
+gksdud[퇯]="xhoc"
+gksdud[퇰]="xhoz"
+gksdud[퇱]="xhox"
+gksdud[퇲]="xhov"
+gksdud[퇳]="xhog"
+gksdud[퇴]="xhl"
+gksdud[퇵]="xhlr"
+gksdud[퇶]="xhlR"
+gksdud[퇷]="xhlrt"
+gksdud[퇸]="xhls"
+gksdud[퇹]="xhlsw"
+gksdud[퇺]="xhlsg"
+gksdud[퇻]="xhle"
+gksdud[퇼]="xhlf"
+gksdud[퇽]="xhlfr"
+gksdud[퇾]="xhlfa"
+gksdud[퇿]="xhlfq"
+gksdud[툀]="xhlft"
+gksdud[툁]="xhlfx"
+gksdud[툂]="xhlfv"
+gksdud[툃]="xhlfg"
+gksdud[툄]="xhla"
+gksdud[툅]="xhlq"
+gksdud[툆]="xhlqt"
+gksdud[툇]="xhlt"
+gksdud[툈]="xhlT"
+gksdud[툉]="xhld"
+gksdud[툊]="xhlw"
+gksdud[툋]="xhlc"
+gksdud[툌]="xhlz"
+gksdud[툍]="xhlx"
+gksdud[툎]="xhlv"
+gksdud[툏]="xhlg"
+gksdud[툐]="xy"
+gksdud[툑]="xyr"
+gksdud[툒]="xyR"
+gksdud[툓]="xyrt"
+gksdud[툔]="xys"
+gksdud[툕]="xysw"
+gksdud[툖]="xysg"
+gksdud[툗]="xye"
+gksdud[툘]="xyf"
+gksdud[툙]="xyfr"
+gksdud[툚]="xyfa"
+gksdud[툛]="xyfq"
+gksdud[툜]="xyft"
+gksdud[툝]="xyfx"
+gksdud[툞]="xyfv"
+gksdud[툟]="xyfg"
+gksdud[툠]="xya"
+gksdud[툡]="xyq"
+gksdud[툢]="xyqt"
+gksdud[툣]="xyt"
+gksdud[툤]="xyT"
+gksdud[툥]="xyd"
+gksdud[툦]="xyw"
+gksdud[툧]="xyc"
+gksdud[툨]="xyz"
+gksdud[툩]="xyx"
+gksdud[툪]="xyv"
+gksdud[툫]="xyg"
+gksdud[투]="xn"
+gksdud[툭]="xnr"
+gksdud[툮]="xnR"
+gksdud[툯]="xnrt"
+gksdud[툰]="xns"
+gksdud[툱]="xnsw"
+gksdud[툲]="xnsg"
+gksdud[툳]="xne"
+gksdud[툴]="xnf"
+gksdud[툵]="xnfr"
+gksdud[툶]="xnfa"
+gksdud[툷]="xnfq"
+gksdud[툸]="xnft"
+gksdud[툹]="xnfx"
+gksdud[툺]="xnfv"
+gksdud[툻]="xnfg"
+gksdud[툼]="xna"
+gksdud[툽]="xnq"
+gksdud[툾]="xnqt"
+gksdud[툿]="xnt"
+gksdud[퉀]="xnT"
+gksdud[퉁]="xnd"
+gksdud[퉂]="xnw"
+gksdud[퉃]="xnc"
+gksdud[퉄]="xnz"
+gksdud[퉅]="xnx"
+gksdud[퉆]="xnv"
+gksdud[퉇]="xng"
+gksdud[퉈]="xnj"
+gksdud[퉉]="xnjr"
+gksdud[퉊]="xnjR"
+gksdud[퉋]="xnjrt"
+gksdud[퉌]="xnjs"
+gksdud[퉍]="xnjsw"
+gksdud[퉎]="xnjsg"
+gksdud[퉏]="xnje"
+gksdud[퉐]="xnjf"
+gksdud[퉑]="xnjfr"
+gksdud[퉒]="xnjfa"
+gksdud[퉓]="xnjfq"
+gksdud[퉔]="xnjft"
+gksdud[퉕]="xnjfx"
+gksdud[퉖]="xnjfv"
+gksdud[퉗]="xnjfg"
+gksdud[퉘]="xnja"
+gksdud[퉙]="xnjq"
+gksdud[퉚]="xnjqt"
+gksdud[퉛]="xnjt"
+gksdud[퉜]="xnjT"
+gksdud[퉝]="xnjd"
+gksdud[퉞]="xnjw"
+gksdud[퉟]="xnjc"
+gksdud[퉠]="xnjz"
+gksdud[퉡]="xnjx"
+gksdud[퉢]="xnjv"
+gksdud[퉣]="xnjg"
+gksdud[퉤]="xnp"
+gksdud[퉥]="xnpr"
+gksdud[퉦]="xnpR"
+gksdud[퉧]="xnprt"
+gksdud[퉨]="xnps"
+gksdud[퉩]="xnpsw"
+gksdud[퉪]="xnpsg"
+gksdud[퉫]="xnpe"
+gksdud[퉬]="xnpf"
+gksdud[퉭]="xnpfr"
+gksdud[퉮]="xnpfa"
+gksdud[퉯]="xnpfq"
+gksdud[퉰]="xnpft"
+gksdud[퉱]="xnpfx"
+gksdud[퉲]="xnpfv"
+gksdud[퉳]="xnpfg"
+gksdud[퉴]="xnpa"
+gksdud[퉵]="xnpq"
+gksdud[퉶]="xnpqt"
+gksdud[퉷]="xnpt"
+gksdud[퉸]="xnpT"
+gksdud[퉹]="xnpd"
+gksdud[퉺]="xnpw"
+gksdud[퉻]="xnpc"
+gksdud[퉼]="xnpz"
+gksdud[퉽]="xnpx"
+gksdud[퉾]="xnpv"
+gksdud[퉿]="xnpg"
+gksdud[튀]="xnl"
+gksdud[튁]="xnlr"
+gksdud[튂]="xnlR"
+gksdud[튃]="xnlrt"
+gksdud[튄]="xnls"
+gksdud[튅]="xnlsw"
+gksdud[튆]="xnlsg"
+gksdud[튇]="xnle"
+gksdud[튈]="xnlf"
+gksdud[튉]="xnlfr"
+gksdud[튊]="xnlfa"
+gksdud[튋]="xnlfq"
+gksdud[튌]="xnlft"
+gksdud[튍]="xnlfx"
+gksdud[튎]="xnlfv"
+gksdud[튏]="xnlfg"
+gksdud[튐]="xnla"
+gksdud[튑]="xnlq"
+gksdud[튒]="xnlqt"
+gksdud[튓]="xnlt"
+gksdud[튔]="xnlT"
+gksdud[튕]="xnld"
+gksdud[튖]="xnlw"
+gksdud[튗]="xnlc"
+gksdud[튘]="xnlz"
+gksdud[튙]="xnlx"
+gksdud[튚]="xnlv"
+gksdud[튛]="xnlg"
+gksdud[튜]="xb"
+gksdud[튝]="xbr"
+gksdud[튞]="xbR"
+gksdud[튟]="xbrt"
+gksdud[튠]="xbs"
+gksdud[튡]="xbsw"
+gksdud[튢]="xbsg"
+gksdud[튣]="xbe"
+gksdud[튤]="xbf"
+gksdud[튥]="xbfr"
+gksdud[튦]="xbfa"
+gksdud[튧]="xbfq"
+gksdud[튨]="xbft"
+gksdud[튩]="xbfx"
+gksdud[튪]="xbfv"
+gksdud[튫]="xbfg"
+gksdud[튬]="xba"
+gksdud[튭]="xbq"
+gksdud[튮]="xbqt"
+gksdud[튯]="xbt"
+gksdud[튰]="xbT"
+gksdud[튱]="xbd"
+gksdud[튲]="xbw"
+gksdud[튳]="xbc"
+gksdud[튴]="xbz"
+gksdud[튵]="xbx"
+gksdud[튶]="xbv"
+gksdud[튷]="xbg"
+gksdud[트]="xm"
+gksdud[특]="xmr"
+gksdud[튺]="xmR"
+gksdud[튻]="xmrt"
+gksdud[튼]="xms"
+gksdud[튽]="xmsw"
+gksdud[튾]="xmsg"
+gksdud[튿]="xme"
+gksdud[틀]="xmf"
+gksdud[틁]="xmfr"
+gksdud[틂]="xmfa"
+gksdud[틃]="xmfq"
+gksdud[틄]="xmft"
+gksdud[틅]="xmfx"
+gksdud[틆]="xmfv"
+gksdud[틇]="xmfg"
+gksdud[틈]="xma"
+gksdud[틉]="xmq"
+gksdud[틊]="xmqt"
+gksdud[틋]="xmt"
+gksdud[틌]="xmT"
+gksdud[틍]="xmd"
+gksdud[틎]="xmw"
+gksdud[틏]="xmc"
+gksdud[틐]="xmz"
+gksdud[틑]="xmx"
+gksdud[틒]="xmv"
+gksdud[틓]="xmg"
+gksdud[틔]="xml"
+gksdud[틕]="xmlr"
+gksdud[틖]="xmlR"
+gksdud[틗]="xmlrt"
+gksdud[틘]="xmls"
+gksdud[틙]="xmlsw"
+gksdud[틚]="xmlsg"
+gksdud[틛]="xmle"
+gksdud[틜]="xmlf"
+gksdud[틝]="xmlfr"
+gksdud[틞]="xmlfa"
+gksdud[틟]="xmlfq"
+gksdud[틠]="xmlft"
+gksdud[틡]="xmlfx"
+gksdud[틢]="xmlfv"
+gksdud[틣]="xmlfg"
+gksdud[틤]="xmla"
+gksdud[틥]="xmlq"
+gksdud[틦]="xmlqt"
+gksdud[틧]="xmlt"
+gksdud[틨]="xmlT"
+gksdud[틩]="xmld"
+gksdud[틪]="xmlw"
+gksdud[틫]="xmlc"
+gksdud[틬]="xmlz"
+gksdud[틭]="xmlx"
+gksdud[틮]="xmlv"
+gksdud[틯]="xmlg"
+gksdud[티]="xl"
+gksdud[틱]="xlr"
+gksdud[틲]="xlR"
+gksdud[틳]="xlrt"
+gksdud[틴]="xls"
+gksdud[틵]="xlsw"
+gksdud[틶]="xlsg"
+gksdud[틷]="xle"
+gksdud[틸]="xlf"
+gksdud[틹]="xlfr"
+gksdud[틺]="xlfa"
+gksdud[틻]="xlfq"
+gksdud[틼]="xlft"
+gksdud[틽]="xlfx"
+gksdud[틾]="xlfv"
+gksdud[틿]="xlfg"
+gksdud[팀]="xla"
+gksdud[팁]="xlq"
+gksdud[팂]="xlqt"
+gksdud[팃]="xlt"
+gksdud[팄]="xlT"
+gksdud[팅]="xld"
+gksdud[팆]="xlw"
+gksdud[팇]="xlc"
+gksdud[팈]="xlz"
+gksdud[팉]="xlx"
+gksdud[팊]="xlv"
+gksdud[팋]="xlg"
+gksdud[파]="vk"
+gksdud[팍]="vkr"
+gksdud[팎]="vkR"
+gksdud[팏]="vkrt"
+gksdud[판]="vks"
+gksdud[팑]="vksw"
+gksdud[팒]="vksg"
+gksdud[팓]="vke"
+gksdud[팔]="vkf"
+gksdud[팕]="vkfr"
+gksdud[팖]="vkfa"
+gksdud[팗]="vkfq"
+gksdud[팘]="vkft"
+gksdud[팙]="vkfx"
+gksdud[팚]="vkfv"
+gksdud[팛]="vkfg"
+gksdud[팜]="vka"
+gksdud[팝]="vkq"
+gksdud[팞]="vkqt"
+gksdud[팟]="vkt"
+gksdud[팠]="vkT"
+gksdud[팡]="vkd"
+gksdud[팢]="vkw"
+gksdud[팣]="vkc"
+gksdud[팤]="vkz"
+gksdud[팥]="vkx"
+gksdud[팦]="vkv"
+gksdud[팧]="vkg"
+gksdud[패]="vo"
+gksdud[팩]="vor"
+gksdud[팪]="voR"
+gksdud[팫]="vort"
+gksdud[팬]="vos"
+gksdud[팭]="vosw"
+gksdud[팮]="vosg"
+gksdud[팯]="voe"
+gksdud[팰]="vof"
+gksdud[팱]="vofr"
+gksdud[팲]="vofa"
+gksdud[팳]="vofq"
+gksdud[팴]="voft"
+gksdud[팵]="vofx"
+gksdud[팶]="vofv"
+gksdud[팷]="vofg"
+gksdud[팸]="voa"
+gksdud[팹]="voq"
+gksdud[팺]="voqt"
+gksdud[팻]="vot"
+gksdud[팼]="voT"
+gksdud[팽]="vod"
+gksdud[팾]="vow"
+gksdud[팿]="voc"
+gksdud[퍀]="voz"
+gksdud[퍁]="vox"
+gksdud[퍂]="vov"
+gksdud[퍃]="vog"
+gksdud[퍄]="vi"
+gksdud[퍅]="vir"
+gksdud[퍆]="viR"
+gksdud[퍇]="virt"
+gksdud[퍈]="vis"
+gksdud[퍉]="visw"
+gksdud[퍊]="visg"
+gksdud[퍋]="vie"
+gksdud[퍌]="vif"
+gksdud[퍍]="vifr"
+gksdud[퍎]="vifa"
+gksdud[퍏]="vifq"
+gksdud[퍐]="vift"
+gksdud[퍑]="vifx"
+gksdud[퍒]="vifv"
+gksdud[퍓]="vifg"
+gksdud[퍔]="via"
+gksdud[퍕]="viq"
+gksdud[퍖]="viqt"
+gksdud[퍗]="vit"
+gksdud[퍘]="viT"
+gksdud[퍙]="vid"
+gksdud[퍚]="viw"
+gksdud[퍛]="vic"
+gksdud[퍜]="viz"
+gksdud[퍝]="vix"
+gksdud[퍞]="viv"
+gksdud[퍟]="vig"
+gksdud[퍠]="vO"
+gksdud[퍡]="vOr"
+gksdud[퍢]="vOR"
+gksdud[퍣]="vOrt"
+gksdud[퍤]="vOs"
+gksdud[퍥]="vOsw"
+gksdud[퍦]="vOsg"
+gksdud[퍧]="vOe"
+gksdud[퍨]="vOf"
+gksdud[퍩]="vOfr"
+gksdud[퍪]="vOfa"
+gksdud[퍫]="vOfq"
+gksdud[퍬]="vOft"
+gksdud[퍭]="vOfx"
+gksdud[퍮]="vOfv"
+gksdud[퍯]="vOfg"
+gksdud[퍰]="vOa"
+gksdud[퍱]="vOq"
+gksdud[퍲]="vOqt"
+gksdud[퍳]="vOt"
+gksdud[퍴]="vOT"
+gksdud[퍵]="vOd"
+gksdud[퍶]="vOw"
+gksdud[퍷]="vOc"
+gksdud[퍸]="vOz"
+gksdud[퍹]="vOx"
+gksdud[퍺]="vOv"
+gksdud[퍻]="vOg"
+gksdud[퍼]="vj"
+gksdud[퍽]="vjr"
+gksdud[퍾]="vjR"
+gksdud[퍿]="vjrt"
+gksdud[펀]="vjs"
+gksdud[펁]="vjsw"
+gksdud[펂]="vjsg"
+gksdud[펃]="vje"
+gksdud[펄]="vjf"
+gksdud[펅]="vjfr"
+gksdud[펆]="vjfa"
+gksdud[펇]="vjfq"
+gksdud[펈]="vjft"
+gksdud[펉]="vjfx"
+gksdud[펊]="vjfv"
+gksdud[펋]="vjfg"
+gksdud[펌]="vja"
+gksdud[펍]="vjq"
+gksdud[펎]="vjqt"
+gksdud[펏]="vjt"
+gksdud[펐]="vjT"
+gksdud[펑]="vjd"
+gksdud[펒]="vjw"
+gksdud[펓]="vjc"
+gksdud[펔]="vjz"
+gksdud[펕]="vjx"
+gksdud[펖]="vjv"
+gksdud[펗]="vjg"
+gksdud[페]="vp"
+gksdud[펙]="vpr"
+gksdud[펚]="vpR"
+gksdud[펛]="vprt"
+gksdud[펜]="vps"
+gksdud[펝]="vpsw"
+gksdud[펞]="vpsg"
+gksdud[펟]="vpe"
+gksdud[펠]="vpf"
+gksdud[펡]="vpfr"
+gksdud[펢]="vpfa"
+gksdud[펣]="vpfq"
+gksdud[펤]="vpft"
+gksdud[펥]="vpfx"
+gksdud[펦]="vpfv"
+gksdud[펧]="vpfg"
+gksdud[펨]="vpa"
+gksdud[펩]="vpq"
+gksdud[펪]="vpqt"
+gksdud[펫]="vpt"
+gksdud[펬]="vpT"
+gksdud[펭]="vpd"
+gksdud[펮]="vpw"
+gksdud[펯]="vpc"
+gksdud[펰]="vpz"
+gksdud[펱]="vpx"
+gksdud[펲]="vpv"
+gksdud[펳]="vpg"
+gksdud[펴]="vu"
+gksdud[펵]="vur"
+gksdud[펶]="vuR"
+gksdud[펷]="vurt"
+gksdud[편]="vus"
+gksdud[펹]="vusw"
+gksdud[펺]="vusg"
+gksdud[펻]="vue"
+gksdud[펼]="vuf"
+gksdud[펽]="vufr"
+gksdud[펾]="vufa"
+gksdud[펿]="vufq"
+gksdud[폀]="vuft"
+gksdud[폁]="vufx"
+gksdud[폂]="vufv"
+gksdud[폃]="vufg"
+gksdud[폄]="vua"
+gksdud[폅]="vuq"
+gksdud[폆]="vuqt"
+gksdud[폇]="vut"
+gksdud[폈]="vuT"
+gksdud[평]="vud"
+gksdud[폊]="vuw"
+gksdud[폋]="vuc"
+gksdud[폌]="vuz"
+gksdud[폍]="vux"
+gksdud[폎]="vuv"
+gksdud[폏]="vug"
+gksdud[폐]="vP"
+gksdud[폑]="vPr"
+gksdud[폒]="vPR"
+gksdud[폓]="vPrt"
+gksdud[폔]="vPs"
+gksdud[폕]="vPsw"
+gksdud[폖]="vPsg"
+gksdud[폗]="vPe"
+gksdud[폘]="vPf"
+gksdud[폙]="vPfr"
+gksdud[폚]="vPfa"
+gksdud[폛]="vPfq"
+gksdud[폜]="vPft"
+gksdud[폝]="vPfx"
+gksdud[폞]="vPfv"
+gksdud[폟]="vPfg"
+gksdud[폠]="vPa"
+gksdud[폡]="vPq"
+gksdud[폢]="vPqt"
+gksdud[폣]="vPt"
+gksdud[폤]="vPT"
+gksdud[폥]="vPd"
+gksdud[폦]="vPw"
+gksdud[폧]="vPc"
+gksdud[폨]="vPz"
+gksdud[폩]="vPx"
+gksdud[폪]="vPv"
+gksdud[폫]="vPg"
+gksdud[포]="vh"
+gksdud[폭]="vhr"
+gksdud[폮]="vhR"
+gksdud[폯]="vhrt"
+gksdud[폰]="vhs"
+gksdud[폱]="vhsw"
+gksdud[폲]="vhsg"
+gksdud[폳]="vhe"
+gksdud[폴]="vhf"
+gksdud[폵]="vhfr"
+gksdud[폶]="vhfa"
+gksdud[폷]="vhfq"
+gksdud[폸]="vhft"
+gksdud[폹]="vhfx"
+gksdud[폺]="vhfv"
+gksdud[폻]="vhfg"
+gksdud[폼]="vha"
+gksdud[폽]="vhq"
+gksdud[폾]="vhqt"
+gksdud[폿]="vht"
+gksdud[퐀]="vhT"
+gksdud[퐁]="vhd"
+gksdud[퐂]="vhw"
+gksdud[퐃]="vhc"
+gksdud[퐄]="vhz"
+gksdud[퐅]="vhx"
+gksdud[퐆]="vhv"
+gksdud[퐇]="vhg"
+gksdud[퐈]="vhk"
+gksdud[퐉]="vhkr"
+gksdud[퐊]="vhkR"
+gksdud[퐋]="vhkrt"
+gksdud[퐌]="vhks"
+gksdud[퐍]="vhksw"
+gksdud[퐎]="vhksg"
+gksdud[퐏]="vhke"
+gksdud[퐐]="vhkf"
+gksdud[퐑]="vhkfr"
+gksdud[퐒]="vhkfa"
+gksdud[퐓]="vhkfq"
+gksdud[퐔]="vhkft"
+gksdud[퐕]="vhkfx"
+gksdud[퐖]="vhkfv"
+gksdud[퐗]="vhkfg"
+gksdud[퐘]="vhka"
+gksdud[퐙]="vhkq"
+gksdud[퐚]="vhkqt"
+gksdud[퐛]="vhkt"
+gksdud[퐜]="vhkT"
+gksdud[퐝]="vhkd"
+gksdud[퐞]="vhkw"
+gksdud[퐟]="vhkc"
+gksdud[퐠]="vhkz"
+gksdud[퐡]="vhkx"
+gksdud[퐢]="vhkv"
+gksdud[퐣]="vhkg"
+gksdud[퐤]="vho"
+gksdud[퐥]="vhor"
+gksdud[퐦]="vhoR"
+gksdud[퐧]="vhort"
+gksdud[퐨]="vhos"
+gksdud[퐩]="vhosw"
+gksdud[퐪]="vhosg"
+gksdud[퐫]="vhoe"
+gksdud[퐬]="vhof"
+gksdud[퐭]="vhofr"
+gksdud[퐮]="vhofa"
+gksdud[퐯]="vhofq"
+gksdud[퐰]="vhoft"
+gksdud[퐱]="vhofx"
+gksdud[퐲]="vhofv"
+gksdud[퐳]="vhofg"
+gksdud[퐴]="vhoa"
+gksdud[퐵]="vhoq"
+gksdud[퐶]="vhoqt"
+gksdud[퐷]="vhot"
+gksdud[퐸]="vhoT"
+gksdud[퐹]="vhod"
+gksdud[퐺]="vhow"
+gksdud[퐻]="vhoc"
+gksdud[퐼]="vhoz"
+gksdud[퐽]="vhox"
+gksdud[퐾]="vhov"
+gksdud[퐿]="vhog"
+gksdud[푀]="vhl"
+gksdud[푁]="vhlr"
+gksdud[푂]="vhlR"
+gksdud[푃]="vhlrt"
+gksdud[푄]="vhls"
+gksdud[푅]="vhlsw"
+gksdud[푆]="vhlsg"
+gksdud[푇]="vhle"
+gksdud[푈]="vhlf"
+gksdud[푉]="vhlfr"
+gksdud[푊]="vhlfa"
+gksdud[푋]="vhlfq"
+gksdud[푌]="vhlft"
+gksdud[푍]="vhlfx"
+gksdud[푎]="vhlfv"
+gksdud[푏]="vhlfg"
+gksdud[푐]="vhla"
+gksdud[푑]="vhlq"
+gksdud[푒]="vhlqt"
+gksdud[푓]="vhlt"
+gksdud[푔]="vhlT"
+gksdud[푕]="vhld"
+gksdud[푖]="vhlw"
+gksdud[푗]="vhlc"
+gksdud[푘]="vhlz"
+gksdud[푙]="vhlx"
+gksdud[푚]="vhlv"
+gksdud[푛]="vhlg"
+gksdud[표]="vy"
+gksdud[푝]="vyr"
+gksdud[푞]="vyR"
+gksdud[푟]="vyrt"
+gksdud[푠]="vys"
+gksdud[푡]="vysw"
+gksdud[푢]="vysg"
+gksdud[푣]="vye"
+gksdud[푤]="vyf"
+gksdud[푥]="vyfr"
+gksdud[푦]="vyfa"
+gksdud[푧]="vyfq"
+gksdud[푨]="vyft"
+gksdud[푩]="vyfx"
+gksdud[푪]="vyfv"
+gksdud[푫]="vyfg"
+gksdud[푬]="vya"
+gksdud[푭]="vyq"
+gksdud[푮]="vyqt"
+gksdud[푯]="vyt"
+gksdud[푰]="vyT"
+gksdud[푱]="vyd"
+gksdud[푲]="vyw"
+gksdud[푳]="vyc"
+gksdud[푴]="vyz"
+gksdud[푵]="vyx"
+gksdud[푶]="vyv"
+gksdud[푷]="vyg"
+gksdud[푸]="vn"
+gksdud[푹]="vnr"
+gksdud[푺]="vnR"
+gksdud[푻]="vnrt"
+gksdud[푼]="vns"
+gksdud[푽]="vnsw"
+gksdud[푾]="vnsg"
+gksdud[푿]="vne"
+gksdud[풀]="vnf"
+gksdud[풁]="vnfr"
+gksdud[풂]="vnfa"
+gksdud[풃]="vnfq"
+gksdud[풄]="vnft"
+gksdud[풅]="vnfx"
+gksdud[풆]="vnfv"
+gksdud[풇]="vnfg"
+gksdud[품]="vna"
+gksdud[풉]="vnq"
+gksdud[풊]="vnqt"
+gksdud[풋]="vnt"
+gksdud[풌]="vnT"
+gksdud[풍]="vnd"
+gksdud[풎]="vnw"
+gksdud[풏]="vnc"
+gksdud[풐]="vnz"
+gksdud[풑]="vnx"
+gksdud[풒]="vnv"
+gksdud[풓]="vng"
+gksdud[풔]="vnj"
+gksdud[풕]="vnjr"
+gksdud[풖]="vnjR"
+gksdud[풗]="vnjrt"
+gksdud[풘]="vnjs"
+gksdud[풙]="vnjsw"
+gksdud[풚]="vnjsg"
+gksdud[풛]="vnje"
+gksdud[풜]="vnjf"
+gksdud[풝]="vnjfr"
+gksdud[풞]="vnjfa"
+gksdud[풟]="vnjfq"
+gksdud[풠]="vnjft"
+gksdud[풡]="vnjfx"
+gksdud[풢]="vnjfv"
+gksdud[풣]="vnjfg"
+gksdud[풤]="vnja"
+gksdud[풥]="vnjq"
+gksdud[풦]="vnjqt"
+gksdud[풧]="vnjt"
+gksdud[풨]="vnjT"
+gksdud[풩]="vnjd"
+gksdud[풪]="vnjw"
+gksdud[풫]="vnjc"
+gksdud[풬]="vnjz"
+gksdud[풭]="vnjx"
+gksdud[풮]="vnjv"
+gksdud[풯]="vnjg"
+gksdud[풰]="vnp"
+gksdud[풱]="vnpr"
+gksdud[풲]="vnpR"
+gksdud[풳]="vnprt"
+gksdud[풴]="vnps"
+gksdud[풵]="vnpsw"
+gksdud[풶]="vnpsg"
+gksdud[풷]="vnpe"
+gksdud[풸]="vnpf"
+gksdud[풹]="vnpfr"
+gksdud[풺]="vnpfa"
+gksdud[풻]="vnpfq"
+gksdud[풼]="vnpft"
+gksdud[풽]="vnpfx"
+gksdud[풾]="vnpfv"
+gksdud[풿]="vnpfg"
+gksdud[퓀]="vnpa"
+gksdud[퓁]="vnpq"
+gksdud[퓂]="vnpqt"
+gksdud[퓃]="vnpt"
+gksdud[퓄]="vnpT"
+gksdud[퓅]="vnpd"
+gksdud[퓆]="vnpw"
+gksdud[퓇]="vnpc"
+gksdud[퓈]="vnpz"
+gksdud[퓉]="vnpx"
+gksdud[퓊]="vnpv"
+gksdud[퓋]="vnpg"
+gksdud[퓌]="vnl"
+gksdud[퓍]="vnlr"
+gksdud[퓎]="vnlR"
+gksdud[퓏]="vnlrt"
+gksdud[퓐]="vnls"
+gksdud[퓑]="vnlsw"
+gksdud[퓒]="vnlsg"
+gksdud[퓓]="vnle"
+gksdud[퓔]="vnlf"
+gksdud[퓕]="vnlfr"
+gksdud[퓖]="vnlfa"
+gksdud[퓗]="vnlfq"
+gksdud[퓘]="vnlft"
+gksdud[퓙]="vnlfx"
+gksdud[퓚]="vnlfv"
+gksdud[퓛]="vnlfg"
+gksdud[퓜]="vnla"
+gksdud[퓝]="vnlq"
+gksdud[퓞]="vnlqt"
+gksdud[퓟]="vnlt"
+gksdud[퓠]="vnlT"
+gksdud[퓡]="vnld"
+gksdud[퓢]="vnlw"
+gksdud[퓣]="vnlc"
+gksdud[퓤]="vnlz"
+gksdud[퓥]="vnlx"
+gksdud[퓦]="vnlv"
+gksdud[퓧]="vnlg"
+gksdud[퓨]="vb"
+gksdud[퓩]="vbr"
+gksdud[퓪]="vbR"
+gksdud[퓫]="vbrt"
+gksdud[퓬]="vbs"
+gksdud[퓭]="vbsw"
+gksdud[퓮]="vbsg"
+gksdud[퓯]="vbe"
+gksdud[퓰]="vbf"
+gksdud[퓱]="vbfr"
+gksdud[퓲]="vbfa"
+gksdud[퓳]="vbfq"
+gksdud[퓴]="vbft"
+gksdud[퓵]="vbfx"
+gksdud[퓶]="vbfv"
+gksdud[퓷]="vbfg"
+gksdud[퓸]="vba"
+gksdud[퓹]="vbq"
+gksdud[퓺]="vbqt"
+gksdud[퓻]="vbt"
+gksdud[퓼]="vbT"
+gksdud[퓽]="vbd"
+gksdud[퓾]="vbw"
+gksdud[퓿]="vbc"
+gksdud[픀]="vbz"
+gksdud[픁]="vbx"
+gksdud[픂]="vbv"
+gksdud[픃]="vbg"
+gksdud[프]="vm"
+gksdud[픅]="vmr"
+gksdud[픆]="vmR"
+gksdud[픇]="vmrt"
+gksdud[픈]="vms"
+gksdud[픉]="vmsw"
+gksdud[픊]="vmsg"
+gksdud[픋]="vme"
+gksdud[플]="vmf"
+gksdud[픍]="vmfr"
+gksdud[픎]="vmfa"
+gksdud[픏]="vmfq"
+gksdud[픐]="vmft"
+gksdud[픑]="vmfx"
+gksdud[픒]="vmfv"
+gksdud[픓]="vmfg"
+gksdud[픔]="vma"
+gksdud[픕]="vmq"
+gksdud[픖]="vmqt"
+gksdud[픗]="vmt"
+gksdud[픘]="vmT"
+gksdud[픙]="vmd"
+gksdud[픚]="vmw"
+gksdud[픛]="vmc"
+gksdud[픜]="vmz"
+gksdud[픝]="vmx"
+gksdud[픞]="vmv"
+gksdud[픟]="vmg"
+gksdud[픠]="vml"
+gksdud[픡]="vmlr"
+gksdud[픢]="vmlR"
+gksdud[픣]="vmlrt"
+gksdud[픤]="vmls"
+gksdud[픥]="vmlsw"
+gksdud[픦]="vmlsg"
+gksdud[픧]="vmle"
+gksdud[픨]="vmlf"
+gksdud[픩]="vmlfr"
+gksdud[픪]="vmlfa"
+gksdud[픫]="vmlfq"
+gksdud[픬]="vmlft"
+gksdud[픭]="vmlfx"
+gksdud[픮]="vmlfv"
+gksdud[픯]="vmlfg"
+gksdud[픰]="vmla"
+gksdud[픱]="vmlq"
+gksdud[픲]="vmlqt"
+gksdud[픳]="vmlt"
+gksdud[픴]="vmlT"
+gksdud[픵]="vmld"
+gksdud[픶]="vmlw"
+gksdud[픷]="vmlc"
+gksdud[픸]="vmlz"
+gksdud[픹]="vmlx"
+gksdud[픺]="vmlv"
+gksdud[픻]="vmlg"
+gksdud[피]="vl"
+gksdud[픽]="vlr"
+gksdud[픾]="vlR"
+gksdud[픿]="vlrt"
+gksdud[핀]="vls"
+gksdud[핁]="vlsw"
+gksdud[핂]="vlsg"
+gksdud[핃]="vle"
+gksdud[필]="vlf"
+gksdud[핅]="vlfr"
+gksdud[핆]="vlfa"
+gksdud[핇]="vlfq"
+gksdud[핈]="vlft"
+gksdud[핉]="vlfx"
+gksdud[핊]="vlfv"
+gksdud[핋]="vlfg"
+gksdud[핌]="vla"
+gksdud[핍]="vlq"
+gksdud[핎]="vlqt"
+gksdud[핏]="vlt"
+gksdud[핐]="vlT"
+gksdud[핑]="vld"
+gksdud[핒]="vlw"
+gksdud[핓]="vlc"
+gksdud[핔]="vlz"
+gksdud[핕]="vlx"
+gksdud[핖]="vlv"
+gksdud[핗]="vlg"
+gksdud[하]="gk"
+gksdud[학]="gkr"
+gksdud[핚]="gkR"
+gksdud[핛]="gkrt"
+gksdud[한]="gks"
+gksdud[핝]="gksw"
+gksdud[핞]="gksg"
+gksdud[핟]="gke"
+gksdud[할]="gkf"
+gksdud[핡]="gkfr"
+gksdud[핢]="gkfa"
+gksdud[핣]="gkfq"
+gksdud[핤]="gkft"
+gksdud[핥]="gkfx"
+gksdud[핦]="gkfv"
+gksdud[핧]="gkfg"
+gksdud[함]="gka"
+gksdud[합]="gkq"
+gksdud[핪]="gkqt"
+gksdud[핫]="gkt"
+gksdud[핬]="gkT"
+gksdud[항]="gkd"
+gksdud[핮]="gkw"
+gksdud[핯]="gkc"
+gksdud[핰]="gkz"
+gksdud[핱]="gkx"
+gksdud[핲]="gkv"
+gksdud[핳]="gkg"
+gksdud[해]="go"
+gksdud[핵]="gor"
+gksdud[핶]="goR"
+gksdud[핷]="gort"
+gksdud[핸]="gos"
+gksdud[핹]="gosw"
+gksdud[핺]="gosg"
+gksdud[핻]="goe"
+gksdud[핼]="gof"
+gksdud[핽]="gofr"
+gksdud[핾]="gofa"
+gksdud[핿]="gofq"
+gksdud[햀]="goft"
+gksdud[햁]="gofx"
+gksdud[햂]="gofv"
+gksdud[햃]="gofg"
+gksdud[햄]="goa"
+gksdud[햅]="goq"
+gksdud[햆]="goqt"
+gksdud[햇]="got"
+gksdud[했]="goT"
+gksdud[행]="god"
+gksdud[햊]="gow"
+gksdud[햋]="goc"
+gksdud[햌]="goz"
+gksdud[햍]="gox"
+gksdud[햎]="gov"
+gksdud[햏]="gog"
+gksdud[햐]="gi"
+gksdud[햑]="gir"
+gksdud[햒]="giR"
+gksdud[햓]="girt"
+gksdud[햔]="gis"
+gksdud[햕]="gisw"
+gksdud[햖]="gisg"
+gksdud[햗]="gie"
+gksdud[햘]="gif"
+gksdud[햙]="gifr"
+gksdud[햚]="gifa"
+gksdud[햛]="gifq"
+gksdud[햜]="gift"
+gksdud[햝]="gifx"
+gksdud[햞]="gifv"
+gksdud[햟]="gifg"
+gksdud[햠]="gia"
+gksdud[햡]="giq"
+gksdud[햢]="giqt"
+gksdud[햣]="git"
+gksdud[햤]="giT"
+gksdud[향]="gid"
+gksdud[햦]="giw"
+gksdud[햧]="gic"
+gksdud[햨]="giz"
+gksdud[햩]="gix"
+gksdud[햪]="giv"
+gksdud[햫]="gig"
+gksdud[햬]="gO"
+gksdud[햭]="gOr"
+gksdud[햮]="gOR"
+gksdud[햯]="gOrt"
+gksdud[햰]="gOs"
+gksdud[햱]="gOsw"
+gksdud[햲]="gOsg"
+gksdud[햳]="gOe"
+gksdud[햴]="gOf"
+gksdud[햵]="gOfr"
+gksdud[햶]="gOfa"
+gksdud[햷]="gOfq"
+gksdud[햸]="gOft"
+gksdud[햹]="gOfx"
+gksdud[햺]="gOfv"
+gksdud[햻]="gOfg"
+gksdud[햼]="gOa"
+gksdud[햽]="gOq"
+gksdud[햾]="gOqt"
+gksdud[햿]="gOt"
+gksdud[헀]="gOT"
+gksdud[헁]="gOd"
+gksdud[헂]="gOw"
+gksdud[헃]="gOc"
+gksdud[헄]="gOz"
+gksdud[헅]="gOx"
+gksdud[헆]="gOv"
+gksdud[헇]="gOg"
+gksdud[허]="gj"
+gksdud[헉]="gjr"
+gksdud[헊]="gjR"
+gksdud[헋]="gjrt"
+gksdud[헌]="gjs"
+gksdud[헍]="gjsw"
+gksdud[헎]="gjsg"
+gksdud[헏]="gje"
+gksdud[헐]="gjf"
+gksdud[헑]="gjfr"
+gksdud[헒]="gjfa"
+gksdud[헓]="gjfq"
+gksdud[헔]="gjft"
+gksdud[헕]="gjfx"
+gksdud[헖]="gjfv"
+gksdud[헗]="gjfg"
+gksdud[험]="gja"
+gksdud[헙]="gjq"
+gksdud[헚]="gjqt"
+gksdud[헛]="gjt"
+gksdud[헜]="gjT"
+gksdud[헝]="gjd"
+gksdud[헞]="gjw"
+gksdud[헟]="gjc"
+gksdud[헠]="gjz"
+gksdud[헡]="gjx"
+gksdud[헢]="gjv"
+gksdud[헣]="gjg"
+gksdud[헤]="gp"
+gksdud[헥]="gpr"
+gksdud[헦]="gpR"
+gksdud[헧]="gprt"
+gksdud[헨]="gps"
+gksdud[헩]="gpsw"
+gksdud[헪]="gpsg"
+gksdud[헫]="gpe"
+gksdud[헬]="gpf"
+gksdud[헭]="gpfr"
+gksdud[헮]="gpfa"
+gksdud[헯]="gpfq"
+gksdud[헰]="gpft"
+gksdud[헱]="gpfx"
+gksdud[헲]="gpfv"
+gksdud[헳]="gpfg"
+gksdud[헴]="gpa"
+gksdud[헵]="gpq"
+gksdud[헶]="gpqt"
+gksdud[헷]="gpt"
+gksdud[헸]="gpT"
+gksdud[헹]="gpd"
+gksdud[헺]="gpw"
+gksdud[헻]="gpc"
+gksdud[헼]="gpz"
+gksdud[헽]="gpx"
+gksdud[헾]="gpv"
+gksdud[헿]="gpg"
+gksdud[혀]="gu"
+gksdud[혁]="gur"
+gksdud[혂]="guR"
+gksdud[혃]="gurt"
+gksdud[현]="gus"
+gksdud[혅]="gusw"
+gksdud[혆]="gusg"
+gksdud[혇]="gue"
+gksdud[혈]="guf"
+gksdud[혉]="gufr"
+gksdud[혊]="gufa"
+gksdud[혋]="gufq"
+gksdud[혌]="guft"
+gksdud[혍]="gufx"
+gksdud[혎]="gufv"
+gksdud[혏]="gufg"
+gksdud[혐]="gua"
+gksdud[협]="guq"
+gksdud[혒]="guqt"
+gksdud[혓]="gut"
+gksdud[혔]="guT"
+gksdud[형]="gud"
+gksdud[혖]="guw"
+gksdud[혗]="guc"
+gksdud[혘]="guz"
+gksdud[혙]="gux"
+gksdud[혚]="guv"
+gksdud[혛]="gug"
+gksdud[혜]="gP"
+gksdud[혝]="gPr"
+gksdud[혞]="gPR"
+gksdud[혟]="gPrt"
+gksdud[혠]="gPs"
+gksdud[혡]="gPsw"
+gksdud[혢]="gPsg"
+gksdud[혣]="gPe"
+gksdud[혤]="gPf"
+gksdud[혥]="gPfr"
+gksdud[혦]="gPfa"
+gksdud[혧]="gPfq"
+gksdud[혨]="gPft"
+gksdud[혩]="gPfx"
+gksdud[혪]="gPfv"
+gksdud[혫]="gPfg"
+gksdud[혬]="gPa"
+gksdud[혭]="gPq"
+gksdud[혮]="gPqt"
+gksdud[혯]="gPt"
+gksdud[혰]="gPT"
+gksdud[혱]="gPd"
+gksdud[혲]="gPw"
+gksdud[혳]="gPc"
+gksdud[혴]="gPz"
+gksdud[혵]="gPx"
+gksdud[혶]="gPv"
+gksdud[혷]="gPg"
+gksdud[호]="gh"
+gksdud[혹]="ghr"
+gksdud[혺]="ghR"
+gksdud[혻]="ghrt"
+gksdud[혼]="ghs"
+gksdud[혽]="ghsw"
+gksdud[혾]="ghsg"
+gksdud[혿]="ghe"
+gksdud[홀]="ghf"
+gksdud[홁]="ghfr"
+gksdud[홂]="ghfa"
+gksdud[홃]="ghfq"
+gksdud[홄]="ghft"
+gksdud[홅]="ghfx"
+gksdud[홆]="ghfv"
+gksdud[홇]="ghfg"
+gksdud[홈]="gha"
+gksdud[홉]="ghq"
+gksdud[홊]="ghqt"
+gksdud[홋]="ght"
+gksdud[홌]="ghT"
+gksdud[홍]="ghd"
+gksdud[홎]="ghw"
+gksdud[홏]="ghc"
+gksdud[홐]="ghz"
+gksdud[홑]="ghx"
+gksdud[홒]="ghv"
+gksdud[홓]="ghg"
+gksdud[화]="ghk"
+gksdud[확]="ghkr"
+gksdud[홖]="ghkR"
+gksdud[홗]="ghkrt"
+gksdud[환]="ghks"
+gksdud[홙]="ghksw"
+gksdud[홚]="ghksg"
+gksdud[홛]="ghke"
+gksdud[활]="ghkf"
+gksdud[홝]="ghkfr"
+gksdud[홞]="ghkfa"
+gksdud[홟]="ghkfq"
+gksdud[홠]="ghkft"
+gksdud[홡]="ghkfx"
+gksdud[홢]="ghkfv"
+gksdud[홣]="ghkfg"
+gksdud[홤]="ghka"
+gksdud[홥]="ghkq"
+gksdud[홦]="ghkqt"
+gksdud[홧]="ghkt"
+gksdud[홨]="ghkT"
+gksdud[황]="ghkd"
+gksdud[홪]="ghkw"
+gksdud[홫]="ghkc"
+gksdud[홬]="ghkz"
+gksdud[홭]="ghkx"
+gksdud[홮]="ghkv"
+gksdud[홯]="ghkg"
+gksdud[홰]="gho"
+gksdud[홱]="ghor"
+gksdud[홲]="ghoR"
+gksdud[홳]="ghort"
+gksdud[홴]="ghos"
+gksdud[홵]="ghosw"
+gksdud[홶]="ghosg"
+gksdud[홷]="ghoe"
+gksdud[홸]="ghof"
+gksdud[홹]="ghofr"
+gksdud[홺]="ghofa"
+gksdud[홻]="ghofq"
+gksdud[홼]="ghoft"
+gksdud[홽]="ghofx"
+gksdud[홾]="ghofv"
+gksdud[홿]="ghofg"
+gksdud[횀]="ghoa"
+gksdud[횁]="ghoq"
+gksdud[횂]="ghoqt"
+gksdud[횃]="ghot"
+gksdud[횄]="ghoT"
+gksdud[횅]="ghod"
+gksdud[횆]="ghow"
+gksdud[횇]="ghoc"
+gksdud[횈]="ghoz"
+gksdud[횉]="ghox"
+gksdud[횊]="ghov"
+gksdud[횋]="ghog"
+gksdud[회]="ghl"
+gksdud[획]="ghlr"
+gksdud[횎]="ghlR"
+gksdud[횏]="ghlrt"
+gksdud[횐]="ghls"
+gksdud[횑]="ghlsw"
+gksdud[횒]="ghlsg"
+gksdud[횓]="ghle"
+gksdud[횔]="ghlf"
+gksdud[횕]="ghlfr"
+gksdud[횖]="ghlfa"
+gksdud[횗]="ghlfq"
+gksdud[횘]="ghlft"
+gksdud[횙]="ghlfx"
+gksdud[횚]="ghlfv"
+gksdud[횛]="ghlfg"
+gksdud[횜]="ghla"
+gksdud[횝]="ghlq"
+gksdud[횞]="ghlqt"
+gksdud[횟]="ghlt"
+gksdud[횠]="ghlT"
+gksdud[횡]="ghld"
+gksdud[횢]="ghlw"
+gksdud[횣]="ghlc"
+gksdud[횤]="ghlz"
+gksdud[횥]="ghlx"
+gksdud[횦]="ghlv"
+gksdud[횧]="ghlg"
+gksdud[효]="gy"
+gksdud[횩]="gyr"
+gksdud[횪]="gyR"
+gksdud[횫]="gyrt"
+gksdud[횬]="gys"
+gksdud[횭]="gysw"
+gksdud[횮]="gysg"
+gksdud[횯]="gye"
+gksdud[횰]="gyf"
+gksdud[횱]="gyfr"
+gksdud[횲]="gyfa"
+gksdud[횳]="gyfq"
+gksdud[횴]="gyft"
+gksdud[횵]="gyfx"
+gksdud[횶]="gyfv"
+gksdud[횷]="gyfg"
+gksdud[횸]="gya"
+gksdud[횹]="gyq"
+gksdud[횺]="gyqt"
+gksdud[횻]="gyt"
+gksdud[횼]="gyT"
+gksdud[횽]="gyd"
+gksdud[횾]="gyw"
+gksdud[횿]="gyc"
+gksdud[훀]="gyz"
+gksdud[훁]="gyx"
+gksdud[훂]="gyv"
+gksdud[훃]="gyg"
+gksdud[후]="gn"
+gksdud[훅]="gnr"
+gksdud[훆]="gnR"
+gksdud[훇]="gnrt"
+gksdud[훈]="gns"
+gksdud[훉]="gnsw"
+gksdud[훊]="gnsg"
+gksdud[훋]="gne"
+gksdud[훌]="gnf"
+gksdud[훍]="gnfr"
+gksdud[훎]="gnfa"
+gksdud[훏]="gnfq"
+gksdud[훐]="gnft"
+gksdud[훑]="gnfx"
+gksdud[훒]="gnfv"
+gksdud[훓]="gnfg"
+gksdud[훔]="gna"
+gksdud[훕]="gnq"
+gksdud[훖]="gnqt"
+gksdud[훗]="gnt"
+gksdud[훘]="gnT"
+gksdud[훙]="gnd"
+gksdud[훚]="gnw"
+gksdud[훛]="gnc"
+gksdud[훜]="gnz"
+gksdud[훝]="gnx"
+gksdud[훞]="gnv"
+gksdud[훟]="gng"
+gksdud[훠]="gnj"
+gksdud[훡]="gnjr"
+gksdud[훢]="gnjR"
+gksdud[훣]="gnjrt"
+gksdud[훤]="gnjs"
+gksdud[훥]="gnjsw"
+gksdud[훦]="gnjsg"
+gksdud[훧]="gnje"
+gksdud[훨]="gnjf"
+gksdud[훩]="gnjfr"
+gksdud[훪]="gnjfa"
+gksdud[훫]="gnjfq"
+gksdud[훬]="gnjft"
+gksdud[훭]="gnjfx"
+gksdud[훮]="gnjfv"
+gksdud[훯]="gnjfg"
+gksdud[훰]="gnja"
+gksdud[훱]="gnjq"
+gksdud[훲]="gnjqt"
+gksdud[훳]="gnjt"
+gksdud[훴]="gnjT"
+gksdud[훵]="gnjd"
+gksdud[훶]="gnjw"
+gksdud[훷]="gnjc"
+gksdud[훸]="gnjz"
+gksdud[훹]="gnjx"
+gksdud[훺]="gnjv"
+gksdud[훻]="gnjg"
+gksdud[훼]="gnp"
+gksdud[훽]="gnpr"
+gksdud[훾]="gnpR"
+gksdud[훿]="gnprt"
+gksdud[휀]="gnps"
+gksdud[휁]="gnpsw"
+gksdud[휂]="gnpsg"
+gksdud[휃]="gnpe"
+gksdud[휄]="gnpf"
+gksdud[휅]="gnpfr"
+gksdud[휆]="gnpfa"
+gksdud[휇]="gnpfq"
+gksdud[휈]="gnpft"
+gksdud[휉]="gnpfx"
+gksdud[휊]="gnpfv"
+gksdud[휋]="gnpfg"
+gksdud[휌]="gnpa"
+gksdud[휍]="gnpq"
+gksdud[휎]="gnpqt"
+gksdud[휏]="gnpt"
+gksdud[휐]="gnpT"
+gksdud[휑]="gnpd"
+gksdud[휒]="gnpw"
+gksdud[휓]="gnpc"
+gksdud[휔]="gnpz"
+gksdud[휕]="gnpx"
+gksdud[휖]="gnpv"
+gksdud[휗]="gnpg"
+gksdud[휘]="gnl"
+gksdud[휙]="gnlr"
+gksdud[휚]="gnlR"
+gksdud[휛]="gnlrt"
+gksdud[휜]="gnls"
+gksdud[휝]="gnlsw"
+gksdud[휞]="gnlsg"
+gksdud[휟]="gnle"
+gksdud[휠]="gnlf"
+gksdud[휡]="gnlfr"
+gksdud[휢]="gnlfa"
+gksdud[휣]="gnlfq"
+gksdud[휤]="gnlft"
+gksdud[휥]="gnlfx"
+gksdud[휦]="gnlfv"
+gksdud[휧]="gnlfg"
+gksdud[휨]="gnla"
+gksdud[휩]="gnlq"
+gksdud[휪]="gnlqt"
+gksdud[휫]="gnlt"
+gksdud[휬]="gnlT"
+gksdud[휭]="gnld"
+gksdud[휮]="gnlw"
+gksdud[휯]="gnlc"
+gksdud[휰]="gnlz"
+gksdud[휱]="gnlx"
+gksdud[휲]="gnlv"
+gksdud[휳]="gnlg"
+gksdud[휴]="gb"
+gksdud[휵]="gbr"
+gksdud[휶]="gbR"
+gksdud[휷]="gbrt"
+gksdud[휸]="gbs"
+gksdud[휹]="gbsw"
+gksdud[휺]="gbsg"
+gksdud[휻]="gbe"
+gksdud[휼]="gbf"
+gksdud[휽]="gbfr"
+gksdud[휾]="gbfa"
+gksdud[휿]="gbfq"
+gksdud[흀]="gbft"
+gksdud[흁]="gbfx"
+gksdud[흂]="gbfv"
+gksdud[흃]="gbfg"
+gksdud[흄]="gba"
+gksdud[흅]="gbq"
+gksdud[흆]="gbqt"
+gksdud[흇]="gbt"
+gksdud[흈]="gbT"
+gksdud[흉]="gbd"
+gksdud[흊]="gbw"
+gksdud[흋]="gbc"
+gksdud[흌]="gbz"
+gksdud[흍]="gbx"
+gksdud[흎]="gbv"
+gksdud[흏]="gbg"
+gksdud[흐]="gm"
+gksdud[흑]="gmr"
+gksdud[흒]="gmR"
+gksdud[흓]="gmrt"
+gksdud[흔]="gms"
+gksdud[흕]="gmsw"
+gksdud[흖]="gmsg"
+gksdud[흗]="gme"
+gksdud[흘]="gmf"
+gksdud[흙]="gmfr"
+gksdud[흚]="gmfa"
+gksdud[흛]="gmfq"
+gksdud[흜]="gmft"
+gksdud[흝]="gmfx"
+gksdud[흞]="gmfv"
+gksdud[흟]="gmfg"
+gksdud[흠]="gma"
+gksdud[흡]="gmq"
+gksdud[흢]="gmqt"
+gksdud[흣]="gmt"
+gksdud[흤]="gmT"
+gksdud[흥]="gmd"
+gksdud[흦]="gmw"
+gksdud[흧]="gmc"
+gksdud[흨]="gmz"
+gksdud[흩]="gmx"
+gksdud[흪]="gmv"
+gksdud[흫]="gmg"
+gksdud[희]="gml"
+gksdud[흭]="gmlr"
+gksdud[흮]="gmlR"
+gksdud[흯]="gmlrt"
+gksdud[흰]="gmls"
+gksdud[흱]="gmlsw"
+gksdud[흲]="gmlsg"
+gksdud[흳]="gmle"
+gksdud[흴]="gmlf"
+gksdud[흵]="gmlfr"
+gksdud[흶]="gmlfa"
+gksdud[흷]="gmlfq"
+gksdud[흸]="gmlft"
+gksdud[흹]="gmlfx"
+gksdud[흺]="gmlfv"
+gksdud[흻]="gmlfg"
+gksdud[흼]="gmla"
+gksdud[흽]="gmlq"
+gksdud[흾]="gmlqt"
+gksdud[흿]="gmlt"
+gksdud[힀]="gmlT"
+gksdud[힁]="gmld"
+gksdud[힂]="gmlw"
+gksdud[힃]="gmlc"
+gksdud[힄]="gmlz"
+gksdud[힅]="gmlx"
+gksdud[힆]="gmlv"
+gksdud[힇]="gmlg"
+gksdud[히]="gl"
+gksdud[힉]="glr"
+gksdud[힊]="glR"
+gksdud[힋]="glrt"
+gksdud[힌]="gls"
+gksdud[힍]="glsw"
+gksdud[힎]="glsg"
+gksdud[힏]="gle"
+gksdud[힐]="glf"
+gksdud[힑]="glfr"
+gksdud[힒]="glfa"
+gksdud[힓]="glfq"
+gksdud[힔]="glft"
+gksdud[힕]="glfx"
+gksdud[힖]="glfv"
+gksdud[힗]="glfg"
+gksdud[힘]="gla"
+gksdud[힙]="glq"
+gksdud[힚]="glqt"
+gksdud[힛]="glt"
+gksdud[힜]="glT"
+gksdud[힝]="gld"
+gksdud[힞]="glw"
+gksdud[힟]="glc"
+gksdud[힠]="glz"
+gksdud[힡]="glx"
+gksdud[힢]="glv"
+gksdud[힣]="glg"
