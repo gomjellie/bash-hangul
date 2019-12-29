@@ -1,6 +1,14 @@
 # bash-hangul
 쉘에 입력하는 한글을 영어로 바꿔줍니다. ex) !ㅎ->!g, ㅣㄴ->ls
 
+[zsh-hangul](https://github.com/gomjellie/zsh-hangul) 의 Bash버전 입니다.
+
+zsh 버전에서 동작하는 많은 기능이 아직 구현되지 않았습니다.
+
+입력하는 모든 한글이 전부 bash에서 영어로 변환되서 입력이 됩니다.
+
+한글입력이 아예 불가능합니다.
+
 # INSTALLATION
 
 ## 코드를 클론합니다.
