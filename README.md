@@ -3,6 +3,8 @@
 
 [zsh-hangul](https://github.com/gomjellie/zsh-hangul) 의 Bash버전 입니다.
 
+![bash-hangul-demo](./.github/bash_hangul_demo.gif)
+
 zsh 버전에서 동작하는 많은 기능이 아직 구현되지 않았습니다.
 
 입력하는 모든 한글이 전부 bash에서 영어로 변환되서 입력이 됩니다.
